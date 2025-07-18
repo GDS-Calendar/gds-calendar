@@ -5,15 +5,20 @@ on:
     - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:       # Allow manual trigger
 
+permissions:
+  contents: write          # <-- allow pushing back to repo
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}   # use your PAT so push is authenticated
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -27,9 +32,15 @@ jobs:
         run: python generate_calendar.py
 
       - name: Commit and push if calendar changed
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add school_events.ics
-          git commit -m "♻️ Auto-update calendar" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "♻️ Auto-update calendar"
+          git push origin HEAD:main
