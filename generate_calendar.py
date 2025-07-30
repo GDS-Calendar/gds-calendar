@@ -59,3 +59,7 @@ with open("school_events.ics", "w") as f:
     f.writelines(calendar)
 
 print("✅ Calendar exported to school_events.ics")
+
+from datetime import datetime
+print(f"🕒 Calendar generated at: {datetime.now()}")
+
