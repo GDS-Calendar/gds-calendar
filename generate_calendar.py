@@ -20,7 +20,7 @@ with sync_playwright() as p:
     page.goto(CALENDAR_URL)
 
     print("🕵️‍♂️ Waiting for #eventData element...")
-    page.wait_for_selector("input#eventData", timeout=15000, state="attached")
+    page.wait_for_selector("input#eventData", timeout=30000, state="attached")
 
     content = page.content()
     browser.close()
