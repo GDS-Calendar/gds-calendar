@@ -9,8 +9,8 @@ import time
 # 🌎 Set your timezone here (the one used in the HTML calendar, not your local machine)
 SOURCE_TIMEZONE = pytz.timezone('America/New_York')
 
-# 📍 Replace with your actual calendar page URL
-CALENDAR_URL = "https://gdsorg-5045-us-east1-01.preview.finalsitecdn.com/calendar-test"
+# 📍 Updated to production calendar URL
+CALENDAR_URL = "https://www.gds.org/community/calendar"
 
 print("🚀 Launching headless browser...")
 
