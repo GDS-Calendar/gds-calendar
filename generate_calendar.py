@@ -54,7 +54,13 @@ print(f"📊 Found event data with {len(event_data_value)} characters")
 
 event_list = json.loads(event_data_value)
 
+# Debug: Let's see what fields are in the first event
+if event_list:
+    print("🔍 First event fields:", list(event_list[0].keys()))
+    print("🔍 Sample event:", json.dumps(event_list[0], indent=2)[:500])
+
 calendar = Calendar()
+events_with_descriptions = 0
 
 for event in event_list:
     try:
@@ -67,14 +73,26 @@ for event in event_list:
         e.begin = start_time
         e.end = end_time
 
-        e.location = event.get("location", "")
+        # Try to get location - might be in different fields
+        location_parts = []
+        if event.get("location"):
+            location_parts.append(event["location"])
+        if event.get("LocationName"):
+            location_parts.append(event["LocationName"])
+        e.location = ", ".join(location_parts) if location_parts else ""
         
-        # FIXED: Using capital 'D' for Description field
-        e.description = event.get("Description", "")
+        # Get description with capital D
+        description = event.get("Description", "")
+        if description:
+            e.description = description
+            events_with_descriptions += 1
+            print(f"📝 Found description for '{event['title']}': {description[:50]}...")
 
         calendar.events.add(e)
     except Exception as err:
         print(f"⚠️ Skipping event due to error: {err}")
+
+print(f"📊 Total events: {len(event_list)}, Events with descriptions: {events_with_descriptions}")
 
 # 💾 Write to .ics file
 with open("school_events.ics", "w") as f:
