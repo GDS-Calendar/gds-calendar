@@ -68,7 +68,9 @@ for event in event_list:
         e.end = end_time
 
         e.location = event.get("location", "")
-        e.description = event.get("description", "")
+        
+        # FIXED: Using capital 'D' for Description field
+        e.description = event.get("Description", "")
 
         calendar.events.add(e)
     except Exception as err:
