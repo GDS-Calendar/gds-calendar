@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import pytz
 import json
+import time
 
 # 🌎 Set your timezone here (the one used in the HTML calendar, not your local machine)
 SOURCE_TIMEZONE = pytz.timezone('America/New_York')
@@ -16,23 +17,42 @@ print("🚀 Launching headless browser...")
 with sync_playwright() as p:
     browser = p.chromium.launch()
     page = browser.new_page()
+    
     print("🌐 Navigating to calendar page...")
-    page.goto(CALENDAR_URL)
+    page.goto(CALENDAR_URL, wait_until="networkidle")
+    
+    # Wait a bit for any JavaScript to execute
+    print("⏳ Waiting for page to fully load...")
+    time.sleep(5)
+    
+    # Try multiple methods to find the element
+    print("🕵️‍♂️ Looking for eventData element...")
+    
+    try:
+        # Method 1: Direct selector
+        element = page.query_selector("input#eventData")
+        if element:
+            print("✅ Found element with query_selector")
+            event_data_value = element.get_attribute("value")
+        else:
+            # Method 2: Wait and retry
+            print("🔄 Element not found, waiting longer...")
+            page.wait_for_selector("input[id='eventData']", timeout=30000)
+            element = page.query_selector("input#eventData")
+            event_data_value = element.get_attribute("value")
+    except Exception as e:
+        print(f"❌ Failed to find element: {e}")
+        # Let's see what's actually on the page
+        print("📄 Page content preview:")
+        print(page.content()[:1000])
+        raise
 
-    print("🕵️‍♂️ Waiting for #eventData element...")
-    page.wait_for_selector("input#eventData", timeout=30000, state="attached")
-
-    content = page.content()
     browser.close()
 
-# 🧠 Parse the event data
-soup = BeautifulSoup(content, "html.parser")
-event_data_input = soup.find("input", {"id": "eventData"})
+# Rest of your script remains the same...
+print(f"📊 Found event data with {len(event_data_value)} characters")
 
-if not event_data_input:
-    raise Exception("❌ Could not find input#eventData on page")
-
-event_list = json.loads(event_data_input["value"])
+event_list = json.loads(event_data_value)
 
 calendar = Calendar()
 
@@ -62,4 +82,3 @@ print("✅ Calendar exported to school_events.ics")
 
 from datetime import datetime
 print(f"🕒 Calendar generated at: {datetime.now()}")
-
