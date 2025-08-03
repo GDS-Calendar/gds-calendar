@@ -88,19 +88,40 @@
         }
         
         .fc-event {
-            background-color: #005030;
-            border-color: #005030;
+            background-color: transparent;
+            border: none;
             cursor: pointer;
         }
         
-        .fc-event:hover {
-            background-color: #003d24;
-            border-color: #003d24;
+        .fc-event-title {
+            color: #005030;
+            font-weight: bold;
+        }
+        
+        .fc-event:hover .fc-event-title {
+            color: #003d24;
+            text-decoration: underline;
         }
         
         .fc-daygrid-event {
             white-space: normal;
             padding: 2px 4px;
+        }
+        
+        /* Remove the default colored dot */
+        .fc-daygrid-event-dot {
+            display: none;
+        }
+        
+        /* Style for list view */
+        .fc-list-event-title {
+            color: #005030;
+            font-weight: bold;
+        }
+        
+        .fc-list-event:hover .fc-list-event-title {
+            color: #003d24;
+            text-decoration: underline;
         }
         
         /* Event popup styles */
