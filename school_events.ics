@@ -2,837 +2,837 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250916T210000Z
+DTEND:20250916T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250916T120000Z
+DTSTART:20250916T080000Z
 SUMMARY:Tentative Trip Count Date
 UID:a9b9975c-8d73-4d09-b541-e8973e16d81a@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260514T200000Z
+DTEND:20260514T160000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260514T120000Z
+DTSTART:20260514T080000Z
 SUMMARY:Magnus Health Forms for 26-27 School Year
 UID:6c841aec-f621-4a8a-8f0e-c7d8a50cec57@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T220000Z
+DTEND:20251108T170000Z
 LOCATION:HS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251108T130000Z
+DTSTART:20251108T080000Z
 SUMMARY:GDS Model UN Conference
 UID:51b206a3-2c8e-4d18-b353-ef9b283aacde@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T190000Z
+DTEND:20251028T150000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251028T120000Z
+DTSTART:20251028T080000Z
 SUMMARY:Tentative Trip Count Date Backup
 UID:36b616be-6071-4af9-8a0a-e88ab035a0d3@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260203T023000Z
+DTEND:20260202T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20260202T213000Z
+DTSTART:20260202T163000Z
 SUMMARY:GDS Board Meeting
 UID:80f78646-cf65-cbfb-9846-650dd3cbfab2@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:No classes for students on March 19 and 20.
-DTEND:20260320T200000Z
+DTEND:20260320T160000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260320T120000Z
+DTSTART:20260320T080000Z
 SUMMARY:Lower School Parent/Teacher Conferences
 UID:6e904036-8d7f-445f-aca8-7e208bec8c8b@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260131T023000Z
+DTEND:20260130T213000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260131T000000Z
+DTSTART:20260130T190000Z
 SUMMARY:Winter One Acts
 UID:853c45b2-3ec7-4fa6-ba75-264bccaaaadc@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for an in person session to learn more about the goals\, logistics\, and highlights of the upcoming 5th Grade Outdoor Education trip. We'll share key details about the schedule\, safety\, and what students can expect\, and there will be time for Q&A at the end. This is a great opportunity to get your questions answered and hear how this experience supports student growth\, teamwork\, and connection. We hope to see you there!
-DTEND:20260519T124500Z
+DTEND:20260519T084500Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260519T121500Z
+DTSTART:20260519T081500Z
 SUMMARY:5th Grade Overnight Trip Informational Session
 UID:fa359df4-b2a6-47a7-af4a-9e6ed7b84956@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251027T131500Z
+DTEND:20251027T091500Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251027T121500Z
+DTSTART:20251027T081500Z
 SUMMARY:5th Grade Parent Coffee
 UID:6b2a41b2-b220-41de-9c1b-c70aa2e7ef4a@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260130T023000Z
+DTEND:20260129T213000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260130T000000Z
+DTSTART:20260129T190000Z
 SUMMARY:Winter One Acts
 UID:af2bb3a5-53a0-4af4-92f5-eef9390cef7d@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for a Zoom session to learn more about the goals\, logistics\, and highlights of the upcoming 6th Grade Outdoor Education trip. We'll share key details about the schedule\, safety\, and what students can expect\, and there will be time for Q&A at the end. This is a great opportunity to get your questions answered and hear how this experience supports student growth\, teamwork\, and connection. We hope to see you there!
-DTEND:20251003T164500Z
+DTEND:20251003T124500Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251003T160000Z
+DTSTART:20251003T120000Z
 SUMMARY:6th Grade Overnight Trip Informational Session
 UID:4060f8a6-da0f-4f7e-a3ff-ee180136f71e@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251021T190000Z
+DTEND:20251021T150000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251021T123000Z
+DTSTART:20251021T083000Z
 SUMMARY:All-School Picture Make-Up Day
 UID:d4d0a72a-95ed-49e5-a236-d27afc08b50b@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T020000Z
+DTEND:20251212T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251213T000000Z
+DTSTART:20251212T190000Z
 SUMMARY:Fall/Winter Theater Lab
 UID:9e3b702b-f89a-4bdc-aa82-daba815aaadd@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251104T023000Z
+DTEND:20251103T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20251103T213000Z
+DTSTART:20251103T163000Z
 SUMMARY:GDS Board Meeting
 UID:0496e8f7-9b1c-3f15-0d39-3029e8ad7fb6@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T020000Z
+DTEND:20251107T210000Z
 LOCATION:HS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251107T210000Z
+DTSTART:20251107T160000Z
 SUMMARY:GDS Model UN Conference
 UID:9cd8b288-9965-5c9f-e4f6-cfb60ed966f6@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260129T143000Z
+DTEND:20260129T093000Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260129T133000Z
+DTSTART:20260129T083000Z
 SUMMARY:8th Grade Coffee
 UID:cae80b38-76ce-47a0-8a0f-d12121d35096@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251201T230000Z
+DTEND:20251201T180000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251201T200000Z
+DTSTART:20251201T150000Z
 SUMMARY:GDS 360 Season 2 Begins
 UID:b50f3fc5-2a8a-4ee1-8d96-8188dd39feeb@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251214T020000Z
+DTEND:20251213T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251214T000000Z
+DTSTART:20251213T190000Z
 SUMMARY:Fall/Winter Theater Lab
 UID:fea08931-b6d7-4d70-b78f-4f74484fc457@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T023000Z
+DTEND:20251201T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20251201T213000Z
+DTSTART:20251201T163000Z
 SUMMARY:GDS Board Meeting
 UID:7b07406f-7f2b-ecb4-70f1-973a49a8c906@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T013000Z
+DTEND:20251118T203000Z
 LOCATION:220
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251119T000000Z
+DTSTART:20251118T190000Z
 SUMMARY:Parent Connect: Raising Kids Who Can
 UID:c861d1aa-5383-4f5c-8721-a76e0f7bff63@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260201T023000Z
+DTEND:20260131T213000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260201T000000Z
+DTSTART:20260131T190000Z
 SUMMARY:Winter One Acts
 UID:a06b9999-5afa-42c1-8934-4116ef5b6e51@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251212T020000Z
+DTEND:20251211T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251212T000000Z
+DTSTART:20251211T190000Z
 SUMMARY:Fall/Winter Theater Lab
 UID:c3a1459b-f713-42bd-8b3d-caac17d68f8c@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us as we welcome back author\, parenting expert and parent of alumni Katherine Reynolds Lewis to talk more about "The Good News about Bad Behavior." Katherine spoke to parents and guardians last year and we're inviting her to continue the conversation. Come to hear more about effective parenting\, be encouraged\, and learn strategies to improve your connection with your children/teens.
-DTEND:20260122T013000Z
+DTEND:20260121T203000Z
 LOCATION:220
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260121T233000Z
+DTSTART:20260121T183000Z
 SUMMARY:Parent Connect: Guest Speaker\, Author Katherine Reynolds Lewis
 UID:773aa42b-f4df-4b0a-b918-4ec52c32b875@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260429T210000Z
+DTEND:20260429T170000Z
 LOCATION:307
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260429T193000Z
+DTSTART:20260429T153000Z
 SUMMARY:High School Art Show Kicks Off
 UID:3f84dc6c-66cc-4c61-8da5-31e53d502fdf@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T003000Z
+DTEND:20251030T203000Z
 LOCATION:L200
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251030T230000Z
+DTSTART:20251030T190000Z
 SUMMARY:Jazz Residency Concert
 UID:2a3e2f70-439d-4adc-a16c-953ba041a9b5@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us as we welcome author and psychologist\, Samantha Sweeney\, PhD to talk about strategies to reduce anxious feelings in the moment and beyond.
-DTEND:20260316T170000Z
+DTEND:20260316T130000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260316T160000Z
+DTSTART:20260316T120000Z
 SUMMARY:Parent Connect: Working with Worry (Virtual)
 UID:8cd6ce24-dfc5-4eef-8672-d76bf154174e@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This gathering will give parents/guardians the opportunity to share perspectives about ending the school year as well as preparing for a new grade/division.
-DTEND:20260420T133000Z
+DTEND:20260420T093000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260420T123000Z
+DTSTART:20260420T083000Z
 SUMMARY:Parent Connect with the Counselors
 UID:4b8b9de1-6513-4af6-a9fc-9aaa7b4346d5@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260517T180000Z
+DTEND:20260517T140000Z
 LOCATION:LMS-Driveway
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260517T170000Z
+DTSTART:20260517T130000Z
 SUMMARY:New Families Ice Cream Social: Lower & Middle School
 UID:b2bc7e4d-57fe-47ad-b2e5-c5222b9b9860@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for the LMS Book Fair\, one of GDS's most treasured events!
-DTEND:20260310T200000Z
+DTEND:20260310T160000Z
 LOCATION:B121
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260310T120000Z
+DTSTART:20260310T080000Z
 SUMMARY:[PSA] LMS Book Fair
 UID:fb24c906-897c-483e-89aa-011e610dea79@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250909T003000Z
+DTEND:20250908T203000Z
 LOCATION:220
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250908T223000Z
+DTSTART:20250908T183000Z
 SUMMARY:Athletics Coaches Meeting
 UID:c22047e9-c210-4c9e-a2b1-eea2b3f0c792@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251116T023000Z
+DTEND:20251115T213000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251116T000000Z
+DTSTART:20251115T190000Z
 SUMMARY:High School Fall Show
 UID:edd01ad7-3204-095a-f7ca-700b5ecbbf74@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lower School Hopper Fund Ambassadors invite fellow lower school families to join them for play\, bagels\, coffee and answers to all of your Hopper Fund questions.
-DTEND:20250920T153000Z
+DTEND:20250920T113000Z
 LOCATION:LMS-Driveway
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250920T133000Z
+DTSTART:20250920T093000Z
 SUMMARY:Hopper Fund: Learn and Play
 UID:e279af7c-7f7f-4898-84f4-0d37a6625690@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T230000Z
+DTEND:20251115T180000Z
 LOCATION:HS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251115T130000Z
+DTSTART:20251115T080000Z
 SUMMARY:GDS High School NAQT Tournament
 UID:9519b87b-e5d1-445e-a1c4-6543a3b1dba4@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for the LMS Book Fair\, one of GDS's most treasured events!
-DTEND:20260313T200000Z
+DTEND:20260313T160000Z
 LOCATION:B121
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260313T120000Z
+DTSTART:20260313T080000Z
 SUMMARY:[PSA] LMS Book Fair
 UID:4490fade-0ce8-40af-9014-20eab00cf107@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260515T010000Z
+DTEND:20260514T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260514T230000Z
+DTSTART:20260514T190000Z
 SUMMARY:Fata Morgana
 UID:2afe854a-7cbf-4ac6-ad8d-b3805b075617@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260502T003000Z
+DTEND:20260501T203000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260501T230000Z
+DTSTART:20260501T190000Z
 SUMMARY:High School Spring Cabaret
 UID:38903167-cf2c-4d47-be83-8bd00502d77f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260406T210000Z
+DTEND:20260406T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260406T190000Z
+DTSTART:20260406T150000Z
 SUMMARY:Buddy Program Session 3 Begins
 UID:dac744f3-d939-4aaa-b7ed-765d22bad507@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260131T220000Z
+DTEND:20260131T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260131T130000Z
+DTSTART:20260131T080000Z
 SUMMARY:Quizbowl IAC Tournament
 UID:fe25beeb-522b-42f4-aafb-445ade1f3961@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260521T013000Z
+DTEND:20260520T213000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260520T220000Z
+DTSTART:20260520T180000Z
 SUMMARY:GDS Board Year-End Dinner
 UID:2618d91c-0052-456c-8eea-1a6b84b3c86f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260407T013000Z
+DTEND:20260406T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20260406T203000Z
+DTSTART:20260406T163000Z
 SUMMARY:GDS Board Meeting
 UID:fc9cbead-8171-4e6d-16db-5b701a960c8c@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260309T133000Z
+DTEND:20260309T093000Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260309T123000Z
+DTSTART:20260309T083000Z
 SUMMARY:7th Grade Coffee
 UID:53f5a7bb-8e8f-40de-82f5-3dfad90f1163@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260502T210000Z
+DTEND:20260502T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260502T160000Z
+DTSTART:20260502T120000Z
 SUMMARY:Alumni Weekend 2026
 UID:9811e365-da91-4ec1-b6d0-2b70f6716e1f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260314T220000Z
+DTEND:20260314T180000Z
 LOCATION:HS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260314T120000Z
+DTSTART:20260314T080000Z
 SUMMARY:High School Quizbowl Competition
 UID:0edd1497-e493-4e7e-ad45-9c496afb844d@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260424T010000Z
+DTEND:20260423T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260423T230000Z
+DTSTART:20260423T190000Z
 SUMMARY:Spring Musical
 UID:0fc207f5-8c4e-44b4-9ef6-ef3851cb9f35@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260426T010000Z
+DTEND:20260425T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260425T230000Z
+DTSTART:20260425T190000Z
 SUMMARY:Spring Musical
 UID:3d498aa5-5f87-9dd5-a047-904a6efe0539@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T023000Z
+DTEND:20251113T213000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251114T000000Z
+DTSTART:20251113T190000Z
 SUMMARY:High School Fall Show
 UID:07600fb3-7ec7-5ea8-c8d8-e068dbfa5bca@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260516T010000Z
+DTEND:20260515T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260515T230000Z
+DTSTART:20260515T190000Z
 SUMMARY:Fata Morgana
 UID:36fef538-9d84-4ec1-ad85-f758e8b8ca05@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260514T223000Z
+DTEND:20260514T183000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260514T210000Z
+DTSTART:20260514T170000Z
 SUMMARY:7th & 8th Grade Visual Art Show Opening
 UID:2fd37410-4008-49a8-875e-13b02ac43bb6@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come to GDS and help pack Thanksgiving grocery bags for Bread for the City and pack up and decorate donated pies for DC Central Kitchen. This GDS tradition is fun for the whole family.
-DTEND:20251123T200000Z
+DTEND:20251123T150000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251123T180000Z
+DTSTART:20251123T130000Z
 SUMMARY:[PSA] Thanksgiving Bag Packing & Pie Collection
 UID:9c4cb094-c557-42f1-9943-a06a88a8838c@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the counselors as we welcome Dr. Ryan DeLapp\, Psychologist\, Author and Director of the REACH Program at the Ross Center. Dr. DeLapp will talk about ways to support children and teens in  building confidence with and navigating peer interactions across differences\, and healing from and guarding themselves against negative peer messages.\n\nPlease contact Meryl Heyliger with questions. mheyliger@gds.org
-DTEND:20251023T000000Z
+DTEND:20251022T200000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251022T223000Z
+DTSTART:20251022T183000Z
 SUMMARY:Parent Connect: Dr. Ryan DeLapp
 UID:d3f905fb-3ad7-4afa-9386-84e17fe270f2@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260303T023000Z
+DTEND:20260302T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20260302T213000Z
+DTSTART:20260302T163000Z
 SUMMARY:GDS Board Meeting
 UID:1b1e042b-a6c3-ba2e-8a09-fb3212f73c0a@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Everyone is encouraged to dress fancy and sparkly and the 3rd grade will set up a runway in the park outside.
-DTEND:20260529T190000Z
+DTEND:20260529T150000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260529T123000Z
+DTSTART:20260529T083000Z
 SUMMARY:Fancy Sparkly Day
 UID:d50d5e83-17c4-4728-922d-7461ef63ab7a@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T023000Z
+DTEND:20251114T213000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251115T000000Z
+DTSTART:20251114T190000Z
 SUMMARY:High School Fall Show
 UID:1d96c7a9-2ee1-365e-9b33-a0898c48a540@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260513T003000Z
+DTEND:20260512T203000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260512T230000Z
+DTSTART:20260512T190000Z
 SUMMARY:High School Jazz and Creative Music Concert
 UID:8b2ec345-d4a7-4c01-a390-d8c5ef41183e@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Building a Foundation for Kindness and Consideration Online (for 4th\, 5th\, & 6th grade parents). Learn more about the Digital Responsibility Programming in Health classes\, talk to teachers and HS students\, learn skills for navigating social device use for your child. \n\nContact Caitlin Hutcheon for more information.
-DTEND:20251107T010000Z
+DTEND:20251106T200000Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251107T000000Z
+DTSTART:20251106T190000Z
 SUMMARY:Digital Wellness Parent Education
 UID:b6ad07d2-376c-417a-beb7-99bfa895a8b1@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260529T003000Z
+DTEND:20260528T203000Z
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260528T223000Z
+DTSTART:20260528T183000Z
 SUMMARY:PSA Volunteers Thank You Party
 UID:04353cd5-b0d9-4e8b-b330-85f36b5d97b9@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260501T210000Z
+DTEND:20260501T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260501T160000Z
+DTSTART:20260501T120000Z
 SUMMARY:Alumni Weekend 2026
 UID:d0976c93-d0df-448a-9b95-84588284b5fa@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:High School students are invited to the first dance of the year. Join us for the HS homecoming dance following Sports Saturday.
-DTEND:20250921T030000Z
+DTEND:20250920T230000Z
 LOCATION:260
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250921T003000Z
+DTSTART:20250920T203000Z
 SUMMARY:High School Homecoming Dance
 UID:89a118d8-d95a-4e39-bab3-0f192c7e5812@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for a Zoom session to learn more about the goals\, logistics\, and highlights of the upcoming 8th Grade Outdoor Education trip. We'll share key details about the schedule\, safety\, and what students can expect\, and there will be time for Q&A at the end. This is a great opportunity to get your questions answered and hear how this experience supports student growth\, teamwork\, and connection. We hope to see you there!
-DTEND:20260527T164500Z
+DTEND:20260527T124500Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260527T160000Z
+DTSTART:20260527T120000Z
 SUMMARY:8th Grade Overnight Trip Informational Session
 UID:0602e395-b5c4-407e-ac8d-b5b2fd606dcd@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T200000Z
+DTEND:20251008T160000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251008T120000Z
+DTSTART:20251008T080000Z
 SUMMARY:Tentative Trip Count Date Backup
 UID:32ffeb47-bff2-4924-8cd2-b9f5ad49ad96@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Kelsey Twist Schroeder (MS Principal)\, John Barnes (MS Assistant Principal)\, and Jana Rupp (MS Instructional Coach) to learn more about the Middle School reporting system. Please RSVP Here
-DTEND:20251211T180000Z
+DTEND:20251211T130000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251211T170000Z
+DTSTART:20251211T120000Z
 SUMMARY:Middle School Report Card Explained: Parent Ed
 UID:e312d560-4325-4122-a851-96bc6f711d09@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T013000Z
+DTEND:20250915T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20250915T203000Z
+DTSTART:20250915T163000Z
 SUMMARY:GDS Board Meeting
 UID:cdbf208e-55a5-2d53-3252-d475ca00a2b0@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260210T210000Z
+DTEND:20260210T160000Z
 LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260210T130000Z
+DTSTART:20260210T080000Z
 SUMMARY:Buddy Program Session 3 Registration Opens
 UID:710e84ba-9a0b-41a2-82ae-48c33e053467@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250929T210000Z
+DTEND:20250929T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250929T190000Z
+DTSTART:20250929T150000Z
 SUMMARY:Buddy Program Session 1 Begins
 UID:73bb5ab2-77ba-4151-addc-644d790a1922@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251016T220000Z
+DTEND:20251016T180000Z
 LOCATION:Offsite #04
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20251016T120000Z
+DTSTART:20251016T080000Z
 SUMMARY:GDS Board Offsite Meeting
 UID:8cd7baa4-d0a1-4aba-ab25-72264b667425@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260425T190000Z
+DTEND:20260425T150000Z
 LOCATION:LMS-Driveway
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260425T140000Z
+DTSTART:20260425T100000Z
 SUMMARY:GDS Eco Market Day
 UID:abfa31e9-9e20-409d-90d4-4a48d7d360b1@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T003000Z
+DTEND:20251114T193000Z
 LOCATION:B201
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251114T233000Z
+DTSTART:20251114T183000Z
 SUMMARY:Middle School Fall Musical
 UID:c5d427ef-5bee-bc98-029d-dee0e82c734f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for the first of our regular opportunities to connect and engage around a variety of topics. \nAll parents and guardians from every division are invited to attend and interact with other parents/guardians\, counselors\, and learning specialists. We look forward to talking about the start of the year and your hopes for your children/teens.\n\nPlease contact Meryl Heyliger\, Counseling Department Chair\, at mheyliger@gds.org.
-DTEND:20250922T133000Z
+DTEND:20250922T093000Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250922T123000Z
+DTSTART:20250922T083000Z
 SUMMARY:Parent Connect with Student Support Services
 UID:f0e801ae-3b15-4af6-b5e3-8f58966f1ac5@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for an event for parents and guardians to learn more about the 4th grade puberty curriculum from the Health & Wellness team.\n\nQuestions? Email Catilin Hutcheon chutcheon@gds.org
-DTEND:20251031T171500Z
+DTEND:20251031T131500Z
 LOCATION:101
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251031T161500Z
+DTSTART:20251031T121500Z
 SUMMARY:Parent Connect: Puberty Isn't Spooky (4th grade Puberty Curriculum)
 UID:fc4d24d9-8c23-4bc4-8989-2deb8df2eeca@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The GDS HS slam poetry club invites you to a poetry night & open mic featuring guest poets\, live music\, and student performances.
-DTEND:20260411T003000Z
+DTEND:20260410T203000Z
 LOCATION:220
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260410T223000Z
+DTSTART:20260410T183000Z
 SUMMARY:High School Slam Poetry Night
 UID:7497affd-bab5-439c-888c-18400b5d8e83@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251116T203000Z
+DTEND:20251116T153000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251116T180000Z
+DTSTART:20251116T130000Z
 SUMMARY:High School Fall Show
 UID:28126e21-9714-477a-c858-328972f35aea@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T143000Z
+DTEND:20251110T093000Z
 LOCATION:130
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251110T133000Z
+DTSTART:20251110T083000Z
 SUMMARY:6th Grade Parent Coffee
 UID:774f3164-7f5d-4e10-b783-3d28d4563e5e@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the DEI Office as we celebrate seniors who are part of our affinity groups at the High School. All seniors who identify within our affinity groups and their families are invited.
-DTEND:20260526T171500Z
+DTEND:20260526T131500Z
 LOCATION:220
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260526T151500Z
+DTSTART:20260526T111500Z
 SUMMARY:Seniors of Color Brunch
 UID:fbb55345-4c30-43d7-9028-3051696a13a0@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Internationally\, students participate in this week designed to highlight the importance of kindness. While being kind to ourselves and others matters all of the time\, this is a week to do things that make a difference through expressing gratitude\, helping others\, taking care of the environment\, and more.
-DTEND:20260126T210000Z
+DTEND:20260126T160000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260126T133000Z
+DTSTART:20260126T083000Z
 SUMMARY:The Great Kindness Challenge Week Begins
 UID:2ccaef93-b830-48db-a7e5-0652b998c130@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Parents will be setting up on Sunday in LMS
-DTEND:20260308T200000Z
+DTEND:20260308T160000Z
 LOCATION:B121
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260308T140000Z
+DTSTART:20260308T100000Z
 SUMMARY:[PSA] Book Fair Set Up
 UID:f3b9891d-118a-4fcb-8865-ddb2142ec1b5@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for the LMS Book Fair\, one of GDS's most treasured events!
-DTEND:20260311T200000Z
+DTEND:20260311T160000Z
 LOCATION:B121
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260311T120000Z
+DTSTART:20260311T080000Z
 SUMMARY:[PSA] LMS Book Fair
 UID:1cf72740-d11f-4706-8cc2-fd06331ee510@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for the LMS Book Fair\, one of GDS's most treasured events!
-DTEND:20260309T200000Z
+DTEND:20260309T160000Z
 LOCATION:B121
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260309T120000Z
+DTSTART:20260309T080000Z
 SUMMARY:[PSA] LMS Book Fair
 UID:74d7bbaa-9c73-4792-bc39-9e4fc2477481@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for the LMS Book Fair\, one of GDS's most treasured events!
-DTEND:20260312T200000Z
+DTEND:20260312T160000Z
 LOCATION:B121
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260312T120000Z
+DTSTART:20260312T080000Z
 SUMMARY:[PSA] LMS Book Fair
 UID:7233e942-93c8-4fa6-b17b-f597d0a60138@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Please join us for a Zoom session to learn more about the goals\, logistics\, and highlights of the upcoming 7th Grade Outdoor Education trip. We'll share key details about the schedule\, safety\, and what students can expect\, and there will be time for Q&A at the end. This is a great opportunity to get your questions answered and hear how this experience supports student growth\, teamwork\, and connection. We hope to see you there!
-DTEND:20251010T164500Z
+DTEND:20251010T124500Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251010T160000Z
+DTSTART:20251010T120000Z
 SUMMARY:7th Grade Overnight Trip Informational Session
 UID:c3ddbf32-a936-4ffe-bfce-4b38c3c7d9ec@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Annual World AIDS Day Cabaret will be presented by the GDS Cabaret Club on Friday night. Approximately 35 students will participate and there will be 15-20 musical acts over the course of 90 minutes. The Internet Cafe area will be set up with tables of food and treats\, and people are encouraged to arrive by 6:30 so that they can get food and sit back to enjoy the show. Admission is $5 for students and $10 for adults. GDS staff receive one complimentary ticket.
-DTEND:20251018T010000Z
+DTEND:20251017T210000Z
 LOCATION:139
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251017T230000Z
+DTSTART:20251017T190000Z
 SUMMARY:Fall Cabaret
 UID:ff0cccab-9d5c-46fc-9f17-c0decba6d50a@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:All middle school parents are invited to meet their child's teachers and learn more about our academic programming. At this back-to-school night\, parents can get a snapshot of their child's school day experience. Light refreshments will be served starting at 6:00 with formal programming beginning at 6:30 pm.
-DTEND:20250912T010000Z
+DTEND:20250911T210000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250911T223000Z
+DTSTART:20250911T183000Z
 SUMMARY:Middle School Curriculum Night
 UID:5c903ea5-e5ae-459b-8b4c-2c884d60d521@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260425T010000Z
+DTEND:20260424T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260424T230000Z
+DTSTART:20260424T190000Z
 SUMMARY:Spring Musical
 UID:ea566947-c7b3-647d-8a27-b7aa9751d0d1@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Each year\, GDS brings a guest artist to lead dance classes for high school dancers and adults.
-DTEND:20251025T200000Z
+DTEND:20251025T160000Z
 LOCATION:L200
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251025T130000Z
+DTSTART:20251025T090000Z
 SUMMARY:Rosenfeld Dance Workshops
 UID:61b3f89d-050f-46b1-b6ff-29f6f056279f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Students will complete online MAP Testing in Math and Reading during some periods of the day. Students need to be sure to get a good night’s sleep\, eat breakfast\, and bring a charged chromebook to school.
-DTEND:20250930T191500Z
+DTEND:20250930T151500Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250930T121500Z
+DTSTART:20250930T081500Z
 SUMMARY:LMS MAP Testing
 UID:b353013e-f969-428a-acbd-f2f89f79ae8f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T210000Z
+DTEND:20251101T170000Z
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251101T120000Z
+DTSTART:20251101T080000Z
 SUMMARY:Middle School NAQT Tournament
 UID:90cb3a12-bd0e-47b8-b271-1f21772b2db8@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260425T190000Z
+DTEND:20260425T150000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260425T170000Z
+DTSTART:20260425T130000Z
 SUMMARY:Spring Musical Matinee
 UID:e4987e35-2bad-41ce-a9be-bb74bdb9160a@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T020000Z
+DTEND:20251216T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251217T000000Z
+DTSTART:20251216T190000Z
 SUMMARY:High School Jazz and Creative Music Concert
 UID:26506158-1721-467c-8265-a3e00c488af7@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260517T010000Z
+DTEND:20260516T210000Z
 LOCATION:360
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260516T230000Z
+DTSTART:20260516T190000Z
 SUMMARY:Fata Morgana
 UID:4e3e3e49-ce82-4de4-98ae-f3f9c25de5b5@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the counselors and Debbie Riley\, LCMFT\, and CEO at the Center for Adoption Support and Education during National Adoption Awareness Month. Debbie and a panel of adult adoptees will share experiences and offer support for adoptive parents. Families and student support team members from other nearby independent schools are also invited.\n\nPlease contact Meryl Heyliger with questions: mheyliger@gds.org
-DTEND:20251112T010000Z
+DTEND:20251111T200000Z
 LOCATION:220
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251111T230000Z
+DTSTART:20251111T180000Z
 SUMMARY:Parent Connect: for Adoptive Parents
 UID:c4b5d53b-d975-42a8-9eea-5da70e858c6d@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260517T193000Z
+DTEND:20260517T153000Z
 LOCATION:LMS-Driveway
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260517T183000Z
+DTSTART:20260517T143000Z
 SUMMARY:New Families Ice Cream Social: High School
 UID:472eaf1e-10f1-497d-921c-a8e9cac3aaec@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260503T030000Z
+DTEND:20260502T230000Z
 LOCATION:B200 - Gym
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260502T230000Z
+DTSTART:20260502T190000Z
 SUMMARY:80th Anniversary Celebration Event
 UID:210ab2f2-2071-482a-a42f-4b4549f4e788@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T210000Z
+DTEND:20251028T170000Z
 LOCATION:101
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251028T193000Z
+DTSTART:20251028T153000Z
 SUMMARY:Admissions/FA Meeting for Faculty & Staff
 UID:2a6c9864-b3f9-4608-806b-8c0776adc018@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Families will select a conference between 3/19/2026 and 3/20/2026 for their child's Student Led Conference. Both students and caregivers should plan to be present in-person/on campus. No classes for students on March 19 and 20.
-DTEND:20260320T200000Z
+DTEND:20260320T160000Z
 LOCATION:104
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260320T120000Z
+DTSTART:20260320T080000Z
 SUMMARY:Middle School Student-Led Conferences
 UID:57267d40-ae32-496b-b9c0-d4381626c5af@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260505T013000Z
+DTEND:20260504T213000Z
 LOCATION:220
 ORGANIZER;CN=Lauren Dickert <ldickert@gds.org>:mailto:Lauren Dickert <ldickert@gds.org>
-DTSTART:20260504T203000Z
+DTSTART:20260504T163000Z
 SUMMARY:GDS Board Meeting
 UID:b34fd1f2-70be-d32f-c35b-865d015cf178@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Parents/Guardians of students new to GDS are invited to join us for this reception. Meet fellow parents/guardians\, PSA Co-Chairs\, Board Members\, and members of the school leadership.
-DTEND:20250827T003000Z
+DTEND:20250826T203000Z
 LOCATION:LMS-Driveway
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20250826T223000Z
+DTSTART:20250826T183000Z
 SUMMARY:Welcome to GDS Party for Parents/Guardians of Students New to GDS
 UID:74f3ec91-50e6-4b05-8c36-cfaa3c1cfd9c@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Each year\, GDS brings a guest artist to lead dance classes for high school dancers and adults.
-DTEND:20260307T210000Z
+DTEND:20260307T160000Z
 LOCATION:L200
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260307T140000Z
+DTSTART:20260307T090000Z
 SUMMARY:Rosenfeld Dance Workshops
 UID:b1605a15-b4fe-4c33-96c0-561f56cadae3@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260113T180000Z
+DTEND:20260113T130000Z
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260113T170000Z
+DTSTART:20260113T120000Z
 SUMMARY:Growing Together: Learning Based Approach to Behavior
 UID:6981c4f0-611d-47c2-b76f-633269045f3f@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:GDS 360 Registration for Season 3 Opens at 10AM.\nTo view class offerings visit https://www.gds.org/academics/extended-day/gds-360-afternoon-programming\nRegistration Link: gds360.campbrainregistration.com
-DTEND:20260202T220000Z
+DTEND:20260202T170000Z
 LOCATION:Virtual #03
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20260202T150000Z
+DTSTART:20260202T100000Z
 SUMMARY:GDS 360 Season 3 Registration Opens
 UID:8539d067-85e9-450f-946c-5b6f5c5f03ac@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251204T010000Z
+DTEND:20251203T200000Z
 LOCATION:L200
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251204T000000Z
+DTSTART:20251203T190000Z
 SUMMARY:Jazz Visiting Artist Concert
 UID:d0a7a501-e86f-4310-97c0-3b5e7abbdfaf@gds.incidentiq.com
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T010000Z
+DTEND:20251218T200000Z
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley <nmarkley@gds.org>:mailto:Natalie Markley <nmarkley@gds.org>
-DTSTART:20251218T213000Z
+DTSTART:20251218T163000Z
 SUMMARY:GDS Faculty & Staff Holiday Party
 UID:c030f079-2bd6-4fe2-8fe7-e511e0b0e342@gds.incidentiq.com
 END:VEVENT
