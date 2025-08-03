@@ -91,11 +91,27 @@
             background-color: transparent;
             border: none;
             cursor: pointer;
+            display: block;
+            text-align: left;
+            padding: 2px 4px;
+        }
+        
+        .fc-event-title-container {
+            display: block;
         }
         
         .fc-event-title {
             color: #005030;
             font-weight: bold;
+            display: block;
+            margin-bottom: 2px;
+        }
+        
+        .fc-event-time {
+            color: #666;
+            font-weight: normal;
+            font-size: 0.85em;
+            display: block;
         }
         
         .fc-event:hover .fc-event-title {
@@ -105,11 +121,16 @@
         
         .fc-daygrid-event {
             white-space: normal;
-            padding: 2px 4px;
+            align-items: flex-start;
         }
         
         /* Remove the default colored dot */
         .fc-daygrid-event-dot {
+            display: none;
+        }
+        
+        /* Remove default time display */
+        .fc-daygrid-event-time {
             display: none;
         }
         
@@ -254,6 +275,33 @@
                     left: 'prev,next today',
                     center: 'title',
                     right: 'dayGridMonth,timeGridWeek,listMonth'
+                },
+                eventDisplay: 'block',
+                eventTimeFormat: {
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    meridiem: 'short'
+                },
+                eventContent: function(arg) {
+                    let timeText = '';
+                    if (!arg.event.allDay && arg.event.start) {
+                        const timeOptions = { hour: 'numeric', minute: '2-digit', meridiem: 'short' };
+                        const startTime = arg.event.start.toLocaleTimeString('en-US', timeOptions);
+                        const endTime = arg.event.end ? arg.event.end.toLocaleTimeString('en-US', timeOptions) : '';
+                        
+                        if (endTime && startTime !== endTime) {
+                            timeText = `${startTime} - ${endTime}`;
+                        } else {
+                            timeText = startTime;
+                        }
+                    }
+                    
+                    return {
+                        html: `
+                            <div class="fc-event-title">${arg.event.title}</div>
+                            ${timeText ? `<div class="fc-event-time">${timeText}</div>` : ''}
+                        `
+                    };
                 },
                 events: function(fetchInfo, successCallback, failureCallback) {
                     // Fetch events from the JSON file
