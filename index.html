@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDS School Calendar</title>
+    
+    <!-- FullCalendar CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet">
+    
+    <!-- Custom styles matching GDS/Finalsite design -->
+    <style>
+        body {
+            font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        
+        #calendar-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #005030;
+            margin-bottom: 20px;
+            font-weight: 300;
+        }
+        
+        .calendar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .subscribe-button {
+            background-color: #005030;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+        
+        .subscribe-button:hover {
+            background-color: #003d24;
+        }
+        
+        /* FullCalendar customization */
+        .fc {
+            font-family: inherit;
+        }
+        
+        .fc-toolbar-title {
+            color: #005030;
+            font-weight: 400;
+        }
+        
+        .fc-button-primary {
+            background-color: #005030;
+            border-color: #005030;
+        }
+        
+        .fc-button-primary:hover {
+            background-color: #003d24;
+            border-color: #003d24;
+        }
+        
+        .fc-button-primary:disabled {
+            background-color: #005030;
+            border-color: #005030;
+            opacity: 0.5;
+        }
+        
+        .fc-button-primary:not(:disabled):active,
+        .fc-button-primary:not(:disabled).fc-button-active {
+            background-color: #003d24;
+            border-color: #003d24;
+        }
+        
+        .fc-event {
+            background-color: #005030;
+            border-color: #005030;
+            cursor: pointer;
+        }
+        
+        .fc-event:hover {
+            background-color: #003d24;
+            border-color: #003d24;
+        }
+        
+        .fc-daygrid-event {
+            white-space: normal;
+            padding: 2px 4px;
+        }
+        
+        /* Event popup styles */
+        .event-popup {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            max-width: 500px;
+            width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+            z-index: 1000;
+        }
+        
+        .event-popup h2 {
+            color: #005030;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+        
+        .event-popup .close {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 28px;
+            color: #666;
+            cursor: pointer;
+        }
+        
+        .event-popup .close:hover {
+            color: #000;
+        }
+        
+        .event-detail {
+            margin-bottom: 15px;
+        }
+        
+        .event-detail strong {
+            color: #005030;
+            display: inline-block;
+            min-width: 100px;
+        }
+        
+        .event-description {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+            line-height: 1.6;
+        }
+        
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 999;
+        }
+        
+        @media (max-width: 768px) {
+            #calendar-container {
+                padding: 10px;
+            }
+            
+            .calendar-header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .subscribe-button {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="calendar-container">
+        <div class="calendar-header">
+            <h1>GDS School Calendar</h1>
+            <a href="school_events.ics" class="subscribe-button" download>
+                Subscribe to Calendar
+            </a>
+        </div>
+        <div id="calendar"></div>
+    </div>
+    
+    <!-- Event popup -->
+    <div class="overlay" id="overlay"></div>
+    <div class="event-popup" id="eventPopup">
+        <span class="close" id="closePopup">&times;</span>
+        <h2 id="popupTitle"></h2>
+        <div id="popupContent"></div>
+    </div>
+    
+    <!-- FullCalendar JS -->
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const calendarEl = document.getElementById('calendar');
+            const eventPopup = document.getElementById('eventPopup');
+            const overlay = document.getElementById('overlay');
+            const closePopup = document.getElementById('closePopup');
+            const popupTitle = document.getElementById('popupTitle');
+            const popupContent = document.getElementById('popupContent');
+            
+            // Close popup handlers
+            closePopup.onclick = function() {
+                eventPopup.style.display = 'none';
+                overlay.style.display = 'none';
+            }
+            
+            overlay.onclick = function() {
+                eventPopup.style.display = 'none';
+                overlay.style.display = 'none';
+            }
+            
+            // Initialize calendar
+            const calendar = new FullCalendar.Calendar(calendarEl, {
+                initialView: 'dayGridMonth',
+                headerToolbar: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'dayGridMonth,timeGridWeek,listMonth'
+                },
+                events: function(fetchInfo, successCallback, failureCallback) {
+                    // Fetch events from the JSON file
+                    fetch('events.json')
+                        .then(response => response.json())
+                        .then(events => {
+                            // Convert iiQ events to FullCalendar format
+                            const calendarEvents = events.map(event => {
+                                const start = new Date(event.StartDateTime);
+                                const end = new Date(event.EndDateTime);
+                                
+                                // Build location string
+                                let location = '';
+                                if (event.Location && event.Location.Name) {
+                                    location = event.Location.Name;
+                                }
+                                if (event.LocationRooms && event.LocationRooms.length > 0) {
+                                    const rooms = event.LocationRooms.map(r => r.Name).filter(n => n).join(', ');
+                                    if (rooms) {
+                                        location += location ? ' - ' + rooms : rooms;
+                                    }
+                                }
+                                
+                                return {
+                                    id: event.EventId,
+                                    title: event.Title || 'Untitled Event',
+                                    start: start,
+                                    end: end,
+                                    extendedProps: {
+                                        description: event.Description || '',
+                                        location: location,
+                                        organizer: event.Owner ? `${event.Owner.FirstName} ${event.Owner.LastName}` : '',
+                                        organizerEmail: event.Owner ? event.Owner.Email : ''
+                                    }
+                                };
+                            });
+                            
+                            successCallback(calendarEvents);
+                        })
+                        .catch(error => {
+                            console.error('Error loading events:', error);
+                            failureCallback(error);
+                        });
+                },
+                eventClick: function(info) {
+                    // Populate popup with event details
+                    popupTitle.textContent = info.event.title;
+                    
+                    const props = info.event.extendedProps;
+                    const start = info.event.start;
+                    const end = info.event.end;
+                    
+                    let content = '';
+                    
+                    // Date and time
+                    if (start && end) {
+                        const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                        const timeOptions = { hour: 'numeric', minute: '2-digit' };
+                        
+                        const startDate = start.toLocaleDateString('en-US', dateOptions);
+                        const startTime = start.toLocaleTimeString('en-US', timeOptions);
+                        const endTime = end.toLocaleTimeString('en-US', timeOptions);
+                        
+                        content += `<div class="event-detail">
+                            <strong>Date:</strong> ${startDate}
+                        </div>`;
+                        content += `<div class="event-detail">
+                            <strong>Time:</strong> ${startTime} - ${endTime}
+                        </div>`;
+                    }
+                    
+                    // Location
+                    if (props.location) {
+                        content += `<div class="event-detail">
+                            <strong>Location:</strong> ${props.location}
+                        </div>`;
+                    }
+                    
+                    // Organizer
+                    if (props.organizer) {
+                        content += `<div class="event-detail">
+                            <strong>Organizer:</strong> ${props.organizer}
+                            ${props.organizerEmail ? `(<a href="mailto:${props.organizerEmail}">${props.organizerEmail}</a>)` : ''}
+                        </div>`;
+                    }
+                    
+                    // Description
+                    if (props.description) {
+                        content += `<div class="event-description">
+                            <strong>Description:</strong><br>
+                            ${props.description.replace(/\n/g, '<br>')}
+                        </div>`;
+                    }
+                    
+                    popupContent.innerHTML = content;
+                    
+                    // Show popup
+                    eventPopup.style.display = 'block';
+                    overlay.style.display = 'block';
+                },
+                eventTimeFormat: {
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    meridiem: 'short'
+                }
+            });
+            
+            calendar.render();
+        });
+    </script>
+</body>
+</html>
