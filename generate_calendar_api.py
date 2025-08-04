@@ -28,69 +28,106 @@ def fetch_all_events():
     }
     
     all_events = []
-    page_size = 100
-    page_number = 0
+    seen_events = set()  # Track unique events by title+date
+    page_size = 2000  # Increased to get more events in one request
+    approved_count = 0
+    published_count = 0
+    duplicate_count = 0
     
-    while True:
-        print(f"Fetching page {page_number}...")
-        # Prepare request body with pagination
-        data = {
-            "FilterByProduct": True,
-            "RequestOptions": {
-                "Paging": {
-                    "PageSize": page_size,
-                    "PageNumber": page_number
-                }
+    print(f"Fetching events with page size {page_size}...")
+    
+    # Since pagination is broken, just get one large page
+    data = {
+        "FilterByProduct": True,
+        "RequestOptions": {
+            "Paging": {
+                "PageSize": page_size,
+                "PageNumber": 0
             }
         }
-        
-        try:
-            response = requests.post(
-                f"{API_BASE_URL}/events/query",
-                headers=headers,
-                json=data
-            )
-            response.raise_for_status()
-            
-            result = response.json()
-            
-            # Check if we have items
-            if 'Items' not in result or not result['Items']:
-                break
-                
-            # Filter for approved events
-            for event in result['Items']:
-                event_status = event.get('EventStatus', {})
-                status_name = event_status.get('Name', 'No Status')
-                
-                # Just check if event is approved
-                if status_name == 'Approved':
-                    all_events.append(event)
-                    
-                    # Debug: print first few events to see CustomFieldValues
-                    if len(all_events) <= 3:
-                        print(f"\nEvent: {event.get('Title', 'Untitled')}")
-                        print(f"Status: {status_name}")
-                        custom_fields = event.get('CustomFieldValues', [])
-                        for cf in custom_fields:
-                            print(f"  CustomField {cf.get('CustomFieldTypeId', 'Unknown')}: {cf.get('Value', 'No value')}")
-                        print("---")
-            
-            # Check if we have more pages
-            if len(result['Items']) < page_size:
-                break
-                
-            page_number += 1
-            
-            # Stop after first page for now to debug
-            if page_number >= 1:
-                print(f"\nStopping after first page. Found {len(all_events)} approved events")
-                break
-            
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching events: {e}")
-            break
+    }
     
+    try:
+        response = requests.post(
+            f"{API_BASE_URL}/events/query",
+            headers=headers,
+            json=data
+        )
+        response.raise_for_status()
+        
+        result = response.json()
+        
+        # Check if we have items
+        if 'Items' not in result or not result['Items']:
+            print(f"No items found.")
+            return []
+            
+        print(f"Received {len(result['Items'])} events from API")
+        
+        # Filter for approved events with "Publish to Calendar" = yes
+        for event in result['Items']:
+            event_status = event.get('EventStatus', {})
+            status_name = event_status.get('Name', 'No Status')
+            event_id = str(event.get('EventId', ''))
+            event_title = event.get('Title', '')
+            
+            # Debug: Check if we see event 10091 at all
+            if event_id == '10091':
+                print(f"\n🔍 Found Event 10091: {event_title}")
+                print(f"   Status: {status_name}")
+                print(f"   StartDateTime: {event.get('StartDateTime', '')}")
+                custom_fields = event.get('CustomFieldValues', [])
+                for cf in custom_fields:
+                    if cf.get('CustomFieldTypeId') == 'e3d6a181-2165-44e1-9a56-5fabcf87fea4':
+                        print(f"   Publish to Calendar: {cf.get('Value', 'not set')}")
+            
+            # Check if event is approved
+            if status_name == 'Approved':
+                approved_count += 1
+                
+                # Check if "Publish to Calendar" is "yes"
+                publish_to_calendar = False
+                custom_fields = event.get('CustomFieldValues', [])
+                
+                for cf in custom_fields:
+                    if cf.get('CustomFieldTypeId') == 'e3d6a181-2165-44e1-9a56-5fabcf87fea4':
+                        if cf.get('Value', '').lower() == 'yes':
+                            publish_to_calendar = True
+                            break
+                
+                # Only add events that should be published to calendar
+                if publish_to_calendar:
+                    published_count += 1
+                    
+                    # Create unique key based on title and start time
+                    event_key = f"{event.get('Title', '')}|{event.get('StartDateTime', '')}"
+                    
+                    # Debug for event 10091
+                    if event_id == '10091':
+                        print(f"Processing High School Year Begins - EventKey: {event_key}")
+                    
+                    # Only add if we haven't seen this exact event before
+                    if event_key not in seen_events:
+                        seen_events.add(event_key)
+                        all_events.append(event)
+                        if event_id == '10091':
+                            print(f"  ✓ Added to calendar!")
+                    else:
+                        duplicate_count += 1
+                        if event_id == '10091':
+                            print(f"  ✗ Skipped as duplicate")
+                            print(f"     Existing key: {event_key}")
+                        # Log first few duplicates to understand pattern
+                        if duplicate_count <= 5:
+                            print(f"  Duplicate found: {event.get('Title', '')} on {event.get('StartDateTime', '')}")
+        
+        # Process only one page since pagination is broken
+        print(f"Processed {len(result.get('Items', []))} items, {len(all_events)} unique public events found")
+        
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching events: {e}")
+    
+    print(f"\nSummary: {approved_count} approved events found, {published_count} marked for calendar, {duplicate_count} duplicates removed")
     return all_events
 
 def create_ics_from_events(events):
