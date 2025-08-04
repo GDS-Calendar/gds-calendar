@@ -3,406 +3,601 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GDS School Calendar</title>
+    <title>GDS Calendar - Finalsite Style</title>
     
-    <!-- FullCalendar CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet">
+    <!-- FullCalendar v6 -->
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/ical.js@1.5.0/build/ical.min.js'></script>
     
-    <!-- Custom styles matching GDS/Finalsite design -->
     <style>
+        /* Base styles from Finalsite */
+        * {
+            box-sizing: border-box;
+        }
+        
         body {
-            font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f8f9fa;
+            background-color: #f5f5f5;
         }
         
         #calendar-container {
             max-width: 1200px;
             margin: 0 auto;
             background: white;
-            padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
         }
         
-        h1 {
-            color: #005030;
-            margin-bottom: 20px;
-            font-weight: 300;
-        }
-        
-        .calendar-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        
-        .subscribe-button {
-            background-color: #005030;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 4px;
-            font-size: 14px;
-            transition: background-color 0.3s;
-        }
-        
-        .subscribe-button:hover {
-            background-color: #003d24;
-        }
-        
-        /* FullCalendar customization */
+        /* Override FullCalendar styles to match Finalsite */
         .fc {
             font-family: inherit;
         }
         
-        .fc-toolbar-title {
-            color: #005030;
-            font-weight: 400;
+        /* Toolbar styling */
+        .fc .fc-toolbar {
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
         }
         
-        .fc-button-primary {
-            background-color: #005030;
-            border-color: #005030;
+        .fc .fc-toolbar-title {
+            font-size: 28px;
+            font-weight: 300;
+            color: #333;
+            margin: 0 20px;
         }
         
-        .fc-button-primary:hover {
-            background-color: #003d24;
-            border-color: #003d24;
-        }
-        
-        .fc-button-primary:disabled {
-            background-color: #005030;
-            border-color: #005030;
-            opacity: 0.5;
-        }
-        
-        .fc-button-primary:not(:disabled):active,
-        .fc-button-primary:not(:disabled).fc-button-active {
-            background-color: #003d24;
-            border-color: #003d24;
-        }
-        
-        .fc-event {
+        /* Navigation button styling */
+        .fc .fc-button-primary {
             background-color: transparent;
             border: none;
-            cursor: pointer;
-            display: block;
-            text-align: left;
-            padding: 2px 4px;
+            color: #333;
+            padding: 8px 12px;
+            font-size: 24px;
+            font-weight: 300;
+            box-shadow: none;
+            transition: all 0.2s;
         }
         
-        .fc-event-title-container {
-            display: block;
+        .fc .fc-prev-button,
+        .fc .fc-next-button {
+            background: transparent;
+            color: #666;
+            padding: 4px 8px;
+        }
+        
+        .fc .fc-prev-button:hover,
+        .fc .fc-next-button:hover {
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        
+        .fc .fc-today-button {
+            background-color: transparent;
+            color: #00968f;
+            font-size: 14px;
+            font-weight: 500;
+            padding: 4px 12px;
+            border: 1px solid transparent;
+        }
+        
+        .fc .fc-today-button:hover {
+            background-color: #f0f0f0;
+        }
+        
+        .fc .fc-today-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        /* View buttons styling */
+        .fc .fc-button-group {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        
+        .fc .fc-button-group .fc-button {
+            background-color: white;
+            border: none;
+            border-radius: 0;
+            color: #666;
+            padding: 6px 16px;
+            font-size: 13px;
+            font-weight: 500;
+            text-transform: uppercase;
+            margin: 0;
+            position: relative;
+        }
+        
+        .fc .fc-button-group .fc-button:not(:last-child) {
+            border-right: 1px solid #ddd;
+        }
+        
+        .fc .fc-button-group .fc-button:hover {
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        
+        .fc .fc-button-group .fc-button.fc-button-active {
+            background-color: #f0f0f0;
+            color: #333;
+            font-weight: 600;
+        }
+        
+        /* Subscribe button */
+        .subscribe-button {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background-color: #00968f;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 500;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .subscribe-button:hover {
+            background-color: #007a74;
+        }
+        
+        /* Calendar grid styling */
+        .fc .fc-theme-standard th,
+        .fc .fc-theme-standard td {
+            border-color: #e0e0e0;
+        }
+        
+        .fc .fc-col-header-cell {
+            background-color: #f8f8f8;
+            padding: 10px 0;
+            font-weight: 600;
+            font-size: 14px;
+            color: #666;
+            text-transform: uppercase;
+        }
+        
+        /* Day cell styling */
+        .fc .fc-daygrid-day {
+            transition: background-color 0.2s;
+        }
+        
+        .fc .fc-daygrid-day:hover {
+            background-color: #f8f8f8;
+        }
+        
+        .fc .fc-daygrid-day-frame {
+            min-height: 100px;
+            padding: 4px;
+        }
+        
+        .fc .fc-daygrid-day-top {
+            flex-direction: row;
+            justify-content: flex-start;
+            padding: 4px 8px;
+        }
+        
+        .fc .fc-daygrid-day-number {
+            font-size: 16px;
+            font-weight: 400;
+            color: #333;
+            text-decoration: none;
+            padding: 0;
+        }
+        
+        .fc .fc-daygrid-day.fc-day-today {
+            background-color: #fff9e6;
+        }
+        
+        .fc .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
+            background-color: #00968f;
+            color: white;
+            border-radius: 50%;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 500;
+        }
+        
+        /* Day grid event container */
+        .fc .fc-daygrid-day-events {
+            margin-top: 4px;
+        }
+        
+        .fc .fc-daygrid-event-harness {
+            margin: 0 2px;
+        }
+        
+        /* Event styling */
+        .fc-event {
+            background-color: #00968f;
+            border: none;
+            border-radius: 4px;
+            padding: 6px 8px;
+            margin: 2px 0;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: white;
+            line-height: 1.3;
+        }
+        
+        .fc-event:hover {
+            background-color: #007a74;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         
         .fc-event-title {
-            color: #005030;
-            font-weight: bold;
-            display: block;
-            margin-bottom: 2px;
+            font-weight: 500;
+            white-space: normal;
         }
         
         .fc-event-time {
-            color: #666;
-            font-weight: normal;
-            font-size: 0.85em;
-            display: block;
+            display: none;
         }
         
-        .fc-event:hover .fc-event-title {
-            color: #003d24;
-            text-decoration: underline;
-        }
-        
+        /* Day grid event specific styling */
         .fc-daygrid-event {
             white-space: normal;
             align-items: flex-start;
         }
         
-        /* Remove the default colored dot */
         .fc-daygrid-event-dot {
             display: none;
         }
         
-        /* Remove default time display */
-        .fc-daygrid-event-time {
+        .fc-daygrid-block-event .fc-event-time {
             display: none;
         }
         
-        /* Style for list view */
-        .fc-list-event-title {
-            color: #005030;
-            font-weight: bold;
+        /* Time grid styling */
+        .fc .fc-timegrid-slot {
+            height: 40px;
         }
         
-        .fc-list-event:hover .fc-list-event-title {
-            color: #003d24;
-            text-decoration: underline;
+        .fc .fc-timegrid-slot-label {
+            font-size: 12px;
+            color: #666;
         }
         
-        /* Event popup styles */
-        .event-popup {
+        /* List view styling */
+        .fc .fc-list {
+            border: none;
+        }
+        
+        .fc .fc-list-day-cushion {
+            background-color: #f8f8f8;
+            padding: 10px 15px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .fc .fc-list-event {
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        
+        .fc .fc-list-event:hover {
+            background-color: #f0f0f0;
+        }
+        
+        .fc .fc-list-event-dot {
+            border-color: #00968f;
+            background-color: #00968f;
+        }
+        
+        /* Custom modal styling */
+        .event-modal {
             display: none;
             position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-            max-width: 500px;
-            width: 90%;
-            max-height: 80vh;
-            overflow-y: auto;
             z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            animation: fadeIn 0.2s;
         }
         
-        .event-popup h2 {
-            color: #005030;
-            margin-top: 0;
-            margin-bottom: 20px;
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
         
-        .event-popup .close {
+        .modal-content {
+            position: relative;
+            background-color: white;
+            margin: 10% auto;
+            padding: 0;
+            width: 90%;
+            max-width: 500px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            animation: slideIn 0.3s;
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateY(-30px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        
+        .modal-header {
+            background-color: #00968f;
+            color: white;
+            padding: 20px;
+            border-radius: 8px 8px 0 0;
+            position: relative;
+        }
+        
+        .modal-title {
+            margin: 0;
+            font-size: 20px;
+            font-weight: 500;
+            padding-right: 30px;
+        }
+        
+        .modal-close {
             position: absolute;
-            top: 10px;
-            right: 15px;
+            right: 20px;
+            top: 20px;
+            color: white;
             font-size: 28px;
-            color: #666;
+            font-weight: 300;
             cursor: pointer;
+            line-height: 1;
+            opacity: 0.8;
+            transition: opacity 0.2s;
         }
         
-        .event-popup .close:hover {
-            color: #000;
+        .modal-close:hover {
+            opacity: 1;
+        }
+        
+        .modal-body {
+            padding: 20px;
         }
         
         .event-detail {
             margin-bottom: 15px;
         }
         
-        .event-detail strong {
-            color: #005030;
-            display: inline-block;
-            min-width: 100px;
+        .event-detail-label {
+            font-weight: 600;
+            color: #666;
+            font-size: 12px;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+        
+        .event-detail-value {
+            color: #333;
+            font-size: 14px;
+            line-height: 1.5;
         }
         
         .event-description {
             margin-top: 20px;
             padding-top: 20px;
             border-top: 1px solid #e0e0e0;
-            line-height: 1.6;
         }
         
-        .overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0,0,0,0.5);
-            z-index: 999;
-        }
-        
+        /* Mobile responsiveness */
         @media (max-width: 768px) {
-            #calendar-container {
-                padding: 10px;
-            }
-            
-            .calendar-header {
+            .fc .fc-toolbar {
                 flex-direction: column;
-                align-items: stretch;
             }
             
-            .subscribe-button {
-                text-align: center;
+            .fc .fc-toolbar-chunk {
+                display: flex;
+                justify-content: center;
+                margin: 5px 0;
+            }
+            
+            .modal-content {
+                width: 95%;
+                margin: 5% auto;
             }
         }
     </style>
 </head>
 <body>
     <div id="calendar-container">
-        <div class="calendar-header">
-            <h1>GDS School Calendar</h1>
-            <a href="school_events.ics" class="subscribe-button" download>
-                Subscribe to Calendar
-            </a>
+        <a href="https://gds-calendar.github.io/gds-calendar/school_events.ics" class="subscribe-button" download>Subscribe to Calendar</a>
+        <div id='calendar'></div>
+    </div>
+    
+    <!-- Event Modal -->
+    <div id="eventModal" class="event-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle">Event Title</h2>
+                <span class="modal-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="event-detail">
+                    <div class="event-detail-label">Date & Time</div>
+                    <div class="event-detail-value" id="modalDateTime"></div>
+                </div>
+                <div class="event-detail" id="modalLocationContainer" style="display:none;">
+                    <div class="event-detail-label">Location</div>
+                    <div class="event-detail-value" id="modalLocation"></div>
+                </div>
+                <div class="event-description" id="modalDescriptionContainer" style="display:none;">
+                    <div class="event-detail-label">Description</div>
+                    <div class="event-detail-value" id="modalDescription"></div>
+                </div>
+            </div>
         </div>
-        <div id="calendar"></div>
     </div>
-    
-    <!-- Event popup -->
-    <div class="overlay" id="overlay"></div>
-    <div class="event-popup" id="eventPopup">
-        <span class="close" id="closePopup">&times;</span>
-        <h2 id="popupTitle"></h2>
-        <div id="popupContent"></div>
-    </div>
-    
-    <!-- FullCalendar JS -->
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
     
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const calendarEl = document.getElementById('calendar');
-            const eventPopup = document.getElementById('eventPopup');
-            const overlay = document.getElementById('overlay');
-            const closePopup = document.getElementById('closePopup');
-            const popupTitle = document.getElementById('popupTitle');
-            const popupContent = document.getElementById('popupContent');
+            const modal = document.getElementById('eventModal');
+            const modalClose = document.querySelector('.modal-close');
             
-            // Close popup handlers
-            closePopup.onclick = function() {
-                eventPopup.style.display = 'none';
-                overlay.style.display = 'none';
-            }
-            
-            overlay.onclick = function() {
-                eventPopup.style.display = 'none';
-                overlay.style.display = 'none';
+            // Function to fetch and parse ICS data
+            async function loadICSEvents() {
+                try {
+                    const response = await fetch('https://gds-calendar.github.io/gds-calendar/school_events.ics');
+                    const icsData = await response.text();
+                    
+                    // Parse ICS data
+                    const jcalData = ICAL.parse(icsData);
+                    const comp = new ICAL.Component(jcalData);
+                    const vevents = comp.getAllSubcomponents('vevent');
+                    
+                    // Convert to FullCalendar events
+                    const events = vevents.map(vevent => {
+                        const event = new ICAL.Event(vevent);
+                        
+                        // Handle recurring events
+                        if (event.isRecurring()) {
+                            const expand = event.iterator();
+                            const occurrences = [];
+                            let next;
+                            let count = 0;
+                            
+                            // Limit to next 365 days to avoid infinite loops
+                            const now = ICAL.Time.now();
+                            const oneYearFromNow = now.clone();
+                            oneYearFromNow.adjust(365, 0, 0, 0);
+                            
+                            while ((next = expand.next()) && count < 100) {
+                                if (next.compare(oneYearFromNow) > 0) break;
+                                if (next.compare(now) < 0) continue;
+                                
+                                const occurrence = event.getOccurrenceDetails(next);
+                                occurrences.push({
+                                    title: event.summary,
+                                    start: occurrence.startDate.toJSDate(),
+                                    end: occurrence.endDate ? occurrence.endDate.toJSDate() : null,
+                                    allDay: event.startDate.isDate,
+                                    description: event.description,
+                                    location: event.location
+                                });
+                                count++;
+                            }
+                            return occurrences;
+                        } else {
+                            // Single event
+                            return {
+                                title: event.summary,
+                                start: event.startDate.toJSDate(),
+                                end: event.endDate ? event.endDate.toJSDate() : null,
+                                allDay: event.startDate.isDate,
+                                description: event.description,
+                                location: event.location
+                            };
+                        }
+                    });
+                    
+                    // Flatten array (in case of recurring events)
+                    return events.flat();
+                    
+                } catch (error) {
+                    console.error('Error loading ICS file:', error);
+                    return [];
+                }
             }
             
             // Initialize calendar
             const calendar = new FullCalendar.Calendar(calendarEl, {
                 initialView: 'dayGridMonth',
                 headerToolbar: {
-                    left: 'prev,next today',
+                    left: 'today prev,next',
                     center: 'title',
-                    right: 'dayGridMonth,timeGridWeek,listMonth'
+                    right: 'dayGridMonth,timeGridWeek,timeGridDay'
                 },
+                buttonText: {
+                    today: 'Today',
+                    month: 'Month',
+                    week: 'Week',
+                    day: 'Day'
+                },
+                height: 'auto',
+                navLinks: true,
+                editable: false,
+                dayMaxEvents: false,
                 eventDisplay: 'block',
-                eventTimeFormat: {
-                    hour: 'numeric',
-                    minute: '2-digit',
-                    meridiem: 'short'
-                },
-                eventContent: function(arg) {
-                    let timeText = '';
-                    if (!arg.event.allDay && arg.event.start) {
-                        const timeOptions = { hour: 'numeric', minute: '2-digit', meridiem: 'short' };
-                        const startTime = arg.event.start.toLocaleTimeString('en-US', timeOptions);
-                        const endTime = arg.event.end ? arg.event.end.toLocaleTimeString('en-US', timeOptions) : '';
+                events: loadICSEvents,
+                eventClick: function(info) {
+                    // Populate modal with event details
+                    document.getElementById('modalTitle').textContent = info.event.title;
+                    
+                    // Format date and time
+                    let dateTimeStr = '';
+                    if (info.event.allDay) {
+                        dateTimeStr = info.event.start.toLocaleDateString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                        });
+                    } else {
+                        dateTimeStr = info.event.start.toLocaleDateString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                        }) + ' at ' + info.event.start.toLocaleTimeString('en-US', {
+                            hour: 'numeric',
+                            minute: '2-digit'
+                        });
                         
-                        if (endTime && startTime !== endTime) {
-                            timeText = `${startTime} - ${endTime}`;
-                        } else {
-                            timeText = startTime;
+                        if (info.event.end) {
+                            dateTimeStr += ' - ' + info.event.end.toLocaleTimeString('en-US', {
+                                hour: 'numeric',
+                                minute: '2-digit'
+                            });
                         }
                     }
+                    document.getElementById('modalDateTime').textContent = dateTimeStr;
                     
-                    return {
-                        html: `
-                            <div class="fc-event-title">${arg.event.title}</div>
-                            ${timeText ? `<div class="fc-event-time">${timeText}</div>` : ''}
-                        `
-                    };
+                    // Handle location
+                    const location = info.event.extendedProps.location;
+                    if (location) {
+                        document.getElementById('modalLocation').textContent = location;
+                        document.getElementById('modalLocationContainer').style.display = 'block';
+                    } else {
+                        document.getElementById('modalLocationContainer').style.display = 'none';
+                    }
+                    
+                    // Handle description
+                    const description = info.event.extendedProps.description;
+                    if (description) {
+                        document.getElementById('modalDescription').textContent = description;
+                        document.getElementById('modalDescriptionContainer').style.display = 'block';
+                    } else {
+                        document.getElementById('modalDescriptionContainer').style.display = 'none';
+                    }
+                    
+                    // Show modal
+                    modal.style.display = 'block';
                 },
-                events: function(fetchInfo, successCallback, failureCallback) {
-                    // Fetch events from the JSON file
-                    fetch('events.json')
-                        .then(response => response.json())
-                        .then(events => {
-                            // Convert iiQ events to FullCalendar format
-                            const calendarEvents = events.map(event => {
-                                const start = new Date(event.StartDateTime);
-                                const end = new Date(event.EndDateTime);
-                                
-                                // Build location string
-                                let location = '';
-                                if (event.Location && event.Location.Name) {
-                                    location = event.Location.Name;
-                                }
-                                if (event.LocationRooms && event.LocationRooms.length > 0) {
-                                    const rooms = event.LocationRooms.map(r => r.Name).filter(n => n).join(', ');
-                                    if (rooms) {
-                                        location += location ? ' - ' + rooms : rooms;
-                                    }
-                                }
-                                
-                                return {
-                                    id: event.EventId,
-                                    title: event.Title || 'Untitled Event',
-                                    start: start,
-                                    end: end,
-                                    extendedProps: {
-                                        description: event.Description || '',
-                                        location: location,
-                                        organizer: event.Owner ? `${event.Owner.FirstName} ${event.Owner.LastName}` : '',
-                                        organizerEmail: event.Owner ? event.Owner.Email : ''
-                                    }
-                                };
-                            });
-                            
-                            successCallback(calendarEvents);
-                        })
-                        .catch(error => {
-                            console.error('Error loading events:', error);
-                            failureCallback(error);
-                        });
-                },
-                eventClick: function(info) {
-                    // Populate popup with event details
-                    popupTitle.textContent = info.event.title;
-                    
-                    const props = info.event.extendedProps;
-                    const start = info.event.start;
-                    const end = info.event.end;
-                    
-                    let content = '';
-                    
-                    // Date and time
-                    if (start && end) {
-                        const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-                        const timeOptions = { hour: 'numeric', minute: '2-digit' };
-                        
-                        const startDate = start.toLocaleDateString('en-US', dateOptions);
-                        const startTime = start.toLocaleTimeString('en-US', timeOptions);
-                        const endTime = end.toLocaleTimeString('en-US', timeOptions);
-                        
-                        content += `<div class="event-detail">
-                            <strong>Date:</strong> ${startDate}
-                        </div>`;
-                        content += `<div class="event-detail">
-                            <strong>Time:</strong> ${startTime} - ${endTime}
-                        </div>`;
-                    }
-                    
-                    // Location
-                    if (props.location) {
-                        content += `<div class="event-detail">
-                            <strong>Location:</strong> ${props.location}
-                        </div>`;
-                    }
-                    
-                    // Organizer
-                    if (props.organizer) {
-                        content += `<div class="event-detail">
-                            <strong>Organizer:</strong> ${props.organizer}
-                            ${props.organizerEmail ? `(<a href="mailto:${props.organizerEmail}">${props.organizerEmail}</a>)` : ''}
-                        </div>`;
-                    }
-                    
-                    // Description
-                    if (props.description) {
-                        content += `<div class="event-description">
-                            <strong>Description:</strong><br>
-                            ${props.description.replace(/\n/g, '<br>')}
-                        </div>`;
-                    }
-                    
-                    popupContent.innerHTML = content;
-                    
-                    // Show popup
-                    eventPopup.style.display = 'block';
-                    overlay.style.display = 'block';
-                },
-                eventTimeFormat: {
+                
+                // Style tweaks for better Finalsite match
+                dayHeaderFormat: { weekday: 'short' },
+                slotLabelFormat: {
                     hour: 'numeric',
                     minute: '2-digit',
                     meridiem: 'short'
@@ -410,6 +605,17 @@
             });
             
             calendar.render();
+            
+            // Modal close handlers
+            modalClose.onclick = function() {
+                modal.style.display = 'none';
+            }
+            
+            window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = 'none';
+                }
+            }
         });
     </script>
 </body>
