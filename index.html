@@ -132,31 +132,24 @@
             font-weight: 600;
         }
         
-        /* Subscribe button */
-        .calendar-header {
-            position: relative;
-            margin-bottom: 20px;
-        }
-        
-        .subscribe-button {
-            position: absolute;
-            top: 0;
-            right: 0;
-            background-color: #00968f;
-            color: white;
+        /* Custom button styling for subscribe */
+        .fc .fc-subscribeButton-button {
+            background-color: #00968f !important;
+            color: white !important;
             border: none;
-            padding: 8px 16px;
-            font-size: 14px;
+            padding: 6px 16px;
+            font-size: 13px;
             font-weight: 500;
             border-radius: 4px;
-            cursor: pointer;
-            transition: background-color 0.2s;
-            text-decoration: none;
-            display: inline-block;
+            margin-left: 10px;
         }
         
-        .subscribe-button:hover {
-            background-color: #007a74;
+        .fc .fc-subscribeButton-button:hover {
+            background-color: #007a74 !important;
+        }
+        
+        .fc .fc-subscribeButton-button:active {
+            background-color: #006661 !important;
         }
         
         /* Calendar grid styling */
@@ -455,9 +448,6 @@
 </head>
 <body>
     <div id="calendar-container">
-        <div class="calendar-header">
-            <a href="https://gds-calendar.github.io/gds-calendar/school_events.ics" class="subscribe-button" download>Subscribe to Calendar</a>
-        </div>
         <div id='calendar'></div>
     </div>
     
@@ -562,7 +552,15 @@
                 headerToolbar: {
                     left: 'today prev,next',
                     center: 'title',
-                    right: 'dayGridMonth,timeGridWeek,timeGridDay'
+                    right: 'dayGridMonth,timeGridWeek,timeGridDay subscribeButton'
+                },
+                customButtons: {
+                    subscribeButton: {
+                        text: 'Subscribe to Calendar',
+                        click: function() {
+                            window.location.href = 'https://gds-calendar.github.io/gds-calendar/school_events.ics';
+                        }
+                    }
                 },
                 buttonText: {
                     today: 'Today',
