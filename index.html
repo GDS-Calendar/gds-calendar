@@ -45,10 +45,12 @@
         }
         
         .fc .fc-toolbar-title {
-            font-size: 28px;
+            font-size: 32px;
             font-weight: 300;
             color: #333;
             margin: 0 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            letter-spacing: -0.5px;
         }
         
         /* Navigation button styling */
@@ -77,16 +79,17 @@
         }
         
         .fc .fc-today-button {
-            background-color: transparent;
-            color: #00968f;
+            background-color: #e6e6e6;
+            color: #333;
             font-size: 14px;
             font-weight: 500;
-            padding: 4px 12px;
-            border: 1px solid transparent;
+            padding: 6px 16px;
+            border: none;
+            border-radius: 4px;
         }
         
         .fc .fc-today-button:hover {
-            background-color: #f0f0f0;
+            background-color: #d0d0d0;
         }
         
         .fc .fc-today-button:disabled {
@@ -130,10 +133,15 @@
         }
         
         /* Subscribe button */
+        .calendar-header {
+            position: relative;
+            margin-bottom: 20px;
+        }
+        
         .subscribe-button {
             position: absolute;
-            top: 20px;
-            right: 20px;
+            top: 0;
+            right: 0;
             background-color: #00968f;
             color: white;
             border: none;
@@ -221,38 +229,50 @@
         
         /* Event styling */
         .fc-event {
-            background-color: #00968f;
-            border: none;
-            border-radius: 4px;
-            padding: 6px 8px;
-            margin: 2px 0;
-            font-size: 13px;
-            font-weight: 500;
+            background-color: transparent !important;
+            border: none !important;
+            padding: 4px 8px;
+            margin: 0;
             cursor: pointer;
             transition: all 0.2s;
-            color: white;
-            line-height: 1.3;
+            color: #333 !important;
         }
         
         .fc-event:hover {
-            background-color: #007a74;
-            transform: translateY(-1px);
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            background-color: #f8f8f8 !important;
+        }
+        
+        /* Custom event content styling */
+        .fc-event-main {
+            padding: 0;
+        }
+        
+        .fc-event-title-container {
+            padding: 0;
         }
         
         .fc-event-title {
-            font-weight: 500;
+            font-weight: 600;
+            color: #00968f !important;
             white-space: normal;
+            margin-bottom: 2px;
+            font-size: 13px;
+            line-height: 1.3;
         }
         
         .fc-event-time {
-            display: none;
+            display: block !important;
+            font-weight: 400;
+            color: #666 !important;
+            font-size: 12px;
+            margin-top: 2px;
         }
         
         /* Day grid event specific styling */
         .fc-daygrid-event {
             white-space: normal;
             align-items: flex-start;
+            background-color: transparent !important;
         }
         
         .fc-daygrid-event-dot {
@@ -260,7 +280,21 @@
         }
         
         .fc-daygrid-block-event .fc-event-time {
+            display: block !important;
+        }
+        
+        /* Hide default FullCalendar time display */
+        .fc-event-start .fc-event-time {
             display: none;
+        }
+        
+        /* Custom event time display */
+        .custom-event-time {
+            display: block;
+            font-size: 12px;
+            color: #666;
+            font-weight: 400;
+            margin-top: 2px;
         }
         
         /* Time grid styling */
@@ -421,7 +455,9 @@
 </head>
 <body>
     <div id="calendar-container">
-        <a href="https://gds-calendar.github.io/gds-calendar/school_events.ics" class="subscribe-button" download>Subscribe to Calendar</a>
+        <div class="calendar-header">
+            <a href="https://gds-calendar.github.io/gds-calendar/school_events.ics" class="subscribe-button" download>Subscribe to Calendar</a>
+        </div>
         <div id='calendar'></div>
     </div>
     
@@ -540,6 +576,28 @@
                 dayMaxEvents: false,
                 eventDisplay: 'block',
                 events: loadICSEvents,
+                eventContent: function(arg) {
+                    let timeText = '';
+                    if (!arg.event.allDay) {
+                        const startTime = arg.event.start.toLocaleTimeString('en-US', {
+                            hour: 'numeric',
+                            minute: '2-digit'
+                        });
+                        const endTime = arg.event.end ? arg.event.end.toLocaleTimeString('en-US', {
+                            hour: 'numeric',
+                            minute: '2-digit'
+                        }) : '';
+                        
+                        timeText = endTime ? `${startTime} - ${endTime}` : startTime;
+                    }
+                    
+                    return {
+                        html: `
+                            <div class="fc-event-title">${arg.event.title}</div>
+                            ${timeText ? `<div class="custom-event-time">${timeText}</div>` : ''}
+                        `
+                    };
+                },
                 eventClick: function(info) {
                     // Populate modal with event details
                     document.getElementById('modalTitle').textContent = info.event.title;
