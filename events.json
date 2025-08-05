@@ -52944,7 +52944,7 @@
     "EventTag": "10153",
     "EventId": "ef5e556e-d497-4e31-9ce4-f7e6c54ae315",
     "CreatedDate": "2025-07-16T13:28:41.757",
-    "ModifiedDate": "2025-07-16T13:28:41.757",
+    "ModifiedDate": "2025-08-04T19:35:37.843",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -52966,9 +52966,9 @@
       "Name": "Approved"
     },
     "Title": "PSA Presents: Head of School Russell Shaw",
-    "Description": "Please join us as we welcome Head of School Russell Shaw to our first PSA meeting of the year.",
-    "StartDateTime": "2025-09-17T19:00:00",
-    "SetUpStartDateTime": "2025-09-17T19:00:00",
+    "Description": "Join us for our first PSA meeting of the year, featuring a dessert reception before hearing from Head of School Russell Shaw in the LMS Flexible Performance Space. Learn what\u2019s ahead for GDS and how the PSA will support our community this year. This will be an in-person only event.",
+    "StartDateTime": "2025-09-17T18:00:00",
+    "SetUpStartDateTime": "2025-09-17T18:00:00",
     "EndDateTime": "2025-09-17T20:00:00",
     "BreakdownEndDateTime": "2025-09-17T20:00:00",
     "IsAllDay": false,
@@ -53020,7 +53020,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > B201",
-    "DateTimeDisplay": "September 17, 2025\n07:00 PM - 08:00 PM",
+    "DateTimeDisplay": "September 17, 2025\n06:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
