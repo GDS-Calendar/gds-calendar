@@ -7,8 +7,7 @@ Fetches events from iiQ API and generates ICS file
 import os
 import json
 import requests
-from datetime import datetime, timezone
-from ics import Calendar, Event
+from datetime import datetime
 import pytz
 
 # Configuration
@@ -71,16 +70,6 @@ def fetch_all_events():
             event_id = str(event.get('EventId', ''))
             event_title = event.get('Title', '')
             
-            # Debug: Check if we see event 10091 at all
-            if event_id == '10091':
-                print(f"\n🔍 Found Event 10091: {event_title}")
-                print(f"   Status: {status_name}")
-                print(f"   StartDateTime: {event.get('StartDateTime', '')}")
-                custom_fields = event.get('CustomFieldValues', [])
-                for cf in custom_fields:
-                    if cf.get('CustomFieldTypeId') == 'e3d6a181-2165-44e1-9a56-5fabcf87fea4':
-                        print(f"   Publish to Calendar: {cf.get('Value', 'not set')}")
-            
             # Check if event is approved
             if status_name == 'Approved':
                 approved_count += 1
@@ -102,21 +91,12 @@ def fetch_all_events():
                     # Create unique key based on title and start time
                     event_key = f"{event.get('Title', '')}|{event.get('StartDateTime', '')}"
                     
-                    # Debug for event 10091
-                    if event_id == '10091':
-                        print(f"Processing High School Year Begins - EventKey: {event_key}")
-                    
                     # Only add if we haven't seen this exact event before
                     if event_key not in seen_events:
                         seen_events.add(event_key)
                         all_events.append(event)
-                        if event_id == '10091':
-                            print(f"  ✓ Added to calendar!")
                     else:
                         duplicate_count += 1
-                        if event_id == '10091':
-                            print(f"  ✗ Skipped as duplicate")
-                            print(f"     Existing key: {event_key}")
                         # Log first few duplicates to understand pattern
                         if duplicate_count <= 5:
                             print(f"  Duplicate found: {event.get('Title', '')} on {event.get('StartDateTime', '')}")
@@ -130,75 +110,125 @@ def fetch_all_events():
     print(f"\nSummary: {approved_count} approved events found, {published_count} marked for calendar, {duplicate_count} duplicates removed")
     return all_events
 
-def create_ics_from_events(events):
-    """Convert iiQ events to ICS format"""
+def escape_ics_text(text):
+    """Escape text for ICS format"""
+    if not text:
+        return ""
+    # Escape special characters
+    text = text.replace('\\', '\\\\')
+    text = text.replace('\n', '\\n')
+    text = text.replace(',', '\\,')
+    text = text.replace(';', '\\;')
+    return text
+
+def create_ics_manually(events):
+    """Create ICS file manually to control timezone handling"""
+    lines = []
     
-    calendar = Calendar()
-    eastern = pytz.timezone('America/New_York')
+    # Calendar header
+    lines.append("BEGIN:VCALENDAR")
+    lines.append("VERSION:2.0")
+    lines.append("PRODID:-//Georgetown Day School//GDS Calendar//EN")
+    lines.append("X-WR-CALNAME:GDS School Calendar")
+    lines.append("X-WR-TIMEZONE:America/New_York")
+    lines.append("CALSCALE:GREGORIAN")
+    lines.append("METHOD:PUBLISH")
     
+    # Add timezone definition
+    lines.append("BEGIN:VTIMEZONE")
+    lines.append("TZID:America/New_York")
+    lines.append("BEGIN:STANDARD")
+    lines.append("DTSTART:20071104T020000")
+    lines.append("RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU")
+    lines.append("TZOFFSETFROM:-0400")
+    lines.append("TZOFFSETTO:-0500")
+    lines.append("TZNAME:EST")
+    lines.append("END:STANDARD")
+    lines.append("BEGIN:DAYLIGHT")
+    lines.append("DTSTART:20070311T020000")
+    lines.append("RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU")
+    lines.append("TZOFFSETFROM:-0500")
+    lines.append("TZOFFSETTO:-0400")
+    lines.append("TZNAME:EDT")
+    lines.append("END:DAYLIGHT")
+    lines.append("END:VTIMEZONE")
+    
+    # Add events
     for event_data in events:
-        try:
-            event = Event()
+        lines.append("BEGIN:VEVENT")
+        
+        # UID
+        event_id = event_data.get('EventId', '')
+        if event_id:
+            lines.append(f"UID:{event_id}@gds.incidentiq.com")
+        
+        # Title
+        title = escape_ics_text(event_data.get('Title', 'Untitled Event'))
+        lines.append(f"SUMMARY:{title}")
+        
+        # Times - with explicit timezone
+        start_str = event_data.get('StartDateTime', '').rstrip('Z')
+        end_str = event_data.get('EndDateTime', '').rstrip('Z')
+        
+        if start_str and end_str:
+            # Format: YYYYMMDDTHHMMSS
+            start_dt = datetime.fromisoformat(start_str)
+            end_dt = datetime.fromisoformat(end_str)
             
-            # Basic event info
-            event.name = event_data.get('Title', 'Untitled Event')
+            start_formatted = start_dt.strftime('%Y%m%dT%H%M%S')
+            end_formatted = end_dt.strftime('%Y%m%dT%H%M%S')
             
-            # Description - this is what we were missing before!
-            description = event_data.get('Description', '')
-            if description:
-                event.description = description
-            
-            # Times
-            start_str = event_data.get('StartDateTime')
-            end_str = event_data.get('EndDateTime')
-            
-            if start_str and end_str:
-                # Parse the datetime strings
-                start_dt = datetime.fromisoformat(start_str.replace('Z', '+00:00'))
-                end_dt = datetime.fromisoformat(end_str.replace('Z', '+00:00'))
-                
-                # Convert to Eastern time
-                event.begin = start_dt.astimezone(eastern)
-                event.end = end_dt.astimezone(eastern)
-            
-            # Location
-            location_parts = []
-            
-            # Add location name
-            location = event_data.get('Location', {})
-            if location and location.get('Name'):
-                location_parts.append(location['Name'])
-            
-            # Add room info if available
-            location_rooms = event_data.get('LocationRooms', [])
-            if location_rooms:
-                room_names = [room.get('Name', '') for room in location_rooms if room.get('Name')]
-                if room_names:
-                    location_parts.append(', '.join(room_names))
-            
-            if location_parts:
-                event.location = ' - '.join(location_parts)
-            
-            # Organizer
-            owner = event_data.get('Owner', {})
-            if owner:
-                organizer_name = f"{owner.get('FirstName', '')} {owner.get('LastName', '')}".strip()
-                organizer_email = owner.get('Email', '')
-                if organizer_email:
-                    event.organizer = f"{organizer_name} <{organizer_email}>"
-            
-            # Add UID for better compatibility
-            event_id = event_data.get('EventId', '')
-            if event_id:
-                event.uid = f"{event_id}@gds.incidentiq.com"
-            
-            calendar.events.add(event)
-            
-        except Exception as e:
-            print(f"Error processing event {event_data.get('Title', 'Unknown')}: {e}")
-            continue
+            # Use TZID to specify timezone
+            lines.append(f"DTSTART;TZID=America/New_York:{start_formatted}")
+            lines.append(f"DTEND;TZID=America/New_York:{end_formatted}")
+        
+        # Description
+        description = event_data.get('Description', '')
+        if description:
+            desc_escaped = escape_ics_text(description)
+            # Wrap long lines at 75 characters
+            if len(desc_escaped) > 75:
+                wrapped = []
+                line = "DESCRIPTION:" + desc_escaped[:60]
+                wrapped.append(line)
+                remaining = desc_escaped[60:]
+                while remaining:
+                    line = " " + remaining[:74]  # Continuation lines start with space
+                    wrapped.append(line)
+                    remaining = remaining[74:]
+                lines.extend(wrapped)
+            else:
+                lines.append(f"DESCRIPTION:{desc_escaped}")
+        
+        # Location
+        location_parts = []
+        location = event_data.get('Location', {})
+        if location and location.get('Name'):
+            location_parts.append(location['Name'])
+        
+        location_rooms = event_data.get('LocationRooms', [])
+        if location_rooms:
+            room_names = [room.get('Name', '') for room in location_rooms if room.get('Name')]
+            if room_names:
+                location_parts.append(', '.join(room_names))
+        
+        if location_parts:
+            location_text = escape_ics_text(' - '.join(location_parts))
+            lines.append(f"LOCATION:{location_text}")
+        
+        # Organizer
+        owner = event_data.get('Owner', {})
+        if owner:
+            organizer_name = f"{owner.get('FirstName', '')} {owner.get('LastName', '')}".strip()
+            organizer_email = owner.get('Email', '')
+            if organizer_email and organizer_name:
+                lines.append(f"ORGANIZER;CN={organizer_name}:mailto:{organizer_email}")
+        
+        lines.append("END:VEVENT")
     
-    return calendar
+    lines.append("END:VCALENDAR")
+    
+    return '\r\n'.join(lines)
 
 def main():
     """Main function to fetch events and generate ICS file"""
@@ -213,11 +243,13 @@ def main():
     
     if events:
         print("Creating ICS file...")
-        calendar = create_ics_from_events(events)
+        
+        # Create ICS content manually
+        ics_content = create_ics_manually(events)
         
         # Write ICS file
         with open('school_events.ics', 'w') as f:
-            f.write(str(calendar))
+            f.write(ics_content)
         
         print("Successfully created school_events.ics")
         
@@ -229,9 +261,8 @@ def main():
     else:
         print("No events found")
         # Create empty files
-        Calendar().events.clear()
         with open('school_events.ics', 'w') as f:
-            f.write(str(Calendar()))
+            f.write("BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//GDS//Calendar//EN\r\nEND:VCALENDAR")
         with open('events.json', 'w') as f:
             json.dump([], f)
 
