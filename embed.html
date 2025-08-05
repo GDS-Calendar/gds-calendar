@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDS Calendar</title>
+    
+    <!-- FullCalendar v6 -->
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/ical.js@1.5.0/build/ical.min.js'></script>
+    
+    <style>
+        /* Base styles - removed container padding for embed */
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: transparent;
+        }
+        
+        #calendar {
+            background: white;
+            padding: 20px;
+        }
+        
+        /* Override FullCalendar styles to match Finalsite */
+        .fc {
+            font-family: inherit;
+        }
+        
+        /* Toolbar styling */
+        .fc .fc-toolbar {
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .fc .fc-toolbar-title {
+            font-size: 32px;
+            font-weight: 300;
+            color: #333;
+            margin: 0 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            letter-spacing: -0.5px;
+        }
+        
+        /* Navigation button styling */
+        .fc .fc-button-primary {
+            background-color: transparent;
+            border: none;
+            color: #333;
+            padding: 8px 12px;
+            font-size: 24px;
+            font-weight: 300;
+            box-shadow: none;
+            transition: all 0.2s;
+        }
+        
+        .fc .fc-prev-button,
+        .fc .fc-next-button {
+            background: transparent;
+            color: #666;
+            padding: 4px 8px;
+        }
+        
+        .fc .fc-prev-button:hover,
+        .fc .fc-next-button:hover {
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        
+        .fc .fc-today-button {
+            background-color: #e6e6e6;
+            color: #333;
+            font-size: 14px;
+            font-weight: 500;
+            padding: 6px 16px;
+            border: none;
+            border-radius: 4px;
+        }
+        
+        .fc .fc-today-button:hover {
+            background-color: #d0d0d0;
+        }
+        
+        .fc .fc-today-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        /* View buttons styling */
+        .fc .fc-button-group {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        
+        .fc .fc-button-group .fc-button {
+            background-color: white;
+            border: none;
+            border-radius: 0;
+            color: #666;
+            padding: 6px 16px;
+            font-size: 13px;
+            font-weight: 500;
+            text-transform: uppercase;
+            margin: 0;
+            position: relative;
+        }
+        
+        .fc .fc-button-group .fc-button:not(:last-child) {
+            border-right: 1px solid #ddd;
+        }
+        
+        .fc .fc-button-group .fc-button:hover {
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        
+        .fc .fc-button-group .fc-button.fc-button-active {
+            background-color: #f0f0f0;
+            color: #333;
+            font-weight: 600;
+        }
+        
+        /* Custom button styling for subscribe */
+        .fc .fc-subscribeButton-button {
+            background-color: #00968f !important;
+            color: white !important;
+            border: none;
+            padding: 6px 16px;
+            font-size: 13px;
+            font-weight: 500;
+            border-radius: 4px;
+            margin-left: 10px;
+        }
+        
+        .fc .fc-subscribeButton-button:hover {
+            background-color: #007a74 !important;
+        }
+        
+        .fc .fc-subscribeButton-button:active {
+            background-color: #006661 !important;
+        }
+        
+        /* Calendar grid styling */
+        .fc .fc-theme-standard th,
+        .fc .fc-theme-standard td {
+            border-color: #e0e0e0;
+        }
+        
+        .fc .fc-col-header-cell {
+            background-color: #f8f8f8;
+            padding: 10px 0;
+            font-weight: 600;
+            font-size: 14px;
+            color: #666;
+            text-transform: uppercase;
+        }
+        
+        /* Day cell styling */
+        .fc .fc-daygrid-day {
+            transition: background-color 0.2s;
+        }
+        
+        .fc .fc-daygrid-day:hover {
+            background-color: #f8f8f8;
+        }
+        
+        .fc .fc-daygrid-day-frame {
+            min-height: 100px;
+            padding: 4px;
+        }
+        
+        .fc .fc-daygrid-day-top {
+            flex-direction: row;
+            justify-content: flex-start;
+            padding: 4px 8px;
+        }
+        
+        .fc .fc-daygrid-day-number {
+            font-size: 16px;
+            font-weight: 400;
+            color: #333;
+            text-decoration: none;
+            padding: 0;
+        }
+        
+        .fc .fc-daygrid-day.fc-day-today {
+            background-color: #fff9e6;
+        }
+        
+        .fc .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
+            background-color: #00968f;
+            color: white;
+            border-radius: 50%;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 500;
+        }
+        
+        /* Day grid event container */
+        .fc .fc-daygrid-day-events {
+            margin-top: 4px;
+        }
+        
+        .fc .fc-daygrid-event-harness {
+            margin: 0 2px;
+        }
+        
+        /* Event styling */
+        .fc-event {
+            background-color: transparent !important;
+            border: none !important;
+            padding: 4px 8px;
+            margin: 0;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #333 !important;
+        }
+        
+        .fc-event:hover {
+            background-color: #f8f8f8 !important;
+        }
+        
+        /* Custom event content styling */
+        .fc-event-main {
+            padding: 0;
+        }
+        
+        .fc-event-title-container {
+            padding: 0;
+        }
+        
+        .fc-event-title {
+            font-weight: 600;
+            color: #00968f !important;
+            white-space: normal;
+            margin-bottom: 2px;
+            font-size: 13px;
+            line-height: 1.3;
+        }
+        
+        .fc-event-time {
+            display: block !important;
+            font-weight: 400;
+            color: #666 !important;
+            font-size: 12px;
+            margin-top: 2px;
+        }
+        
+        /* Day grid event specific styling */
+        .fc-daygrid-event {
+            white-space: normal;
+            align-items: flex-start;
+            background-color: transparent !important;
+        }
+        
+        .fc-daygrid-event-dot {
+            display: none;
+        }
+        
+        .fc-daygrid-block-event .fc-event-time {
+            display: block !important;
+        }
+        
+        /* Hide default FullCalendar time display */
+        .fc-event-start .fc-event-time {
+            display: none;
+        }
+        
+        /* Custom event time display */
+        .custom-event-time {
+            display: block;
+            font-size: 12px;
+            color: #666;
+            font-weight: 400;
+            margin-top: 2px;
+        }
+        
+        /* Time grid styling */
+        .fc .fc-timegrid-slot {
+            height: 40px;
+        }
+        
+        .fc .fc-timegrid-slot-label {
+            font-size: 12px;
+            color: #666;
+        }
+        
+        /* Custom modal styling */
+        .event-modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            animation: fadeIn 0.2s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .modal-content {
+            position: relative;
+            background-color: white;
+            margin: 10% auto;
+            padding: 0;
+            width: 90%;
+            max-width: 500px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            animation: slideIn 0.3s;
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateY(-30px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        
+        .modal-header {
+            background-color: #00968f;
+            color: white;
+            padding: 20px;
+            border-radius: 8px 8px 0 0;
+            position: relative;
+        }
+        
+        .modal-title {
+            margin: 0;
+            font-size: 20px;
+            font-weight: 500;
+            padding-right: 30px;
+        }
+        
+        .modal-close {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            color: white;
+            font-size: 28px;
+            font-weight: 300;
+            cursor: pointer;
+            line-height: 1;
+            opacity: 0.8;
+            transition: opacity 0.2s;
+        }
+        
+        .modal-close:hover {
+            opacity: 1;
+        }
+        
+        .modal-body {
+            padding: 20px;
+        }
+        
+        .event-detail {
+            margin-bottom: 15px;
+        }
+        
+        .event-detail-label {
+            font-weight: 600;
+            color: #666;
+            font-size: 12px;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+        
+        .event-detail-value {
+            color: #333;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .event-description {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .fc .fc-toolbar {
+                flex-direction: column;
+            }
+            
+            .fc .fc-toolbar-chunk {
+                display: flex;
+                justify-content: center;
+                margin: 5px 0;
+            }
+            
+            .modal-content {
+                width: 95%;
+                margin: 5% auto;
+            }
+            
+            #calendar {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id='calendar'></div>
+    
+    <!-- Event Modal -->
+    <div id="eventModal" class="event-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle">Event Title</h2>
+                <span class="modal-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="event-detail">
+                    <div class="event-detail-label">Date & Time</div>
+                    <div class="event-detail-value" id="modalDateTime"></div>
+                </div>
+                <div class="event-detail" id="modalLocationContainer" style="display:none;">
+                    <div class="event-detail-label">Location</div>
+                    <div class="event-detail-value" id="modalLocation"></div>
+                </div>
+                <div class="event-description" id="modalDescriptionContainer" style="display:none;">
+                    <div class="event-detail-label">Description</div>
+                    <div class="event-detail-value" id="modalDescription"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const calendarEl = document.getElementById('calendar');
+            const modal = document.getElementById('eventModal');
+            const modalClose = document.querySelector('.modal-close');
+            
+            // Function to fetch and parse ICS data
+            async function loadICSEvents() {
+                try {
+                    const response = await fetch('https://gds-calendar.github.io/gds-calendar/school_events.ics');
+                    const icsData = await response.text();
+                    
+                    // Parse ICS data
+                    const jcalData = ICAL.parse(icsData);
+                    const comp = new ICAL.Component(jcalData);
+                    const vevents = comp.getAllSubcomponents('vevent');
+                    
+                    // Convert to FullCalendar events
+                    const events = vevents.map(vevent => {
+                        const event = new ICAL.Event(vevent);
+                        
+                        // Handle recurring events
+                        if (event.isRecurring()) {
+                            const expand = event.iterator();
+                            const occurrences = [];
+                            let next;
+                            let count = 0;
+                            
+                            // Limit to next 365 days to avoid infinite loops
+                            const now = ICAL.Time.now();
+                            const oneYearFromNow = now.clone();
+                            oneYearFromNow.adjust(365, 0, 0, 0);
+                            
+                            while ((next = expand.next()) && count < 100) {
+                                if (next.compare(oneYearFromNow) > 0) break;
+                                if (next.compare(now) < 0) continue;
+                                
+                                const occurrence = event.getOccurrenceDetails(next);
+                                occurrences.push({
+                                    title: event.summary,
+                                    start: occurrence.startDate.toJSDate(),
+                                    end: occurrence.endDate ? occurrence.endDate.toJSDate() : null,
+                                    allDay: event.startDate.isDate,
+                                    description: event.description,
+                                    location: event.location
+                                });
+                                count++;
+                            }
+                            return occurrences;
+                        } else {
+                            // Single event
+                            return {
+                                title: event.summary,
+                                start: event.startDate.toJSDate(),
+                                end: event.endDate ? event.endDate.toJSDate() : null,
+                                allDay: event.startDate.isDate,
+                                description: event.description,
+                                location: event.location
+                            };
+                        }
+                    });
+                    
+                    // Flatten array (in case of recurring events)
+                    return events.flat();
+                    
+                } catch (error) {
+                    console.error('Error loading ICS file:', error);
+                    return [];
+                }
+            }
+            
+            // Initialize calendar
+            const calendar = new FullCalendar.Calendar(calendarEl, {
+                initialView: 'dayGridMonth',
+                headerToolbar: {
+                    left: 'today prev,next',
+                    center: 'title',
+                    right: 'dayGridMonth,timeGridWeek,timeGridDay subscribeButton'
+                },
+                customButtons: {
+                    subscribeButton: {
+                        text: 'Subscribe to Calendar',
+                        click: function() {
+                            window.open('https://gds-calendar.github.io/gds-calendar/school_events.ics', '_blank');
+                        }
+                    }
+                },
+                buttonText: {
+                    today: 'Today',
+                    month: 'Month',
+                    week: 'Week',
+                    day: 'Day'
+                },
+                height: 'auto',
+                navLinks: true,
+                editable: false,
+                dayMaxEvents: false,
+                eventDisplay: 'block',
+                events: loadICSEvents,
+                eventContent: function(arg) {
+                    let timeText = '';
+                    if (!arg.event.allDay) {
+                        const startTime = arg.event.start.toLocaleTimeString('en-US', {
+                            hour: 'numeric',
+                            minute: '2-digit'
+                        });
+                        const endTime = arg.event.end ? arg.event.end.toLocaleTimeString('en-US', {
+                            hour: 'numeric',
+                            minute: '2-digit'
+                        }) : '';
+                        
+                        timeText = endTime ? `${startTime} - ${endTime}` : startTime;
+                    }
+                    
+                    return {
+                        html: `
+                            <div class="fc-event-title">${arg.event.title}</div>
+                            ${timeText ? `<div class="custom-event-time">${timeText}</div>` : ''}
+                        `
+                    };
+                },
+                eventClick: function(info) {
+                    // Populate modal with event details
+                    document.getElementById('modalTitle').textContent = info.event.title;
+                    
+                    // Format date and time
+                    let dateTimeStr = '';
+                    if (info.event.allDay) {
+                        dateTimeStr = info.event.start.toLocaleDateString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                        });
+                    } else {
+                        dateTimeStr = info.event.start.toLocaleDateString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                        }) + ' at ' + info.event.start.toLocaleTimeString('en-US', {
+                            hour: 'numeric',
+                            minute: '2-digit'
+                        });
+                        
+                        if (info.event.end) {
+                            dateTimeStr += ' - ' + info.event.end.toLocaleTimeString('en-US', {
+                                hour: 'numeric',
+                                minute: '2-digit'
+                            });
+                        }
+                    }
+                    document.getElementById('modalDateTime').textContent = dateTimeStr;
+                    
+                    // Handle location
+                    const location = info.event.extendedProps.location;
+                    if (location) {
+                        document.getElementById('modalLocation').textContent = location;
+                        document.getElementById('modalLocationContainer').style.display = 'block';
+                    } else {
+                        document.getElementById('modalLocationContainer').style.display = 'none';
+                    }
+                    
+                    // Handle description
+                    const description = info.event.extendedProps.description;
+                    if (description) {
+                        document.getElementById('modalDescription').textContent = description;
+                        document.getElementById('modalDescriptionContainer').style.display = 'block';
+                    } else {
+                        document.getElementById('modalDescriptionContainer').style.display = 'none';
+                    }
+                    
+                    // Show modal
+                    modal.style.display = 'block';
+                },
+                
+                // Style tweaks for better Finalsite match
+                dayHeaderFormat: { weekday: 'short' },
+                slotLabelFormat: {
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    meridiem: 'short'
+                }
+            });
+            
+            calendar.render();
+            
+            // Modal close handlers
+            modalClose.onclick = function() {
+                modal.style.display = 'none';
+            }
+            
+            window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = 'none';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
