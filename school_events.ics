@@ -4780,7 +4780,7 @@ BEGIN:VEVENT
 UID:7672fca1-3469-4f1a-a39c-d55356abfa03@gds.incidentiq.com
 SUMMARY:August Break Camp
 DTSTART;TZID=America/New_York:20250828T080000
-DTEND;TZID=America/New_York:20250828T090000
+DTEND;TZID=America/New_York:20250828T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
@@ -4791,7 +4791,7 @@ BEGIN:VEVENT
 UID:83f6dc0e-a69f-463f-85c0-5a93062154f4@gds.incidentiq.com
 SUMMARY:August Break Camp
 DTSTART;TZID=America/New_York:20250827T080000
-DTEND;TZID=America/New_York:20250827T090000
+DTEND;TZID=America/New_York:20250827T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
@@ -4802,7 +4802,7 @@ BEGIN:VEVENT
 UID:373e26fb-df53-4553-93c4-466c9b3f1c66@gds.incidentiq.com
 SUMMARY:August Break Camp
 DTSTART;TZID=America/New_York:20250826T080000
-DTEND;TZID=America/New_York:20250826T090000
+DTEND;TZID=America/New_York:20250826T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
@@ -4813,7 +4813,7 @@ BEGIN:VEVENT
 UID:0c16c513-16e9-4a85-83b2-20ae29a9ed9c@gds.incidentiq.com
 SUMMARY:August Break Camp
 DTSTART;TZID=America/New_York:20250825T080000
-DTEND;TZID=America/New_York:20250825T090000
+DTEND;TZID=America/New_York:20250825T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
