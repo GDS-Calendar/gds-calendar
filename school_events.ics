@@ -39,16 +39,6 @@ LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:d50d5e83-17c4-4728-922d-7461ef63ab7a@gds.incidentiq.com
-SUMMARY:Fancy Sparkly Day
-DTSTART;TZID=America/New_York:20260529T083000
-DTEND;TZID=America/New_York:20260529T150000
-DESCRIPTION:Everyone is encouraged to dress fancy and sparkly and the 3r
- d grade will set up a runway in the park outside.
-LOCATION:LMS-Campus
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:04353cd5-b0d9-4e8b-b330-85f36b5d97b9@gds.incidentiq.com
 SUMMARY:PSA Volunteers Thank You Party
 DTSTART;TZID=America/New_York:20260528T183000
@@ -1621,22 +1611,6 @@ LOCATION:L291
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:de1f6d88-ec68-43e8-ad87-4eef7f99df96@gds.incidentiq.com
-SUMMARY:3rd Grade Overnight Trip
-DTSTART;TZID=America/New_York:20260501T080000
-DTEND;TZID=America/New_York:20260501T170000
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:0eafa191-12f4-4d7d-a696-06597f27febb@gds.incidentiq.com
-SUMMARY:3rd Grade Overnight Trip
-DTSTART;TZID=America/New_York:20260430T080000
-DTEND;TZID=America/New_York:20260430T170000
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:bf8e782d-8e24-4790-9301-a626c0d4ba5b@gds.incidentiq.com
 SUMMARY:Middle School Community Production
 DTSTART;TZID=America/New_York:20260501T183000
@@ -2669,8 +2643,7 @@ UID:a8223fa5-7aea-40aa-8273-0e401f756f7b@gds.incidentiq.com
 SUMMARY:Lower School MLK Jr. Justice Assembly
 DTSTART;TZID=America/New_York:20260130T084500
 DTEND;TZID=America/New_York:20260130T094500
-DESCRIPTION:First Grade families are encouraged to join us for the Lower
-  School MLK Jr. Justice Assembly.
+DESCRIPTION:First Grade families only are encouraged to join us.
 LOCATION:B201
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -3425,11 +3398,10 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:99e6edcf-2a68-4423-bcc2-69c57cc6a297@gds.incidentiq.com
-SUMMARY:Lower School Thanksgiving Gratitude Assembly
+SUMMARY:Lower School Gratitude Assembly
 DTSTART;TZID=America/New_York:20251120T084500
 DTEND;TZID=America/New_York:20251120T094500
-DESCRIPTION:Second Grade families are encouraged to join us for the Lowe
- r School Thanksgiving Gratitude Assembly.
+DESCRIPTION:Second Grade Families Only are welcome to attend
 LOCATION:B201
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -4099,17 +4071,6 @@ LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:77230b48-b95f-4694-bcbe-7bb2419694b3@gds.incidentiq.com
-SUMMARY:Lower School: Orton Gillingham Reading Lessons Demonstration and Explanation
-DTSTART;TZID=America/New_York:20251008T083000
-DTEND;TZID=America/New_York:20251008T093000
-DESCRIPTION:Please join Jenna Clifton and Lynn Gudhus in person for an i
- nteractive Orton Gillingham reading lesson to learn more about our reading
-  curriculum in the Lower School.
-LOCATION:130
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:ae7d5f5a-d9ea-40ca-b907-8aacdc6e8c04@gds.incidentiq.com
 SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty speaker)
 DTSTART;TZID=America/New_York:20251009T081500
@@ -4496,17 +4457,6 @@ DESCRIPTION:"All seniors will have an extended* on-campus portrait sessi
  ons are longer than the typical student portraits\, involving more than on
  e location."
 LOCATION:G001
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:d5fe9568-7eca-487c-abe0-a45f6e652749@gds.incidentiq.com
-SUMMARY:Universal Reading Screen Zoom Meeting for K-2nd Grade Families
-DTSTART;TZID=America/New_York:20250908T090000
-DTEND;TZID=America/New_York:20250908T100000
-DESCRIPTION:Please join us for a Universal Reading Screen pre–screening 
- and post-screening Zoom meeting for all K-2nd grade families. Zoom link ca
- n be found in your child's homeroom newsletter.
-LOCATION:Virtual #03
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
