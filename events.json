@@ -2395,9 +2395,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -2546,9 +2546,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -2696,9 +2696,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -3041,9 +3041,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -3136,8 +3136,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -3151,14 +3151,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "May 02, 2026\n07:00 PM - 11:00 PM",
     "CustomFieldValues": [
       {
@@ -3281,9 +3281,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -3610,9 +3610,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -3746,9 +3746,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -3882,9 +3882,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -4018,9 +4018,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -6116,9 +6116,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -6267,9 +6267,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -6417,9 +6417,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -7033,8 +7033,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "6fce6166-b4d3-4def-a898-bce4a8b72501",
-        "Name": "139",
-        "NameFormatted": "139",
+        "Name": "139 Internet Cafe",
+        "NameFormatted": "139 Internet Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -7046,14 +7046,14 @@
         "Description": "Internet Cafe",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "139",
+        "NameSort": "139 Internet Cafe",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.63",
-        "ModifiedDate": "2025-04-09T17:03:14.14"
+        "ModifiedDate": "2025-08-07T19:04:33.377"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 139",
+    "LocationDisplay": "HS > 139 Internet Cafe",
     "DateTimeDisplay": "October 17, 2025\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -7507,9 +7507,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -7638,9 +7638,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -7789,9 +7789,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -7939,9 +7939,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -8297,8 +8297,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -8309,16 +8309,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 14, 2025\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -8683,9 +8683,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -8819,9 +8819,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -8955,9 +8955,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -9091,9 +9091,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "360",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2025-01-15T19:52:01.75",
-        "ModifiedDate": "2025-01-15T19:52:01.75"
+        "ModifiedDate": "2025-08-07T19:07:42.5"
       }
     ],
     "Locations": [],
@@ -10125,27 +10125,27 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "7ea26d3d-dbf1-423e-bc3b-93fb6eef64c0",
-        "Name": "260",
-        "NameFormatted": "260",
+        "Name": "HS Black Box",
+        "NameFormatted": "HS Black Box",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
         "LocationAbbreviation": "HS",
         "LocationRoomTypeId": "a9cf4559-f1f0-2b5f-8ea5-52e89428a6bd",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "SeatingCapacity": 200,
         "MaximumOccupancy": 200,
         "Description": "Black Box Gallery",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "260",
+        "NameSort": "HS Black Box",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.987",
-        "ModifiedDate": "2025-01-15T19:52:01.987"
+        "ModifiedDate": "2025-08-07T19:05:57.777"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 260",
+    "LocationDisplay": "HS > HS Black Box",
     "DateTimeDisplay": "September 20, 2025\n08:30 PM - 11:00 PM",
     "CustomFieldValues": [
       {
@@ -12204,8 +12204,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -12219,14 +12219,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "June 07, 2026\n03:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
@@ -12443,8 +12443,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -12458,14 +12458,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "June 05, 2026\n08:15 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -13331,8 +13331,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -13346,14 +13346,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "June 04, 2026\n09:00 AM - 10:30 AM",
     "CustomFieldValues": [
       {
@@ -13442,8 +13442,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -13457,14 +13457,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "June 03, 2026\n10:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -13769,8 +13769,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -13781,16 +13781,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "June 04, 2026\n01:30 PM - 02:30 PM",
     "CustomFieldValues": [
       {
@@ -16340,8 +16340,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -16352,16 +16352,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "May 29, 2026\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -16450,8 +16450,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -16462,16 +16462,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "May 28, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -16929,8 +16929,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -16941,16 +16941,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "May 21, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -17257,8 +17257,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -17269,16 +17269,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "May 19, 2026\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -17692,8 +17692,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -17704,16 +17704,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "May 14, 2026\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -20292,8 +20292,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -20304,16 +20304,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "May 01, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -20423,8 +20423,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -20435,16 +20435,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "April 30, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -20641,8 +20641,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -20653,16 +20653,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "April 28, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -20860,8 +20860,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -20872,16 +20872,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "April 24, 2026\n08:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -21186,8 +21186,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -21198,16 +21198,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "April 17, 2026\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -26106,8 +26106,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -26121,14 +26121,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "March 18, 2026\n02:45 PM - 03:30 PM",
     "CustomFieldValues": [
       {
@@ -27300,8 +27300,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -27312,16 +27312,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "March 12, 2026\n06:00 PM - 07:00 PM",
     "CustomFieldValues": [
       {
@@ -27410,8 +27410,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -27422,16 +27422,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "March 12, 2026\n09:15 AM - 10:45 AM",
     "CustomFieldValues": [
       {
@@ -27628,8 +27628,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "6998c110-ac31-40c0-91c3-33dcf946e553",
-        "Name": "L101",
-        "NameFormatted": "L101",
+        "Name": "L101 HS Turf Room",
+        "NameFormatted": "L101 HS Turf Room",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -27643,14 +27643,14 @@
         "InternalNotes": "Turf Room",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "L101",
+        "NameSort": "L101 HS Turf Room",
         "IsDeleted": false,
         "CreatedDate": "2025-07-10T23:15:31.407",
-        "ModifiedDate": "2025-07-10T23:15:31.407"
+        "ModifiedDate": "2025-08-07T19:10:49.627"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L101",
+    "LocationDisplay": "HS > L101 HS Turf Room",
     "DateTimeDisplay": "March 11, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -28664,8 +28664,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d6b6af6c-294f-4d9e-aa4b-78ccc83fcffb",
-        "Name": "121",
-        "NameFormatted": "121",
+        "Name": "121 Multi-Purpose Room",
+        "NameFormatted": "121 Multi-Purpose Room",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -28678,14 +28678,14 @@
         "Description": "Multi-Purpose Room",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "121",
+        "NameSort": "121 Multi-Purpose Room",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.647",
-        "ModifiedDate": "2025-04-29T16:49:09.153"
+        "ModifiedDate": "2025-08-07T19:03:37.917"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 121",
+    "LocationDisplay": "LMS > 121 Multi-Purpose Room",
     "DateTimeDisplay": "March 02, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -29896,8 +29896,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -29911,14 +29911,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "February 20, 2026\n06:30 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -31347,8 +31347,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -31362,14 +31362,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "February 10, 2026\n03:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
@@ -31566,8 +31566,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -31578,16 +31578,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "February 09, 2026\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -31785,8 +31785,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -31800,14 +31800,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "February 09, 2026\n03:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
@@ -32220,8 +32220,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -32235,14 +32235,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "February 06, 2026\n09:00 AM - 10:00 AM",
     "CustomFieldValues": [
       {
@@ -32548,8 +32548,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -32560,16 +32560,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "January 30, 2026\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -32658,8 +32658,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -32670,16 +32670,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "January 30, 2026\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -33094,8 +33094,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -33106,16 +33106,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "January 24, 2026\n08:30 PM - 11:00 PM",
     "CustomFieldValues": [
       {
@@ -33332,8 +33332,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -33344,16 +33344,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "January 22, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -33876,8 +33876,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -33888,16 +33888,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "January 15, 2026\n06:30 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -34096,8 +34096,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -34108,16 +34108,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "January 14, 2026\n04:00 PM - 05:30 PM",
     "CustomFieldValues": [
       {
@@ -38463,8 +38463,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d6b6af6c-294f-4d9e-aa4b-78ccc83fcffb",
-        "Name": "121",
-        "NameFormatted": "121",
+        "Name": "121 Multi-Purpose Room",
+        "NameFormatted": "121 Multi-Purpose Room",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -38477,14 +38477,14 @@
         "Description": "Multi-Purpose Room",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "121",
+        "NameSort": "121 Multi-Purpose Room",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.647",
-        "ModifiedDate": "2025-04-29T16:49:09.153"
+        "ModifiedDate": "2025-08-07T19:03:37.917"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 121",
+    "LocationDisplay": "LMS > 121 Multi-Purpose Room",
     "DateTimeDisplay": "December 19, 2025\n12:00 PM - 06:00 PM",
     "CustomFieldValues": [
       {
@@ -38573,8 +38573,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -38588,14 +38588,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "December 19, 2025\n11:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -38793,8 +38793,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -38805,16 +38805,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "December 19, 2025\n09:00 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -39233,8 +39233,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -39248,14 +39248,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "December 10, 2025\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -41636,8 +41636,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -41648,16 +41648,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 15, 2025\n01:00 PM - 02:00 PM",
     "CustomFieldValues": [
       {
@@ -42256,8 +42256,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -42268,16 +42268,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 20, 2025\n12:55 PM - 01:40 PM",
     "CustomFieldValues": [
       {
@@ -42366,8 +42366,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -42378,16 +42378,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 20, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -42801,8 +42801,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -42816,14 +42816,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "November 18, 2025\n03:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
@@ -42912,8 +42912,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -42924,16 +42924,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 19, 2025\n07:30 PM - 09:30 PM",
     "CustomFieldValues": [
       {
@@ -43022,8 +43022,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -43037,14 +43037,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "November 17, 2025\n03:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
@@ -43261,8 +43261,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -43273,16 +43273,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 07, 2025\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -43371,8 +43371,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 - Gym",
-        "NameFormatted": "B200 - Gym",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -43386,14 +43386,14 @@
         "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200Gym",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-07-29T22:22:55.933"
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 - Gym",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "November 07, 2025\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -44456,8 +44456,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -44468,16 +44468,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "November 05, 2025\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -45343,8 +45343,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -45355,16 +45355,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "October 31, 2025\n12:55 PM - 03:30 PM",
     "CustomFieldValues": [
       {
@@ -45931,8 +45931,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -45943,16 +45943,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "October 24, 2025\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -46366,8 +46366,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "6998c110-ac31-40c0-91c3-33dcf946e553",
-        "Name": "L101",
-        "NameFormatted": "L101",
+        "Name": "L101 HS Turf Room",
+        "NameFormatted": "L101 HS Turf Room",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -46381,14 +46381,14 @@
         "InternalNotes": "Turf Room",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "L101",
+        "NameSort": "L101 HS Turf Room",
         "IsDeleted": false,
         "CreatedDate": "2025-07-10T23:15:31.407",
-        "ModifiedDate": "2025-07-10T23:15:31.407"
+        "ModifiedDate": "2025-08-07T19:10:49.627"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L101",
+    "LocationDisplay": "HS > L101 HS Turf Room",
     "DateTimeDisplay": "October 15, 2025\n02:15 PM - 03:15 PM",
     "CustomFieldValues": [
       {
@@ -52521,8 +52521,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201",
-        "NameFormatted": "B201",
+        "Name": "B201 LMS Flexible Performance Center",
+        "NameFormatted": "B201 LMS Flexible Performance Center",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -52533,16 +52533,16 @@
         "Description": "Flex Performance Center",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201",
+        "NameSort": "B201 LMS Flexible Performance Center",
         "IsDeleted": false,
         "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-04-09T01:18:19.033",
+        "ModifiedDate": "2025-08-07T19:09:39.337",
         "LeadTimeThreshold": 2,
         "LeadTimeThresholdUnit": "Weeks"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201",
+    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
     "DateTimeDisplay": "September 17, 2025\n06:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {

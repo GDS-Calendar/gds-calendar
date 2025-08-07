@@ -274,7 +274,7 @@ UID:210ab2f2-2071-482a-a42f-4b4549f4e788@gds.incidentiq.com
 SUMMARY:80th Anniversary Celebration Event
 DTSTART;TZID=America/New_York:20260502T190000
 DTEND;TZID=America/New_York:20260502T230000
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -562,7 +562,7 @@ DESCRIPTION:The Annual World AIDS Day Cabaret will be presented by the G
  ple are encouraged to arrive by 6:30 so that they can get food and sit bac
  k to enjoy the show. Admission is $5 for students and $10 for adults. GDS 
  staff receive one complimentary ticket.
-LOCATION:139
+LOCATION:139 Internet Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -657,7 +657,7 @@ UID:c5d427ef-5bee-bc98-029d-dee0e82c734f@gds.incidentiq.com
 SUMMARY:Middle School Fall Musical
 DTSTART;TZID=America/New_York:20251114T183000
 DTEND;TZID=America/New_York:20251114T193000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -801,7 +801,7 @@ DTSTART;TZID=America/New_York:20250920T203000
 DTEND;TZID=America/New_York:20250920T230000
 DESCRIPTION:High School students are invited to the first dance of the y
  ear. Join us for the HS homecoming dance following Sports Saturday.
-LOCATION:260
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -973,7 +973,7 @@ SUMMARY:High School Graduation
 DTSTART;TZID=America/New_York:20260607T150000
 DTEND;TZID=America/New_York:20260607T170000
 DESCRIPTION:We're excited to celebrate our Class of 2026. Stay tuned for more details.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -989,7 +989,7 @@ UID:b42345d7-5ad1-419d-92d8-414dcc727be5@gds.incidentiq.com
 SUMMARY:Lower Middle School Field Day
 DTSTART;TZID=America/New_York:20260605T081500
 DTEND;TZID=America/New_York:20260605T120000
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1061,7 +1061,7 @@ SUMMARY:8th Grade Closing Ceremony
 DTSTART;TZID=America/New_York:20260604T090000
 DTEND;TZID=America/New_York:20260604T103000
 DESCRIPTION:Reception will be from 10:30am-11:30am on the LMS patio.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,7 +1069,7 @@ UID:b2dee6ab-bd03-4cbf-91ad-4982be6a4f78@gds.incidentiq.com
 SUMMARY:High School Graduation Rehearsal
 DTSTART;TZID=America/New_York:20260603T100000
 DTEND;TZID=America/New_York:20260603T120000
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1097,7 +1097,7 @@ DTSTART;TZID=America/New_York:20260604T133000
 DTEND;TZID=America/New_York:20260604T143000
 DESCRIPTION:LS 4th grade parents are invited to join us for the 4th Grad
  e Promotion Ceremony.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1300,7 +1300,7 @@ UID:73dbfa91-abaa-4c61-a84d-502c5cfd5524@gds.incidentiq.com
 SUMMARY:4th Grade Band Concert
 DTSTART;TZID=America/New_York:20260529T084500
 DTEND;TZID=America/New_York:20260529T094500
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1308,7 +1308,7 @@ UID:ef8fc9ba-1525-432e-9cb8-77a54bec2e26@gds.incidentiq.com
 SUMMARY:Middle School Band Concert
 DTSTART;TZID=America/New_York:20260528T183000
 DTEND;TZID=America/New_York:20260528T193000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1347,7 +1347,7 @@ UID:e91f8f84-a750-4e0e-9e11-ebc355c1e621@gds.incidentiq.com
 SUMMARY:Middle School Dance Showcase
 DTSTART;TZID=America/New_York:20260521T183000
 DTEND;TZID=America/New_York:20260521T193000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1376,7 +1376,7 @@ DTSTART;TZID=America/New_York:20260519T084500
 DTEND;TZID=America/New_York:20260519T094500
 DESCRIPTION:5th grade families are invited to campus to this culmination
   of the fifth grade Traveling Biographies project.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1416,7 +1416,7 @@ UID:ebba5ac5-77c7-4035-a8fb-f84d135316d7@gds.incidentiq.com
 SUMMARY:Middle School Chorus Concert
 DTSTART;TZID=America/New_York:20260514T183000
 DTEND;TZID=America/New_York:20260514T203000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1617,7 +1617,7 @@ DTSTART;TZID=America/New_York:20260501T183000
 DTEND;TZID=America/New_York:20260501T193000
 DESCRIPTION:Middle School Community Production is written and performed 
  by Middle School students.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1627,7 +1627,7 @@ DTSTART;TZID=America/New_York:20260430T183000
 DTEND;TZID=America/New_York:20260430T193000
 DESCRIPTION:Middle School Community Production is written and performed 
  by Middle School students.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1643,7 +1643,7 @@ UID:03888169-0e74-49ce-b862-e5820e61d4b9@gds.incidentiq.com
 SUMMARY:High School Spring Choral Concert
 DTSTART;TZID=America/New_York:20260428T190000
 DTEND;TZID=America/New_York:20260428T210000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1670,7 +1670,7 @@ DESCRIPTION:GDS welcomes the grandparents and special friends of our Low
  er/Middle School students for a visit at the LMS to enjoy brunch\, watch p
  erformances\, and experience the teaching and learning that their loved on
  es participate in each day.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1699,7 +1699,7 @@ DTSTART;TZID=America/New_York:20260417T083000
 DTEND;TZID=America/New_York:20260417T093000
 DESCRIPTION:Fourth Grade families are encouraged to join us for the Lowe
  r School Free to Be Me Assembly in the LMS Flex Space.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2063,7 +2063,7 @@ DTSTART;TZID=America/New_York:20260318T144500
 DTEND;TZID=America/New_York:20260318T153000
 DESCRIPTION:Join us for this annual celebration of the fourth of our fiv
  e keystone assemblies which uplifts the community value of freedom.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2168,7 +2168,7 @@ DESCRIPTION:Admitted Lower School parents and guardians are invited to a
   celebration to meet school leadership and parents as you continue to expl
  ore GDS as your child(ren)'s next school.  \n\nFor more information\, plea
  se contact GDS Admissions at admissions@gds.org.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2180,7 +2180,7 @@ DESCRIPTION:Admitted Middle School parents/guardians and students are in
  vited to a celebration to meet school leadership\, faculty\, and peers as 
  you continue to explore GDS as your child(ren)'s next school.  \n\nFor mor
  e information\, please contact GDS Admissions at admissions@gds.org.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2200,7 +2200,7 @@ DESCRIPTION:Admitted High School students and their parents/guardians ar
  e invited to our Athletics Meet & Greet. All teams will be represented\, a
  nd you will have the chance to meet coaches and players as you explore the
   many opportunities for student-athletes at GDS.
-LOCATION:L101
+LOCATION:L101 HS Turf Room
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2292,7 +2292,7 @@ UID:3424acf2-24c6-474e-be3d-ca0e9ede3bdc@gds.incidentiq.com
 SUMMARY:LMS Break Camp
 DTSTART;TZID=America/New_York:20260302T080000
 DTEND;TZID=America/New_York:20260302T160000
-LOCATION:121
+LOCATION:121 Multi-Purpose Room
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2388,7 +2388,7 @@ DTSTART;TZID=America/New_York:20260220T183000
 DTEND;TZID=America/New_York:20260220T210000
 DESCRIPTION:Join us for the Middle School Family Fun Night! There will b
  e lots of fun and games!
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2510,7 +2510,7 @@ DTEND;TZID=America/New_York:20260210T170000
 DESCRIPTION:To celebrate the end of this session\, younger buddies in gr
  ades 3rd-8th will join their older buddies for a celebration of joy and fr
  iendship.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2531,7 +2531,7 @@ UID:a3069e81-8b69-4d7e-8e34-cc0d502c0226@gds.incidentiq.com
 SUMMARY:Social Justice Teach-In Day Evening Programming
 DTSTART;TZID=America/New_York:20260209T183000
 DTEND;TZID=America/New_York:20260209T203000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2552,7 +2552,7 @@ DTEND;TZID=America/New_York:20260209T170000
 DESCRIPTION:To celebrate the end of this session\, younger buddies in gr
  ades PK-2 will join their older buddies for a celebration of joy and frien
  dship.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2603,7 +2603,7 @@ DESCRIPTION:It's finally here! LS parents are invited to attend the LS P
   and parents (faculty and staff as well)! Please be seated by 8:55 am in t
  he gym. \n\nFor more information\, please contact LS Office at lsoffice@gd
  s.org.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2635,7 +2635,7 @@ DTSTART;TZID=America/New_York:20260130T190000
 DTEND;TZID=America/New_York:20260130T203000
 DESCRIPTION:The fifth and sixth grade dance is a DJ dance party with sna
  cks and treats provided by our PSA.  Come join the fun!
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2644,7 +2644,7 @@ SUMMARY:Lower School MLK Jr. Justice Assembly
 DTSTART;TZID=America/New_York:20260130T084500
 DTEND;TZID=America/New_York:20260130T094500
 DESCRIPTION:First Grade families only are encouraged to join us.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2688,7 +2688,7 @@ DTEND;TZID=America/New_York:20260124T230000
 DESCRIPTION:The High School Winter Formal (semi-formal really) is back. 
  Come enjoy an evening of dancing and music with your high school friends a
  t the "Win-fo". Tickets will go on sale the week before the dance.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2706,7 +2706,7 @@ DTSTART;TZID=America/New_York:20260122T183000
 DTEND;TZID=America/New_York:20260122T193000
 DESCRIPTION:Join the MS Dance students as they showcase their work from 
  the first semester.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2759,7 +2759,7 @@ UID:08434829-7737-423a-ab53-48cd4d46a47e@gds.incidentiq.com
 SUMMARY:Middle School Band Concert
 DTSTART;TZID=America/New_York:20260115T183000
 DTEND;TZID=America/New_York:20260115T200000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2782,7 +2782,7 @@ UID:f6f4db56-bc97-417f-a496-fcf81cf910fb@gds.incidentiq.com
 SUMMARY:Faculty & Staff State of the School
 DTSTART;TZID=America/New_York:20260114T160000
 DTEND;TZID=America/New_York:20260114T173000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3088,7 +3088,7 @@ SUMMARY:GDS 360 Mighty Hopper Club Day
 DTSTART;TZID=America/New_York:20251219T120000
 DTEND;TZID=America/New_York:20251219T180000
 DESCRIPTION:Special GDS 360 programming is offered from 12pm-6pm.
-LOCATION:121
+LOCATION:121 Multi-Purpose Room
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3098,7 +3098,7 @@ DTSTART;TZID=America/New_York:20251219T110000
 DTEND;TZID=America/New_York:20251219T120000
 DESCRIPTION:Join us for this annual celebration of the second of our fiv
  e keystone assemblies which uplifts the community value of peace.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3116,7 +3116,7 @@ DTSTART;TZID=America/New_York:20251219T090000
 DTEND;TZID=America/New_York:20251219T094500
 DESCRIPTION:Lower School families are invited to join us for the Lower S
  chool Christmas Peace Assembly.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3156,7 +3156,7 @@ UID:af9cc841-4f3d-4779-bbea-3d617f6b115e@gds.incidentiq.com
 SUMMARY:GDS Choral Extravaganza
 DTSTART;TZID=America/New_York:20251210T190000
 DTEND;TZID=America/New_York:20251210T203000
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3343,7 +3343,7 @@ UID:f0319b1a-c85a-49d9-8a3c-06a5bfea5a8e@gds.incidentiq.com
 SUMMARY:Middle School Fall Musical
 DTSTART;TZID=America/New_York:20251115T130000
 DTEND;TZID=America/New_York:20251115T140000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3393,7 +3393,7 @@ DTSTART;TZID=America/New_York:20251120T125500
 DTEND;TZID=America/New_York:20251120T134000
 DESCRIPTION:Please join us in celebration of the Middle School Thanksgiv
  ing Gratitude Assembly.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3402,7 +3402,7 @@ SUMMARY:Lower School Gratitude Assembly
 DTSTART;TZID=America/New_York:20251120T084500
 DTEND;TZID=America/New_York:20251120T094500
 DESCRIPTION:Second Grade Families Only are welcome to attend
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3441,7 +3441,7 @@ DTEND;TZID=America/New_York:20251118T170000
 DESCRIPTION:To celebrate the end of this session\, younger buddies in gr
  ades 3rd-8th will join their older buddies for a celebration of joy and fr
  iendship.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3457,7 +3457,7 @@ DESCRIPTION:Join us for the 28th annual Benjamin Cooper Memorial Lecture
  cident on August 12\, 1997. The Lecture Fund\, endowed by the Cooper-Areen
   family\, enables GDS to bring a renowned guest lecturer to the school eac
  h year
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3468,7 +3468,7 @@ DTEND;TZID=America/New_York:20251117T170000
 DESCRIPTION:To celebrate the end of this session\, younger buddies in gr
  ades PK-2 will join their older buddies for a celebration of joy and frien
  dship.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3490,7 +3490,7 @@ DESCRIPTION:We’re excited to invite middle school students and parents/g
  amily Fun Movie Night is free.\n\nReminder to GDS 360 parents: You will ne
  ed to come to school and check-out your student before proceeding with the
  m to the event.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3504,7 +3504,7 @@ DESCRIPTION:We’re excited to invite lower school students and parents/gu
  nReminder to GDS 360 parents: You will need to come to school and check-ou
  t your student before proceeding with them to the Family Fun Night. \n\nRe
  gistration details to follow.
-LOCATION:B200 - Gym
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3603,7 +3603,7 @@ UID:1f9695a6-6dee-4079-871b-26d09862dbd3@gds.incidentiq.com
 SUMMARY:Choralcopia
 DTSTART;TZID=America/New_York:20251105T190000
 DTEND;TZID=America/New_York:20251105T210000
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3677,7 +3677,7 @@ DTSTART;TZID=America/New_York:20251031T125500
 DTEND;TZID=America/New_York:20251031T153000
 DESCRIPTION:Middle School students will join the annual Halloween Parade
   follwed by the Middle School fall talent show.
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3725,7 +3725,7 @@ DTEND;TZID=America/New_York:20251024T203000
 DESCRIPTION:The 7th and 8th-grade Dance/Social is a dance party hosted b
  y the Middle School office with snacks and treats provided by our PSA. Com
  e join the fun!
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3772,7 +3772,7 @@ DESCRIPTION:The GDS College Counseling Office invites students in 10th t
  nderful opportunity for students to discover a wide range of colleges and 
  universities\, sign up for some mailing lists\, and ask questions in a cas
  ual format.
-LOCATION:L101
+LOCATION:L101 HS Turf Room
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4326,7 +4326,7 @@ DESCRIPTION:Join us for our first PSA meeting of the year\, featuring a
  MS Flexible Performance Space. Learn what’s ahead for GDS and how the PSA 
  will support our community this year. This will be an in-person only event
  .
-LOCATION:B201
+LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
