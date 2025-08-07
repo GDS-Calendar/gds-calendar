@@ -54,7 +54,7 @@ DTEND;TZID=America/New_York:20260526T131500
 DESCRIPTION:Join the DEI Office as we celebrate seniors who are part of 
  our affinity groups at the High School. All seniors who identify within ou
  r affinity groups and their families are invited.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ UID:53f5a7bb-8e8f-40de-82f5-3dfad90f1163@gds.incidentiq.com
 SUMMARY:7th Grade Coffee
 DTSTART;TZID=America/New_York:20260309T083000
 DTEND;TZID=America/New_York:20260309T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +78,7 @@ UID:cae80b38-76ce-47a0-8a0f-d12121d35096@gds.incidentiq.com
 SUMMARY:8th Grade Coffee
 DTSTART;TZID=America/New_York:20260129T083000
 DTEND;TZID=America/New_York:20260129T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -105,7 +105,7 @@ UID:774f3164-7f5d-4e10-b783-3d28d4563e5e@gds.incidentiq.com
 SUMMARY:6th Grade Parent Coffee
 DTSTART;TZID=America/New_York:20251110T083000
 DTEND;TZID=America/New_York:20251110T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +118,7 @@ DESCRIPTION:Building a Foundation for Kindness and Consideration Online
  sibility Programming in Health classes\, talk to teachers and HS students\
  , learn skills for navigating social device use for your child. \n\nContac
  t Caitlin Hutcheon for more information.
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ UID:6b2a41b2-b220-41de-9c1b-c70aa2e7ef4a@gds.incidentiq.com
 SUMMARY:5th Grade Parent Coffee
 DTSTART;TZID=America/New_York:20251027T081500
 DTEND;TZID=America/New_York:20251027T091500
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -141,7 +141,7 @@ DESCRIPTION:Please join us for an in person session to learn more about
  is a great opportunity to get your questions answered and hear how this ex
  perience supports student growth\, teamwork\, and connection. We hope to s
  ee you there!
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -351,7 +351,7 @@ DTSTART;TZID=America/New_York:20260410T183000
 DTEND;TZID=America/New_York:20260410T203000
 DESCRIPTION:The GDS HS slam poetry club invites you to a poetry night & 
  open mic featuring guest poets\, live music\, and student performances.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -433,7 +433,7 @@ DTSTART;TZID=America/New_York:20260307T090000
 DTEND;TZID=America/New_York:20260307T160000
 DESCRIPTION:Each year\, GDS brings a guest artist to lead dance classes 
  for high school dancers and adults.
-LOCATION:L200
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -456,7 +456,7 @@ DESCRIPTION:Families will select a conference between 3/19/2026 and 3/20
  /2026 for their child's Student Led Conference. Both students and caregive
  rs should plan to be present in-person/on campus. No classes for students 
  on March 19 and 20.
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -529,7 +529,7 @@ UID:d0a7a501-e86f-4310-97c0-3b5e7abbdfaf@gds.incidentiq.com
 SUMMARY:Jazz Visiting Artist Concert
 DTSTART;TZID=America/New_York:20251203T190000
 DTEND;TZID=America/New_York:20251203T200000
-LOCATION:L200
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -539,7 +539,7 @@ DTSTART;TZID=America/New_York:20251025T090000
 DTEND;TZID=America/New_York:20251025T160000
 DESCRIPTION:Each year\, GDS brings a guest artist to lead dance classes 
  for high school dancers and adults.
-LOCATION:L200
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -547,7 +547,7 @@ UID:2a3e2f70-439d-4adc-a16c-953ba041a9b5@gds.incidentiq.com
 SUMMARY:Jazz Residency Concert
 DTSTART;TZID=America/New_York:20251030T190000
 DTEND;TZID=America/New_York:20251030T203000
-LOCATION:L200
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -598,7 +598,7 @@ DESCRIPTION:Join us as we welcome back author\, parenting expert and par
   we're inviting her to continue the conversation. Come to hear more about 
  effective parenting\, be encouraged\, and learn strategies to improve your
   connection with your children/teens.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -665,7 +665,7 @@ UID:c861d1aa-5383-4f5c-8721-a76e0f7bff63@gds.incidentiq.com
 SUMMARY:Parent Connect: Raising Kids Who Can
 DTSTART;TZID=America/New_York:20251118T190000
 DTEND;TZID=America/New_York:20251118T203000
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -719,7 +719,7 @@ DESCRIPTION:Join the counselors and Debbie Riley\, LCMFT\, and CEO at th
  d offer support for adoptive parents. Families and student support team me
  mbers from other nearby independent schools are also invited.\n\nPlease co
  ntact Meryl Heyliger with questions: mheyliger@gds.org
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -746,7 +746,7 @@ DTEND;TZID=America/New_York:20251031T131500
 DESCRIPTION:Please join us for an event for parents and guardians to lea
  rn more about the 4th grade puberty curriculum from the Health & Wellness 
  team.\n\nQuestions? Email Catilin Hutcheon chutcheon@gds.org
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -791,7 +791,7 @@ DESCRIPTION:Please join us for the first of our regular opportunities to
  lking about the start of the year and your hopes for your children/teens.\
  n\nPlease contact Meryl Heyliger\, Counseling Department Chair\, at mheyli
  ger@gds.org.
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -822,7 +822,7 @@ UID:527e81a1-8957-4c60-ae2d-a3e520c31793@gds.incidentiq.com
 SUMMARY:Grades 1-4 New Family Orientation
 DTSTART;TZID=America/New_York:20250902T081500
 DTEND;TZID=America/New_York:20250902T090000
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1248,7 +1248,7 @@ DTEND;TZID=America/New_York:20260527T200000
 DESCRIPTION:The Senior Quest presentations begin at 6:00 p.m. at the HS.
   We regret that due to space limitations\, we cannot accommodate siblings 
  and extended family members at Senior Quest Night.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1256,7 +1256,7 @@ UID:6ffa024b-3aec-44a7-9cef-8270402f4106@gds.incidentiq.com
 SUMMARY:High School Year-End Assembly
 DTSTART;TZID=America/New_York:20260527T084500
 DTEND;TZID=America/New_York:20260527T095500
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1276,7 +1276,7 @@ DESCRIPTION:Advisory groups attend one Senior Quest presentation in whic
  h they hear about three different quests. It provides the seniors with a c
  hance to practice their presentations before the big night as well as teac
  hes our underclassmen about our Senior Quest program.
-LOCATION:L205
+LOCATION:L205 HS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1440,7 +1440,7 @@ UID:86128525-7bd3-4b0b-9279-df6d4a5c6d13@gds.incidentiq.com
 SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty Speaker)
 DTSTART;TZID=America/New_York:20260513T081500
 DTEND;TZID=America/New_York:20260513T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1481,7 +1481,7 @@ DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  one complimentary ticket. Tickets are available online by credit or debit 
  card\, or cash at the door. We sell out\, so we recommend buying tickets o
  nline. Seating is on a first come\, first served basis.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1496,7 +1496,7 @@ DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  one complimentary ticket. Tickets are available online by credit or debit 
  card\, or cash at the door. We sell out\, so we recommend buying tickets o
  nline. Seating is on a first come\, first served basis.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1511,7 +1511,7 @@ DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  one complimentary ticket. Tickets are available online by credit or debit 
  card\, or cash at the door. We sell out\, so we recommend buying tickets o
  nline. Seating is on a first come\, first served basis.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1580,7 +1580,7 @@ UID:ebf61e77-dcc5-4d09-862f-a9a0b916aa26@gds.incidentiq.com
 SUMMARY:20 Year Club Luncheon
 DTSTART;TZID=America/New_York:20260503T100000
 DTEND;TZID=America/New_York:20260503T120000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1658,7 +1658,7 @@ DESCRIPTION:The College Counseling Office along with test preparation ex
  as they prepare to take these exams\, and discuss the test preparation opt
  ions available at GDS. Juniors who took the optional mock ACT exam will al
  so receive the results of that test at this time.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1755,7 +1755,7 @@ UID:ac0113b0-c704-4599-8f66-8bb44ae337b9@gds.incidentiq.com
 SUMMARY:New-to-GDS 9th Grade Placement and Registration
 DTSTART;TZID=America/New_York:20260409T160000
 DTEND;TZID=America/New_York:20260409T170000
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1824,7 +1824,7 @@ DESCRIPTION:This year\, the Office of Diversity\, Equity\, and Inclusion
  sionals within our school and outside of the community. The goal of these 
  programs is to create spaces for our community to engage with each other i
  n dialogue with experts in their field and members of our community.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2020,7 +2020,7 @@ DTSTART;TZID=America/New_York:20260320T080000
 DTEND;TZID=America/New_York:20260320T160000
 DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
  osted in the fall at www.gds.org/breakcamp!
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2030,7 +2030,7 @@ DTSTART;TZID=America/New_York:20260319T080000
 DTEND;TZID=America/New_York:20260319T160000
 DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
  osted in the fall at www.gds.org/breakcamp!
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2038,7 +2038,7 @@ UID:2eba8349-4376-40fd-9cc2-c0f085c3486a@gds.incidentiq.com
 SUMMARY:High School Integration Bee
 DTSTART;TZID=America/New_York:20260318T180000
 DTEND;TZID=America/New_York:20260318T200000
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2077,7 +2077,7 @@ DESCRIPTION:Admitted students will spend time visiting classes\, meeting
  owever\, we do hope you will register as you consider GDS as your next sch
  ool.\n\nFor more information\, please contact GDS Admissions at admissions
  @gds.org.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2105,7 +2105,7 @@ DESCRIPTION:Families will select a conference between 3/19/2026 and 3/20
  /2026 for their child's Student Led Conference. Both students and caregive
  rs should plan to be present in-person/on campus. No classes for students 
  on March 19 and 20.
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2126,7 +2126,7 @@ DESCRIPTION:Admitted High School parents/guardians and students are invi
  ted to meet school leadership\, faculty\, parents\, and students as you co
  ntinue to explore GDS as your child(ren)'s next school.\n\nFor more inform
  ation\, please contact GDS Admissions at admissions@gds.org.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2148,7 +2148,7 @@ DESCRIPTION:Admitted students will spend time visiting classes\, meeting
  owever\, we do hope you will register as you consider GDS as your next sch
  ool.\n\nFor more information\, please contact GDS Admissions at admissions
  @gds.org.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2156,7 +2156,7 @@ UID:9dd9f186-b18b-40c6-8e6a-41e046e3b2d7@gds.incidentiq.com
 SUMMARY:High School Go-Go
 DTSTART;TZID=America/New_York:20260313T210000
 DTEND;TZID=America/New_York:20260313T230000
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2214,7 +2214,7 @@ DESCRIPTION:Admitted students will spend time visiting classes\, meeting
  owever\, we do hope you will register as you consider GDS as your next sch
  ool.\n\nFor more information\, please contact GDS Admissions at admissions
  @gds.org.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2412,7 +2412,7 @@ UID:29c1ded2-20b4-42a3-8a25-e95496fc52ed@gds.incidentiq.com
 SUMMARY:High School Minimester
 DTSTART;TZID=America/New_York:20260218T084500
 DTEND;TZID=America/New_York:20260218T151500
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2476,7 +2476,7 @@ DTEND;TZID=America/New_York:20260211T133000
 DESCRIPTION:A luncheon for former GDS State of the School presentation t
  ailored to update former members of Georgetown Day School's Board of Trust
  ees.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2484,7 +2484,7 @@ UID:849763b3-780b-461f-989b-1851771ce9d0@gds.incidentiq.com
 SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty Speaker)
 DTSTART;TZID=America/New_York:20260212T081500
 DTEND;TZID=America/New_York:20260212T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2580,7 +2580,7 @@ DESCRIPTION:Donors who make annual gifts of $2\,500 or more are members
  bers of the 1945 Society\, & those who volunteered last year to secure fou
  ndational philanthropic support for the School\, will be celebrated at a b
  runch gratitude gathering following the Lower School Dance Assembly.
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2617,7 +2617,7 @@ DESCRIPTION:If you have ever wondered how an admissions committee review
  small groups of parents and students through the review of ""mock” applica
  tions to help students and families gain a greater understanding of the ap
  plication review and admissions committee processes.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2677,7 +2677,7 @@ DESCRIPTION:Parents are invited to join us for this evening session\, in
  ol stands for the 2025-26 school year. The State of the School presentatio
  n will be followed by our annual Parent Corporation Meeting held by the Bo
  ard of Trustees.
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2774,7 +2774,7 @@ DESCRIPTION:All high school parents/guardians (particularly 9th and 10th
  nteers. It takes place after the prom in the High School Gym and provides 
  a fun\, relaxing\, and safe space for kids to hang out for a few hours. Wh
  ether you have a little time to give or a lot\, we have a job for you!
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2805,7 +2805,7 @@ DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  one complimentary ticket. Tickets are available online by credit or debit 
  card\, or cash at the door. We sell out\, so we recommend buying tickets o
  nline. Seating is on a first come\, first served basis.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2820,7 +2820,7 @@ DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  one complimentary ticket. Tickets are available online by credit or debit 
  card\, or cash at the door. We sell out\, so we recommend buying tickets o
  nline. Seating is on a first come\, first served basis.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2835,7 +2835,7 @@ DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  one complimentary ticket. Tickets are available online by credit or debit 
  card\, or cash at the door. We sell out\, so we recommend buying tickets o
  nline. Seating is on a first come\, first served basis.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2850,7 +2850,7 @@ DESCRIPTION:The College Counseling Office welcomes juniors and their par
  o about the college search process\, share information about how colleges 
  make admissions decisions\, and highlight the nuts and bolts of the GDS co
  llege counseling program. Attendance is strongly encouraged.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3106,7 +3106,7 @@ UID:1ecfe994-30ca-448a-822f-38a7f47be32c@gds.incidentiq.com
 SUMMARY:High School Christmas Peace Assembly
 DTSTART;TZID=America/New_York:20251219T104500
 DTEND;TZID=America/New_York:20251219T120000
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3125,7 +3125,7 @@ SUMMARY:6th Grade Family Box Project
 DTSTART;TZID=America/New_York:20251219T084500
 DTEND;TZID=America/New_York:20251219T094500
 DESCRIPTION:Join us for a display of one of the keystone projects of 6th grade English!
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3148,7 +3148,7 @@ UID:2c8f26e5-1402-448c-9a99-a04b6c4c8237@gds.incidentiq.com
 SUMMARY:PSA Division Meetings and coffee with TBD Faculty Speaker
 DTSTART;TZID=America/New_York:20251210T081500
 DTEND;TZID=America/New_York:20251210T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3178,7 +3178,7 @@ DESCRIPTION:Certified financial planners and experts in college financia
  l information will be kept confidential. Information about what documents 
  to bring will be emailed to families prior to the event. We strongly encou
  rage parents to RSVP (by emailing Deirdre Nicholson).
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3317,7 +3317,7 @@ DTSTART;TZID=America/New_York:20251125T080000
 DTEND;TZID=America/New_York:20251125T160000
 DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
  osted in the fall at www.gds.org/breakcamp!
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3335,7 +3335,7 @@ DTSTART;TZID=America/New_York:20251124T080000
 DTEND;TZID=America/New_York:20251124T160000
 DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
  osted in the fall at www.gds.org/breakcamp!
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3354,7 +3354,7 @@ DTEND;TZID=America/New_York:20251122T180000
 DESCRIPTION:GDS hosts students\, parents\, and faculty from schools arou
  nd the country and engage in conversations and workshops regarding consent
  . To learn more visit https://www.gds-consentsummit.com/
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3365,7 +3365,7 @@ DTEND;TZID=America/New_York:20251121T210000
 DESCRIPTION:GDS hosts students\, parents\, and faculty from schools arou
  nd the country and engage in conversations and workshops regarding consent
  . To learn more visit https://www.gds-consentsummit.com/
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3383,7 +3383,7 @@ DTSTART;TZID=America/New_York:20251121T080000
 DTEND;TZID=America/New_York:20251121T160000
 DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
  osted in the fall at www.gds.org/breakcamp!
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3422,7 +3422,7 @@ DESCRIPTION:The Office of Diversity\, Equity and Inclusion in partnershi
  p with the Black Student Union (BSU) invites all Affinity Groups and Allie
  s and the GDS Community to attend the Annual GDS Community Gratitude Dinne
  r.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3554,7 +3554,7 @@ DTEND;TZID=America/New_York:20251110T203000
 DESCRIPTION:Conversations that Count is an annual evening event for GDS 
  9th graders and their parents where families will hear from experts and en
  gage in dialog with students about adolescent alcohol and drug use.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3696,7 +3696,7 @@ DTEND;TZID=America/New_York:20250929T151500
 DESCRIPTION:Students will complete online MAP Testing in Math and Readin
  g during some periods of the day. Students need to be sure to get a good n
  ight’s sleep\, eat breakfast\, and bring a charged chromebook to school.
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3706,7 +3706,7 @@ DTSTART;TZID=America/New_York:20251028T084500
 DTEND;TZID=America/New_York:20251028T094500
 DESCRIPTION:We welcome New (and New-ish) parents and guardians to share 
  their experiences and questions with other parents and PSA leadership.
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3750,7 +3750,7 @@ DTSTART;TZID=America/New_York:20251023T084500
 DTEND;TZID=America/New_York:20251023T094500
 DESCRIPTION:Join the 11th and 12th Grade Dean for a Presentation and Con
  versation. For more information\, please contact GDS PSA at psa@gds.org.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4052,7 +4052,7 @@ DESCRIPTION:Donors who make annual gifts of $2\,500 or more are members
  se who volunteered last year to secure foundational philanthropic support 
  for the School\, will be celebrated at a reception hosted by the HoS & BoT
  .
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4075,7 +4075,7 @@ UID:ae7d5f5a-d9ea-40ca-b907-8aacdc6e8c04@gds.incidentiq.com
 SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty speaker)
 DTSTART;TZID=America/New_York:20251009T081500
 DTEND;TZID=America/New_York:20251009T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4158,7 +4158,7 @@ DTSTART;TZID=America/New_York:20250928T080000
 DTEND;TZID=America/New_York:20250928T180000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4168,7 +4168,7 @@ DTSTART;TZID=America/New_York:20250927T080000
 DTEND;TZID=America/New_York:20250927T180000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4178,7 +4178,7 @@ DTSTART;TZID=America/New_York:20250926T160000
 DTEND;TZID=America/New_York:20250926T210000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4280,7 +4280,7 @@ DESCRIPTION:All volunteers\, new and experienced alike\, are welcome and
   encouraged to attend.  Current parents come together as a team to raise m
  uch needed-funds to support our educational programs\, athletic programs\,
   financial aid\, etc..
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4298,7 +4298,7 @@ DTSTART;TZID=America/New_York:20250918T180000
 DTEND;TZID=America/New_York:20250918T200000
 DESCRIPTION:Please join us for Lower school Curriculum Night to learn ab
  out your child's daily school experience.
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4361,7 +4361,7 @@ DESCRIPTION:The Office of Diversity\, Equity & Inclusion welcomes our co
  g our new student leaders\, new families\, and new employees. We are excit
  ed to engage in conversation as we continue to strive towards our mission 
  of an inclusive environment where everyone can be their authentic selves!
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4393,7 +4393,7 @@ DESCRIPTION:GDS Parents and Guardians are invited to join us for an info
  rmation and planning meeting for Country Market Day (CMD). CMD is a belove
  d GDS tradition that requires an all-hands-in attitude by parents! Please 
  join us to discuss plans.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4413,7 +4413,7 @@ UID:8de1ced5-d2d8-40db-84e4-54e2e6b63c6d@gds.incidentiq.com
 SUMMARY:9th Grade Picture Day #2
 DTSTART;TZID=America/New_York:20250911T083000
 DTEND;TZID=America/New_York:20250911T140000
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4433,7 +4433,7 @@ UID:7be6ecd1-2499-4482-97b9-198cfdfe5391@gds.incidentiq.com
 SUMMARY:Meet and Greet with the LS Principal
 DTSTART;TZID=America/New_York:20250910T083000
 DTEND;TZID=America/New_York:20250910T093000
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4448,7 +4448,7 @@ DESCRIPTION:"All seniors will have an extended* on-campus portrait sessi
  will have the option to purchase downloads and/or prints. \n\n*These sessi
  ons are longer than the typical student portraits\, involving more than on
  e location."
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4562,7 +4562,7 @@ DESCRIPTION:Parents/Guardians of seniors are invited to this important s
  h process to help families move through the fall as effectively and effici
  ently as possible. Students will have their own program covering this mate
  rial during the day.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4598,7 +4598,7 @@ DTSTART;TZID=America/New_York:20250902T100000
 DTEND;TZID=America/New_York:20250902T110000
 DESCRIPTION:Grade 1 and Grade 4 students and their parents are invited t
  o visit their classrooms and connect with their classroom communities.
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4639,7 +4639,7 @@ DTSTART;TZID=America/New_York:20250902T090000
 DTEND;TZID=America/New_York:20250902T100000
 DESCRIPTION:Pre-Kindergarten and Kindergarten students and their parents
   are invited to visit their classrooms and connect with the community.
-LOCATION:130
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4663,7 +4663,7 @@ UID:de8db1fd-49d0-48ac-8f88-6a290ca2df8e@gds.incidentiq.com
 SUMMARY:12th Grade Students: Class Events and College Counseling Workshops
 DTSTART;TZID=America/New_York:20250903T084500
 DTEND;TZID=America/New_York:20250903T150000
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4671,7 +4671,7 @@ UID:7f84e509-0c5f-43c5-8a49-40e5ea45f5d3@gds.incidentiq.com
 SUMMARY:12th Grade Students: Class Events and College Counseling Workshops
 DTSTART;TZID=America/New_York:20250902T084500
 DTEND;TZID=America/New_York:20250902T150000
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4684,7 +4684,7 @@ DESCRIPTION:These days continue the work we started in Orientation Part
  ons and responsibilities of our community\, and exploring the ins and outs
   of student life at the GDS High School. By the end\, students should be r
  eady to jump right into classes and the fall semester.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4697,7 +4697,7 @@ DESCRIPTION:These days continue the work we started in Orientation Part
  ons and responsibilities of our community\, and exploring the ins and outs
   of student life at the GDS High School. By the end\, students should be r
  eady to jump right into classes and the fall semester.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4726,7 +4726,7 @@ DTEND;TZID=America/New_York:20250828T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4737,7 +4737,7 @@ DTEND;TZID=America/New_York:20250827T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4748,7 +4748,7 @@ DTEND;TZID=America/New_York:20250826T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4759,7 +4759,7 @@ DTEND;TZID=America/New_York:20250825T160000
 DESCRIPTION:Join us for a final summer break camp before school starts! 
  Open to students in PK-4th grade. \n\nTo register please go to hopperextra
  s.campbrainregistration.com
-LOCATION:104
+LOCATION:104 LMS Main Lobby
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4839,7 +4839,7 @@ DESCRIPTION:Families whose children will be taking public transit to sch
  DS bus stops. Pedestrian safety (such as safe crosswalk training\, alert w
  alking\, etc.) and tips on what to do in case of the unexpected will be co
  vered.
-LOCATION:101
+LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5035,7 +5035,7 @@ DESCRIPTION:All 9th graders will gather for a chance to meet each other\
  , learn about the culture of the high school\, connect with some current s
  tudents\, meet with staff (teachers\, deans\, administrators)\, and get fa
  miliar with the building before the first day of school.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5047,7 +5047,7 @@ DESCRIPTION:All 9th graders will gather for a chance to meet each other\
  , learn about the culture of the high school\, connect with some current s
  tudents\, meet with staff (teachers\, deans\, administrators)\, and get fa
  miliar with the building before the first day of school.
-LOCATION:220
+LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5059,7 +5059,7 @@ DESCRIPTION:All 9th graders will have their pictures taken during Orient
  ation for student IDs\, MyGDS\, the yearbook\, and for school portraits\, 
  which families can later purchase. A make-up day will follow for those who
   miss picture day or families who are not pleased with their portraits.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5067,7 +5067,7 @@ UID:154c297f-0f81-4106-8b62-e23b24e6cc5d@gds.incidentiq.com
 SUMMARY:9th Grade Bridge Family Cookout
 DTSTART;TZID=America/New_York:20250813T173000
 DTEND;TZID=America/New_York:20250813T193000
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5082,7 +5082,7 @@ DESCRIPTION:Hop-Into-GDS Bridge Program. We invite new-to-GDS 9th grader
  erience and to develop a cohort of students who are able to grow together 
  as a community before 9th grade orientation begins.\n\nEmail hs-office@gds
  .org with questions.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5097,7 +5097,7 @@ DESCRIPTION:Hop-Into-GDS Bridge Program. We invite new-to-GDS 9th grader
  erience and to develop a cohort of students who are able to grow together 
  as a community before 9th grade orientation begins.\n\nEmail hs-office@gds
  .org with questions.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Walid Test-Beta:mailto:walid-test@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -5112,7 +5112,7 @@ DESCRIPTION:Hop-Into-GDS Bridge Program. We invite new-to-GDS 9th grader
  erience and to develop a cohort of students who are able to grow together 
  as a community before 9th grade orientation begins.\n\nEmail hs-office@gds
  .org with questions.
-LOCATION:G001
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT

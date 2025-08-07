@@ -421,8 +421,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -434,14 +434,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "May 26, 2026\n11:15 AM - 01:15 PM",
     "CustomFieldValues": [
       {
@@ -638,8 +638,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -652,14 +652,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "March 09, 2026\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -748,8 +748,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -762,14 +762,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "January 29, 2026\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -1074,8 +1074,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -1088,14 +1088,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "November 10, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -1184,8 +1184,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -1198,14 +1198,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "November 06, 2025\n07:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -1294,8 +1294,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -1308,14 +1308,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "October 27, 2025\n08:15 AM - 09:15 AM",
     "CustomFieldValues": [
       {
@@ -1404,8 +1404,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -1418,14 +1418,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "May 19, 2026\n08:15 AM - 08:45 AM",
     "CustomFieldValues": [
       {
@@ -4241,8 +4241,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -4254,14 +4254,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "April 10, 2026\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -5341,8 +5341,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "f0c49932-9456-457c-85c2-e5c7ec6dd85e",
-        "Name": "L200",
-        "NameFormatted": "L200",
+        "Name": "L200 HS Dance Studio",
+        "NameFormatted": "L200 HS Dance Studio",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -5356,14 +5356,14 @@
         "InternalNotes": "Dance Studio",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "L200",
+        "NameSort": "L200 HS Dance Studio",
         "IsDeleted": false,
         "CreatedDate": "2025-07-11T00:26:24.87",
-        "ModifiedDate": "2025-07-11T00:26:24.87"
+        "ModifiedDate": "2025-08-07T18:48:22.683"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L200",
+    "LocationDisplay": "HS > L200 HS Dance Studio",
     "DateTimeDisplay": "March 07, 2026\n09:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -5624,28 +5624,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "March 20, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -6640,8 +6640,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "f0c49932-9456-457c-85c2-e5c7ec6dd85e",
-        "Name": "L200",
-        "NameFormatted": "L200",
+        "Name": "L200 HS Dance Studio",
+        "NameFormatted": "L200 HS Dance Studio",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -6655,14 +6655,14 @@
         "InternalNotes": "Dance Studio",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "L200",
+        "NameSort": "L200 HS Dance Studio",
         "IsDeleted": false,
         "CreatedDate": "2025-07-11T00:26:24.87",
-        "ModifiedDate": "2025-07-11T00:26:24.87"
+        "ModifiedDate": "2025-08-07T18:48:22.683"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L200",
+    "LocationDisplay": "HS > L200 HS Dance Studio",
     "DateTimeDisplay": "December 03, 2025\n07:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -6771,8 +6771,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "f0c49932-9456-457c-85c2-e5c7ec6dd85e",
-        "Name": "L200",
-        "NameFormatted": "L200",
+        "Name": "L200 HS Dance Studio",
+        "NameFormatted": "L200 HS Dance Studio",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -6786,14 +6786,14 @@
         "InternalNotes": "Dance Studio",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "L200",
+        "NameSort": "L200 HS Dance Studio",
         "IsDeleted": false,
         "CreatedDate": "2025-07-11T00:26:24.87",
-        "ModifiedDate": "2025-07-11T00:26:24.87"
+        "ModifiedDate": "2025-08-07T18:48:22.683"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L200",
+    "LocationDisplay": "HS > L200 HS Dance Studio",
     "DateTimeDisplay": "October 25, 2025\n09:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -6902,8 +6902,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "f0c49932-9456-457c-85c2-e5c7ec6dd85e",
-        "Name": "L200",
-        "NameFormatted": "L200",
+        "Name": "L200 HS Dance Studio",
+        "NameFormatted": "L200 HS Dance Studio",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -6917,14 +6917,14 @@
         "InternalNotes": "Dance Studio",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "L200",
+        "NameSort": "L200 HS Dance Studio",
         "IsDeleted": false,
         "CreatedDate": "2025-07-11T00:26:24.87",
-        "ModifiedDate": "2025-07-11T00:26:24.87"
+        "ModifiedDate": "2025-08-07T18:48:22.683"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L200",
+    "LocationDisplay": "HS > L200 HS Dance Studio",
     "DateTimeDisplay": "October 30, 2025\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -7384,8 +7384,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -7397,14 +7397,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "January 21, 2026\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -8427,8 +8427,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -8440,14 +8440,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "November 18, 2025\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -9206,8 +9206,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -9219,14 +9219,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "November 11, 2025\n06:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -9581,8 +9581,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -9595,14 +9595,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "October 31, 2025\n12:15 PM - 01:15 PM",
     "CustomFieldValues": [
       {
@@ -10015,8 +10015,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -10029,14 +10029,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "September 22, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -10362,8 +10362,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -10376,14 +10376,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "September 02, 2025\n08:15 AM - 09:00 AM",
     "CustomFieldValues": [
       {
@@ -15687,8 +15687,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -15700,14 +15700,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "May 27, 2026\n06:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -15796,8 +15796,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -15809,14 +15809,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "May 27, 2026\n08:45 AM - 09:55 AM",
     "CustomFieldValues": [
       {
@@ -16013,8 +16013,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "68011568-73c0-47ea-a41e-2cec3585f9f7",
-        "Name": "L205",
-        "NameFormatted": "L205",
+        "Name": "L205 HS Gym",
+        "NameFormatted": "L205 HS Gym",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -16028,14 +16028,14 @@
         "InternalNotes": "Gym",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "L205",
+        "NameSort": "L205 HS Gym",
         "IsDeleted": false,
         "CreatedDate": "2025-07-10T23:13:22.203",
-        "ModifiedDate": "2025-07-29T22:52:40.77"
+        "ModifiedDate": "2025-08-07T18:49:01.047"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > L205",
+    "LocationDisplay": "HS > L205 HS Gym",
     "DateTimeDisplay": "May 26, 2026\n09:55 AM - 10:55 AM",
     "CustomFieldValues": [
       {
@@ -18061,8 +18061,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -18075,14 +18075,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "May 13, 2026\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -18520,8 +18520,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -18533,14 +18533,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "May 09, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -18671,8 +18671,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -18684,14 +18684,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "May 08, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -18821,8 +18821,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -18834,14 +18834,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "May 07, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -19815,8 +19815,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -19829,14 +19829,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "May 03, 2026\n10:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -20751,8 +20751,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -20764,14 +20764,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "April 27, 2026\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -22053,8 +22053,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -22066,14 +22066,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "April 09, 2026\n04:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
@@ -22768,8 +22768,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -22781,14 +22781,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "April 09, 2026\n06:30 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -25646,8 +25646,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -25660,14 +25660,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "March 20, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -25777,8 +25777,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -25791,14 +25791,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "March 19, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -25887,8 +25887,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -25900,14 +25900,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "March 18, 2026\n06:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -26217,8 +26217,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -26230,14 +26230,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "March 18, 2026\n08:30 AM - 12:30 PM",
     "CustomFieldValues": [
       {
@@ -26606,28 +26606,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "March 19, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -26845,8 +26845,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -26858,14 +26858,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "March 17, 2026\n06:00 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -27062,8 +27062,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -27075,14 +27075,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "March 16, 2026\n08:30 AM - 12:30 PM",
     "CustomFieldValues": [
       {
@@ -27171,8 +27171,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -27184,14 +27184,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "March 13, 2026\n09:00 PM - 11:00 PM",
     "CustomFieldValues": [
       {
@@ -27759,8 +27759,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -27772,14 +27772,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "March 11, 2026\n08:30 AM - 12:30 PM",
     "CustomFieldValues": [
       {
@@ -30223,8 +30223,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -30236,14 +30236,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "February 18, 2026\n08:45 AM - 03:15 PM",
     "CustomFieldValues": [
       {
@@ -31020,8 +31020,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -31033,14 +31033,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "February 11, 2026\n11:30 AM - 01:30 PM",
     "CustomFieldValues": [
       {
@@ -31129,8 +31129,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -31143,14 +31143,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "February 12, 2026\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -32002,8 +32002,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -32016,14 +32016,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "February 06, 2026\n10:00 AM - 11:00 AM",
     "CustomFieldValues": [
       {
@@ -32331,8 +32331,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -32344,14 +32344,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "February 03, 2026\n06:00 PM - 08:45 PM",
     "CustomFieldValues": [
       {
@@ -32984,8 +32984,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -32998,14 +32998,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "January 26, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -33986,8 +33986,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -34000,14 +34000,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "January 15, 2026\n09:00 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -34336,8 +34336,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -34349,14 +34349,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "January 17, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -34487,8 +34487,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -34500,14 +34500,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "January 16, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -34637,8 +34637,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -34650,14 +34650,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "January 15, 2026\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -34766,8 +34766,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -34779,14 +34779,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "January 12, 2026\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -38684,8 +38684,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -38697,14 +38697,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "December 19, 2025\n10:45 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -38903,8 +38903,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -38917,14 +38917,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "December 19, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -39123,8 +39123,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -39137,14 +39137,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "December 10, 2025\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -39452,8 +39452,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -39465,14 +39465,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "December 06, 2025\n09:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -41301,8 +41301,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -41315,14 +41315,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "November 25, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -41519,8 +41519,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -41533,14 +41533,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "November 24, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -41773,8 +41773,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -41786,14 +41786,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "November 22, 2025\n08:30 AM - 06:00 PM",
     "CustomFieldValues": [
       {
@@ -41909,8 +41909,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -41922,14 +41922,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "November 21, 2025\n05:30 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -42146,8 +42146,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -42160,14 +42160,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "November 21, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -42584,8 +42584,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -42597,14 +42597,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "November 17, 2025\n04:30 PM - 05:45 PM",
     "CustomFieldValues": [
       {
@@ -43915,8 +43915,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -43928,14 +43928,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "November 10, 2025\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -45582,28 +45582,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "September 29, 2025\n08:15 AM - 03:15 PM",
     "CustomFieldValues": [
       {
@@ -45692,8 +45692,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -45706,14 +45706,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "October 28, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -46149,8 +46149,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -46162,14 +46162,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "October 23, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -49508,8 +49508,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -49522,14 +49522,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "October 09, 2025\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -49726,8 +49726,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -49740,14 +49740,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "October 09, 2025\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -50634,8 +50634,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -50647,14 +50647,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 28, 2025\n08:00 AM - 06:00 PM",
     "CustomFieldValues": [
       {
@@ -50785,8 +50785,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -50798,14 +50798,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 27, 2025\n08:00 AM - 06:00 PM",
     "CustomFieldValues": [
       {
@@ -50935,8 +50935,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -50948,14 +50948,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 26, 2025\n04:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
@@ -52083,8 +52083,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -52097,14 +52097,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "September 19, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -52301,8 +52301,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -52315,14 +52315,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "September 18, 2025\n06:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -52868,8 +52868,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -52882,14 +52882,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "September 09, 2025\n06:00 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -53250,8 +53250,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -53263,14 +53263,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "September 12, 2025\n08:30 AM - 10:00 AM",
     "CustomFieldValues": [
       {
@@ -53467,8 +53467,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -53480,14 +53480,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 11, 2025\n08:30 AM - 02:00 PM",
     "CustomFieldValues": [
       {
@@ -53682,8 +53682,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -53696,14 +53696,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "September 10, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -53792,8 +53792,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -53805,14 +53805,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 09, 2025\n08:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -55093,8 +55093,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -55106,14 +55106,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 03, 2025\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
@@ -55528,8 +55528,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -55542,14 +55542,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "September 02, 2025\n10:00 AM - 11:00 AM",
     "CustomFieldValues": [
       {
@@ -55964,8 +55964,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130",
-        "NameFormatted": "130",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -55978,14 +55978,14 @@
         "Description": "Dining",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "130",
+        "NameSort": "130 LMS Cafe",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-04-29T16:49:56.307"
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "September 02, 2025\n09:00 AM - 10:00 AM",
     "CustomFieldValues": [
       {
@@ -56311,8 +56311,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -56324,14 +56324,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "September 03, 2025\n08:45 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -56441,8 +56441,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -56454,14 +56454,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "September 02, 2025\n08:45 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -56572,8 +56572,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -56585,14 +56585,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 03, 2025\n08:45 AM - 03:15 PM",
     "CustomFieldValues": [
       {
@@ -56702,8 +56702,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -56715,14 +56715,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 02, 2025\n08:45 AM - 03:15 PM",
     "CustomFieldValues": [
       {
@@ -57049,28 +57049,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "August 28, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -57181,28 +57181,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "August 27, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -57313,28 +57313,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "August 26, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -57444,28 +57444,28 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "efc48134-956d-434f-bb1d-cc59845772b2",
-        "Name": "104",
-        "NameFormatted": "104",
+        "Name": "104 LMS Main Lobby",
+        "NameFormatted": "104 LMS Main Lobby",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "Area": 1857,
         "SeatingCapacity": 60,
         "MaximumOccupancy": 100,
         "Description": "Pre-Function (Main Lobby)",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "104",
+        "NameSort": "104 LMS Main Lobby",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.463",
-        "ModifiedDate": "2024-12-29T16:59:08.463"
+        "ModifiedDate": "2025-08-07T18:46:18.18"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 104",
+    "LocationDisplay": "LMS > 104 LMS Main Lobby",
     "DateTimeDisplay": "August 25, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -58251,8 +58251,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
-        "Name": "101",
-        "NameFormatted": "101",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
@@ -58265,14 +58265,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "101",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
         "CreatedDate": "2024-12-29T16:59:08.393",
-        "ModifiedDate": "2025-04-09T01:10:43.447"
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 101",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "August 18, 2025\n10:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -60504,8 +60504,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -60517,14 +60517,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "August 15, 2025\n09:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -60634,8 +60634,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -60647,14 +60647,14 @@
         "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "220",
+        "NameSort": "220 HS Library (Full)",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
+        "ModifiedDate": "2025-08-07T18:51:21.867"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > 220",
+    "LocationDisplay": "HS > 220 HS Library (Full)",
     "DateTimeDisplay": "August 14, 2025\n09:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -60743,8 +60743,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -60756,14 +60756,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "August 14, 2025\n09:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -60872,8 +60872,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -60885,14 +60885,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "August 13, 2025\n05:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -61003,8 +61003,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -61016,14 +61016,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "August 13, 2025\n09:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -61153,8 +61153,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -61166,14 +61166,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "August 12, 2025\n09:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
@@ -61303,8 +61303,8 @@
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "598b0e75-823d-4194-b134-e7e45c050da4",
-        "Name": "G001",
-        "NameFormatted": "G001",
+        "Name": "G001 HS Forum",
+        "NameFormatted": "G001 HS Forum",
         "Icon": "fa fa-door-open",
         "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
         "LocationName": "High School",
@@ -61316,14 +61316,14 @@
         "Description": "Forum (Main)",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "G001",
+        "NameSort": "G001 HS Forum",
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
-        "ModifiedDate": "2025-04-09T01:09:40.317"
+        "ModifiedDate": "2025-08-07T18:44:50.3"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "August 11, 2025\n09:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
