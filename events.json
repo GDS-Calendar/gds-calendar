@@ -50558,7 +50558,7 @@
     "EventTag": "10169",
     "EventId": "461146a2-1b3c-4bc5-8ab4-bfe3f1bb2449",
     "CreatedDate": "2025-07-16T14:30:30.537",
-    "ModifiedDate": "2025-07-16T14:30:30.537",
+    "ModifiedDate": "2025-08-07T09:22:57.4",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -50581,8 +50581,8 @@
     },
     "Title": "GDS National Debate Tournament",
     "Description": "GDS plays host to teams from all over the country for this early season debate showdown.",
-    "StartDateTime": "2025-09-28T16:00:00",
-    "SetUpStartDateTime": "2025-09-28T16:00:00",
+    "StartDateTime": "2025-09-28T08:00:00",
+    "SetUpStartDateTime": "2025-09-28T08:00:00",
     "EndDateTime": "2025-09-28T18:00:00",
     "BreakdownEndDateTime": "2025-09-28T18:00:00",
     "IsAllDay": false,
@@ -50594,7 +50594,7 @@
       "SeriesId": "637f4343-1d60-4496-bd7a-bc509255a89f",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2025-09-26T16:00:00",
-      "MaxStartDatetime": "2025-09-28T16:00:00"
+      "MaxStartDatetime": "2025-09-28T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "35aa07e4-1629-4236-98b0-76f9c8232530",
@@ -50655,7 +50655,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > G001",
-    "DateTimeDisplay": "September 28, 2025\n04:00 PM - 06:00 PM",
+    "DateTimeDisplay": "September 28, 2025\n08:00 AM - 06:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
@@ -50684,7 +50684,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-16T14:30:00",
+    "OverrideDateTime": "2025-08-07T09:22:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -50709,7 +50709,7 @@
     "EventTag": "10168",
     "EventId": "311d7eef-d66d-41c0-a5c8-9c9395db67b0",
     "CreatedDate": "2025-07-16T14:30:30.53",
-    "ModifiedDate": "2025-07-16T14:30:30.53",
+    "ModifiedDate": "2025-08-07T09:23:18.617",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -50732,8 +50732,8 @@
     },
     "Title": "GDS National Debate Tournament",
     "Description": "GDS plays host to teams from all over the country for this early season debate showdown.",
-    "StartDateTime": "2025-09-27T16:00:00",
-    "SetUpStartDateTime": "2025-09-27T16:00:00",
+    "StartDateTime": "2025-09-27T08:00:00",
+    "SetUpStartDateTime": "2025-09-27T08:00:00",
     "EndDateTime": "2025-09-27T18:00:00",
     "BreakdownEndDateTime": "2025-09-27T18:00:00",
     "IsAllDay": false,
@@ -50745,7 +50745,7 @@
       "SeriesId": "637f4343-1d60-4496-bd7a-bc509255a89f",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2025-09-26T16:00:00",
-      "MaxStartDatetime": "2025-09-28T16:00:00"
+      "MaxStartDatetime": "2025-09-28T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "35aa07e4-1629-4236-98b0-76f9c8232530",
@@ -50806,7 +50806,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > G001",
-    "DateTimeDisplay": "September 27, 2025\n04:00 PM - 06:00 PM",
+    "DateTimeDisplay": "September 27, 2025\n08:00 AM - 06:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
@@ -50835,7 +50835,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-16T14:30:00",
+    "OverrideDateTime": "2025-08-07T09:23:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -50860,7 +50860,7 @@
     "EventTag": "10167",
     "EventId": "72034ee0-bcf6-4820-9a95-bd0f6cf7561f",
     "CreatedDate": "2025-07-16T14:30:30.52",
-    "ModifiedDate": "2025-07-16T14:30:30.52",
+    "ModifiedDate": "2025-08-07T09:23:36.693",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -50885,8 +50885,8 @@
     "Description": "GDS plays host to teams from all over the country for this early season debate showdown.",
     "StartDateTime": "2025-09-26T16:00:00",
     "SetUpStartDateTime": "2025-09-26T16:00:00",
-    "EndDateTime": "2025-09-26T18:00:00",
-    "BreakdownEndDateTime": "2025-09-26T18:00:00",
+    "EndDateTime": "2025-09-26T21:00:00",
+    "BreakdownEndDateTime": "2025-09-26T21:00:00",
     "IsAllDay": false,
     "RecurringScheduleId": "35aa07e4-1629-4236-98b0-76f9c8232530",
     "SeriesType": 1,
@@ -50895,7 +50895,7 @@
       "SeriesId": "637f4343-1d60-4496-bd7a-bc509255a89f",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2025-09-26T16:00:00",
-      "MaxStartDatetime": "2025-09-28T16:00:00"
+      "MaxStartDatetime": "2025-09-28T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "35aa07e4-1629-4236-98b0-76f9c8232530",
@@ -50956,7 +50956,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > G001",
-    "DateTimeDisplay": "September 26, 2025\n04:00 PM - 06:00 PM",
+    "DateTimeDisplay": "September 26, 2025\n04:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
@@ -52919,135 +52919,6 @@
       }
     ],
     "SkipAvailabilityCheck": false
-  },
-  {
-    "EventTag": "10149",
-    "EventId": "b8cf404b-737b-4e1b-8923-86535b97a7c6",
-    "CreatedDate": "2025-07-16T13:18:29.433",
-    "ModifiedDate": "2025-07-16T13:18:29.433",
-    "IsDeleted": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
-    "EventType": {
-      "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
-      "CreatedDate": "2025-04-09T01:34:24.48",
-      "ModifiedDate": "2025-04-09T01:34:24.48",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Community Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "Alumni Board Retreat",
-    "Description": "",
-    "StartDateTime": "2025-09-06T10:00:00",
-    "SetUpStartDateTime": "2025-09-06T10:00:00",
-    "EndDateTime": "2025-09-06T14:00:00",
-    "BreakdownEndDateTime": "2025-09-06T14:00:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220",
-        "NameFormatted": "220",
-        "Icon": "fa fa-door-open",
-        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
-        "LocationName": "High School",
-        "LocationAbbreviation": "HS",
-        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "SeatingCapacity": 200,
-        "MaximumOccupancy": 200,
-        "Description": "Library",
-        "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "220",
-        "IsDeleted": false,
-        "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-04-09T17:02:09.823"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "HS > 220",
-    "DateTimeDisplay": "September 06, 2025\n10:00 AM - 02:00 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-16T13:18:00",
-    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "OverrideUser": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    }
   },
   {
     "EventTag": "10148",
