@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GDS Calendar - Finalsite Style</title>
+    <title>GDS Calendar</title>
     
     <!-- FullCalendar v6 -->
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
     <script src='https://cdn.jsdelivr.net/npm/ical.js@1.5.0/build/ical.min.js'></script>
     
     <style>
-        /* Base styles from Finalsite */
+        /* Base styles - removed container padding for embed */
         * {
             box-sizing: border-box;
         }
@@ -18,16 +18,12 @@
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             margin: 0;
-            padding: 20px;
-            background-color: #f5f5f5;
+            padding: 0;
+            background-color: transparent;
         }
         
-        #calendar-container {
-            max-width: 1200px;
-            margin: 0 auto;
+        #calendar {
             background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             padding: 20px;
         }
         
@@ -134,7 +130,7 @@
         
         /* Custom button styling for subscribe */
         .fc .fc-subscribeButton-button {
-            background-color: #00968f !important;
+            background-color: #0A6834 !important;
             color: white !important;
             border: none;
             padding: 6px 16px;
@@ -145,11 +141,11 @@
         }
         
         .fc .fc-subscribeButton-button:hover {
-            background-color: #007a74 !important;
+            background-color: #085028 !important;
         }
         
         .fc .fc-subscribeButton-button:active {
-            background-color: #006661 !important;
+            background-color: #063d1f !important;
         }
         
         /* Calendar grid styling */
@@ -200,7 +196,7 @@
         }
         
         .fc .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
-            background-color: #00968f;
+            background-color: #0A6834;
             color: white;
             border-radius: 50%;
             width: 32px;
@@ -246,7 +242,7 @@
         
         .fc-event-title {
             font-weight: 600;
-            color: #00968f !important;
+            color: #0A6834 !important;
             white-space: normal;
             margin-bottom: 2px;
             font-size: 13px;
@@ -300,32 +296,6 @@
             color: #666;
         }
         
-        /* List view styling */
-        .fc .fc-list {
-            border: none;
-        }
-        
-        .fc .fc-list-day-cushion {
-            background-color: #f8f8f8;
-            padding: 10px 15px;
-            font-weight: 600;
-            color: #333;
-        }
-        
-        .fc .fc-list-event {
-            cursor: pointer;
-            transition: background-color 0.2s;
-        }
-        
-        .fc .fc-list-event:hover {
-            background-color: #f0f0f0;
-        }
-        
-        .fc .fc-list-event-dot {
-            border-color: #00968f;
-            background-color: #00968f;
-        }
-        
         /* Custom modal styling */
         .event-modal {
             display: none;
@@ -368,7 +338,7 @@
         }
         
         .modal-header {
-            background-color: #00968f;
+            background-color: #0A6834;
             color: white;
             padding: 20px;
             border-radius: 8px 8px 0 0;
@@ -443,13 +413,15 @@
                 width: 95%;
                 margin: 5% auto;
             }
+            
+            #calendar {
+                padding: 10px;
+            }
         }
     </style>
 </head>
 <body>
-    <div id="calendar-container">
-        <div id='calendar'></div>
-    </div>
+    <div id='calendar'></div>
     
     <!-- Event Modal -->
     <div id="eventModal" class="event-modal">
@@ -558,7 +530,7 @@
                     subscribeButton: {
                         text: 'Subscribe to Calendar',
                         click: function() {
-                            window.location.href = 'https://gds-calendar.github.io/gds-calendar/school_events.ics';
+                            window.open('https://gds-calendar.github.io/gds-calendar/school_events.ics', '_blank');
                         }
                     }
                 },
