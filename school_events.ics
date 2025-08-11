@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:87556ea6-c77c-4c1f-9d16-6bcbd10cb787@gds.incidentiq.com
+SUMMARY:LS Passover Freedom Assembly
+DTSTART;TZID=America/New_York:20260318T090000
+DTEND;TZID=America/New_York:20260318T100000
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:fe25beeb-522b-42f4-aafb-445ade1f3961@gds.incidentiq.com
 SUMMARY:Quizbowl IAC Tournament
 DTSTART;TZID=America/New_York:20260131T080000
@@ -1075,8 +1083,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c5ceb65-e0e5-475a-8398-187b9bb5e5e3@gds.incidentiq.com
 SUMMARY:1st Grade End of Year Trip
-DTSTART;TZID=America/New_York:20260603T080000
-DTEND;TZID=America/New_York:20260603T140000
+DTSTART;TZID=America/New_York:20260602T080000
+DTEND;TZID=America/New_York:20260602T150000
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
