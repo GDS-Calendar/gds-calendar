@@ -1,5 +1,673 @@
 [
   {
+    "EventTag": "10694",
+    "EventId": "4b62e20d-e7f9-465b-9c24-a7a0e1090bae",
+    "CreatedDate": "2025-08-20T14:55:13.123",
+    "ModifiedDate": "2025-08-20T14:55:13.123",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "PK/K Parent Coffee",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "StartDateTime": "2025-11-11T12:00:00",
+    "SetUpStartDateTime": "2025-11-11T12:00:00",
+    "EndDateTime": "2025-11-11T13:00:00",
+    "BreakdownEndDateTime": "2025-11-11T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "November 11, 2025\n12:00 PM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-08-20T14:55:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
+  },
+  {
+    "EventTag": "10693",
+    "EventId": "1b312538-bd22-40b6-a257-9a15b9416d5b",
+    "CreatedDate": "2025-08-20T14:54:21.41",
+    "ModifiedDate": "2025-08-20T14:54:21.41",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "1st Grade Parent Coffee",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "StartDateTime": "2025-11-10T12:00:00",
+    "SetUpStartDateTime": "2025-11-10T12:00:00",
+    "EndDateTime": "2025-11-10T13:00:00",
+    "BreakdownEndDateTime": "2025-11-10T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "November 10, 2025\n12:00 PM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
+    "EventTag": "10692",
+    "EventId": "0f8eec3d-e9d0-4d76-a213-8a6c8ec1aa5c",
+    "CreatedDate": "2025-08-20T14:53:28.62",
+    "ModifiedDate": "2025-08-20T14:53:28.62",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "2nd Grade Parent Coffee",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "StartDateTime": "2025-11-05T12:00:00",
+    "SetUpStartDateTime": "2025-11-05T12:00:00",
+    "EndDateTime": "2025-11-05T13:00:00",
+    "BreakdownEndDateTime": "2025-11-05T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "November 05, 2025\n12:00 PM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
+    "EventTag": "10691",
+    "EventId": "1498252c-1056-4f43-ac17-2d6780fbce97",
+    "CreatedDate": "2025-08-20T14:52:33.943",
+    "ModifiedDate": "2025-08-20T14:52:33.943",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "3rd Grade Parent Coffee",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "StartDateTime": "2025-11-04T12:00:00",
+    "SetUpStartDateTime": "2025-11-04T12:00:00",
+    "EndDateTime": "2025-11-04T13:00:00",
+    "BreakdownEndDateTime": "2025-11-04T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3a5d6d4c-80f7-4d8a-bde6-cd14fbe2b5d5",
+        "Name": "Virtual #02",
+        "NameFormatted": "Virtual #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #02",
+        "InternalNotes": "Virtual/Remote Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:20:35.543",
+        "ModifiedDate": "2025-07-05T20:20:35.543"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #02",
+    "DateTimeDisplay": "November 04, 2025\n12:00 PM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
+    "EventTag": "10690",
+    "EventId": "0a2782fe-ccac-4b7e-9363-fd815dd6486f",
+    "CreatedDate": "2025-08-20T14:51:27.803",
+    "ModifiedDate": "2025-08-20T14:51:27.803",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "4th Grade Parent Coffee",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "StartDateTime": "2025-11-03T12:00:00",
+    "SetUpStartDateTime": "2025-11-03T12:00:00",
+    "EndDateTime": "2025-11-03T13:00:00",
+    "BreakdownEndDateTime": "2025-11-03T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "205a0cbe-3a21-49c5-9e92-c817bbda9749",
+        "Name": "Virtual #03",
+        "NameFormatted": "Virtual #03",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #03",
+        "InternalNotes": "Virtual/Remote Meeting #03",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #03",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:21:01.4",
+        "ModifiedDate": "2025-07-05T20:21:01.4"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #03",
+    "DateTimeDisplay": "November 03, 2025\n12:00 PM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
+    "EventTag": "10689",
+    "EventId": "dd55adbd-30f3-4c03-9ac8-b2239ca84fa4",
+    "CreatedDate": "2025-08-20T14:47:30.513",
+    "ModifiedDate": "2025-08-20T14:47:30.513",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Beginning of Year Assessments",
+    "Description": "We begin the school year by getting to know our students academically, socially, and emotionally. We conduct a range of assessments so we can maximize our instruction throughout the year. This session is intended to share with families the different assessments we give students (including the Universal Screener, Speech Screener, OT Screener, and MAP) and how to understand the results. The session will start together, followed by breakouts based on the assessments given at various grade levels.",
+    "StartDateTime": "2025-09-25T12:00:00",
+    "SetUpStartDateTime": "2025-09-25T12:00:00",
+    "EndDateTime": "2025-09-25T13:00:00",
+    "BreakdownEndDateTime": "2025-09-25T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "September 25, 2025\n12:00 PM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
     "EventTag": "10686",
     "EventId": "44d1f101-7da6-4d4c-bdb7-c79d24051910",
     "CreatedDate": "2025-08-19T19:47:31.607",
