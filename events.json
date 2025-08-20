@@ -1,5 +1,329 @@
 [
   {
+    "EventTag": "10686",
+    "EventId": "44d1f101-7da6-4d4c-bdb7-c79d24051910",
+    "CreatedDate": "2025-08-19T19:47:31.607",
+    "ModifiedDate": "2025-08-19T19:47:31.607",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "[PSA] 5th Grade Parent Social",
+    "Description": "",
+    "StartDateTime": "2025-10-04T18:00:00",
+    "SetUpStartDateTime": "2025-10-04T18:00:00",
+    "EndDateTime": "2025-10-04T21:00:00",
+    "BreakdownEndDateTime": "2025-10-04T21:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 04, 2025\n06:00 PM - 09:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
+    "EventTag": "10685",
+    "EventId": "171c24f5-abb5-41d6-9e66-a557ceb2b397",
+    "CreatedDate": "2025-08-19T19:44:41.343",
+    "ModifiedDate": "2025-08-19T19:44:41.343",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "[PSA] 2nd Grade Parent Social",
+    "Description": "",
+    "StartDateTime": "2025-09-20T19:00:00",
+    "SetUpStartDateTime": "2025-09-20T19:00:00",
+    "EndDateTime": "2025-09-20T21:00:00",
+    "BreakdownEndDateTime": "2025-09-20T21:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "September 20, 2025\n07:00 PM - 09:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
+    "EventTag": "10684",
+    "EventId": "5288e0cd-3302-4eb0-a2fa-f73042c59680",
+    "CreatedDate": "2025-08-19T19:43:47.297",
+    "ModifiedDate": "2025-08-19T19:43:47.297",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "[PSA] 1st Grade Parent Social",
+    "Description": "",
+    "StartDateTime": "2025-11-01T19:00:00",
+    "SetUpStartDateTime": "2025-11-01T19:00:00",
+    "EndDateTime": "2025-11-01T21:00:00",
+    "BreakdownEndDateTime": "2025-11-01T21:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "November 01, 2025\n07:00 PM - 09:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
     "EventTag": "10681",
     "EventId": "87556ea6-c77c-4c1f-9d16-6bcbd10cb787",
     "CreatedDate": "2025-08-11T15:05:10.937",
@@ -39177,116 +39501,6 @@
     "SkipAvailabilityCheck": false
   },
   {
-    "EventTag": "10274",
-    "EventId": "2c8f26e5-1402-448c-9a99-a04b6c4c8237",
-    "CreatedDate": "2025-07-21T12:43:53.167",
-    "ModifiedDate": "2025-07-21T12:43:53.167",
-    "IsDeleted": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-    "EventType": {
-      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-      "CreatedDate": "2025-04-09T01:25:15.37",
-      "ModifiedDate": "2025-04-09T01:25:15.37",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "PSA Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "PSA Division Meetings and coffee with TBD Faculty Speaker",
-    "Description": "",
-    "StartDateTime": "2025-12-10T08:15:00",
-    "SetUpStartDateTime": "2025-12-10T08:15:00",
-    "EndDateTime": "2025-12-10T09:30:00",
-    "BreakdownEndDateTime": "2025-12-10T09:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
-        "SeatingCapacity": 400,
-        "MaximumOccupancy": 450,
-        "Description": "Dining",
-        "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
-        "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
-    "DateTimeDisplay": "December 10, 2025\n08:15 AM - 09:30 AM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false
-  },
-  {
     "EventTag": "10273",
     "EventId": "af9cc841-4f3d-4779-bbea-3d617f6b115e",
     "CreatedDate": "2025-07-21T12:42:54.04",
@@ -49750,116 +49964,6 @@
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #01",
     "DateTimeDisplay": "October 09, 2025\n05:00 PM - 06:30 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false
-  },
-  {
-    "EventTag": "10177",
-    "EventId": "ae7d5f5a-d9ea-40ca-b907-8aacdc6e8c04",
-    "CreatedDate": "2025-07-18T10:09:45.997",
-    "ModifiedDate": "2025-07-18T10:09:45.997",
-    "IsDeleted": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-    "EventType": {
-      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-      "CreatedDate": "2025-04-09T01:25:15.37",
-      "ModifiedDate": "2025-04-09T01:25:15.37",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "PSA Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "[PSA] All School Coffee and Meeting (TBD Faculty speaker)",
-    "Description": "",
-    "StartDateTime": "2025-10-09T08:15:00",
-    "SetUpStartDateTime": "2025-10-09T08:15:00",
-    "EndDateTime": "2025-10-09T09:30:00",
-    "BreakdownEndDateTime": "2025-10-09T09:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
-        "SeatingCapacity": 400,
-        "MaximumOccupancy": 450,
-        "Description": "Dining",
-        "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
-        "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
-    "DateTimeDisplay": "October 09, 2025\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",

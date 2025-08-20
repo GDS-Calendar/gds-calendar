@@ -23,6 +23,30 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:44d1f101-7da6-4d4c-bdb7-c79d24051910@gds.incidentiq.com
+SUMMARY:[PSA] 5th Grade Parent Social
+DTSTART;TZID=America/New_York:20251004T180000
+DTEND;TZID=America/New_York:20251004T210000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:171c24f5-abb5-41d6-9e66-a557ceb2b397@gds.incidentiq.com
+SUMMARY:[PSA] 2nd Grade Parent Social
+DTSTART;TZID=America/New_York:20250920T190000
+DTEND;TZID=America/New_York:20250920T210000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:5288e0cd-3302-4eb0-a2fa-f73042c59680@gds.incidentiq.com
+SUMMARY:[PSA] 1st Grade Parent Social
+DTSTART;TZID=America/New_York:20251101T190000
+DTEND;TZID=America/New_York:20251101T210000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:87556ea6-c77c-4c1f-9d16-6bcbd10cb787@gds.incidentiq.com
 SUMMARY:LS Passover Freedom Assembly
 DTSTART;TZID=America/New_York:20260318T090000
@@ -3152,14 +3176,6 @@ LOCATION:423
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:2c8f26e5-1402-448c-9a99-a04b6c4c8237@gds.incidentiq.com
-SUMMARY:PSA Division Meetings and coffee with TBD Faculty Speaker
-DTSTART;TZID=America/New_York:20251210T081500
-DTEND;TZID=America/New_York:20251210T093000
-LOCATION:130 LMS Cafe
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:af9cc841-4f3d-4779-bbea-3d617f6b115e@gds.incidentiq.com
 SUMMARY:GDS Choral Extravaganza
 DTSTART;TZID=America/New_York:20251210T190000
@@ -4076,14 +4092,6 @@ DESCRIPTION:Our High School Open House offers prospective 9th-12th Grade
  quired as part of our admissions process\; however\, we do hope you will r
  egister and explore GDS as a fit for your family.
 LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:ae7d5f5a-d9ea-40ca-b907-8aacdc6e8c04@gds.incidentiq.com
-SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty speaker)
-DTSTART;TZID=America/New_York:20251009T081500
-DTEND;TZID=America/New_York:20251009T093000
-LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
