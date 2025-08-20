@@ -4446,9 +4446,13 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:7be6ecd1-2499-4482-97b9-198cfdfe5391@gds.incidentiq.com
-SUMMARY:Meet and Greet with the LS Principal
+SUMMARY:Recipe for Thriving Students
 DTSTART;TZID=America/New_York:20250910T083000
 DTEND;TZID=America/New_York:20250910T093000
+DESCRIPTION:Join the LS Leadership and Student Support team who will sha
+ re tips to help our Hoppers begin the year successfully. We will also shar
+ e the many different roles designed to support students and families in th
+ e Lower School and highlights for the upcoming school year.
 LOCATION:130 LMS Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
