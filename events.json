@@ -5741,7 +5741,7 @@
     "EventTag": "10632",
     "EventId": "4490fade-0ce8-40af-9014-20eab00cf107",
     "CreatedDate": "2025-07-29T21:42:27.09",
-    "ModifiedDate": "2025-07-29T21:42:27.09",
+    "ModifiedDate": "2025-08-22T14:27:55.187",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -5816,27 +5816,27 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "fccea233-5d83-4f16-ac17-560833ff9afb",
-        "Name": "B121",
-        "NameFormatted": "B121",
+        "LocationRoomId": "ccc7dd7c-06f1-4142-aeea-c5f6f051ccad",
+        "Name": "B102",
+        "NameFormatted": "B102",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "5a99cfe3-a885-0e70-fbc7-5476303c43d4",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 3146,
-        "Description": "Wrestling",
+        "Area": 1685,
+        "Description": "Band",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B121",
+        "NameSort": "B102",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T23:22:53.137",
-        "ModifiedDate": "2024-12-23T23:22:53.137"
+        "CreatedDate": "2024-12-23T23:22:53.07",
+        "ModifiedDate": "2024-12-23T23:22:53.07"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B121",
+    "LocationDisplay": "LMS > B102",
     "DateTimeDisplay": "March 13, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -5865,13 +5865,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10631",
     "EventId": "7233e942-93c8-4fa6-b17b-f597d0a60138",
     "CreatedDate": "2025-07-29T21:42:27.087",
-    "ModifiedDate": "2025-07-29T21:42:27.087",
+    "ModifiedDate": "2025-08-22T14:27:55.313",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -5946,27 +5946,27 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "fccea233-5d83-4f16-ac17-560833ff9afb",
-        "Name": "B121",
-        "NameFormatted": "B121",
+        "LocationRoomId": "ccc7dd7c-06f1-4142-aeea-c5f6f051ccad",
+        "Name": "B102",
+        "NameFormatted": "B102",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "5a99cfe3-a885-0e70-fbc7-5476303c43d4",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 3146,
-        "Description": "Wrestling",
+        "Area": 1685,
+        "Description": "Band",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B121",
+        "NameSort": "B102",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T23:22:53.137",
-        "ModifiedDate": "2024-12-23T23:22:53.137"
+        "CreatedDate": "2024-12-23T23:22:53.07",
+        "ModifiedDate": "2024-12-23T23:22:53.07"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B121",
+    "LocationDisplay": "LMS > B102",
     "DateTimeDisplay": "March 12, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -5995,13 +5995,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10630",
     "EventId": "1cf72740-d11f-4706-8cc2-fd06331ee510",
     "CreatedDate": "2025-07-29T21:42:27.077",
-    "ModifiedDate": "2025-07-29T21:42:27.077",
+    "ModifiedDate": "2025-08-22T14:27:55.343",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -6076,27 +6076,27 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "fccea233-5d83-4f16-ac17-560833ff9afb",
-        "Name": "B121",
-        "NameFormatted": "B121",
+        "LocationRoomId": "ccc7dd7c-06f1-4142-aeea-c5f6f051ccad",
+        "Name": "B102",
+        "NameFormatted": "B102",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "5a99cfe3-a885-0e70-fbc7-5476303c43d4",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 3146,
-        "Description": "Wrestling",
+        "Area": 1685,
+        "Description": "Band",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B121",
+        "NameSort": "B102",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T23:22:53.137",
-        "ModifiedDate": "2024-12-23T23:22:53.137"
+        "CreatedDate": "2024-12-23T23:22:53.07",
+        "ModifiedDate": "2024-12-23T23:22:53.07"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B121",
+    "LocationDisplay": "LMS > B102",
     "DateTimeDisplay": "March 11, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -6125,13 +6125,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10629",
     "EventId": "fb24c906-897c-483e-89aa-011e610dea79",
     "CreatedDate": "2025-07-29T21:42:27.07",
-    "ModifiedDate": "2025-07-29T21:42:27.07",
+    "ModifiedDate": "2025-08-22T14:27:55.107",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -6206,27 +6206,27 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "fccea233-5d83-4f16-ac17-560833ff9afb",
-        "Name": "B121",
-        "NameFormatted": "B121",
+        "LocationRoomId": "ccc7dd7c-06f1-4142-aeea-c5f6f051ccad",
+        "Name": "B102",
+        "NameFormatted": "B102",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "5a99cfe3-a885-0e70-fbc7-5476303c43d4",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 3146,
-        "Description": "Wrestling",
+        "Area": 1685,
+        "Description": "Band",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B121",
+        "NameSort": "B102",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T23:22:53.137",
-        "ModifiedDate": "2024-12-23T23:22:53.137"
+        "CreatedDate": "2024-12-23T23:22:53.07",
+        "ModifiedDate": "2024-12-23T23:22:53.07"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B121",
+    "LocationDisplay": "LMS > B102",
     "DateTimeDisplay": "March 10, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -6255,13 +6255,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10628",
     "EventId": "74d7bbaa-9c73-4792-bc39-9e4fc2477481",
     "CreatedDate": "2025-07-29T21:42:27.053",
-    "ModifiedDate": "2025-07-29T21:42:27.053",
+    "ModifiedDate": "2025-08-22T14:27:55.227",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -6335,27 +6335,27 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "fccea233-5d83-4f16-ac17-560833ff9afb",
-        "Name": "B121",
-        "NameFormatted": "B121",
+        "LocationRoomId": "ccc7dd7c-06f1-4142-aeea-c5f6f051ccad",
+        "Name": "B102",
+        "NameFormatted": "B102",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "5a99cfe3-a885-0e70-fbc7-5476303c43d4",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 3146,
-        "Description": "Wrestling",
+        "Area": 1685,
+        "Description": "Band",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B121",
+        "NameSort": "B102",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T23:22:53.137",
-        "ModifiedDate": "2024-12-23T23:22:53.137"
+        "CreatedDate": "2024-12-23T23:22:53.07",
+        "ModifiedDate": "2024-12-23T23:22:53.07"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B121",
+    "LocationDisplay": "LMS > B102",
     "DateTimeDisplay": "March 09, 2026\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
@@ -6384,7 +6384,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10626",
@@ -20864,7 +20864,7 @@
     "EventTag": "10453",
     "EventId": "ebf61e77-dcc5-4d09-862f-a9a0b916aa26",
     "CreatedDate": "2025-07-24T12:37:08.96",
-    "ModifiedDate": "2025-07-24T12:37:08.96",
+    "ModifiedDate": "2025-08-22T13:58:17.067",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -20969,7 +20969,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-24T12:37:00",
+    "OverrideDateTime": "2025-08-22T13:58:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -42240,7 +42240,7 @@
     "EventTag": "10256",
     "EventId": "6ecdcea0-8dcb-4e05-9850-b0031e09a0b6",
     "CreatedDate": "2025-07-21T12:15:41.027",
-    "ModifiedDate": "2025-07-21T12:15:41.027",
+    "ModifiedDate": "2025-08-22T14:27:55.24",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -42344,7 +42344,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10255",
