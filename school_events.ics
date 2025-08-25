@@ -4938,21 +4938,6 @@ LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:3c428dee-d3a2-4adf-8221-8bdd555af2c1@gds.incidentiq.com
-SUMMARY:How to use Metro and Transit Training for Parents and Students
-DTSTART;TZID=America/New_York:20250818T100000
-DTEND;TZID=America/New_York:20250818T120000
-DESCRIPTION:Families whose children will be taking public transit to sch
- ool in the fall are invited to join us for a metro and transit training. T
- his training will include everything from how to use a SmarTrip card on Me
- tro or Metrobus\, to a walk to and from the Tenleytown metro and closest G
- DS bus stops. Pedestrian safety (such as safe crosswalk training\, alert w
- alking\, etc.) and tips on what to do in case of the unexpected will be co
- vered.
-LOCATION:101 LMS Library
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:eddd58a5-4ad7-44a8-adf1-80e59e4ba8f6@gds.incidentiq.com
 SUMMARY:12th Grade Student College Essay Workshop
 DTSTART;TZID=America/New_York:20250822T080000
