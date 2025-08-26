@@ -192,7 +192,7 @@ UID:53f5a7bb-8e8f-40de-82f5-3dfad90f1163@gds.incidentiq.com
 SUMMARY:7th Grade Coffee
 DTSTART;TZID=America/New_York:20260309T083000
 DTEND;TZID=America/New_York:20260309T093000
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +200,7 @@ UID:cae80b38-76ce-47a0-8a0f-d12121d35096@gds.incidentiq.com
 SUMMARY:8th Grade Coffee
 DTSTART;TZID=America/New_York:20260129T083000
 DTEND;TZID=America/New_York:20260129T093000
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -227,7 +227,7 @@ UID:774f3164-7f5d-4e10-b783-3d28d4563e5e@gds.incidentiq.com
 SUMMARY:6th Grade Parent Coffee
 DTSTART;TZID=America/New_York:20251110T083000
 DTEND;TZID=America/New_York:20251110T093000
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -240,7 +240,7 @@ DESCRIPTION:Building a Foundation for Kindness and Consideration Online
  sibility Programming in Health classes\, talk to teachers and HS students\
  , learn skills for navigating social device use for your child. \n\nContac
  t Caitlin Hutcheon for more information.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -248,7 +248,7 @@ UID:6b2a41b2-b220-41de-9c1b-c70aa2e7ef4a@gds.incidentiq.com
 SUMMARY:5th Grade Parent Coffee
 DTSTART;TZID=America/New_York:20251027T081500
 DTEND;TZID=America/New_York:20251027T091500
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -263,7 +263,7 @@ DESCRIPTION:Please join us for an in person session to learn more about
  is a great opportunity to get your questions answered and hear how this ex
  perience supports student growth\, teamwork\, and connection. We hope to s
  ee you there!
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -913,7 +913,7 @@ DESCRIPTION:Please join us for the first of our regular opportunities to
  lking about the start of the year and your hopes for your children/teens.\
  n\nPlease contact Meryl Heyliger\, Counseling Department Chair\, at mheyli
  ger@gds.org.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1562,7 +1562,7 @@ UID:86128525-7bd3-4b0b-9279-df6d4a5c6d13@gds.incidentiq.com
 SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty Speaker)
 DTSTART;TZID=America/New_York:20260513T081500
 DTEND;TZID=America/New_York:20260513T093000
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1702,7 +1702,7 @@ UID:ebf61e77-dcc5-4d09-862f-a9a0b916aa26@gds.incidentiq.com
 SUMMARY:20 Year Club Luncheon
 DTSTART;TZID=America/New_York:20260503T100000
 DTEND;TZID=America/New_York:20260503T120000
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2606,7 +2606,7 @@ UID:849763b3-780b-461f-989b-1851771ce9d0@gds.incidentiq.com
 SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty Speaker)
 DTSTART;TZID=America/New_York:20260212T081500
 DTEND;TZID=America/New_York:20260212T093000
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2702,7 +2702,7 @@ DESCRIPTION:Donors who make annual gifts of $2\,500 or more are members
  bers of the 1945 Society\, & those who volunteered last year to secure fou
  ndational philanthropic support for the School\, will be celebrated at a b
  runch gratitude gathering following the Lower School Dance Assembly.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2896,7 +2896,7 @@ DESCRIPTION:All high school parents/guardians (particularly 9th and 10th
  nteers. It takes place after the prom in the High School Gym and provides 
  a fun\, relaxing\, and safe space for kids to hang out for a few hours. Wh
  ether you have a little time to give or a lot\, we have a job for you!
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3247,7 +3247,7 @@ SUMMARY:6th Grade Family Box Project
 DTSTART;TZID=America/New_York:20251219T084500
 DTEND;TZID=America/New_York:20251219T094500
 DESCRIPTION:Join us for a display of one of the keystone projects of 6th grade English!
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3820,7 +3820,7 @@ DTSTART;TZID=America/New_York:20251028T084500
 DTEND;TZID=America/New_York:20251028T094500
 DESCRIPTION:We welcome New (and New-ish) parents and guardians to share 
  their experiences and questions with other parents and PSA leadership.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4386,7 +4386,7 @@ DESCRIPTION:All volunteers\, new and experienced alike\, are welcome and
   encouraged to attend.  Current parents come together as a team to raise m
  uch needed-funds to support our educational programs\, athletic programs\,
   financial aid\, etc..
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4467,7 +4467,7 @@ DESCRIPTION:The Office of Diversity\, Equity & Inclusion welcomes our co
  g our new student leaders\, new families\, and new employees. We are excit
  ed to engage in conversation as we continue to strive towards our mission 
  of an inclusive environment where everyone can be their authentic selves!
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4543,7 +4543,7 @@ DESCRIPTION:Join the LS Leadership and Student Support team who will sha
  re tips to help our Hoppers begin the year successfully. We will also shar
  e the many different roles designed to support students and families in th
  e Lower School and highlights for the upcoming school year.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4749,7 +4749,7 @@ DTSTART;TZID=America/New_York:20250902T090000
 DTEND;TZID=America/New_York:20250902T100000
 DESCRIPTION:Pre-Kindergarten and Kindergarten students and their parents
   are invited to visit their classrooms and connect with the community.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT

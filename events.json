@@ -1687,7 +1687,7 @@
     "EventTag": "10672",
     "EventId": "53f5a7bb-8e8f-40de-82f5-3dfad90f1163",
     "CreatedDate": "2025-07-30T13:31:57.863",
-    "ModifiedDate": "2025-07-30T13:31:57.863",
+    "ModifiedDate": "2025-08-26T07:26:45.147",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -1740,29 +1740,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "March 09, 2026\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -1791,13 +1791,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10671",
     "EventId": "cae80b38-76ce-47a0-8a0f-d12121d35096",
     "CreatedDate": "2025-07-30T13:29:15.84",
-    "ModifiedDate": "2025-07-30T13:29:15.84",
+    "ModifiedDate": "2025-08-26T07:26:45.59",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -1850,29 +1850,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "January 29, 2026\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -1901,7 +1901,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10670",
@@ -2123,7 +2123,7 @@
     "EventTag": "10668",
     "EventId": "774f3164-7f5d-4e10-b783-3d28d4563e5e",
     "CreatedDate": "2025-07-30T13:22:49.003",
-    "ModifiedDate": "2025-07-30T13:22:49.003",
+    "ModifiedDate": "2025-08-26T07:26:45.097",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -2176,29 +2176,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "November 10, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -2227,13 +2227,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10667",
     "EventId": "b6ad07d2-376c-417a-beb7-99bfa895a8b1",
     "CreatedDate": "2025-07-30T13:21:46.657",
-    "ModifiedDate": "2025-07-30T13:21:46.657",
+    "ModifiedDate": "2025-08-26T07:26:45.387",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -2286,29 +2286,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "November 06, 2025\n07:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
@@ -2337,13 +2337,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10666",
     "EventId": "6b2a41b2-b220-41de-9c1b-c70aa2e7ef4a",
     "CreatedDate": "2025-07-30T13:14:51.687",
-    "ModifiedDate": "2025-07-30T13:14:51.687",
+    "ModifiedDate": "2025-08-26T07:26:45.56",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -2396,29 +2396,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "October 27, 2025\n08:15 AM - 09:15 AM",
     "CustomFieldValues": [
       {
@@ -2447,13 +2447,13 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10665",
     "EventId": "fa359df4-b2a6-47a7-af4a-9e6ed7b84956",
     "CreatedDate": "2025-07-30T13:06:47.623",
-    "ModifiedDate": "2025-07-30T13:06:47.623",
+    "ModifiedDate": "2025-08-26T07:26:45.41",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -2506,29 +2506,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "May 19, 2026\n08:15 AM - 08:45 AM",
     "CustomFieldValues": [
       {
@@ -2557,7 +2557,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10664",
@@ -11064,7 +11064,7 @@
     "EventTag": "10583",
     "EventId": "f0e801ae-3b15-4af6-b5e3-8f58966f1ac5",
     "CreatedDate": "2025-07-29T11:56:30.6",
-    "ModifiedDate": "2025-07-29T11:56:30.6",
+    "ModifiedDate": "2025-08-26T07:26:45.357",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -11117,29 +11117,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "September 22, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -11168,7 +11168,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10582",
@@ -19110,7 +19110,7 @@
     "EventTag": "10467",
     "EventId": "86128525-7bd3-4b0b-9279-df6d4a5c6d13",
     "CreatedDate": "2025-07-24T12:58:49.07",
-    "ModifiedDate": "2025-07-24T12:58:49.07",
+    "ModifiedDate": "2025-08-26T07:26:45.627",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -19163,29 +19163,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "May 13, 2026\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -19214,7 +19214,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10466",
@@ -20864,7 +20864,7 @@
     "EventTag": "10453",
     "EventId": "ebf61e77-dcc5-4d09-862f-a9a0b916aa26",
     "CreatedDate": "2025-07-24T12:37:08.96",
-    "ModifiedDate": "2025-08-22T13:58:17.067",
+    "ModifiedDate": "2025-08-26T07:26:45.533",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -20917,29 +20917,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "May 03, 2026\n10:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
@@ -32178,7 +32178,7 @@
     "EventTag": "10346",
     "EventId": "849763b3-780b-461f-989b-1851771ce9d0",
     "CreatedDate": "2025-07-22T10:55:27.66",
-    "ModifiedDate": "2025-07-22T10:55:27.66",
+    "ModifiedDate": "2025-08-26T07:26:44.837",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -32231,29 +32231,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "February 12, 2026\n08:15 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -32282,7 +32282,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10345",
@@ -33051,7 +33051,7 @@
     "EventTag": "10338",
     "EventId": "e16bccc5-0274-4b56-8ab9-5cdf8c2dedf0",
     "CreatedDate": "2025-07-22T10:42:50.183",
-    "ModifiedDate": "2025-07-22T10:42:50.183",
+    "ModifiedDate": "2025-08-26T07:26:45.21",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -33104,29 +33104,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "February 06, 2026\n10:00 AM - 11:00 AM",
     "CustomFieldValues": [
       {
@@ -33155,7 +33155,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10337",
@@ -35035,7 +35035,7 @@
     "EventTag": "10320",
     "EventId": "15e4abc3-34ac-4001-86e7-a77f223a4533",
     "CreatedDate": "2025-07-21T13:24:21.1",
-    "ModifiedDate": "2025-07-21T13:24:21.1",
+    "ModifiedDate": "2025-08-26T07:26:45.457",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -35088,29 +35088,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "January 15, 2026\n09:00 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -35139,7 +35139,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10319",
@@ -39952,7 +39952,7 @@
     "EventTag": "10276",
     "EventId": "5f3d829f-0219-4029-83d2-2984c143aeed",
     "CreatedDate": "2025-07-21T12:46:37.413",
-    "ModifiedDate": "2025-07-21T12:46:37.413",
+    "ModifiedDate": "2025-08-26T07:26:44.95",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -40005,29 +40005,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "December 19, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -40056,7 +40056,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10275",
@@ -46631,7 +46631,7 @@
     "EventTag": "10212",
     "EventId": "4ffb2469-79b9-4de4-bf7a-2d4588055c86",
     "CreatedDate": "2025-07-18T11:07:12.893",
-    "ModifiedDate": "2025-07-18T11:07:12.893",
+    "ModifiedDate": "2025-08-26T07:26:45.027",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -46684,29 +46684,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "October 28, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
@@ -46735,7 +46735,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10211",
@@ -52912,7 +52912,7 @@
     "EventTag": "10157",
     "EventId": "16d38fc9-8d72-4a64-ba9a-6bc98a9d2a63",
     "CreatedDate": "2025-07-16T14:04:35.77",
-    "ModifiedDate": "2025-07-16T14:04:35.77",
+    "ModifiedDate": "2025-08-26T07:26:45.267",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -52965,29 +52965,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "September 19, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -53016,7 +53016,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10156",
@@ -53697,7 +53697,7 @@
     "EventTag": "10150",
     "EventId": "6bee84df-6642-461f-83d1-a7e4ffdb937a",
     "CreatedDate": "2025-07-16T13:21:49.767",
-    "ModifiedDate": "2025-07-16T13:21:49.767",
+    "ModifiedDate": "2025-08-26T07:26:45.477",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -53750,29 +53750,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "September 09, 2025\n06:00 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -53801,7 +53801,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10148",
@@ -54511,7 +54511,7 @@
     "EventTag": "10142",
     "EventId": "7be6ecd1-2499-4482-97b9-198cfdfe5391",
     "CreatedDate": "2025-07-16T13:03:37.953",
-    "ModifiedDate": "2025-08-20T14:04:29.047",
+    "ModifiedDate": "2025-08-26T07:26:44.877",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -54564,29 +54564,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "September 10, 2025\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -54615,7 +54615,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10141",
@@ -56793,7 +56793,7 @@
     "EventTag": "10092",
     "EventId": "4ac4fa41-f676-4f2b-a834-7992e801490b",
     "CreatedDate": "2025-07-16T12:07:59",
-    "ModifiedDate": "2025-07-16T12:07:59",
+    "ModifiedDate": "2025-08-26T07:26:45.33",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -56846,29 +56846,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
-        "Name": "130 LMS Cafe",
-        "NameFormatted": "130 LMS Cafe",
+        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
+        "Name": "122",
+        "NameFormatted": "122",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 3477,
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 1035,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Dining",
+        "Description": "Cafeteria",
         "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "130 LMS Cafe",
+        "IsExternallyAvailable": false,
+        "NameSort": "122",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.72",
-        "ModifiedDate": "2025-08-07T18:47:43.62"
+        "CreatedDate": "2024-12-29T16:59:08.653",
+        "ModifiedDate": "2024-12-29T16:59:08.653"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "LocationDisplay": "LMS > 122",
     "DateTimeDisplay": "September 02, 2025\n09:00 AM - 10:00 AM",
     "CustomFieldValues": [
       {
@@ -56897,7 +56897,7 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true
   },
   {
     "EventTag": "10091",
