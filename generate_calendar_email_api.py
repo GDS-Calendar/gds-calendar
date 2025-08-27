@@ -1,21 +1,17 @@
 #!/usr/bin/env python3
 """
 iiQ API Email Generator for GDS - Facilities & Security
-Fetches events from iiQ API and sends automated email via Gmail
+GitHub Actions version - uses environment variables for authentication
 """
 
 import os
 import json
 import requests
 from datetime import datetime, timedelta
-import pytz
-import base64
+import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-from google.auth.transport.requests import Request
-from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
-from googleapiclient.discovery import build
+import ssl
 
 # Configuration
 API_TOKEN = os.environ.get('IIQ_API_TOKEN')
@@ -27,19 +23,17 @@ VIEW_ID = "8028a2ba-887f-f011-b481-000d3ae39e88"
 OUTPUT_JSON_FILE = "email_events.json"
 OUTPUT_HTML_FILE = "facilities_security_email.html"
 
-# Gmail configuration
-SCOPES = ['https://www.googleapis.com/auth/gmail.send']
-CREDENTIALS_FILE = 'credentials.json'
-TOKEN_FILE = 'token.json'
-
 # Email settings - UPDATE THESE WITH ACTUAL EMAIL ADDRESSES
-FROM_EMAIL = os.environ.get('FROM_EMAIL', 'tlyons@gds.org')  # Your Gmail address
+FROM_EMAIL = 'tim.lyons@gds.org'
+FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')  # App-specific password
 TO_EMAILS = [
     'tlyons@gds.org',  # Update with actual email addresses
-   
+    # 'natalie.markley@gds.org',
+    # 'shelley.harris@gds.org',
+    # 'khalid.daniels@gds.org'
 ]
 CC_EMAILS = [
-    'tlyons@gds.org'  # Your email for monitoring
+    'tim.lyons@gds.org'
 ]
 
 def fetch_all_events():
@@ -54,14 +48,13 @@ def fetch_all_events():
     }
     
     all_events = []
-    seen_events = set()  # Track unique events by title+date
-    page_size = 2000  # Increased to get more events in one request
+    seen_events = set()
+    page_size = 2000
     approved_count = 0
     duplicate_count = 0
     
     print(f"Fetching events from view {VIEW_ID} with page size {page_size}...")
     
-    # Since pagination is broken, just get one large page
     data = {
         "FilterByProduct": True,
         "ViewId": VIEW_ID,
@@ -83,33 +76,26 @@ def fetch_all_events():
         
         result = response.json()
         
-        # Check if we have items
         if 'Items' not in result or not result['Items']:
             print(f"No items found for view {VIEW_ID}.")
             return []
             
         print(f"Received {len(result['Items'])} events from API")
         
-        # Filter for approved events (ALL approved events, no "Publish to Calendar" filter)
         for event in result['Items']:
             event_status = event.get('EventStatus', {})
             status_name = event_status.get('Name', 'No Status')
             
-            # Check if event is approved
             if status_name == 'Approved':
                 approved_count += 1
                 
-                # Include ALL approved events (no custom field filtering)
-                # Create unique key based on title and start time
                 event_key = f"{event.get('Title', '')}|{event.get('StartDateTime', '')}"
                 
-                # Only add if we haven't seen this exact event before
                 if event_key not in seen_events:
                     seen_events.add(event_key)
                     all_events.append(event)
                 else:
                     duplicate_count += 1
-                    # Log first few duplicates to understand pattern
                     if duplicate_count <= 5:
                         print(f"  Duplicate found: {event.get('Title', '')} on {event.get('StartDateTime', '')}")
         
@@ -118,13 +104,12 @@ def fetch_all_events():
     except requests.exceptions.RequestException as e:
         print(f"Error fetching events: {e}")
     
-    print(f"\nSummary: {approved_count} approved events found, {duplicate_count} duplicates removed")
+    print(f"Summary: {approved_count} approved events found, {duplicate_count} duplicates removed")
     return all_events
 
 def filter_events_for_email(events):
     """Filter events for the next 14 days"""
     
-    # Get current date and 14 days ahead
     today = datetime.now()
     two_weeks = today + timedelta(days=14)
     
@@ -140,7 +125,6 @@ def filter_events_for_email(events):
         try:
             start_dt = datetime.fromisoformat(start_str)
             
-            # Filter for events in next 14 days
             if today <= start_dt <= two_weeks:
                 relevant_events.append(event)
                 
@@ -148,7 +132,6 @@ def filter_events_for_email(events):
             print(f"Could not parse date: {start_str}")
             continue
     
-    # Sort by start time
     relevant_events.sort(key=lambda x: x.get('StartDateTime', ''))
     
     return relevant_events
@@ -159,7 +142,6 @@ def generate_email_html(events):
     today = datetime.now()
     two_weeks = today + timedelta(days=14)
     
-    # Compact, professional styling with GDS colors
     html_content = f"""
     <!DOCTYPE html>
     <html>
@@ -349,11 +331,9 @@ def generate_email_html(events):
             start_str = event.get('StartDateTime', '').rstrip('Z')
             description = event.get('Description', '')
             
-            # Format date/time - more compact
             if start_str:
                 try:
                     start_dt = datetime.fromisoformat(start_str)
-                    # Compact date format
                     formatted_date = start_dt.strftime('%a %m/%d')
                     formatted_time = start_dt.strftime('%I:%M%p').lower()
                     date_time = f"{formatted_date} at {formatted_time}"
@@ -362,7 +342,6 @@ def generate_email_html(events):
             else:
                 date_time = "Date TBD"
             
-            # Format location - more compact
             location_parts = []
             location = event.get('Location', {})
             if location and location.get('Name'):
@@ -376,7 +355,6 @@ def generate_email_html(events):
             
             location_text = ' - '.join(location_parts) if location_parts else 'Location TBD'
             
-            # Format organizer - more compact
             owner = event.get('Owner', {})
             organizer = f"{owner.get('FirstName', '')} {owner.get('LastName', '')}".strip()
             organizer_email = owner.get('Email', '')
@@ -398,7 +376,6 @@ def generate_email_html(events):
                 html_content += f'<div class="event-details"><strong>Contact:</strong> {contact_info}</div>'
             
             if description and description.strip():
-                # Show full description
                 html_content += f'<div class="description">{description}</div>'
             
             html_content += "</div>"
@@ -417,7 +394,7 @@ def generate_email_html(events):
             </div>
             
             <div class="footer">
-                <p>Automated bi-weekly report • Generated from iiQ • Questions: Natalie Markley</p>
+                <p>Automated bi-weekly report • Generated from iiQ • Questions: Tim Lyons or Natalie Markley</p>
             </div>
         </div>
     </body>
@@ -426,34 +403,8 @@ def generate_email_html(events):
     
     return html_content
 
-def authenticate_gmail():
-    """Authenticate and return Gmail service"""
-    creds = None
-    
-    # Load existing token
-    if os.path.exists(TOKEN_FILE):
-        creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
-    
-    # If no valid credentials, get new ones
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            if not os.path.exists(CREDENTIALS_FILE):
-                print(f"Error: {CREDENTIALS_FILE} not found. Please download from Google Cloud Console.")
-                return None
-            
-            flow = InstalledAppFlow.from_client_secrets_file(CREDENTIALS_FILE, SCOPES)
-            creds = flow.run_local_server(port=0)
-        
-        # Save credentials for next run
-        with open(TOKEN_FILE, 'w') as token:
-            token.write(creds.to_json())
-    
-    return build('gmail', 'v1', credentials=creds)
-
-def send_email(service, html_content, events_count):
-    """Send the email via Gmail API"""
+def send_email_smtp(html_content, events_count):
+    """Send email via Gmail SMTP using app password"""
     
     today = datetime.now()
     two_weeks = today + timedelta(days=14)
@@ -466,7 +417,7 @@ def send_email(service, html_content, events_count):
     message['from'] = FROM_EMAIL
     message['subject'] = f"GDS Facilities & Security: {events_count} Events - {today.strftime('%b %d')} to {two_weeks.strftime('%b %d, %Y')}"
     
-    # Create plain text version (fallback)
+    # Create plain text version
     text_content = f"""
 GDS Facilities & Security - Bi-weekly Event Summary
 
@@ -477,7 +428,7 @@ Covering events from {today.strftime('%B %d')} to {two_weeks.strftime('%B %d, %Y
 
 Please see the HTML version of this email for full event details.
 
-For questions, contact or Natalie Markley.
+For questions, contact Tim Lyons or Natalie Markley.
     """
     
     # Attach both versions
@@ -487,15 +438,19 @@ For questions, contact or Natalie Markley.
     message.attach(text_part)
     message.attach(html_part)
     
-    # Send the message
+    # Send via Gmail SMTP
     try:
-        raw_message = base64.urlsafe_b64encode(message.as_bytes()).decode()
-        send_message = service.users().messages().send(
-            userId="me", 
-            body={'raw': raw_message}
-        ).execute()
+        context = ssl.create_default_context()
         
-        print(f"Email sent successfully! Message ID: {send_message['id']}")
+        with smtplib.SMTP('smtp.gmail.com', 587) as server:
+            server.starttls(context=context)
+            server.login(FROM_EMAIL, FROM_PASSWORD)
+            
+            # Send to all recipients (TO + CC)
+            all_recipients = TO_EMAILS + (CC_EMAILS if CC_EMAILS else [])
+            server.send_message(message, to_addrs=all_recipients)
+        
+        print(f"Email sent successfully!")
         return True
         
     except Exception as error:
@@ -507,6 +462,10 @@ def main():
     
     if not API_TOKEN:
         print("Error: IIQ_API_TOKEN environment variable not set")
+        return
+        
+    if not FROM_PASSWORD:
+        print("Error: GMAIL_APP_PASSWORD environment variable not set")
         return
     
     print("Fetching events from iiQ API for facilities/security email...")
@@ -523,36 +482,28 @@ def main():
     print("Creating HTML email content...")
     html_content = generate_email_html(email_events)
     
-    # Write HTML file for backup/reference
+    # Save files for reference
     with open(OUTPUT_HTML_FILE, 'w') as f:
         f.write(html_content)
     print(f"Created {OUTPUT_HTML_FILE} for reference")
     
-    # Save events as JSON for reference
     with open(OUTPUT_JSON_FILE, 'w') as f:
         json.dump(email_events, f, indent=2)
     print(f"Created {OUTPUT_JSON_FILE} for reference")
     
-    # Authenticate and send email
-    print("Authenticating with Gmail...")
-    service = authenticate_gmail()
+    # Send email
+    print("Sending email via SMTP...")
+    success = send_email_smtp(html_content, len(email_events))
     
-    if service:
-        print("Sending email...")
-        success = send_email(service, html_content, len(email_events))
-        
-        if success:
-            print("Email sent successfully!")
-            print(f"Sent to: {', '.join(TO_EMAILS)}")
-            if CC_EMAILS:
-                print(f"CC'd to: {', '.join(CC_EMAILS)}")
-            print(f"Events included: {len(email_events)}")
-        else:
-            print("Failed to send email")
+    if success:
+        print("Email sent successfully!")
+        print(f"Sent to: {', '.join(TO_EMAILS)}")
+        if CC_EMAILS:
+            print(f"CC'd to: {', '.join(CC_EMAILS)}")
+        print(f"Events included: {len(email_events)}")
     else:
-        print("Failed to authenticate with Gmail")
+        print("Failed to send email")
     
-    # Print summary
     print(f"\nEmail Summary:")
     print(f"- {len(email_events)} events in next 14 days")
     if email_events:
