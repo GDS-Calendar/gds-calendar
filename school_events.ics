@@ -688,17 +688,6 @@ LOCATION:139 Internet Cafe
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:e279af7c-7f7f-4898-84f4-0d37a6625690@gds.incidentiq.com
-SUMMARY:Hopper Fund: Learn and Play
-DTSTART;TZID=America/New_York:20250920T093000
-DTEND;TZID=America/New_York:20250920T113000
-DESCRIPTION:Lower School Hopper Fund Ambassadors invite fellow lower sch
- ool families to join them for play\, bagels\, coffee and answers to all of
-  your Hopper Fund questions.
-LOCATION:LMS-Driveway
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:74f3ec91-50e6-4b05-8c36-cfaa3c1cfd9c@gds.incidentiq.com
 SUMMARY:Welcome to GDS Party for Parents/Guardians of Students New to GDS
 DTSTART;TZID=America/New_York:20250826T183000
@@ -4229,17 +4218,6 @@ DTSTART;TZID=America/New_York:20251001T170000
 DTEND;TZID=America/New_York:20251001T235500
 DESCRIPTION:Begins at Sundown
 LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:116000e9-2f86-4ead-ac73-64b0e0428679@gds.incidentiq.com
-SUMMARY:Hopper Fund: Queso and Questions
-DTSTART;TZID=America/New_York:20250930T170000
-DTEND;TZID=America/New_York:20250930T190000
-DESCRIPTION:Middle and High School Hopper Fund Ambassadors invite fellow
-  parents to join them at Guapos for queso\, community\, and to answer all 
- of our questions about the Hopper Fund.
-LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
