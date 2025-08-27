@@ -30,7 +30,7 @@ TO_EMAILS = [
     'tlyons@gds.org',  # Update with actual email addresses
 ]
 CC_EMAILS = [
-    'tim.lyons@gds.org'
+    'tlyons@gds.org'
 ]
 
 def fetch_all_events():
