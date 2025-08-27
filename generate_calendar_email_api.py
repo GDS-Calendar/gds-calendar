@@ -24,13 +24,10 @@ OUTPUT_JSON_FILE = "email_events.json"
 OUTPUT_HTML_FILE = "facilities_security_email.html"
 
 # Email settings - UPDATE THESE WITH ACTUAL EMAIL ADDRESSES
-FROM_EMAIL = 'tim.lyons@gds.org'
+FROM_EMAIL = 'tlyons@gds.org'
 FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')  # App-specific password
 TO_EMAILS = [
     'tlyons@gds.org',  # Update with actual email addresses
-    # 'natalie.markley@gds.org',
-    # 'shelley.harris@gds.org',
-    # 'khalid.daniels@gds.org'
 ]
 CC_EMAILS = [
     'tim.lyons@gds.org'
