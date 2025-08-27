@@ -392,7 +392,7 @@ def generate_email_html(events):
             </div>
             
             <div class="footer">
-                <p>Automated bi-weekly report • Generated from iiQ • Questions: Tim Lyons or Natalie Markley</p>
+                <p>Automated bi-weekly report • Generated from iiQ • Questions: Natalie Markley</p>
             </div>
         </div>
     </body>
@@ -426,7 +426,7 @@ Covering events from {today.strftime('%B %d')} to {two_weeks.strftime('%B %d, %Y
 
 Please see the HTML version of this email for full event details.
 
-For questions, contact Tim Lyons or Natalie Markley.
+For questions, contact Natalie Markley.
     """
     
     # Attach both versions
