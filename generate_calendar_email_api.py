@@ -28,7 +28,7 @@ FROM_EMAIL = os.environ.get('FROM_EMAIL', 'gds-events-notifications@gds.org')
 FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')  # App-specific password
 TO_EMAILS = [
     'tlyons@gds.org',
-    'NMARKLEY@GDS.ORG' # Update with actual email addresses
+    'nmarkley@gds.org' # Update with actual email addresses
 ]
 CC_EMAILS = [
     'tlyons@gds.org'
