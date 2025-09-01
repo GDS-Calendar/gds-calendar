@@ -28,11 +28,9 @@ FROM_EMAIL = os.environ.get('FROM_EMAIL', 'gds-events-notifications@gds.org')
 FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')
 TO_EMAILS = [
     'nmarkley@gds.org',        # Natalie
-    'shelley.harris@gds.org',  # Security Director  
-    'khalid.daniels@gds.org'   # Facilities Director
 ]
 CC_EMAILS = [
-    'tim.lyons@gds.org'  # You for monitoring
+    'tlyons@gds.org'  # You for monitoring
 ]
 
 def fetch_all_events():
