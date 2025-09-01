@@ -23,15 +23,16 @@ VIEW_ID = "8028a2ba-887f-f011-b481-000d3ae39e88"
 OUTPUT_JSON_FILE = "email_events.json"
 OUTPUT_HTML_FILE = "facilities_security_email.html"
 
-# Email settings - UPDATE THESE WITH ACTUAL EMAIL ADDRESSES
+# Email settings
 FROM_EMAIL = os.environ.get('FROM_EMAIL', 'gds-events-notifications@gds.org')
-FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')  # App-specific password
+FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')
 TO_EMAILS = [
-    'tlyons@gds.org',
-    'nmarkley@gds.org' # Update with actual email addresses
+    'nmarkley@gds.org',        # Natalie
+    'shelley.harris@gds.org',  # Security Director  
+    'khalid.daniels@gds.org'   # Facilities Director
 ]
 CC_EMAILS = [
-    'tlyons@gds.org'
+    'tim.lyons@gds.org'  # You for monitoring
 ]
 
 def fetch_all_events():
@@ -329,12 +330,24 @@ def generate_email_html(events):
             start_str = event.get('StartDateTime', '').rstrip('Z')
             description = event.get('Description', '')
             
+            # Format date/time with start and end times
             if start_str:
                 try:
                     start_dt = datetime.fromisoformat(start_str)
                     formatted_date = start_dt.strftime('%a %m/%d')
-                    formatted_time = start_dt.strftime('%I:%M%p').lower()
-                    date_time = f"{formatted_date} at {formatted_time}"
+                    formatted_start_time = start_dt.strftime('%I:%M%p').lower()
+                    
+                    # Add end time if available
+                    end_str = event.get('EndDateTime', '').rstrip('Z')
+                    if end_str:
+                        try:
+                            end_dt = datetime.fromisoformat(end_str)
+                            formatted_end_time = end_dt.strftime('%I:%M%p').lower()
+                            date_time = f"{formatted_date} from {formatted_start_time} to {formatted_end_time}"
+                        except ValueError:
+                            date_time = f"{formatted_date} at {formatted_start_time}"
+                    else:
+                        date_time = f"{formatted_date} at {formatted_start_time}"
                 except ValueError:
                     date_time = "Date TBD"
             else:
@@ -392,7 +405,7 @@ def generate_email_html(events):
             </div>
             
             <div class="footer">
-                <p>Automated bi-weekly report • Generated from iiQ • Questions: Natalie Markley</p>
+                <p>Automated bi-weekly report • Generated from iiQ • Questions: Tim Lyons or Natalie Markley</p>
             </div>
         </div>
     </body>
@@ -426,7 +439,7 @@ Covering events from {today.strftime('%B %d')} to {two_weeks.strftime('%B %d, %Y
 
 Please see the HTML version of this email for full event details.
 
-For questions, contact Natalie Markley.
+For questions, contact Tim Lyons or Natalie Markley.
     """
     
     # Attach both versions
