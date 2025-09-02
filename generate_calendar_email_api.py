@@ -2,6 +2,7 @@
 """
 iiQ API Email Generator for GDS - Facilities & Security
 GitHub Actions version - uses environment variables for authentication
+Updated to include Event Type information
 """
 
 import os
@@ -252,6 +253,16 @@ def generate_email_html(events):
                 color: #2E7D32;
                 font-weight: 600;
             }}
+            .event-type {{
+                display: inline-block;
+                background-color: #E3F2FD;
+                color: #1565C0;
+                padding: 2px 6px;
+                border-radius: 3px;
+                font-size: 10px;
+                font-weight: 500;
+                margin-top: 4px;
+            }}
             .description {{ 
                 margin-top: 6px; 
                 padding: 6px 8px;
@@ -330,6 +341,10 @@ def generate_email_html(events):
             start_str = event.get('StartDateTime', '').rstrip('Z')
             description = event.get('Description', '')
             
+            # Get event type
+            event_type = event.get('Type', {})
+            type_name = event_type.get('Name', '') if event_type else ''
+            
             # Format date/time with start and end times
             if start_str:
                 try:
@@ -379,6 +394,10 @@ def generate_email_html(events):
                     <div class="event-details"><strong>When:</strong> {date_time}</div>
                     <div class="event-details"><strong>Where:</strong> {location_text}</div>
             """
+            
+            # Add event type if available
+            if type_name:
+                html_content += f'<div class="event-details"><strong>Type:</strong> <span class="event-type">{type_name}</span></div>'
             
             if organizer:
                 contact_info = organizer
