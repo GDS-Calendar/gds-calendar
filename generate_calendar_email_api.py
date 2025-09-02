@@ -28,7 +28,9 @@ OUTPUT_HTML_FILE = "facilities_security_email.html"
 FROM_EMAIL = os.environ.get('FROM_EMAIL', 'gds-events-notifications@gds.org')
 FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')
 TO_EMAILS = [
-    'tlyons@gds.org',        # Natalie
+    'nmarkley@gds.org',        # Natalie
+    'kdaniels@gds.org',        # Khalid
+    'shharris@gds.org'         # Shelley
 ]
 CC_EMAILS = [
     'tlyons@gds.org'  # You for monitoring
@@ -340,7 +342,7 @@ def generate_email_html(events):
             description = event.get('Description', '')
             
             # Get event type
-            event_type = event.get('Type', {})
+            event_type = event.get('EventType', {})
             type_name = event_type.get('Name', '') if event_type else ''
             
             # Format date/time with start and end times
