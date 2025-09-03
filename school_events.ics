@@ -23,6 +23,24 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:94986c2a-aa78-1550-8451-aa6c8a18b0e9@gds.incidentiq.com
+SUMMARY:HS Enrichment Day
+DTSTART;TZID=America/New_York:20251002T080000
+DTEND;TZID=America/New_York:20251002T160000
+DESCRIPTION:No HS Classes. For more information please reach out to the HS Office.
+LOCATION:HS-Campus
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5a272f-ca04-8851-8344-0a48d1f96f8c@gds.incidentiq.com
+SUMMARY:HS Enrichment Day
+DTSTART;TZID=America/New_York:20250923T080000
+DTEND;TZID=America/New_York:20250923T160000
+DESCRIPTION:No HS Classes. For more information please reach out to the HS Office.
+LOCATION:HS-Campus
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:72fb38ed-157f-4bf7-b6a1-e7d25e939b1b@gds.incidentiq.com
 SUMMARY:High School Admissions Open House
 DTSTART;TZID=America/New_York:20251207T130000
@@ -123,7 +141,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:dd55adbd-30f3-4c03-9ac8-b2239ca84fa4@gds.incidentiq.com
-SUMMARY:Beginning of Year Assessments
+SUMMARY:LS: Beginning of Year Assessments
 DTSTART;TZID=America/New_York:20250925T120000
 DTEND;TZID=America/New_York:20250925T130000
 DESCRIPTION:We begin the school year by getting to know our students aca
@@ -4478,7 +4496,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:7be6ecd1-2499-4482-97b9-198cfdfe5391@gds.incidentiq.com
-SUMMARY:Recipe for Thriving Students
+SUMMARY:LS: Recipe for Thriving Students
 DTSTART;TZID=America/New_York:20250910T083000
 DTEND;TZID=America/New_York:20250910T093000
 DESCRIPTION:Join the LS Leadership and Student Support team who will sha
