@@ -3714,14 +3714,6 @@ LOCATION:Virtual #05
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:1f9695a6-6dee-4079-871b-26d09862dbd3@gds.incidentiq.com
-SUMMARY:Choralcopia
-DTSTART;TZID=America/New_York:20251105T190000
-DTEND;TZID=America/New_York:20251105T210000
-LOCATION:B201 LMS Flexible Performance Center
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:71122673-21fe-4b5b-9b0f-038d577fc558@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20251104T080000
@@ -4259,7 +4251,7 @@ DTSTART;TZID=America/New_York:20250926T160000
 DTEND;TZID=America/New_York:20250926T210000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001 HS Forum
+LOCATION:G001 HS Forum\, LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4405,14 +4397,6 @@ DESCRIPTION:This optional and informal coffee meeting is a great opportu
  rs and connect with other parents engaged in the college process. There is
   no set agenda\; just bring your questions!
 LOCATION:Virtual #05
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:c08084db-f5d2-4819-b60a-1b00b36c1c13@gds.incidentiq.com
-SUMMARY:High School Quizbowl Competition
-DTSTART;TZID=America/New_York:20250913T080000
-DTEND;TZID=America/New_York:20250913T180000
-LOCATION:100
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
