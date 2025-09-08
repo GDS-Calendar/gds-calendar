@@ -51595,7 +51595,7 @@
     "EventTag": "10167",
     "EventId": "72034ee0-bcf6-4820-9a95-bd0f6cf7561f",
     "CreatedDate": "2025-07-16T14:30:30.52",
-    "ModifiedDate": "2025-09-08T09:34:12.79",
+    "ModifiedDate": "2025-09-08T10:25:07.88",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -51673,30 +51673,10 @@
         "IsDeleted": false,
         "CreatedDate": "2025-01-15T19:52:02.35",
         "ModifiedDate": "2025-08-07T18:44:50.3"
-      },
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
-        "Name": "LMS-Campus",
-        "NameFormatted": "LMS-Campus",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "LMS Campus",
-        "InternalNotes": "LMS Campus",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "LMS-Campus",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:11:22.85",
-        "ModifiedDate": "2025-07-29T22:47:41.7"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "HS > G001 HS Forum\nLMS > LMS-Campus",
+    "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "September 26, 2025\n04:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {

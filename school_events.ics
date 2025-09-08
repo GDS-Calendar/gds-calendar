@@ -4251,7 +4251,7 @@ DTSTART;TZID=America/New_York:20250926T160000
 DTEND;TZID=America/New_York:20250926T210000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001 HS Forum\, LMS-Campus
+LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
