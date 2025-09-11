@@ -390,7 +390,7 @@ UID:4e3e3e49-ce82-4de4-98ae-f3f9c25de5b5@gds.incidentiq.com
 SUMMARY:Fata Morgana
 DTSTART;TZID=America/New_York:20260516T190000
 DTEND;TZID=America/New_York:20260516T210000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -398,7 +398,7 @@ UID:36fef538-9d84-4ec1-ad85-f758e8b8ca05@gds.incidentiq.com
 SUMMARY:Fata Morgana
 DTSTART;TZID=America/New_York:20260515T190000
 DTEND;TZID=America/New_York:20260515T210000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -406,7 +406,7 @@ UID:2afe854a-7cbf-4ac6-ad8d-b3805b075617@gds.incidentiq.com
 SUMMARY:Fata Morgana
 DTSTART;TZID=America/New_York:20260514T190000
 DTEND;TZID=America/New_York:20260514T210000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -430,7 +430,7 @@ UID:8b2ec345-d4a7-4c01-a390-d8c5ef41183e@gds.incidentiq.com
 SUMMARY:High School Jazz and Creative Music Concert
 DTSTART;TZID=America/New_York:20260512T190000
 DTEND;TZID=America/New_York:20260512T203000
-LOCATION:360
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -446,7 +446,7 @@ UID:38903167-cf2c-4d47-be83-8bd00502d77f@gds.incidentiq.com
 SUMMARY:High School Spring Cabaret
 DTSTART;TZID=America/New_York:20260501T190000
 DTEND;TZID=America/New_York:20260501T203000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -470,7 +470,7 @@ UID:e4987e35-2bad-41ce-a9be-bb74bdb9160a@gds.incidentiq.com
 SUMMARY:Spring Musical Matinee
 DTSTART;TZID=America/New_York:20260425T130000
 DTEND;TZID=America/New_York:20260425T150000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -478,7 +478,7 @@ UID:3d498aa5-5f87-9dd5-a047-904a6efe0539@gds.incidentiq.com
 SUMMARY:Spring Musical
 DTSTART;TZID=America/New_York:20260425T190000
 DTEND;TZID=America/New_York:20260425T210000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -486,7 +486,7 @@ UID:ea566947-c7b3-647d-8a27-b7aa9751d0d1@gds.incidentiq.com
 SUMMARY:Spring Musical
 DTSTART;TZID=America/New_York:20260424T190000
 DTEND;TZID=America/New_York:20260424T210000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -494,7 +494,7 @@ UID:0fc207f5-8c4e-44b4-9ef6-ef3851cb9f35@gds.incidentiq.com
 SUMMARY:Spring Musical
 DTSTART;TZID=America/New_York:20260423T190000
 DTEND;TZID=America/New_York:20260423T210000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -656,7 +656,7 @@ UID:a06b9999-5afa-42c1-8934-4116ef5b6e51@gds.incidentiq.com
 SUMMARY:Winter One Acts
 DTSTART;TZID=America/New_York:20260131T190000
 DTEND;TZID=America/New_York:20260131T213000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -664,7 +664,7 @@ UID:853c45b2-3ec7-4fa6-ba75-264bccaaaadc@gds.incidentiq.com
 SUMMARY:Winter One Acts
 DTSTART;TZID=America/New_York:20260130T190000
 DTEND;TZID=America/New_York:20260130T213000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -672,7 +672,7 @@ UID:af2bb3a5-53a0-4af4-92f5-eef9390cef7d@gds.incidentiq.com
 SUMMARY:Winter One Acts
 DTSTART;TZID=America/New_York:20260129T190000
 DTEND;TZID=America/New_York:20260129T213000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -759,7 +759,7 @@ UID:26506158-1721-467c-8265-a3e00c488af7@gds.incidentiq.com
 SUMMARY:High School Jazz and Creative Music Concert
 DTSTART;TZID=America/New_York:20251216T190000
 DTEND;TZID=America/New_York:20251216T210000
-LOCATION:360
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -767,7 +767,7 @@ UID:fea08931-b6d7-4d70-b78f-4f74484fc457@gds.incidentiq.com
 SUMMARY:Fall/Winter Theater Lab
 DTSTART;TZID=America/New_York:20251213T190000
 DTEND;TZID=America/New_York:20251213T210000
-LOCATION:360
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -775,7 +775,7 @@ UID:9e3b702b-f89a-4bdc-aa82-daba815aaadd@gds.incidentiq.com
 SUMMARY:Fall/Winter Theater Lab
 DTSTART;TZID=America/New_York:20251212T190000
 DTEND;TZID=America/New_York:20251212T210000
-LOCATION:360
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ UID:c3a1459b-f713-42bd-8b3d-caac17d68f8c@gds.incidentiq.com
 SUMMARY:Fall/Winter Theater Lab
 DTSTART;TZID=America/New_York:20251211T190000
 DTEND;TZID=America/New_York:20251211T210000
-LOCATION:360
+LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -834,7 +834,7 @@ UID:28126e21-9714-477a-c858-328972f35aea@gds.incidentiq.com
 SUMMARY:High School Fall Show
 DTSTART;TZID=America/New_York:20251116T130000
 DTEND;TZID=America/New_York:20251116T153000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -842,7 +842,7 @@ UID:edd01ad7-3204-095a-f7ca-700b5ecbbf74@gds.incidentiq.com
 SUMMARY:High School Fall Show
 DTSTART;TZID=America/New_York:20251115T190000
 DTEND;TZID=America/New_York:20251115T213000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -850,7 +850,7 @@ UID:1d96c7a9-2ee1-365e-9b33-a0898c48a540@gds.incidentiq.com
 SUMMARY:High School Fall Show
 DTSTART;TZID=America/New_York:20251114T190000
 DTEND;TZID=America/New_York:20251114T213000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -858,7 +858,7 @@ UID:07600fb3-7ec7-5ea8-c8d8-e068dbfa5bca@gds.incidentiq.com
 SUMMARY:High School Fall Show
 DTSTART;TZID=America/New_York:20251113T190000
 DTEND;TZID=America/New_York:20251113T213000
-LOCATION:360
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
