@@ -2520,9 +2520,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5b6f9190-a44a-45ab-b751-7e8d17c29d0b@gds.incidentiq.com
 SUMMARY:GDS 360 Season 3 Registration Closes
-DTSTART;TZID=America/New_York:20260221T080000
-DTEND;TZID=America/New_York:20260221T160000
-LOCATION:Virtual #01
+DTSTART;TZID=America/New_York:20260220T080000
+DTEND;TZID=America/New_York:20260220T160000
+LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3934,32 +3934,6 @@ UID:cb798164-4e18-45d6-8a04-0f4fe6283719@gds.incidentiq.com
 SUMMARY:GDS 360 Registration for Season 2 Opens
 DTSTART;TZID=America/New_York:20251022T080000
 DTEND;TZID=America/New_York:20251022T160000
-DESCRIPTION:Don't forget to enroll in the exciting enrichment class offe
- rings through the GDS 360 Extended Day Program! Registration closes Novemb
- er 16.  Classes fill quickly so register early. Families receiving financi
- al aid should check their emails for a financial aid code from the GDS 360
-  team. \n\nRegistration Portal: gds360.campbrainregistration.com
-LOCATION:Virtual #03
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:b22bfcaa-ddd3-4291-a9d4-df039129ea72@gds.incidentiq.com
-SUMMARY:GDS 360 Registration for Season 2 Opens
-DTSTART;TZID=America/New_York:20251021T080000
-DTEND;TZID=America/New_York:20251021T160000
-DESCRIPTION:Don't forget to enroll in the exciting enrichment class offe
- rings through the GDS 360 Extended Day Program! Registration closes Novemb
- er 16.  Classes fill quickly so register early. Families receiving financi
- al aid should check their emails for a financial aid code from the GDS 360
-  team. \n\nRegistration Portal: gds360.campbrainregistration.com
-LOCATION:Virtual #03
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:d040c1f0-1ba6-4d83-b42c-7bddbfdd821b@gds.incidentiq.com
-SUMMARY:GDS 360 Registration for Season 2 Opens
-DTSTART;TZID=America/New_York:20251020T080000
-DTEND;TZID=America/New_York:20251020T160000
 DESCRIPTION:Don't forget to enroll in the exciting enrichment class offe
  rings through the GDS 360 Extended Day Program! Registration closes Novemb
  er 16.  Classes fill quickly so register early. Families receiving financi
