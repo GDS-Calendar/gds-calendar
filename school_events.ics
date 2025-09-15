@@ -23,6 +23,15 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:10a901da-3cfd-4c28-8c38-1561edee5947@gds.incidentiq.com
+SUMMARY:[PSA] 10th Grade Social
+DTSTART;TZID=America/New_York:20250919T183000
+DTEND;TZID=America/New_York:20250919T203000
+DESCRIPTION:For more information please reach out to andrianna.dunbar@gmail.com
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:94986c2a-aa78-1550-8451-aa6c8a18b0e9@gds.incidentiq.com
 SUMMARY:HS Enrichment Day
 DTSTART;TZID=America/New_York:20251002T080000
