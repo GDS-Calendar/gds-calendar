@@ -23,6 +23,23 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:03a45fbc-a3d3-4d89-b538-22b373264ab8@gds.incidentiq.com
+SUMMARY:[PSA] 4th Grade Parent Social
+DTSTART;TZID=America/New_York:20251115T180000
+DTEND;TZID=America/New_York:20251115T200000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:362a57a3-6ff9-4118-bdf6-87cdced2a48e@gds.incidentiq.com
+SUMMARY:[PSA] PK Parent Social
+DTSTART;TZID=America/New_York:20251025T180000
+DTEND;TZID=America/New_York:20251025T200000
+DESCRIPTION:PSA Parent Social for PK parents
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:10a901da-3cfd-4c28-8c38-1561edee5947@gds.incidentiq.com
 SUMMARY:[PSA] 10th Grade Social
 DTSTART;TZID=America/New_York:20250919T183000
@@ -1599,9 +1616,11 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:86128525-7bd3-4b0b-9279-df6d4a5c6d13@gds.incidentiq.com
-SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty Speaker)
+SUMMARY:[PSA] Coffee and Meeting
 DTSTART;TZID=America/New_York:20260513T081500
-DTEND;TZID=America/New_York:20260513T093000
+DTEND;TZID=America/New_York:20260513T094500
+DESCRIPTION:Join the PSA for coffee and a meeting. Coffee and mingling s
+ tarting at 8:15 and meeting starting at 8:45.
 LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -1998,14 +2017,6 @@ LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:d96d829e-59a6-4e22-82e4-059d85eca6fe@gds.incidentiq.com
-SUMMARY:[PSA] Virtual Meeting by Division (with TBD Speakers)
-DTSTART;TZID=America/New_York:20260408T120000
-DTEND;TZID=America/New_York:20260408T130000
-LOCATION:Virtual #03
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:eb2d1737-18b2-42ef-8b9c-8d67369dac0e@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260407T080000
@@ -2347,10 +2358,12 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:d38fe8e9-b788-4e37-b0f7-d9f3225a473f@gds.incidentiq.com
-SUMMARY:[PSA] Virtual Meeting for PSA Leadership and Committees
-DTSTART;TZID=America/New_York:20260311T200000
-DTEND;TZID=America/New_York:20260311T210000
-LOCATION:Virtual #01
+SUMMARY:[PSA] PSA Coffee and Meeting
+DTSTART;TZID=America/New_York:20260311T083000
+DTEND;TZID=America/New_York:20260311T094500
+DESCRIPTION:Join the PSA for coffee and a meeting. Coffee and mingling s
+ tarting at 8:30 and meeting starting at 8:45.
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2639,14 +2652,6 @@ DESCRIPTION:A luncheon for former GDS State of the School presentation t
  ailored to update former members of Georgetown Day School's Board of Trust
  ees.
 LOCATION:220 HS Library (Full)
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:849763b3-780b-461f-989b-1851771ce9d0@gds.incidentiq.com
-SUMMARY:[PSA] All School Coffee and Meeting (TBD Faculty Speaker)
-DTSTART;TZID=America/New_York:20260212T081500
-DTEND;TZID=America/New_York:20260212T093000
-LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2950,8 +2955,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a215bda3-3b1a-415f-a6a6-76b6b17ae36b@gds.incidentiq.com
 SUMMARY:[PSA] Virtual Meeting by Division (with TBD Speakers)
-DTSTART;TZID=America/New_York:20260114T120000
-DTEND;TZID=America/New_York:20260114T130000
+DTSTART;TZID=America/New_York:20260114T080000
+DTEND;TZID=America/New_York:20260114T090000
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -3664,8 +3669,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e088b8e7-c026-4b3f-86cf-d3d2d7418488@gds.incidentiq.com
 SUMMARY:[PSA] Virtual Meeting for PSA Leadership and committees
-DTSTART;TZID=America/New_York:20251112T200000
-DTEND;TZID=America/New_York:20251112T210000
+DTSTART;TZID=America/New_York:20251113T090000
+DTEND;TZID=America/New_York:20251113T100000
+DESCRIPTION:All parents and caregivers are invited to join us for this v
+ irtual PSA meeting.
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
