@@ -314,8 +314,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6b2a41b2-b220-41de-9c1b-c70aa2e7ef4a@gds.incidentiq.com
 SUMMARY:5th Grade Parent Coffee
-DTSTART;TZID=America/New_York:20251027T081500
-DTEND;TZID=America/New_York:20251027T091500
+DTSTART;TZID=America/New_York:20251027T083000
+DTEND;TZID=America/New_York:20251027T093000
+DESCRIPTION:[[Original Location: Lower Middle School\, 130 LMS Cafe - 42
+ 03 Davenport St. NW\, Washington\, DC 20016\, Lower Middle School Building
+ -Ground-130-Cafeteria (Dining) (350) [Projector\, Wall Mount Display (TV)]
+ ]]
 LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -2923,7 +2927,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:08434829-7737-423a-ab53-48cd4d46a47e@gds.incidentiq.com
-SUMMARY:Middle School Band Concert
+SUMMARY:Grades 7/8 Band Concert
 DTSTART;TZID=America/New_York:20260115T183000
 DTEND;TZID=America/New_York:20260115T200000
 LOCATION:B201 LMS Flexible Performance Center
