@@ -4222,30 +4222,30 @@ BEGIN:VEVENT
 UID:461146a2-1b3c-4bc5-8ab4-bfe3f1bb2449@gds.incidentiq.com
 SUMMARY:GDS National Debate Tournament
 DTSTART;TZID=America/New_York:20250928T080000
-DTEND;TZID=America/New_York:20250928T180000
+DTEND;TZID=America/New_York:20250928T200000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001 HS Forum
+LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:311d7eef-d66d-41c0-a5c8-9c9395db67b0@gds.incidentiq.com
 SUMMARY:GDS National Debate Tournament
 DTSTART;TZID=America/New_York:20250927T080000
-DTEND;TZID=America/New_York:20250927T180000
+DTEND;TZID=America/New_York:20250927T200000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001 HS Forum
+LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:72034ee0-bcf6-4820-9a95-bd0f6cf7561f@gds.incidentiq.com
 SUMMARY:GDS National Debate Tournament
 DTSTART;TZID=America/New_York:20250926T160000
-DTEND;TZID=America/New_York:20250926T210000
+DTEND;TZID=America/New_York:20250926T220000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
-LOCATION:G001 HS Forum
+LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
