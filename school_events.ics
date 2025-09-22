@@ -1416,8 +1416,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b9f28eb7-ce3a-46eb-b0c1-a82e052cfa83@gds.incidentiq.com
 SUMMARY:1st Grade Author's Brunch
-DTSTART;TZID=America/New_York:20260528T083000
-DTEND;TZID=America/New_York:20260528T103000
+DTSTART;TZID=America/New_York:20260521T083000
+DTEND;TZID=America/New_York:20260521T093000
 DESCRIPTION:First Grade families are encouraged to attend this event. \n
  Location: First Grade Homerooms
 LOCATION:219
