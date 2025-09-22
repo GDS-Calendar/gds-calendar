@@ -4250,7 +4250,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:3a858412-5ba6-43ad-bb8c-7b8e0553caf3@gds.incidentiq.com
-SUMMARY:8th Grade Advisory Trip to National Mall
+SUMMARY:8th Grade Advisory Trip
 DTSTART;TZID=America/New_York:20250926T101500
 DTEND;TZID=America/New_York:20250926T141500
 LOCATION:Offsite #01
