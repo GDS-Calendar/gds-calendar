@@ -3829,8 +3829,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4ffb2469-79b9-4de4-bf7a-2d4588055c86@gds.incidentiq.com
 SUMMARY:[PSA] New Families Check In
-DTSTART;TZID=America/New_York:20251028T084500
-DTEND;TZID=America/New_York:20251028T094500
+DTSTART;TZID=America/New_York:20251030T084500
+DTEND;TZID=America/New_York:20251030T094500
 DESCRIPTION:We welcome New (and New-ish) parents and guardians to share 
  their experiences and questions with other parents and PSA leadership.
 LOCATION:122

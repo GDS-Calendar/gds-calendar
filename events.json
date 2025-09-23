@@ -46913,7 +46913,7 @@
     "EventTag": "10212",
     "EventId": "4ffb2469-79b9-4de4-bf7a-2d4588055c86",
     "CreatedDate": "2025-07-18T11:07:12.893",
-    "ModifiedDate": "2025-08-26T07:26:45.027",
+    "ModifiedDate": "2025-09-23T11:33:44.12",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -46936,10 +46936,10 @@
     },
     "Title": "[PSA] New Families Check In",
     "Description": "We welcome New (and New-ish) parents and guardians to share their experiences and questions with other parents and PSA leadership.",
-    "StartDateTime": "2025-10-28T08:45:00",
-    "SetUpStartDateTime": "2025-10-28T08:45:00",
-    "EndDateTime": "2025-10-28T09:45:00",
-    "BreakdownEndDateTime": "2025-10-28T09:45:00",
+    "StartDateTime": "2025-10-30T08:45:00",
+    "SetUpStartDateTime": "2025-10-30T08:45:00",
+    "EndDateTime": "2025-10-30T09:45:00",
+    "BreakdownEndDateTime": "2025-10-30T09:45:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -46989,7 +46989,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > 122",
-    "DateTimeDisplay": "October 28, 2025\n08:45 AM - 09:45 AM",
+    "DateTimeDisplay": "October 30, 2025\n08:45 AM - 09:45 AM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
@@ -47017,7 +47017,27 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-09-23T11:33:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
   },
   {
     "EventTag": "10211",
