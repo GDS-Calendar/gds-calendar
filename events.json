@@ -9012,7 +9012,7 @@
     "EventTag": "10613",
     "EventId": "ff0cccab-9d5c-46fc-9f17-c0decba6d50a",
     "CreatedDate": "2025-07-29T20:41:23.603",
-    "ModifiedDate": "2025-07-29T20:41:23.603",
+    "ModifiedDate": "2025-09-25T09:21:56.277",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -9035,10 +9035,10 @@
     },
     "Title": "Fall Cabaret",
     "Description": "The Annual World AIDS Day Cabaret will be presented by the GDS Cabaret Club on Friday night. Approximately 35 students will participate and there will be 15-20 musical acts over the course of 90 minutes. The Internet Cafe area will be set up with tables of food and treats, and people are encouraged to arrive by 6:30 so that they can get food and sit back to enjoy the show. Admission is $5 for students and $10 for adults. GDS staff receive one complimentary ticket.",
-    "StartDateTime": "2025-10-17T19:00:00",
-    "SetUpStartDateTime": "2025-10-17T19:00:00",
-    "EndDateTime": "2025-10-17T21:00:00",
-    "BreakdownEndDateTime": "2025-10-17T21:00:00",
+    "StartDateTime": "2025-10-24T19:00:00",
+    "SetUpStartDateTime": "2025-10-24T19:00:00",
+    "EndDateTime": "2025-10-24T21:00:00",
+    "BreakdownEndDateTime": "2025-10-24T21:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -9087,16 +9087,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > 139 Internet Cafe",
-    "DateTimeDisplay": "October 17, 2025\n07:00 PM - 09:00 PM",
+    "DateTimeDisplay": "October 24, 2025\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -9110,12 +9115,37 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-09-25T09:21:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
   },
   {
     "EventTag": "10611",
