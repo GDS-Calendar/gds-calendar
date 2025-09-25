@@ -36,6 +36,7 @@ TO_EMAILS = [
     'shharris@gds.org',        # Shelley
     'wnazari@gds.org'          # Walid  
     'mjtorres@gds.org'         # MJ
+    'flexspace@gds.org'        # Flexspace
 ]
 CC_EMAILS = [
     'tlyons@gds.org'  # You for monitoring
