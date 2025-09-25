@@ -3603,7 +3603,7 @@
     "EventTag": "10663",
     "EventId": "c3ddbf32-a936-4ffe-bfce-4b38c3c7d9ec",
     "CreatedDate": "2025-07-30T13:04:30.407",
-    "ModifiedDate": "2025-07-30T13:04:30.407",
+    "ModifiedDate": "2025-09-25T13:08:43.263",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -3628,8 +3628,8 @@
     "Description": "Please join us for a Zoom session to learn more about the goals, logistics, and highlights of the upcoming 7th Grade Outdoor Education trip. We'll share key details about the schedule, safety, and what students can expect, and there will be time for Q&A at the end. This is a great opportunity to get your questions answered and hear how this experience supports student growth, teamwork, and connection. We hope to see you there!",
     "StartDateTime": "2025-10-10T12:00:00",
     "SetUpStartDateTime": "2025-10-10T12:00:00",
-    "EndDateTime": "2025-10-10T12:45:00",
-    "BreakdownEndDateTime": "2025-10-10T12:45:00",
+    "EndDateTime": "2025-10-10T12:30:00",
+    "BreakdownEndDateTime": "2025-10-10T12:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -3677,16 +3677,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 10, 2025\n12:00 PM - 12:45 PM",
+    "DateTimeDisplay": "October 10, 2025\n12:00 PM - 12:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -3697,6 +3702,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -3711,7 +3721,7 @@
     "EventTag": "10662",
     "EventId": "4060f8a6-da0f-4f7e-a3ff-ee180136f71e",
     "CreatedDate": "2025-07-30T13:03:06.42",
-    "ModifiedDate": "2025-07-30T13:03:06.42",
+    "ModifiedDate": "2025-09-25T13:08:13.66",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -3736,8 +3746,8 @@
     "Description": "Please join us for a Zoom session to learn more about the goals, logistics, and highlights of the upcoming 6th Grade Outdoor Education trip. We'll share key details about the schedule, safety, and what students can expect, and there will be time for Q&A at the end. This is a great opportunity to get your questions answered and hear how this experience supports student growth, teamwork, and connection. We hope to see you there!",
     "StartDateTime": "2025-10-03T12:00:00",
     "SetUpStartDateTime": "2025-10-03T12:00:00",
-    "EndDateTime": "2025-10-03T12:45:00",
-    "BreakdownEndDateTime": "2025-10-03T12:45:00",
+    "EndDateTime": "2025-10-03T12:30:00",
+    "BreakdownEndDateTime": "2025-10-03T12:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -3785,16 +3795,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 03, 2025\n12:00 PM - 12:45 PM",
+    "DateTimeDisplay": "October 03, 2025\n12:00 PM - 12:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -3805,6 +3820,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {

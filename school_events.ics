@@ -357,7 +357,7 @@ BEGIN:VEVENT
 UID:c3ddbf32-a936-4ffe-bfce-4b38c3c7d9ec@gds.incidentiq.com
 SUMMARY:7th Grade Overnight Trip Informational Session
 DTSTART;TZID=America/New_York:20251010T120000
-DTEND;TZID=America/New_York:20251010T124500
+DTEND;TZID=America/New_York:20251010T123000
 DESCRIPTION:Please join us for a Zoom session to learn more about the go
  als\, logistics\, and highlights of the upcoming 7th Grade Outdoor Educati
  on trip. We'll share key details about the schedule\, safety\, and what st
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 UID:4060f8a6-da0f-4f7e-a3ff-ee180136f71e@gds.incidentiq.com
 SUMMARY:6th Grade Overnight Trip Informational Session
 DTSTART;TZID=America/New_York:20251003T120000
-DTEND;TZID=America/New_York:20251003T124500
+DTEND;TZID=America/New_York:20251003T123000
 DESCRIPTION:Please join us for a Zoom session to learn more about the go
  als\, logistics\, and highlights of the upcoming 6th Grade Outdoor Educati
  on trip. We'll share key details about the schedule\, safety\, and what st
