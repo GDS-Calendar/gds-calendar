@@ -3693,7 +3693,7 @@ UID:c031e632-f1a2-4008-8a35-6f7e359d4e60@gds.incidentiq.com
 SUMMARY:Veteran's Day
 DTSTART;TZID=America/New_York:20251111T080000
 DTEND;TZID=America/New_York:20251111T160000
-LOCATION:Virtual #01
+LOCATION:Calendar Date
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT

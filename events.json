@@ -45276,7 +45276,7 @@
     "EventTag": "10232",
     "EventId": "c031e632-f1a2-4008-8a35-6f7e359d4e60",
     "CreatedDate": "2025-07-21T10:51:48.507",
-    "ModifiedDate": "2025-07-21T10:51:48.507",
+    "ModifiedDate": "2025-09-25T11:40:55.133",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -45329,37 +45329,39 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
-        "Name": "Virtual #01",
-        "NameFormatted": "Virtual #01",
+        "LocationRoomId": "efaff2d5-a509-4a6a-bffb-73f88404bc99",
+        "Name": "Calendar Date",
+        "NameFormatted": "Calendar Date",
         "Icon": "fa fa-door-open",
-        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Virtual",
-        "LocationAbbreviation": "VIR",
+        "LocationId": "5fc01c87-259a-f011-b484-002248538047",
+        "LocationName": "Calendar Date",
         "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Virtual/Remote Meeting #01",
-        "InternalNotes": "Virtual/Remote Meeting #01",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "Virtual #01",
+        "NameSort": "Calendar Date",
         "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:05:12.4",
-        "ModifiedDate": "2025-07-05T20:20:08.967"
+        "CreatedDate": "2025-09-25T15:39:06.977",
+        "ModifiedDate": "2025-09-25T15:39:06.977"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "VIR > Virtual #01",
+    "LocationDisplay": "Calendar Date > Calendar Date",
     "DateTimeDisplay": "November 11, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -45370,6 +45372,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
