@@ -2967,8 +2967,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:32f8a74b-45f8-4082-840a-0e38b9d16c47@gds.incidentiq.com
 SUMMARY:Fata Morgana
-DTSTART;TZID=America/New_York:20260117T190000
-DTEND;TZID=America/New_York:20260117T210000
+DTSTART;TZID=America/New_York:20260117T170000
+DTEND;TZID=America/New_York:20260117T190000
 DESCRIPTION:Come see Fata Morgana and 4200 Dance perform in the Black Bo
  x Theatre at GDS High School! Enjoy the work of our wonderful GDS dancers 
  and choreographers. Come support the GDS dance community! Tickets are $5 f

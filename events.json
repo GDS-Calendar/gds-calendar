@@ -36021,7 +36021,7 @@
     "EventTag": "10317",
     "EventId": "32f8a74b-45f8-4082-840a-0e38b9d16c47",
     "CreatedDate": "2025-07-21T13:19:20.75",
-    "ModifiedDate": "2025-07-21T13:19:20.75",
+    "ModifiedDate": "2025-09-26T13:51:19.483",
     "IsDeleted": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
     "AppId": "iiq",
@@ -36044,33 +36044,18 @@
     },
     "Title": "Fata Morgana",
     "Description": "Come see Fata Morgana and 4200 Dance perform in the Black Box Theatre at GDS High School! Enjoy the work of our wonderful GDS dancers and choreographers. Come support the GDS dance community! Tickets are $5 for current GDS students and $10 for the general public. GDS staff receive one complimentary ticket. Tickets are available online by credit or debit card, or cash at the door. We sell out, so we recommend buying tickets online. Seating is on a first come, first served basis.",
-    "StartDateTime": "2026-01-17T19:00:00",
-    "SetUpStartDateTime": "2026-01-17T19:00:00",
-    "EndDateTime": "2026-01-17T21:00:00",
-    "BreakdownEndDateTime": "2026-01-17T21:00:00",
+    "StartDateTime": "2026-01-17T17:00:00",
+    "SetUpStartDateTime": "2026-01-17T17:00:00",
+    "EndDateTime": "2026-01-17T19:00:00",
+    "BreakdownEndDateTime": "2026-01-17T19:00:00",
     "IsAllDay": false,
-    "RecurringScheduleId": "118104a7-4728-427b-aa3d-c79dfe059f17",
     "SeriesType": 1,
-    "ParentEventId": "20c26a7f-f86e-4658-aa9f-6c401b9de09e",
     "SeriesId": "38abe155-02b7-46d3-94d5-c22fc33b57b0",
     "SeriesInfo": {
       "SeriesId": "38abe155-02b7-46d3-94d5-c22fc33b57b0",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2026-01-15T19:00:00",
-      "MaxStartDatetime": "2026-01-17T19:00:00"
-    },
-    "Schedule": {
-      "RecurringScheduleId": "118104a7-4728-427b-aa3d-c79dfe059f17",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "CreatedDate": "2025-07-21T17:19:20.563",
-      "ModifiedDate": "2025-07-21T17:19:20.563",
-      "Name": "Daily at 7:00 PM until 01/17/26",
-      "Pattern": "Daily",
-      "StartTime": "19:00:00",
-      "StopRecurringDate": "2026-01-17T00:00:00",
-      "IsValidMonthlyPattern": false,
-      "IsValidQuarterlyPattern": false,
-      "IsMonthlyInstanceBased": false
+      "MaxStartDatetime": "2026-01-17T17:00:00"
     },
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "Owner": {
@@ -36118,16 +36103,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > G001 HS Forum",
-    "DateTimeDisplay": "January 17, 2026\n07:00 PM - 09:00 PM",
+    "DateTimeDisplay": "January 17, 2026\n05:00 PM - 07:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -36138,6 +36128,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -36208,13 +36203,13 @@
       "SeriesId": "38abe155-02b7-46d3-94d5-c22fc33b57b0",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2026-01-15T19:00:00",
-      "MaxStartDatetime": "2026-01-17T19:00:00"
+      "MaxStartDatetime": "2026-01-17T17:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "118104a7-4728-427b-aa3d-c79dfe059f17",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-21T17:19:20.563",
-      "ModifiedDate": "2025-07-21T17:19:20.563",
+      "ModifiedDate": "2025-09-26T17:51:19.22",
       "Name": "Daily at 7:00 PM until 01/17/26",
       "Pattern": "Daily",
       "StartTime": "19:00:00",
@@ -36358,13 +36353,13 @@
       "SeriesId": "38abe155-02b7-46d3-94d5-c22fc33b57b0",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2026-01-15T19:00:00",
-      "MaxStartDatetime": "2026-01-17T19:00:00"
+      "MaxStartDatetime": "2026-01-17T17:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "118104a7-4728-427b-aa3d-c79dfe059f17",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-21T17:19:20.563",
-      "ModifiedDate": "2025-07-21T17:19:20.563",
+      "ModifiedDate": "2025-09-26T17:51:19.22",
       "Name": "Daily at 7:00 PM until 01/17/26",
       "Pattern": "Daily",
       "StartTime": "19:00:00",
