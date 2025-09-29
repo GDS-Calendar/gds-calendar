@@ -23,6 +23,19 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f38a2608-6bf1-4cb6-b0df-a6d9c98fc67a@gds.incidentiq.com
+SUMMARY:High School History Speaker Series
+DTSTART;TZID=America/New_York:20251015T183000
+DTEND;TZID=America/New_York:20251015T200000
+DESCRIPTION:Marcia Chatelain is a scholar\, speaker\, and strategist bas
+ ed in Philadelphia\, Pennsylvania and Washington\, D.C. When she's not in 
+ the classroom\, she's on the road\, talking to audiences about our nation’
+ s pressing and pervasive social issues\, including racism\, universities a
+ nd the history of slavery\, as well as activist movements.
+LOCATION:Virtual #04
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:03a45fbc-a3d3-4d89-b538-22b373264ab8@gds.incidentiq.com
 SUMMARY:[PSA] 4th Grade Parent Social
 DTSTART;TZID=America/New_York:20251115T180000
@@ -498,8 +511,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e4987e35-2bad-41ce-a9be-bb74bdb9160a@gds.incidentiq.com
 SUMMARY:Spring Musical Matinee
-DTSTART;TZID=America/New_York:20260425T130000
-DTEND;TZID=America/New_York:20260425T150000
+DTSTART;TZID=America/New_York:20260426T130000
+DTEND;TZID=America/New_York:20260426T150000
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
