@@ -4200,14 +4200,6 @@ LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:703f3bca-4906-45a3-a9ad-7053f6da7d78@gds.incidentiq.com
-SUMMARY:High School Academic and Extracurricular Drop-in Day
-DTSTART;TZID=America/New_York:20251002T080000
-DTEND;TZID=America/New_York:20251002T151500
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:9ba45cab-a01c-4dc2-ac66-166e101b4baf@gds.incidentiq.com
 SUMMARY:Yom Kippur Begins @ Sundown
 DTSTART;TZID=America/New_York:20251001T170000
