@@ -1,5 +1,124 @@
 [
   {
+    "EventTag": "11005",
+    "EventId": "0cff8f8b-ad38-4a19-9d47-d35204cc4f72",
+    "CreatedDate": "2025-10-02T10:09:05.707",
+    "ModifiedDate": "2025-10-02T10:09:05.707",
+    "IsDeleted": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "[PSA] 9th/10th Grade Coffee with HS Deans",
+    "Description": "",
+    "StartDateTime": "2025-10-24T08:45:00",
+    "SetUpStartDateTime": "2025-10-24T08:45:00",
+    "EndDateTime": "2025-10-24T09:45:00",
+    "BreakdownEndDateTime": "2025-10-24T09:45:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "20a4e2be-642c-400b-8976-18de8ad6889b",
+        "Name": "HS Library Quiet Side",
+        "NameFormatted": "HS Library Quiet Side",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 100,
+        "MaximumOccupancy": 100,
+        "Description": "HS Library Quiet Side",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "HS Library Quiet Side",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.003",
+        "ModifiedDate": "2025-08-07T18:50:48.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > HS Library Quiet Side",
+    "DateTimeDisplay": "October 24, 2025\n08:45 AM - 09:45 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false
+  },
+  {
     "EventTag": "10999",
     "EventId": "f38a2608-6bf1-4cb6-b0df-a6d9c98fc67a",
     "CreatedDate": "2025-09-29T11:08:52.53",
@@ -50767,114 +50886,6 @@
     "Locations": [],
     "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "October 09, 2025\n07:00 PM - 09:00 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false
-  },
-  {
-    "EventTag": "10176",
-    "EventId": "609cc912-09d3-4c12-ac05-e9f31dea38f1",
-    "CreatedDate": "2025-07-18T10:07:53.14",
-    "ModifiedDate": "2025-07-18T10:07:53.14",
-    "IsDeleted": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
-    "EventType": {
-      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
-      "CreatedDate": "2025-04-09T01:30:20.687",
-      "ModifiedDate": "2025-04-09T01:30:20.687",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "HS Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "High School Parent Coffee",
-    "Description": "",
-    "StartDateTime": "2025-10-07T08:00:00",
-    "SetUpStartDateTime": "2025-10-07T08:00:00",
-    "EndDateTime": "2025-10-07T08:40:00",
-    "BreakdownEndDateTime": "2025-10-07T08:40:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
-        "Name": "Virtual #01",
-        "NameFormatted": "Virtual #01",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Virtual",
-        "LocationAbbreviation": "VIR",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Virtual/Remote Meeting #01",
-        "InternalNotes": "Virtual/Remote Meeting #01",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "Virtual #01",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:05:12.4",
-        "ModifiedDate": "2025-07-05T20:20:08.967"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 07, 2025\n08:00 AM - 08:40 AM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
