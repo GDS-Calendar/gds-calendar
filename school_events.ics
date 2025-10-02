@@ -269,14 +269,6 @@ LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:2618d91c-0052-456c-8eea-1a6b84b3c86f@gds.incidentiq.com
-SUMMARY:GDS Board Year-End Dinner
-DTSTART;TZID=America/New_York:20260520T180000
-DTEND;TZID=America/New_York:20260520T213000
-LOCATION:LMS-Campus
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:53f5a7bb-8e8f-40de-82f5-3dfad90f1163@gds.incidentiq.com
 SUMMARY:7th Grade Coffee
 DTSTART;TZID=America/New_York:20260309T083000
