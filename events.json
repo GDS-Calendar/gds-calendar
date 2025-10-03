@@ -45509,6 +45509,7 @@
         "Icon": "fa fa-door-open",
         "LocationId": "5fc01c87-259a-f011-b484-002248538047",
         "LocationName": "Calendar Date",
+        "LocationAbbreviation": "CD",
         "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
         "IsAvailable": false,
@@ -45520,7 +45521,7 @@
       }
     ],
     "Locations": [],
-    "LocationDisplay": "Calendar Date > Calendar Date",
+    "LocationDisplay": "CD > Calendar Date",
     "DateTimeDisplay": "November 11, 2025\n08:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
