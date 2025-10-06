@@ -23,6 +23,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:6fb788d3-3968-472e-9da9-296cc95ba8a0@gds.incidentiq.com
+SUMMARY:[PSA] Coffee for Families Effected by Government Shutdown
+DTSTART;TZID=America/New_York:20251009T083000
+DTEND;TZID=America/New_York:20251009T093000
+DESCRIPTION:Please join us for coffee and discussion for parents and gua
+ rdians  impacted by federal layoffs\, funding cuts\, and the government sh
+ utdown (even if your impact is psychological or emotional). This Thursday 
+ morning 10/9 at 8:30am in the cafe.
+LOCATION:122
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:0cff8f8b-ad38-4a19-9d47-d35204cc4f72@gds.incidentiq.com
 SUMMARY:[PSA] 9th/10th Grade Coffee with HS Deans
 DTSTART;TZID=America/New_York:20251024T084500
