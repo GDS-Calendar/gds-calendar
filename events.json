@@ -12013,7 +12013,7 @@
     "EventTag": "10588",
     "EventId": "d3f905fb-3ad7-4afa-9386-84e17fe270f2",
     "CreatedDate": "2025-07-29T13:11:00.643",
-    "ModifiedDate": "2025-07-29T13:11:00.643",
+    "ModifiedDate": "2025-10-14T10:08:16.363",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -12035,8 +12035,8 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Parent Connect: Dr. Ryan DeLapp",
-    "Description": "Join the counselors as we welcome Dr. Ryan DeLapp, Psychologist, Author and Director of the REACH Program at the Ross Center. Dr. DeLapp will talk about ways to support children and teens in  building confidence with and navigating peer interactions across differences, and healing from and guarding themselves against negative peer messages.\n\nPlease contact Meryl Heyliger with questions. mheyliger@gds.org",
+    "Title": "Parent Connect: Supporting My Child/Teen\u2019s Emotional Responses to the Current Political Climate",
+    "Description": "In this webinar, Dr. Ryan C.T. DeLapp, a psychologist at the Ross Center and creator of the Racial, Ethnic, and Cultural Healing (REACH) Program, will share some tips for supporting your child/teen\u2019s emotional processing and coping during the current political climate. \n\nPlease contact Meryl Heyliger with questions. mheyliger@gds.org",
     "StartDateTime": "2025-10-22T18:30:00",
     "SetUpStartDateTime": "2025-10-22T18:30:00",
     "EndDateTime": "2025-10-22T20:00:00",
@@ -12091,13 +12091,18 @@
     "DateTimeDisplay": "October 22, 2025\n06:30 PM - 08:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -12111,12 +12116,37 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-10-14T10:08:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
   },
   {
     "EventTag": "10587",
