@@ -9902,7 +9902,7 @@
     "EventTag": "10607",
     "EventId": "fea08931-b6d7-4d70-b78f-4f74484fc457",
     "CreatedDate": "2025-07-29T13:56:31.263",
-    "ModifiedDate": "2025-09-11T12:29:15.707",
+    "ModifiedDate": "2025-10-16T11:44:01.533",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -9926,33 +9926,18 @@
     },
     "Title": "Fall/Winter Theater Lab",
     "Description": "",
-    "StartDateTime": "2025-12-13T19:00:00",
-    "SetUpStartDateTime": "2025-12-13T19:00:00",
-    "EndDateTime": "2025-12-13T21:00:00",
-    "BreakdownEndDateTime": "2025-12-13T21:00:00",
+    "StartDateTime": "2025-12-13T17:00:00",
+    "SetUpStartDateTime": "2025-12-13T17:00:00",
+    "EndDateTime": "2025-12-13T19:00:00",
+    "BreakdownEndDateTime": "2025-12-13T19:00:00",
     "IsAllDay": false,
-    "RecurringScheduleId": "0e972b09-db9c-438d-ab33-d3fa4270657c",
     "SeriesType": 1,
-    "ParentEventId": "c3a1459b-f713-42bd-8b3d-caac17d68f8c",
     "SeriesId": "5f8394d4-ebdd-40b4-aa8b-e0f31b9ab0b3",
     "SeriesInfo": {
       "SeriesId": "5f8394d4-ebdd-40b4-aa8b-e0f31b9ab0b3",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2025-12-11T19:00:00",
-      "MaxStartDatetime": "2025-12-13T19:00:00"
-    },
-    "Schedule": {
-      "RecurringScheduleId": "0e972b09-db9c-438d-ab33-d3fa4270657c",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "CreatedDate": "2025-07-29T17:56:31.05",
-      "ModifiedDate": "2025-07-29T17:56:31.05",
-      "Name": "Daily at 7:00 PM until 12/13/25",
-      "Pattern": "Daily",
-      "StartTime": "19:00:00",
-      "StopRecurringDate": "2025-12-13T00:00:00",
-      "IsValidMonthlyPattern": false,
-      "IsValidQuarterlyPattern": false,
-      "IsMonthlyInstanceBased": false
+      "MaxStartDatetime": "2025-12-13T17:00:00"
     },
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "Owner": {
@@ -10002,16 +9987,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > L200 HS Dance Studio",
-    "DateTimeDisplay": "December 13, 2025\n07:00 PM - 09:00 PM",
+    "DateTimeDisplay": "December 13, 2025\n05:00 PM - 07:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -10022,6 +10012,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -10093,13 +10088,13 @@
       "SeriesId": "5f8394d4-ebdd-40b4-aa8b-e0f31b9ab0b3",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2025-12-11T19:00:00",
-      "MaxStartDatetime": "2025-12-13T19:00:00"
+      "MaxStartDatetime": "2025-12-13T17:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "0e972b09-db9c-438d-ab33-d3fa4270657c",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-29T17:56:31.05",
-      "ModifiedDate": "2025-07-29T17:56:31.05",
+      "ModifiedDate": "2025-10-16T15:44:01.237",
       "Name": "Daily at 7:00 PM until 12/13/25",
       "Pattern": "Daily",
       "StartTime": "19:00:00",
@@ -10246,13 +10241,13 @@
       "SeriesId": "5f8394d4-ebdd-40b4-aa8b-e0f31b9ab0b3",
       "NumberOfEvents": 3,
       "MinStartDatetime": "2025-12-11T19:00:00",
-      "MaxStartDatetime": "2025-12-13T19:00:00"
+      "MaxStartDatetime": "2025-12-13T17:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "0e972b09-db9c-438d-ab33-d3fa4270657c",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-29T17:56:31.05",
-      "ModifiedDate": "2025-07-29T17:56:31.05",
+      "ModifiedDate": "2025-10-16T15:44:01.237",
       "Name": "Daily at 7:00 PM until 12/13/25",
       "Pattern": "Daily",
       "StartTime": "19:00:00",
