@@ -3536,8 +3536,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3dba7f09-3386-8038-96e4-8819b03ad425@gds.incidentiq.com
 SUMMARY:Summit on Sexual Assault and Consent
-DTSTART;TZID=America/New_York:20251122T083000
-DTEND;TZID=America/New_York:20251122T180000
+DTSTART;TZID=America/New_York:20251122T070000
+DTEND;TZID=America/New_York:20251122T190000
 DESCRIPTION:GDS hosts students\, parents\, and faculty from schools arou
  nd the country and engage in conversations and workshops regarding consent
  . To learn more visit https://www.gds-consentsummit.com/

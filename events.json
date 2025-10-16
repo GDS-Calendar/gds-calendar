@@ -44032,7 +44032,7 @@
     "EventTag": "10252",
     "EventId": "3dba7f09-3386-8038-96e4-8819b03ad425",
     "CreatedDate": "2025-07-21T11:39:22.377",
-    "ModifiedDate": "2025-07-21T11:39:22.377",
+    "ModifiedDate": "2025-10-16T09:39:08.2",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -44056,10 +44056,10 @@
     },
     "Title": "Summit on Sexual Assault and Consent",
     "Description": "GDS hosts students, parents, and faculty from schools around the country and engage in conversations and workshops regarding consent. To learn more visit https://www.gds-consentsummit.com/",
-    "StartDateTime": "2025-11-22T08:30:00",
-    "SetUpStartDateTime": "2025-11-22T08:30:00",
-    "EndDateTime": "2025-11-22T18:00:00",
-    "BreakdownEndDateTime": "2025-11-22T18:00:00",
+    "StartDateTime": "2025-11-22T07:00:00",
+    "SetUpStartDateTime": "2025-11-22T07:00:00",
+    "EndDateTime": "2025-11-22T19:00:00",
+    "BreakdownEndDateTime": "2025-11-22T19:00:00",
     "IsAllDay": false,
     "SeriesType": 2,
     "SeriesId": "bb8b72a3-32d5-4cdf-bad9-dcfa5018fff5",
@@ -44067,7 +44067,7 @@
       "SeriesId": "bb8b72a3-32d5-4cdf-bad9-dcfa5018fff5",
       "NumberOfEvents": 2,
       "MinStartDatetime": "2025-11-21T17:30:00",
-      "MaxStartDatetime": "2025-11-22T08:30:00"
+      "MaxStartDatetime": "2025-11-22T07:00:00"
     },
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "Owner": {
@@ -44115,16 +44115,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > G001 HS Forum",
-    "DateTimeDisplay": "November 22, 2025\n08:30 AM - 06:00 PM",
+    "DateTimeDisplay": "November 22, 2025\n07:00 AM - 07:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -44135,6 +44140,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -44204,7 +44214,7 @@
       "SeriesId": "bb8b72a3-32d5-4cdf-bad9-dcfa5018fff5",
       "NumberOfEvents": 2,
       "MinStartDatetime": "2025-11-21T17:30:00",
-      "MaxStartDatetime": "2025-11-22T08:30:00"
+      "MaxStartDatetime": "2025-11-22T07:00:00"
     },
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "Owner": {
@@ -45681,7 +45691,7 @@
     "EventTag": "10236",
     "EventId": "1cedcb51-63e6-4074-b200-f82757f4fe80",
     "CreatedDate": "2025-07-21T11:01:14.077",
-    "ModifiedDate": "2025-07-24T12:56:27.86",
+    "ModifiedDate": "2025-10-16T09:19:30.293",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -45762,13 +45772,18 @@
     "DateTimeDisplay": "November 07, 2025\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -45782,12 +45797,37 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-10-16T09:03:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
   },
   {
     "EventTag": "10234",
