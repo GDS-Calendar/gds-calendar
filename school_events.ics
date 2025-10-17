@@ -3669,7 +3669,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aa0c3699-f0c2-4785-95c3-884d9c5fe5cb@gds.incidentiq.com
 SUMMARY:[PSA] Middle School Family Fun Movie Night
-DTSTART;TZID=America/New_York:20251107T183000
+DTSTART;TZID=America/New_York:20251107T180000
 DTEND;TZID=America/New_York:20251107T203000
 DESCRIPTION:We’re excited to invite middle school students and parents/g
  uardians to the Middle School Family Fun Movie Night! We guarantee a night
@@ -3683,7 +3683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1cedcb51-63e6-4074-b200-f82757f4fe80@gds.incidentiq.com
 SUMMARY:[PSA] Lower School Family Fun Movie Night
-DTSTART;TZID=America/New_York:20251107T183000
+DTSTART;TZID=America/New_York:20251107T180000
 DTEND;TZID=America/New_York:20251107T203000
 DESCRIPTION:We’re excited to invite lower school students and parents/gu
  ardians to the Lower School Family Movie Night! It’s going to be a fun-fil
