@@ -49192,7 +49192,7 @@
     "EventTag": "10200",
     "EventId": "cb798164-4e18-45d6-8a04-0f4fe6283719",
     "CreatedDate": "2025-07-18T10:47:44.147",
-    "ModifiedDate": "2025-07-18T10:47:44.147",
+    "ModifiedDate": "2025-10-21T11:44:04.127",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -49216,8 +49216,8 @@
     },
     "Title": "GDS 360 Registration for Season 2 Opens",
     "Description": "Don't forget to enroll in the exciting enrichment class offerings through the GDS 360 Extended Day Program! Registration closes November 16.  Classes fill quickly so register early. Families receiving financial aid should check their emails for a financial aid code from the GDS 360 team. \n\nRegistration Portal: gds360.campbrainregistration.com",
-    "StartDateTime": "2025-10-22T08:00:00",
-    "SetUpStartDateTime": "2025-10-22T08:00:00",
+    "StartDateTime": "2025-10-22T12:00:00",
+    "SetUpStartDateTime": "2025-10-22T12:00:00",
     "EndDateTime": "2025-10-22T16:00:00",
     "BreakdownEndDateTime": "2025-10-22T16:00:00",
     "IsAllDay": false,
@@ -49228,8 +49228,8 @@
     "SeriesInfo": {
       "SeriesId": "1a533f6c-ebd3-4e7a-aef2-10361250b8a7",
       "NumberOfEvents": 1,
-      "MinStartDatetime": "2025-10-22T08:00:00",
-      "MaxStartDatetime": "2025-10-22T08:00:00"
+      "MinStartDatetime": "2025-10-22T12:00:00",
+      "MaxStartDatetime": "2025-10-22T12:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "6ee1e31b-8533-41b7-90f8-fab72105b429",
@@ -49289,16 +49289,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #03",
-    "DateTimeDisplay": "October 22, 2025\n08:00 AM - 04:00 PM",
+    "DateTimeDisplay": "October 22, 2025\n12:00 PM - 04:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -49309,6 +49314,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {

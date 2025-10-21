@@ -3976,7 +3976,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cb798164-4e18-45d6-8a04-0f4fe6283719@gds.incidentiq.com
 SUMMARY:GDS 360 Registration for Season 2 Opens
-DTSTART;TZID=America/New_York:20251022T080000
+DTSTART;TZID=America/New_York:20251022T120000
 DTEND;TZID=America/New_York:20251022T160000
 DESCRIPTION:Don't forget to enroll in the exciting enrichment class offe
  rings through the GDS 360 Extended Day Program! Registration closes Novemb
