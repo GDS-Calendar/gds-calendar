@@ -1323,7 +1323,7 @@
     "EventTag": "10694",
     "EventId": "4b62e20d-e7f9-465b-9c24-a7a0e1090bae",
     "CreatedDate": "2025-08-20T14:55:13.123",
-    "ModifiedDate": "2025-08-20T14:55:13.123",
+    "ModifiedDate": "2025-10-21T15:14:09.113",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -1346,7 +1346,7 @@
       "Name": "Approved"
     },
     "Title": "PK/K Parent Coffee",
-    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Counselor, Science and Physical Education team!",
     "StartDateTime": "2025-11-11T12:00:00",
     "SetUpStartDateTime": "2025-11-11T12:00:00",
     "EndDateTime": "2025-11-11T13:00:00",
@@ -1401,13 +1401,18 @@
     "DateTimeDisplay": "November 11, 2025\n12:00 PM - 01:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -1418,6 +1423,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -1452,7 +1462,7 @@
     "EventTag": "10693",
     "EventId": "1b312538-bd22-40b6-a257-9a15b9416d5b",
     "CreatedDate": "2025-08-20T14:54:21.41",
-    "ModifiedDate": "2025-08-20T14:54:21.41",
+    "ModifiedDate": "2025-10-21T15:13:44.603",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -1475,7 +1485,7 @@
       "Name": "Approved"
     },
     "Title": "1st Grade Parent Coffee",
-    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Counselor, Science and Physical Education team",
     "StartDateTime": "2025-11-10T12:00:00",
     "SetUpStartDateTime": "2025-11-10T12:00:00",
     "EndDateTime": "2025-11-10T13:00:00",
@@ -1530,13 +1540,18 @@
     "DateTimeDisplay": "November 10, 2025\n12:00 PM - 01:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -1547,6 +1562,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -1561,7 +1581,7 @@
     "EventTag": "10692",
     "EventId": "0f8eec3d-e9d0-4d76-a213-8a6c8ec1aa5c",
     "CreatedDate": "2025-08-20T14:53:28.62",
-    "ModifiedDate": "2025-08-20T14:53:28.62",
+    "ModifiedDate": "2025-10-21T15:13:20.947",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -1584,7 +1604,7 @@
       "Name": "Approved"
     },
     "Title": "2nd Grade Parent Coffee",
-    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Counselor, Science and Physical Education team!",
     "StartDateTime": "2025-11-05T12:00:00",
     "SetUpStartDateTime": "2025-11-05T12:00:00",
     "EndDateTime": "2025-11-05T13:00:00",
@@ -1639,13 +1659,18 @@
     "DateTimeDisplay": "November 05, 2025\n12:00 PM - 01:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -1656,6 +1681,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -1670,7 +1700,7 @@
     "EventTag": "10691",
     "EventId": "1498252c-1056-4f43-ac17-2d6780fbce97",
     "CreatedDate": "2025-08-20T14:52:33.943",
-    "ModifiedDate": "2025-08-20T14:52:33.943",
+    "ModifiedDate": "2025-10-21T15:15:33.267",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -1693,7 +1723,7 @@
       "Name": "Approved"
     },
     "Title": "3rd Grade Parent Coffee",
-    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. Last, the third grade teams will share highlights about the upcoming experiential learning experience to Ellis and Liberty Islands.",
     "StartDateTime": "2025-11-04T12:00:00",
     "SetUpStartDateTime": "2025-11-04T12:00:00",
     "EndDateTime": "2025-11-04T13:00:00",
@@ -1748,13 +1778,18 @@
     "DateTimeDisplay": "November 04, 2025\n12:00 PM - 01:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -1765,6 +1800,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -1779,7 +1819,7 @@
     "EventTag": "10690",
     "EventId": "0a2782fe-ccac-4b7e-9363-fd815dd6486f",
     "CreatedDate": "2025-08-20T14:51:27.803",
-    "ModifiedDate": "2025-08-20T14:51:27.803",
+    "ModifiedDate": "2025-10-21T15:12:52.277",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -1802,7 +1842,7 @@
       "Name": "Approved"
     },
     "Title": "4th Grade Parent Coffee",
-    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Science and Visual/Performing Arts team!",
+    "Description": "As we approach the end of the first trimester, join the grade level leads to hear about the exciting learning your child will embark upon in the second trimester. Christy and Denise will start this session by sharing information about changes to the Lower School report card, how to read the report card, and how to get the most out of Parent-Teacher conferences. This session will also feature special guests from the Counselor, Science and Physical Education team!",
     "StartDateTime": "2025-11-03T12:00:00",
     "SetUpStartDateTime": "2025-11-03T12:00:00",
     "EndDateTime": "2025-11-03T13:00:00",
@@ -1857,13 +1897,18 @@
     "DateTimeDisplay": "November 03, 2025\n12:00 PM - 01:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -1874,6 +1919,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -45716,7 +45766,7 @@
     "EventTag": "10236",
     "EventId": "1cedcb51-63e6-4074-b200-f82757f4fe80",
     "CreatedDate": "2025-07-21T11:01:14.077",
-    "ModifiedDate": "2025-10-17T14:30:34.507",
+    "ModifiedDate": "2025-10-21T15:22:14.907",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -45833,7 +45883,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-10-17T14:30:00",
+    "OverrideDateTime": "2025-10-21T15:11:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
