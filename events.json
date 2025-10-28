@@ -42462,7 +42462,7 @@
     "EventTag": "10266",
     "EventId": "9f89f416-c305-498f-9968-ea4d8bfda67b",
     "CreatedDate": "2025-07-21T12:24:32",
-    "ModifiedDate": "2025-07-21T12:24:32",
+    "ModifiedDate": "2025-10-28T09:38:46.837",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -42485,9 +42485,9 @@
       "Name": "Approved"
     },
     "Title": "Annual Young Alumni Thanksgiving Bash",
-    "Description": "Get into the spirit of the holiday season by gathering with fellow GDS alumni for this annual Thanksgiving weekend tradition! Come on out and enjoy food, drinks, and great conversation.",
-    "StartDateTime": "2025-11-28T18:00:00",
-    "SetUpStartDateTime": "2025-11-28T18:00:00",
+    "Description": "Get into the spirit of the holiday season by gathering with fellow GDS alumni for this annual Thanksgiving weekend tradition! Come on out and enjoy food, drinks, and great conversation. Please email alumni@gds.org for more information.",
+    "StartDateTime": "2025-11-28T19:00:00",
+    "SetUpStartDateTime": "2025-11-28T19:00:00",
     "EndDateTime": "2025-11-28T21:00:00",
     "BreakdownEndDateTime": "2025-11-28T21:00:00",
     "IsAllDay": false,
@@ -42537,16 +42537,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "OFF > Offsite #01",
-    "DateTimeDisplay": "November 28, 2025\n06:00 PM - 09:00 PM",
+    "DateTimeDisplay": "November 28, 2025\n07:00 PM - 09:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -42560,12 +42565,37 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-10-28T09:38:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
   },
   {
     "EventTag": "10265",

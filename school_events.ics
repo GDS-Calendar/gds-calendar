@@ -3420,11 +3420,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9f89f416-c305-498f-9968-ea4d8bfda67b@gds.incidentiq.com
 SUMMARY:Annual Young Alumni Thanksgiving Bash
-DTSTART;TZID=America/New_York:20251128T180000
+DTSTART;TZID=America/New_York:20251128T190000
 DTEND;TZID=America/New_York:20251128T210000
 DESCRIPTION:Get into the spirit of the holiday season by gathering with 
  fellow GDS alumni for this annual Thanksgiving weekend tradition! Come on 
- out and enjoy food\, drinks\, and great conversation.
+ out and enjoy food\, drinks\, and great conversation. Please email alumni@
+ gds.org for more information.
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
