@@ -3705,7 +3705,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:e088b8e7-c026-4b3f-86cf-d3d2d7418488@gds.incidentiq.com
-SUMMARY:[PSA] Virtual Meeting for PSA Leadership and committees
+SUMMARY:[PSA] Virtual Meeting
 DTSTART;TZID=America/New_York:20251113T090000
 DTEND;TZID=America/New_York:20251113T100000
 DESCRIPTION:All parents and caregivers are invited to join us for this v

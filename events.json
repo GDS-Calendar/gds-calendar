@@ -46090,7 +46090,7 @@
     "EventTag": "10234",
     "EventId": "e088b8e7-c026-4b3f-86cf-d3d2d7418488",
     "CreatedDate": "2025-07-21T10:58:48.953",
-    "ModifiedDate": "2025-09-15T10:57:07.57",
+    "ModifiedDate": "2025-10-28T10:25:26.363",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -46112,7 +46112,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "[PSA] Virtual Meeting for PSA Leadership and committees",
+    "Title": "[PSA] Virtual Meeting",
     "Description": "All parents and caregivers are invited to join us for this virtual PSA meeting.",
     "StartDateTime": "2025-11-13T09:00:00",
     "SetUpStartDateTime": "2025-11-13T09:00:00",
@@ -46168,13 +46168,18 @@
     "DateTimeDisplay": "November 13, 2025\n09:00 AM - 10:00 AM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -46185,6 +46190,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
