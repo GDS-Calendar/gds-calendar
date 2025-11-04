@@ -1736,7 +1736,7 @@ UID:faf705af-f96d-4429-b778-c6b3e2025488@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260505T080000
 DTEND;TZID=America/New_York:20260505T084000
-LOCATION:326
+LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2057,7 +2057,7 @@ UID:eb2d1737-18b2-42ef-8b9c-8d67369dac0e@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260407T080000
 DTEND;TZID=America/New_York:20260407T084000
-LOCATION:326
+LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2495,7 +2495,7 @@ UID:3798de9b-a748-439e-a15f-5ef597df4825@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260303T080000
 DTEND;TZID=America/New_York:20260303T084000
-LOCATION:326
+LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3082,7 +3082,7 @@ UID:93c7dae2-047e-4f53-b7c3-85fb75d40754@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260106T080000
 DTEND;TZID=America/New_York:20260106T084000
-LOCATION:326
+LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3406,7 +3406,7 @@ UID:0aa1b4cd-9b90-48ae-9547-7e8b07bb1af0@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20251202T080000
 DTEND;TZID=America/New_York:20251202T084000
-LOCATION:326
+LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
