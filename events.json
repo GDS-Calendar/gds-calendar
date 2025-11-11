@@ -11690,7 +11690,7 @@
     "EventTag": "10594",
     "EventId": "c4b5d53b-d975-42a8-9eea-5da70e858c6d",
     "CreatedDate": "2025-07-29T13:24:12.92",
-    "ModifiedDate": "2025-10-27T15:31:28.483",
+    "ModifiedDate": "2025-11-11T09:58:21.07",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -11712,7 +11712,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Parent Connect: for Adoptive Parents",
+    "Title": "CANCELLED: Parent Connect: for Adoptive Parents",
     "Description": "Join the counselors and Debbie Riley, LCMFT, and CEO at the Center for Adoption Support and Education during National Adoption Awareness Month. Debbie and a panel of adult adoptees will share experiences and offer support for adoptive parents. Families and student support team members from other nearby independent schools are also invited.\n\nPlease contact Meryl Heyliger with questions: mheyliger@gds.org",
     "StartDateTime": "2025-11-11T18:00:00",
     "SetUpStartDateTime": "2025-11-11T18:00:00",
@@ -11806,7 +11806,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-10-27T15:31:00",
+    "OverrideDateTime": "2025-11-11T09:58:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
