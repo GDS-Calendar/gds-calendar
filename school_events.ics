@@ -258,7 +258,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:87556ea6-c77c-4c1f-9d16-6bcbd10cb787@gds.incidentiq.com
-SUMMARY:LS Passover Freedom Assembly
+SUMMARY:Lower School Passover Freedom Assembly
 DTSTART;TZID=America/New_York:20260318T090000
 DTEND;TZID=America/New_York:20260318T100000
 LOCATION:B200 LMS Gym
