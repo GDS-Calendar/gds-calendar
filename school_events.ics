@@ -23,6 +23,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:c1be3060-1eab-4f1c-933e-9377ac05a004@gds.incidentiq.com
+SUMMARY:Stephanie Burt '89: Taylor Swift at Harvard\, the Future of Poetry\, and Other Mild Surprises
+DTSTART;TZID=America/New_York:20260122T190000
+DTEND;TZID=America/New_York:20260122T200000
+DESCRIPTION:Harvard Professor Stephanie Burt '89\, who drew national att
+ ention for her course on Taylor Swift\, will be speaking on campus about h
+ er new book\, Taylor's Version\, and her journey from GDS student to renow
+ ned poet and literary critic.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:14e26d98-3ab8-4229-b6c7-39fb51d107e1@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20251202T080000
