@@ -45184,7 +45184,7 @@
     "EventTag": "10245",
     "EventId": "09d38d9a-bc83-4476-9c1c-8df520f6eada",
     "CreatedDate": "2025-07-21T11:31:25.287",
-    "ModifiedDate": "2025-07-21T11:31:25.287",
+    "ModifiedDate": "2025-11-13T14:48:04.46",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -45207,7 +45207,7 @@
       "Name": "Approved"
     },
     "Title": "GDS Community Gratitude Dinner",
-    "Description": "The Office of Diversity, Equity and Inclusion in partnership with the Black Student Union (BSU) invites all Affinity Groups and Allies and the GDS Community to attend the Annual GDS Community Gratitude Dinner.",
+    "Description": "The Office of Diversity, Equity, and Inclusion, in partnership with the Student Affinity Leadership Council (SALC), invites all Affinity Groups and Allies to attend the Annual GDS Community Gratitude Dinner. This event is open to all middle and high schoolers and is an opportunity for our Middle School students to visit the High School to enjoy a meal across the different divisions.",
     "StartDateTime": "2025-11-17T16:30:00",
     "SetUpStartDateTime": "2025-11-17T16:30:00",
     "EndDateTime": "2025-11-17T17:45:00",
@@ -45263,13 +45263,18 @@
     "DateTimeDisplay": "November 17, 2025\n04:30 PM - 05:45 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -45280,6 +45285,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
