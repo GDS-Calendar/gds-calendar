@@ -3522,16 +3522,6 @@ LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:6ecdcea0-8dcb-4e05-9850-b0031e09a0b6@gds.incidentiq.com
-SUMMARY:In-Service Day Break Camp
-DTSTART;TZID=America/New_York:20251125T080000
-DTEND;TZID=America/New_York:20251125T160000
-DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
- osted in the fall at www.gds.org/breakcamp!
-LOCATION:101 LMS Library
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:f7a4ee94-fad5-48d3-943e-653c6a0e2274@gds.incidentiq.com
 SUMMARY:Lower\, Middle\, and High School Conferences (Day 2) (no classes)
 DTSTART;TZID=America/New_York:20251124T080000
