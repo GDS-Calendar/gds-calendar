@@ -3090,17 +3090,6 @@ LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:977ca53b-e55c-49b5-9b1d-7883ada35851@gds.incidentiq.com
-SUMMARY:[PSA] GDS Cares Volunteering
-DTSTART;TZID=America/New_York:20260110T110000
-DTEND;TZID=America/New_York:20260110T160000
-DESCRIPTION:GDS Cares is a series of volunteer events to honor the life 
- and legacy of Dr. Martin Luther King\, Jr. \nContact Carol Levine at crole
- vine@gmail.com.
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:93c7dae2-047e-4f53-b7c3-85fb75d40754@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260106T080000
