@@ -841,6 +841,14 @@ LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
+UID:c030f079-2bd6-4fe2-8fe7-e511e0b0e342@gds.incidentiq.com
+SUMMARY:GDS Faculty & Staff Holiday Party
+DTSTART;TZID=America/New_York:20260108T163000
+DTEND;TZID=America/New_York:20260108T200000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:26506158-1721-467c-8265-a3e00c488af7@gds.incidentiq.com
 SUMMARY:High School Jazz and Creative Music Concert
 DTSTART;TZID=America/New_York:20251216T190000
