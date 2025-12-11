@@ -3576,7 +3576,7 @@
     "EventTag": "10670",
     "EventId": "6981c4f0-611d-47c2-b76f-633269045f3f",
     "CreatedDate": "2025-07-30T13:28:18.823",
-    "ModifiedDate": "2025-07-30T13:28:18.823",
+    "ModifiedDate": "2025-12-11T10:37:56.937",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -3598,7 +3598,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Growing Together: Learning Based Approach to Behavior",
+    "Title": "LMS Parent Coffee: Growing Together: Learning Based Approach to Behavior",
     "Description": "",
     "StartDateTime": "2026-01-13T12:00:00",
     "SetUpStartDateTime": "2026-01-13T12:00:00",
@@ -3654,13 +3654,18 @@
     "DateTimeDisplay": "January 13, 2026\n12:00 PM - 01:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -3671,6 +3676,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -8869,7 +8879,7 @@
     "EventTag": "10620",
     "EventId": "a06b9999-5afa-42c1-8934-4116ef5b6e51",
     "CreatedDate": "2025-07-29T20:57:25.533",
-    "ModifiedDate": "2025-09-11T12:36:33.53",
+    "ModifiedDate": "2025-12-11T10:42:35.027",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -8893,8 +8903,8 @@
     },
     "Title": "Winter One Acts",
     "Description": "",
-    "StartDateTime": "2026-01-31T19:00:00",
-    "SetUpStartDateTime": "2026-01-31T19:00:00",
+    "StartDateTime": "2026-01-31T19:30:00",
+    "SetUpStartDateTime": "2026-01-31T19:30:00",
     "EndDateTime": "2026-01-31T21:30:00",
     "BreakdownEndDateTime": "2026-01-31T21:30:00",
     "IsAllDay": false,
@@ -8905,17 +8915,17 @@
     "SeriesInfo": {
       "SeriesId": "b604649f-da6e-472e-945d-6ce4c2944039",
       "NumberOfEvents": 3,
-      "MinStartDatetime": "2026-01-29T19:00:00",
-      "MaxStartDatetime": "2026-01-31T19:00:00"
+      "MinStartDatetime": "2026-01-29T19:30:00",
+      "MaxStartDatetime": "2026-01-31T19:30:00"
     },
     "Schedule": {
       "RecurringScheduleId": "0577c7ae-f70f-467e-97db-989c721dfab0",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-30T00:57:25.277",
-      "ModifiedDate": "2025-07-30T00:57:25.277",
-      "Name": "Daily at 7:00 PM until 01/31/26",
+      "ModifiedDate": "2025-12-11T15:42:34.417",
+      "Name": "Daily at 7:30 PM until 01/31/26",
       "Pattern": "Daily",
-      "StartTime": "19:00:00",
+      "StartTime": "19:30:00",
       "StopRecurringDate": "2026-01-31T00:00:00",
       "IsValidMonthlyPattern": false,
       "IsValidQuarterlyPattern": false,
@@ -8967,16 +8977,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > HS Black Box",
-    "DateTimeDisplay": "January 31, 2026\n07:00 PM - 09:30 PM",
+    "DateTimeDisplay": "January 31, 2026\n07:30 PM - 09:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -8990,13 +9005,18 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-29T20:57:00",
+    "OverrideDateTime": "2025-12-11T10:42:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -9021,7 +9041,7 @@
     "EventTag": "10619",
     "EventId": "853c45b2-3ec7-4fa6-ba75-264bccaaaadc",
     "CreatedDate": "2025-07-29T20:57:25.523",
-    "ModifiedDate": "2025-09-11T12:36:33.51",
+    "ModifiedDate": "2025-12-11T10:42:34.997",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -9045,8 +9065,8 @@
     },
     "Title": "Winter One Acts",
     "Description": "",
-    "StartDateTime": "2026-01-30T19:00:00",
-    "SetUpStartDateTime": "2026-01-30T19:00:00",
+    "StartDateTime": "2026-01-30T19:30:00",
+    "SetUpStartDateTime": "2026-01-30T19:30:00",
     "EndDateTime": "2026-01-30T21:30:00",
     "BreakdownEndDateTime": "2026-01-30T21:30:00",
     "IsAllDay": false,
@@ -9057,17 +9077,17 @@
     "SeriesInfo": {
       "SeriesId": "b604649f-da6e-472e-945d-6ce4c2944039",
       "NumberOfEvents": 3,
-      "MinStartDatetime": "2026-01-29T19:00:00",
-      "MaxStartDatetime": "2026-01-31T19:00:00"
+      "MinStartDatetime": "2026-01-29T19:30:00",
+      "MaxStartDatetime": "2026-01-31T19:30:00"
     },
     "Schedule": {
       "RecurringScheduleId": "0577c7ae-f70f-467e-97db-989c721dfab0",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-30T00:57:25.277",
-      "ModifiedDate": "2025-07-30T00:57:25.277",
-      "Name": "Daily at 7:00 PM until 01/31/26",
+      "ModifiedDate": "2025-12-11T15:42:34.417",
+      "Name": "Daily at 7:30 PM until 01/31/26",
       "Pattern": "Daily",
-      "StartTime": "19:00:00",
+      "StartTime": "19:30:00",
       "StopRecurringDate": "2026-01-31T00:00:00",
       "IsValidMonthlyPattern": false,
       "IsValidQuarterlyPattern": false,
@@ -9119,16 +9139,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > HS Black Box",
-    "DateTimeDisplay": "January 30, 2026\n07:00 PM - 09:30 PM",
+    "DateTimeDisplay": "January 30, 2026\n07:30 PM - 09:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -9142,13 +9167,18 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-29T20:57:00",
+    "OverrideDateTime": "2025-12-11T10:42:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -9173,7 +9203,7 @@
     "EventTag": "10618",
     "EventId": "af2bb3a5-53a0-4af4-92f5-eef9390cef7d",
     "CreatedDate": "2025-07-29T20:57:25.42",
-    "ModifiedDate": "2025-09-11T12:36:33.493",
+    "ModifiedDate": "2025-12-11T10:42:34.97",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -9197,8 +9227,8 @@
     },
     "Title": "Winter One Acts",
     "Description": "",
-    "StartDateTime": "2026-01-29T19:00:00",
-    "SetUpStartDateTime": "2026-01-29T19:00:00",
+    "StartDateTime": "2026-01-29T19:30:00",
+    "SetUpStartDateTime": "2026-01-29T19:30:00",
     "EndDateTime": "2026-01-29T21:30:00",
     "BreakdownEndDateTime": "2026-01-29T21:30:00",
     "IsAllDay": false,
@@ -9208,17 +9238,17 @@
     "SeriesInfo": {
       "SeriesId": "b604649f-da6e-472e-945d-6ce4c2944039",
       "NumberOfEvents": 3,
-      "MinStartDatetime": "2026-01-29T19:00:00",
-      "MaxStartDatetime": "2026-01-31T19:00:00"
+      "MinStartDatetime": "2026-01-29T19:30:00",
+      "MaxStartDatetime": "2026-01-31T19:30:00"
     },
     "Schedule": {
       "RecurringScheduleId": "0577c7ae-f70f-467e-97db-989c721dfab0",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-30T00:57:25.277",
-      "ModifiedDate": "2025-07-30T00:57:25.277",
-      "Name": "Daily at 7:00 PM until 01/31/26",
+      "ModifiedDate": "2025-12-11T15:42:34.417",
+      "Name": "Daily at 7:30 PM until 01/31/26",
       "Pattern": "Daily",
-      "StartTime": "19:00:00",
+      "StartTime": "19:30:00",
       "StopRecurringDate": "2026-01-31T00:00:00",
       "IsValidMonthlyPattern": false,
       "IsValidQuarterlyPattern": false,
@@ -9270,16 +9300,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > HS Black Box",
-    "DateTimeDisplay": "January 29, 2026\n07:00 PM - 09:30 PM",
+    "DateTimeDisplay": "January 29, 2026\n07:30 PM - 09:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -9293,13 +9328,18 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-09-11T12:36:00",
+    "OverrideDateTime": "2025-12-11T10:42:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",

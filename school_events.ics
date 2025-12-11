@@ -329,7 +329,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:6981c4f0-611d-47c2-b76f-633269045f3f@gds.incidentiq.com
-SUMMARY:Growing Together: Learning Based Approach to Behavior
+SUMMARY:LMS Parent Coffee: Growing Together: Learning Based Approach to Behavior
 DTSTART;TZID=America/New_York:20260113T120000
 DTEND;TZID=America/New_York:20260113T130000
 LOCATION:Virtual #01
@@ -740,7 +740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a06b9999-5afa-42c1-8934-4116ef5b6e51@gds.incidentiq.com
 SUMMARY:Winter One Acts
-DTSTART;TZID=America/New_York:20260131T190000
+DTSTART;TZID=America/New_York:20260131T193000
 DTEND;TZID=America/New_York:20260131T213000
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
@@ -748,7 +748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:853c45b2-3ec7-4fa6-ba75-264bccaaaadc@gds.incidentiq.com
 SUMMARY:Winter One Acts
-DTSTART;TZID=America/New_York:20260130T190000
+DTSTART;TZID=America/New_York:20260130T193000
 DTEND;TZID=America/New_York:20260130T213000
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
@@ -756,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:af2bb3a5-53a0-4af4-92f5-eef9390cef7d@gds.incidentiq.com
 SUMMARY:Winter One Acts
-DTSTART;TZID=America/New_York:20260129T190000
+DTSTART;TZID=America/New_York:20260129T193000
 DTEND;TZID=America/New_York:20260129T213000
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
