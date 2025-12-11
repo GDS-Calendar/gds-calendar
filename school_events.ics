@@ -2448,8 +2448,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17bcb24e-4060-4c3d-8b33-e50f064e188a@gds.incidentiq.com
 SUMMARY:High School Shadow Day
-DTSTART;TZID=America/New_York:20260311T083000
-DTEND;TZID=America/New_York:20260311T123000
+DTSTART;TZID=America/New_York:20260304T083000
+DTEND;TZID=America/New_York:20260304T130000
 DESCRIPTION:Admitted students will spend time visiting classes\, meeting
   faculty and students\, and experiencing the dynamic culture of GDS alongs
  ide a student buddy. Lunch is provided. Shadow visits are not required\; h
