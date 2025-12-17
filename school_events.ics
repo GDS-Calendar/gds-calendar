@@ -316,7 +316,7 @@ UID:53f5a7bb-8e8f-40de-82f5-3dfad90f1163@gds.incidentiq.com
 SUMMARY:7th Grade Coffee
 DTSTART;TZID=America/New_York:20260309T083000
 DTEND;TZID=America/New_York:20260309T093000
-LOCATION:Virtual #01
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -324,7 +324,7 @@ UID:cae80b38-76ce-47a0-8a0f-d12121d35096@gds.incidentiq.com
 SUMMARY:8th Grade Coffee
 DTSTART;TZID=America/New_York:20260129T083000
 DTEND;TZID=America/New_York:20260129T093000
-LOCATION:Virtual #01
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
