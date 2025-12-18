@@ -3596,7 +3596,7 @@
     "EventTag": "10670",
     "EventId": "6981c4f0-611d-47c2-b76f-633269045f3f",
     "CreatedDate": "2025-07-30T13:28:18.823",
-    "ModifiedDate": "2025-12-11T10:37:56.937",
+    "ModifiedDate": "2025-12-18T12:18:18.97",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -3618,7 +3618,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "LMS Parent Coffee: Growing Together: Learning Based Approach to Behavior",
+    "Title": "LMS Parent Coffee: Growing Together: Learning-Based Approach to Behavior",
     "Description": "",
     "StartDateTime": "2026-01-13T12:00:00",
     "SetUpStartDateTime": "2026-01-13T12:00:00",
