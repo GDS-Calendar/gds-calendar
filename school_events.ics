@@ -23,6 +23,22 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:cd93805d-b2b3-4ae6-8fa2-59928a2854dc@gds.incidentiq.com
+SUMMARY:80th Anniversary Speaker Series: Behind the Headlines
+DTSTART;TZID=America/New_York:20260316T190000
+DTEND;TZID=America/New_York:20260316T210000
+DESCRIPTION:Our guests will examine the increasingly complex relationshi
+ p between the press and the presidency. They will discuss how the media na
+ vigates its role as a democratic watchdog in an increasingly polarized pol
+ itical climate. \n\nModerator: Adrienne LaFrance\, Executive Editor\, The 
+ Atlantic\n\nFeaturing: Jeffrey Goldberg\, Editor in Chief\, The Atlantic\;
+  Meredith Kopit Levien\, President and CEO\, The New York Times Company\; 
+ and Jennifer Griffin\, Chief National Security Correspondent\, FOX News Ch
+ annel
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:c1be3060-1eab-4f1c-933e-9377ac05a004@gds.incidentiq.com
 SUMMARY:Stephanie Burt '89: Taylor Swift at Harvard\, the Future of Poetry\, and Other Mild Surprises
 DTSTART;TZID=America/New_York:20260122T190000
