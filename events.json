@@ -3,7 +3,7 @@
     "EventTag": "11239",
     "EventId": "cd93805d-b2b3-4ae6-8fa2-59928a2854dc",
     "CreatedDate": "2026-01-05T09:39:32.807",
-    "ModifiedDate": "2026-01-05T09:39:32.807",
+    "ModifiedDate": "2026-01-05T15:19:20.197",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -25,8 +25,8 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "80th Anniversary Speaker Series: Behind the Headlines",
-    "Description": "Our guests will examine the increasingly complex relationship between the press and the presidency. They will discuss how the media navigates its role as a democratic watchdog in an increasingly polarized political climate. \n\nModerator: Adrienne LaFrance, Executive Editor, The Atlantic\n\nFeaturing: Jeffrey Goldberg, Editor in Chief, The Atlantic; Meredith Kopit Levien, President and CEO, The New York Times Company; and Jennifer Griffin, Chief National Security Correspondent, FOX News Channel",
+    "Title": "80th Anniversary Speaker Series: The Future of Democracy and the First Amendment",
+    "Description": "Our guests will discuss the many complexities that news organizations face in an age of stark polarization and rapid technological change. They will explore how journalists navigate their role as watchdogs despite hostility to pr\n\nModerator: Adrienne LaFrance, Executive Editor, The Atlantic\n\nFeaturing: Jeffrey Goldberg, Editor in Chief, The Atlantic; Meredith Kopit Levien, President and CEO, The New York Times Company; and Jennifer Griffin, Chief National Security Correspondent, FOX News Channel",
     "StartDateTime": "2026-03-16T19:00:00",
     "SetUpStartDateTime": "2026-03-16T19:00:00",
     "EndDateTime": "2026-03-16T21:00:00",
@@ -119,7 +119,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-01-05T09:39:00",
+    "OverrideDateTime": "2026-01-05T15:19:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -38147,7 +38147,7 @@
     "EventTag": "10311",
     "EventId": "93c7dae2-047e-4f53-b7c3-85fb75d40754",
     "CreatedDate": "2025-07-21T13:15:11.47",
-    "ModifiedDate": "2025-12-08T13:48:50.167",
+    "ModifiedDate": "2026-01-05T15:23:19.587",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -38169,12 +38169,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "High School Parent Coffee",
+    "Title": "High School Parent Coffee: HS Parent Coffee with the Assistant Principals",
     "Description": "",
     "StartDateTime": "2026-01-13T08:00:00",
     "SetUpStartDateTime": "2026-01-13T08:00:00",
-    "EndDateTime": "2026-01-13T09:00:00",
-    "BreakdownEndDateTime": "2026-01-13T09:00:00",
+    "EndDateTime": "2026-01-13T08:40:00",
+    "BreakdownEndDateTime": "2026-01-13T08:40:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -38223,7 +38223,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > 326",
-    "DateTimeDisplay": "January 13, 2026\n08:00 AM - 09:00 AM",
+    "DateTimeDisplay": "January 13, 2026\n08:00 AM - 08:40 AM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
