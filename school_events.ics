@@ -2325,8 +2325,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47e7866a-205d-4f2e-8b7d-2219d0f87137@gds.incidentiq.com
 SUMMARY:High School Shadow Day
-DTSTART;TZID=America/New_York:20260318T083000
-DTEND;TZID=America/New_York:20260318T123000
+DTSTART;TZID=America/New_York:20260310T083000
+DTEND;TZID=America/New_York:20260310T123000
 DESCRIPTION:Admitted students will spend time visiting classes\, meeting
   faculty and students\, and experiencing the dynamic culture of GDS alongs
  ide a student buddy. Lunch is provided. Shadow visits are not required\; h
@@ -2376,8 +2376,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fb0402a5-9e11-466d-a777-bdfbbc38fa4b@gds.incidentiq.com
 SUMMARY:High School Admitted Family Reception
-DTSTART;TZID=America/New_York:20260317T180000
-DTEND;TZID=America/New_York:20260317T193000
+DTSTART;TZID=America/New_York:20260310T180000
+DTEND;TZID=America/New_York:20260310T193000
 DESCRIPTION:Admitted High School parents/guardians and students are invi
  ted to meet school leadership\, faculty\, parents\, and students as you co
  ntinue to explore GDS as your child(ren)'s next school.\n\nFor more inform
@@ -2396,8 +2396,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fe2877-a884-4cf5-b0d9-a4562f2f999b@gds.incidentiq.com
 SUMMARY:High School Shadow Day
-DTSTART;TZID=America/New_York:20260316T083000
-DTEND;TZID=America/New_York:20260316T123000
+DTSTART;TZID=America/New_York:20260309T083000
+DTEND;TZID=America/New_York:20260309T123000
 DESCRIPTION:Admitted students will spend time visiting classes\, meeting
   faculty and students\, and experiencing the dynamic culture of GDS alongs
  ide a student buddy. Lunch is provided. Shadow visits are not required\; h
@@ -2418,8 +2418,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ac8b8403-ec31-403d-b148-dec7204f3d08@gds.incidentiq.com
 SUMMARY:Lower School Admitted Parent/Guardian Reception
-DTSTART;TZID=America/New_York:20260312T180000
-DTEND;TZID=America/New_York:20260312T190000
+DTSTART;TZID=America/New_York:20260305T180000
+DTEND;TZID=America/New_York:20260305T190000
 DESCRIPTION:Admitted Lower School parents and guardians are invited to a
   celebration to meet school leadership and parents as you continue to expl
  ore GDS as your child(ren)'s next school.  \n\nFor more information\, plea
@@ -2430,8 +2430,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f9d47ebf-9b5c-4d81-b121-dca75fd0d429@gds.incidentiq.com
 SUMMARY:Middle School Admitted Family Welcome
-DTSTART;TZID=America/New_York:20260312T091500
-DTEND;TZID=America/New_York:20260312T104500
+DTSTART;TZID=America/New_York:20260305T091500
+DTEND;TZID=America/New_York:20260305T104500
 DESCRIPTION:Admitted Middle School parents/guardians and students are in
  vited to a celebration to meet school leadership\, faculty\, and peers as 
  you continue to explore GDS as your child(ren)'s next school.  \n\nFor mor
@@ -2452,8 +2452,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:274f508c-8d79-4ee2-8e2b-982782597866@gds.incidentiq.com
 SUMMARY:High School Athletics Meet-and-Greet for Admitted Families
-DTSTART;TZID=America/New_York:20260311T183000
-DTEND;TZID=America/New_York:20260311T193000
+DTSTART;TZID=America/New_York:20260304T183000
+DTEND;TZID=America/New_York:20260304T193000
 DESCRIPTION:Admitted High School students and their parents/guardians ar
  e invited to our Athletics Meet & Greet. All teams will be represented\, a
  nd you will have the chance to meet coaches and players as you explore the
@@ -2642,10 +2642,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47ebc6e8-094f-43f7-9742-33027a642749@gds.incidentiq.com
 SUMMARY:[PSA] LMS Family Fun Game Night
-DTSTART;TZID=America/New_York:20260227T183000
+DTSTART;TZID=America/New_York:20260227T180000
 DTEND;TZID=America/New_York:20260227T203000
 DESCRIPTION:There will be lots of fun and games!
-LOCATION:B200 LMS Gym
+LOCATION:130 LMS Cafe\, B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
