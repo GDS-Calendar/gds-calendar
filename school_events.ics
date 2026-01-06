@@ -23,6 +23,33 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:25d1ce80-e258-4ebf-a445-7d4caddd1f1f@gds.incidentiq.com
+SUMMARY:Parent Connect: for Adoptive Parents
+DTSTART;TZID=America/New_York:20260422T180000
+DTEND;TZID=America/New_York:20260422T200000
+DESCRIPTION:Join the counselors and Debbie Riley\, LCMFT\, and CEO at th
+ e Center for Adoption Support and Education during National Adoption Aware
+ ness Month. Debbie and a panel of adult adoptees will share experiences an
+ d offer support for adoptive parents. Families and student support team me
+ mbers from other nearby independent schools are also invited.\n\nPlease co
+ ntact Meryl Heyliger with questions: mheyliger@gds.org
+LOCATION:101 LMS Library
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:66a61d35-34db-441f-af90-ba186cea680e@gds.incidentiq.com
+SUMMARY:Fancy Sparkly Day
+DTSTART;TZID=America/New_York:20260501T080000
+DTEND;TZID=America/New_York:20260501T150000
+DESCRIPTION:Fancy Sparkly Day is a GDS event where all community members
+  are invited to arrive at school in attire that makes them feel beautiful\
+ , but especially things they consider extra fancy or sparkly. Students are
+  invited to participate in a fun\, music-filled parade celebrating their i
+ ndividuality.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:cd93805d-b2b3-4ae6-8fa2-59928a2854dc@gds.incidentiq.com
 SUMMARY:80th Anniversary Speaker Series: The Future of Democracy and the First Amendment
 DTSTART;TZID=America/New_York:20260316T190000
@@ -2644,7 +2671,9 @@ UID:47ebc6e8-094f-43f7-9742-33027a642749@gds.incidentiq.com
 SUMMARY:[PSA] LMS Family Fun Game Night
 DTSTART;TZID=America/New_York:20260227T180000
 DTEND;TZID=America/New_York:20260227T203000
-DESCRIPTION:There will be lots of fun and games!
+DESCRIPTION:Join us for Family Fun Game night! Lower School and Middle S
+ chool events will take place at the same time in different spaces within t
+ he school. More info forthcoming!
 LOCATION:130 LMS Cafe\, B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT

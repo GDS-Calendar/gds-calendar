@@ -1,5 +1,285 @@
 [
   {
+    "EventTag": "11242",
+    "EventId": "25d1ce80-e258-4ebf-a445-7d4caddd1f1f",
+    "CreatedDate": "2026-01-06T16:01:21.057",
+    "ModifiedDate": "2026-01-06T16:01:21.057",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "d38e56fa-0ff4-7353-3460-e4e1844b03a8",
+    "EventType": {
+      "EventTypeId": "d38e56fa-0ff4-7353-3460-e4e1844b03a8",
+      "CreatedDate": "2025-04-09T01:29:50.43",
+      "ModifiedDate": "2025-04-09T01:29:50.43",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Health Services Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Parent Connect: for Adoptive Parents",
+    "Description": "Join the counselors and Debbie Riley, LCMFT, and CEO at the Center for Adoption Support and Education during National Adoption Awareness Month. Debbie and a panel of adult adoptees will share experiences and offer support for adoptive parents. Families and student support team members from other nearby independent schools are also invited.\n\nPlease contact Meryl Heyliger with questions: mheyliger@gds.org",
+    "StartDateTime": "2026-04-22T18:00:00",
+    "SetUpStartDateTime": "2026-04-22T18:00:00",
+    "EndDateTime": "2026-04-22T20:00:00",
+    "BreakdownEndDateTime": "2026-04-22T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3484,
+        "SeatingCapacity": 60,
+        "MaximumOccupancy": 100,
+        "Description": "Library",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "101 LMS Library",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.393",
+        "ModifiedDate": "2025-08-07T18:45:47.87"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 101 LMS Library",
+    "DateTimeDisplay": "April 22, 2026\n06:00 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-01-06T16:01:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
+  },
+  {
+    "EventTag": "11241",
+    "EventId": "66a61d35-34db-441f-af90-ba186cea680e",
+    "CreatedDate": "2026-01-06T15:58:37.667",
+    "ModifiedDate": "2026-01-06T15:58:37.667",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Fancy Sparkly Day",
+    "Description": "Fancy Sparkly Day is a GDS event where all community members are invited to arrive at school in attire that makes them feel beautiful, but especially things they consider extra fancy or sparkly. Students are invited to participate in a fun, music-filled parade celebrating their individuality.",
+    "StartDateTime": "2026-05-01T08:00:00",
+    "SetUpStartDateTime": "2026-05-01T08:00:00",
+    "EndDateTime": "2026-05-01T15:00:00",
+    "BreakdownEndDateTime": "2026-05-01T15:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "May 01, 2026\n08:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-01-06T15:58:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
+  },
+  {
     "EventTag": "11239",
     "EventId": "cd93805d-b2b3-4ae6-8fa2-59928a2854dc",
     "CreatedDate": "2026-01-05T09:39:32.807",
@@ -33197,7 +33477,7 @@
     "EventTag": "10357",
     "EventId": "47ebc6e8-094f-43f7-9742-33027a642749",
     "CreatedDate": "2025-07-22T11:38:56.87",
-    "ModifiedDate": "2026-01-06T15:27:58.72",
+    "ModifiedDate": "2026-01-06T15:59:24.72",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -33220,7 +33500,7 @@
       "Name": "Approved"
     },
     "Title": "[PSA] LMS Family Fun Game Night",
-    "Description": "There will be lots of fun and games!",
+    "Description": "Join us for Family Fun Game night! Lower School and Middle School events will take place at the same time in different spaces within the school. More info forthcoming!",
     "StartDateTime": "2026-02-27T18:00:00",
     "SetUpStartDateTime": "2026-02-27T18:00:00",
     "EndDateTime": "2026-02-27T20:30:00",
@@ -33336,7 +33616,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-01-06T15:27:00",
+    "OverrideDateTime": "2026-01-06T15:59:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
