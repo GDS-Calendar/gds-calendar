@@ -2641,11 +2641,10 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:47ebc6e8-094f-43f7-9742-33027a642749@gds.incidentiq.com
-SUMMARY:[PSA] Middle School Family Fun Game Night
-DTSTART;TZID=America/New_York:20260220T183000
-DTEND;TZID=America/New_York:20260220T210000
-DESCRIPTION:Join us for the Middle School Family Fun Night! There will b
- e lots of fun and games!
+SUMMARY:[PSA] LMS Family Fun Game Night
+DTSTART;TZID=America/New_York:20260227T183000
+DTEND;TZID=America/New_York:20260227T203000
+DESCRIPTION:There will be lots of fun and games!
 LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT

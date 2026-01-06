@@ -33117,7 +33117,7 @@
     "EventTag": "10357",
     "EventId": "47ebc6e8-094f-43f7-9742-33027a642749",
     "CreatedDate": "2025-07-22T11:38:56.87",
-    "ModifiedDate": "2025-07-22T11:38:56.87",
+    "ModifiedDate": "2026-01-06T13:31:37.91",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -33139,12 +33139,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "[PSA] Middle School Family Fun Game Night",
-    "Description": "Join us for the Middle School Family Fun Night! There will be lots of fun and games!",
-    "StartDateTime": "2026-02-20T18:30:00",
-    "SetUpStartDateTime": "2026-02-20T18:30:00",
-    "EndDateTime": "2026-02-20T21:00:00",
-    "BreakdownEndDateTime": "2026-02-20T21:00:00",
+    "Title": "[PSA] LMS Family Fun Game Night",
+    "Description": "There will be lots of fun and games!",
+    "StartDateTime": "2026-02-27T18:30:00",
+    "SetUpStartDateTime": "2026-02-27T18:30:00",
+    "EndDateTime": "2026-02-27T20:30:00",
+    "BreakdownEndDateTime": "2026-02-27T20:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -33195,16 +33195,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > B200 LMS Gym",
-    "DateTimeDisplay": "February 20, 2026\n06:30 PM - 09:00 PM",
+    "DateTimeDisplay": "February 27, 2026\n06:30 PM - 08:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -33218,12 +33223,37 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-01-06T13:31:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    }
   },
   {
     "EventTag": "10356",
