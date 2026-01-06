@@ -3037,9 +3037,10 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:a215bda3-3b1a-415f-a6a6-76b6b17ae36b@gds.incidentiq.com
-SUMMARY:[PSA] Virtual Meeting by Division (with TBD Speakers)
-DTSTART;TZID=America/New_York:20260114T080000
-DTEND;TZID=America/New_York:20260114T090000
+SUMMARY:[PSA] Virtual Meeting by Division
+DTSTART;TZID=America/New_York:20260114T120000
+DTEND;TZID=America/New_York:20260114T130000
+DESCRIPTION:https://gds-org.zoom.us/j/94981320267?pwd=wyZvVEXet012Rpi1y5fN8VEmedUUeb.1
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
