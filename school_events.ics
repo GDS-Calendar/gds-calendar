@@ -2805,14 +2805,6 @@ LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:a3069e81-8b69-4d7e-8e34-cc0d502c0226@gds.incidentiq.com
-SUMMARY:Social Justice Teach-In Day Evening Programming
-DTSTART;TZID=America/New_York:20260209T183000
-DTEND;TZID=America/New_York:20260209T203000
-LOCATION:B201 LMS Flexible Performance Center
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:47f2a3f7-2189-404b-afa1-b03d0f1af846@gds.incidentiq.com
 SUMMARY:High School Identity Art Show Opens
 DTSTART;TZID=America/New_York:20260209T153000
