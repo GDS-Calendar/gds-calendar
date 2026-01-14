@@ -2590,9 +2590,9 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:42ac4403-dfd6-4f7c-b7e0-22d5686f4729@gds.incidentiq.com
-SUMMARY:Cathedral Treble Choral Festival Grades 4-6
-DTSTART;TZID=America/New_York:20260302T193000
-DTEND;TZID=America/New_York:20260302T210000
+SUMMARY:Treble Choral Festival\, Grades 5-6
+DTSTART;TZID=America/New_York:20260303T190000
+DTEND;TZID=America/New_York:20260303T203000
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
