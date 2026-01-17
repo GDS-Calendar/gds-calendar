@@ -138,7 +138,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11241",
@@ -277,7 +279,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11239",
@@ -418,7 +422,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11041",
@@ -558,7 +564,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11039",
@@ -678,7 +686,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11028",
@@ -799,7 +809,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11013",
@@ -920,7 +932,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "11005",
@@ -1040,7 +1054,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10999",
@@ -1179,7 +1195,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10871",
@@ -1308,7 +1326,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10870",
@@ -1437,7 +1457,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10869",
@@ -1566,7 +1588,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10864",
@@ -1680,7 +1704,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10863",
@@ -1794,7 +1820,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10860",
@@ -1901,7 +1929,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10859",
@@ -2010,7 +2040,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10858",
@@ -2119,7 +2151,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10694",
@@ -2258,7 +2292,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10693",
@@ -2377,7 +2413,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10692",
@@ -2496,7 +2534,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10691",
@@ -2615,7 +2655,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10690",
@@ -2734,7 +2776,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10689",
@@ -2843,7 +2887,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10686",
@@ -2952,7 +2998,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10685",
@@ -3061,7 +3109,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10684",
@@ -3170,7 +3220,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10681",
@@ -3292,7 +3344,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10678",
@@ -3421,7 +3475,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10677",
@@ -3550,7 +3606,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10675",
@@ -3659,7 +3717,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10674",
@@ -3769,7 +3829,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10672",
@@ -3890,7 +3952,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10671",
@@ -4011,7 +4075,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10670",
@@ -4130,7 +4196,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10669",
@@ -4239,7 +4307,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10668",
@@ -4350,7 +4420,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10667",
@@ -4461,7 +4533,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10666",
@@ -4572,7 +4646,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10665",
@@ -4683,7 +4759,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10664",
@@ -4792,7 +4870,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10663",
@@ -4911,7 +4991,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10662",
@@ -5030,7 +5112,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10661",
@@ -5142,7 +5226,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10660",
@@ -5254,7 +5340,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10658",
@@ -5405,7 +5493,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10657",
@@ -5555,7 +5645,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10656",
@@ -5692,7 +5784,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10655",
@@ -5829,7 +5923,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10654",
@@ -5966,7 +6062,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10653",
@@ -6075,7 +6173,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10652",
@@ -6184,7 +6284,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10651",
@@ -6316,7 +6418,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10650",
@@ -6448,7 +6552,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10649",
@@ -6578,7 +6684,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10648",
@@ -6688,7 +6796,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10647",
@@ -6800,7 +6910,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10646",
@@ -6940,7 +7052,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10645",
@@ -7077,7 +7191,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10644",
@@ -7214,7 +7330,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10643",
@@ -7351,7 +7469,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10638",
@@ -7460,7 +7580,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10636",
@@ -7570,7 +7692,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10635",
@@ -7679,7 +7803,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10634",
@@ -7788,7 +7914,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10633",
@@ -7915,7 +8043,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10632",
@@ -8046,7 +8176,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10631",
@@ -8177,7 +8309,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10630",
@@ -8308,7 +8442,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10629",
@@ -8439,7 +8575,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10628",
@@ -8569,7 +8707,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10626",
@@ -8701,7 +8841,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10625",
@@ -8832,7 +8974,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10624",
@@ -8965,7 +9109,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10623",
@@ -9096,7 +9242,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10622",
@@ -9205,7 +9353,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10621",
@@ -9314,7 +9464,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10620",
@@ -9476,7 +9628,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10619",
@@ -9638,7 +9792,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10618",
@@ -9799,7 +9955,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10617",
@@ -9908,7 +10066,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10616",
@@ -10040,7 +10200,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10615",
@@ -10172,7 +10334,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10614",
@@ -10304,7 +10468,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10613",
@@ -10444,7 +10610,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10611",
@@ -10576,7 +10744,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10610",
@@ -10686,7 +10856,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10609",
@@ -10825,7 +10997,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10608",
@@ -10957,7 +11131,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10607",
@@ -11106,7 +11282,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10606",
@@ -11260,7 +11438,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10605",
@@ -11413,7 +11593,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10604",
@@ -11522,7 +11704,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10603",
@@ -11651,7 +11835,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10602",
@@ -11789,7 +11975,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10600",
@@ -11899,7 +12087,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10599",
@@ -12026,7 +12216,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10598",
@@ -12163,7 +12355,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10597",
@@ -12300,7 +12494,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10596",
@@ -12437,7 +12633,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10595",
@@ -12574,7 +12772,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10594",
@@ -12715,7 +12915,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10593",
@@ -12849,7 +13051,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10592",
@@ -12983,7 +13187,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10591",
@@ -13094,7 +13300,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10588",
@@ -13233,7 +13441,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10587",
@@ -13342,7 +13552,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10584",
@@ -13451,7 +13663,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10583",
@@ -13562,7 +13776,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10582",
@@ -13692,7 +13908,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10573",
@@ -13801,7 +14019,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10571",
@@ -13912,7 +14132,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10570",
@@ -14021,7 +14243,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10556",
@@ -14150,7 +14374,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10530",
@@ -14280,7 +14506,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10529",
@@ -14389,7 +14617,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10528",
@@ -14498,7 +14728,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10527",
@@ -14607,7 +14839,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10526",
@@ -14739,7 +14973,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10525",
@@ -14871,7 +15107,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10524",
@@ -15003,7 +15241,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10523",
@@ -15135,7 +15375,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10522",
@@ -15266,7 +15508,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10521",
@@ -15397,7 +15641,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10520",
@@ -15528,7 +15774,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10519",
@@ -15658,7 +15906,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10518",
@@ -15790,7 +16040,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10517",
@@ -15899,7 +16151,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10516",
@@ -16011,7 +16265,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10515",
@@ -16120,7 +16376,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10514",
@@ -16229,7 +16487,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10513",
@@ -16359,7 +16619,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10512",
@@ -16468,7 +16730,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10511",
@@ -16577,7 +16841,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10510",
@@ -16686,7 +16952,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10509",
@@ -16795,7 +17063,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10508",
@@ -16907,7 +17177,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10507",
@@ -17019,7 +17291,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10506",
@@ -17128,7 +17402,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10505",
@@ -17237,7 +17513,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10504",
@@ -17348,7 +17626,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10503",
@@ -17479,7 +17759,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10502",
@@ -17610,7 +17892,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10501",
@@ -17740,7 +18024,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10500",
@@ -17871,7 +18157,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10499",
@@ -18002,7 +18290,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10498",
@@ -18132,7 +18422,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10497",
@@ -18241,7 +18533,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10496",
@@ -18358,7 +18652,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10495",
@@ -18475,7 +18771,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10494",
@@ -18592,7 +18890,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10493",
@@ -18709,7 +19009,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10492",
@@ -18826,7 +19128,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10491",
@@ -18943,7 +19247,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10490",
@@ -19060,7 +19366,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10489",
@@ -19171,7 +19479,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10488",
@@ -19281,7 +19591,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10487",
@@ -19391,7 +19703,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10486",
@@ -19500,7 +19814,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10485",
@@ -19612,7 +19928,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10484",
@@ -19721,7 +20039,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10483",
@@ -19830,7 +20150,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10482",
@@ -19941,7 +20263,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10481",
@@ -20052,7 +20376,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10480",
@@ -20183,7 +20509,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10479",
@@ -20313,7 +20641,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10478",
@@ -20424,7 +20754,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10477",
@@ -20535,7 +20867,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10476",
@@ -20645,7 +20979,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10475",
@@ -20755,7 +21091,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10474",
@@ -20866,7 +21204,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10473",
@@ -20976,7 +21316,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10472",
@@ -21085,7 +21427,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10471",
@@ -21194,7 +21538,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10470",
@@ -21305,7 +21651,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10469",
@@ -21436,7 +21784,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10468",
@@ -21566,7 +21916,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10467",
@@ -21677,7 +22029,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10466",
@@ -21786,7 +22140,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10465",
@@ -21895,7 +22251,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10464",
@@ -22007,7 +22365,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10463",
@@ -22144,7 +22504,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10462",
@@ -22281,7 +22643,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10461",
@@ -22419,7 +22783,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10460",
@@ -22538,7 +22904,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10459",
@@ -22647,7 +23015,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10458",
@@ -22778,7 +23148,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10457",
@@ -22909,7 +23281,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10456",
@@ -23040,7 +23414,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10455",
@@ -23171,7 +23547,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10454",
@@ -23301,7 +23679,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10453",
@@ -23432,7 +23812,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10452",
@@ -23541,7 +23923,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10451",
@@ -23650,7 +24034,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10450",
@@ -23760,7 +24146,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10447",
@@ -23893,7 +24281,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10446",
@@ -24025,7 +24415,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10445",
@@ -24134,7 +24526,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10444",
@@ -24245,7 +24639,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10443",
@@ -24355,7 +24751,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10442",
@@ -24466,7 +24864,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10440",
@@ -24575,7 +24975,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10439",
@@ -24684,7 +25086,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10438",
@@ -24795,7 +25199,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10437",
@@ -24904,7 +25310,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10436",
@@ -25035,7 +25443,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10435",
@@ -25166,7 +25576,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10434",
@@ -25297,7 +25709,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10433",
@@ -25428,7 +25842,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10432",
@@ -25558,7 +25974,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10431",
@@ -25668,7 +26086,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10430",
@@ -25799,7 +26219,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10429",
@@ -25929,7 +26351,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10428",
@@ -26059,7 +26483,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10427",
@@ -26170,7 +26596,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10426",
@@ -26279,7 +26707,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10425",
@@ -26389,7 +26819,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10424",
@@ -26498,7 +26930,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10422",
@@ -26617,7 +27051,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10421",
@@ -26726,7 +27162,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10420",
@@ -26835,7 +27273,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10419",
@@ -26944,7 +27384,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10418",
@@ -27053,7 +27495,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10417",
@@ -27162,7 +27606,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10416",
@@ -27271,7 +27717,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10410",
@@ -27402,7 +27850,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10409",
@@ -27533,7 +27983,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10408",
@@ -27664,7 +28116,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10407",
@@ -27795,7 +28249,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10406",
@@ -27926,7 +28382,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10405",
@@ -28057,7 +28515,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10404",
@@ -28188,7 +28648,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10403",
@@ -28319,7 +28781,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10402",
@@ -28450,7 +28914,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10401",
@@ -28581,7 +29047,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10400",
@@ -28712,7 +29180,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10399",
@@ -28842,7 +29312,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10398",
@@ -28951,7 +29423,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10397",
@@ -29060,7 +29534,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10396",
@@ -29193,7 +29669,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10395",
@@ -29325,7 +29803,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10394",
@@ -29435,7 +29915,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10393",
@@ -29546,7 +30028,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10392",
@@ -29658,7 +30142,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10391",
@@ -29778,7 +30264,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10390",
@@ -29909,7 +30397,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10389",
@@ -30039,7 +30529,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10387",
@@ -30171,7 +30663,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10385",
@@ -30301,7 +30795,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10384",
@@ -30441,7 +30937,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10383",
@@ -30550,7 +31048,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10382",
@@ -30670,7 +31170,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10381",
@@ -30800,7 +31302,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10380",
@@ -30921,7 +31425,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10379",
@@ -31042,7 +31548,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10378",
@@ -31153,7 +31661,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10377",
@@ -31295,7 +31805,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10376",
@@ -31415,7 +31927,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10375",
@@ -31524,7 +32038,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10374",
@@ -31653,7 +32169,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10373",
@@ -31782,7 +32300,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10372",
@@ -31891,7 +32411,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10371",
@@ -32000,7 +32522,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10370",
@@ -32109,7 +32633,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10369",
@@ -32228,7 +32754,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10368",
@@ -32339,7 +32867,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10367",
@@ -32448,7 +32978,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10366",
@@ -32587,7 +33119,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10365",
@@ -32696,7 +33230,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10364",
@@ -32825,7 +33361,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10363",
@@ -32935,7 +33473,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10362",
@@ -33045,7 +33585,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10361",
@@ -33154,7 +33696,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10360",
@@ -33263,7 +33807,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10359",
@@ -33392,7 +33938,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10358",
@@ -33501,7 +34049,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10357",
@@ -33665,7 +34215,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10356",
@@ -33774,7 +34326,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10355",
@@ -33883,7 +34437,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10354",
@@ -33993,7 +34549,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10353",
@@ -34102,7 +34660,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10352",
@@ -34211,7 +34771,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10351",
@@ -34320,7 +34882,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10350",
@@ -34429,7 +34993,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10349",
@@ -34558,7 +35124,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10348",
@@ -34687,7 +35255,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10347",
@@ -34797,7 +35367,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10345",
@@ -34906,7 +35478,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10344",
@@ -35018,7 +35592,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10343",
@@ -35127,7 +35703,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10341",
@@ -35237,7 +35815,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10340",
@@ -35349,7 +35929,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10339",
@@ -35456,7 +36038,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10338",
@@ -35567,7 +36151,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10337",
@@ -35676,7 +36262,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10336",
@@ -35788,7 +36376,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10335",
@@ -35898,7 +36488,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10334",
@@ -36007,7 +36599,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10333",
@@ -36118,7 +36712,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10332",
@@ -36229,7 +36825,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10331",
@@ -36338,7 +36936,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10330",
@@ -36447,7 +37047,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10329",
@@ -36558,7 +37160,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10328",
@@ -36689,7 +37293,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10327",
@@ -36798,7 +37404,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10326",
@@ -36909,7 +37517,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10325",
@@ -37020,7 +37630,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10324",
@@ -37129,7 +37741,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10323",
@@ -37238,7 +37852,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10322",
@@ -37347,7 +37963,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10321",
@@ -37478,7 +38096,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10320",
@@ -37589,7 +38209,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10319",
@@ -37700,7 +38322,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10318",
@@ -37819,7 +38443,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10317",
@@ -37960,7 +38586,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10316",
@@ -38112,7 +38740,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10315",
@@ -38263,7 +38893,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10314",
@@ -38373,7 +39005,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10313",
@@ -38482,7 +39116,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10311",
@@ -38602,7 +39238,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10310",
@@ -38742,7 +39380,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10309",
@@ -38851,7 +39491,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10308",
@@ -38960,7 +39602,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10304",
@@ -39069,7 +39713,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10303",
@@ -39178,7 +39824,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10302",
@@ -39287,7 +39935,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10301",
@@ -39396,7 +40046,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10297",
@@ -39547,7 +40199,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10296",
@@ -39698,7 +40352,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10295",
@@ -39849,7 +40505,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10294",
@@ -40000,7 +40658,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10293",
@@ -40151,7 +40811,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10292",
@@ -40302,7 +40964,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10291",
@@ -40453,7 +41117,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10290",
@@ -40604,7 +41270,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10289",
@@ -40755,7 +41423,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10288",
@@ -40906,7 +41576,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10287",
@@ -41057,7 +41729,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10286",
@@ -41208,7 +41882,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10285",
@@ -41359,7 +42035,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10284",
@@ -41510,7 +42188,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10283",
@@ -41661,7 +42341,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10282",
@@ -41811,7 +42493,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10281",
@@ -41920,7 +42604,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10280",
@@ -42031,7 +42717,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10279",
@@ -42143,7 +42831,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10278",
@@ -42263,7 +42953,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10277",
@@ -42384,7 +43076,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10276",
@@ -42495,7 +43189,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10275",
@@ -42606,7 +43302,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10273",
@@ -42718,7 +43416,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10272",
@@ -42827,7 +43527,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10271",
@@ -42957,7 +43659,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10270",
@@ -43066,7 +43770,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10269",
@@ -43175,7 +43881,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10267",
@@ -43284,7 +43992,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10266",
@@ -43423,7 +44133,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10265",
@@ -43532,7 +44244,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10264",
@@ -43683,7 +44397,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10263",
@@ -43834,7 +44550,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10262",
@@ -43985,7 +44703,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10261",
@@ -44136,7 +44856,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10260",
@@ -44286,7 +45008,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10259",
@@ -44396,7 +45120,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10258",
@@ -44503,7 +45229,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10257",
@@ -44612,7 +45340,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10255",
@@ -44721,7 +45451,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10254",
@@ -44832,7 +45564,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10601",
@@ -44970,7 +45704,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10252",
@@ -45117,7 +45853,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10251",
@@ -45254,7 +45992,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10250",
@@ -45363,7 +46103,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10249",
@@ -45474,7 +46216,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10248",
@@ -45585,7 +46329,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10247",
@@ -45696,7 +46442,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10246",
@@ -45805,7 +46553,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10245",
@@ -45925,7 +46675,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10244",
@@ -46034,7 +46786,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10243",
@@ -46146,7 +46900,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10242",
@@ -46287,7 +47043,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10241",
@@ -46399,7 +47157,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10238",
@@ -46528,7 +47288,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10237",
@@ -46669,7 +47431,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10236",
@@ -46811,7 +47575,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10234",
@@ -46930,7 +47696,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10233",
@@ -47040,7 +47808,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10232",
@@ -47157,7 +47927,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10231",
@@ -47267,7 +48039,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10230",
@@ -47376,7 +48150,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10229",
@@ -47485,7 +48261,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10227",
@@ -47594,7 +48372,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10225",
@@ -47703,7 +48483,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10224",
@@ -47812,7 +48594,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10223",
@@ -47921,7 +48705,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10222",
@@ -48030,7 +48816,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10221",
@@ -48159,7 +48947,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10220",
@@ -48268,7 +49058,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10218",
@@ -48378,7 +49170,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10217",
@@ -48489,7 +49283,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10216",
@@ -48598,7 +49394,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10214",
@@ -48730,7 +49528,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10212",
@@ -48861,7 +49661,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10211",
@@ -48991,7 +49793,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10210",
@@ -49102,7 +49906,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10209",
@@ -49211,7 +50017,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10208",
@@ -49321,7 +50129,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10207",
@@ -49430,7 +50240,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10206",
@@ -49542,7 +50354,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10205",
@@ -49674,7 +50488,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10204",
@@ -49806,7 +50622,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10203",
@@ -49937,7 +50755,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10202",
@@ -50046,7 +50866,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10201",
@@ -50155,7 +50977,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10200",
@@ -50296,7 +51120,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10197",
@@ -50405,7 +51231,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10196",
@@ -50514,7 +51342,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10195",
@@ -50643,7 +51473,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10194",
@@ -50754,7 +51586,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10193",
@@ -50864,7 +51698,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10192",
@@ -50995,7 +51831,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10191",
@@ -51126,7 +51964,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10190",
@@ -51256,7 +52096,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10189",
@@ -51387,7 +52229,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10188",
@@ -51518,7 +52362,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10187",
@@ -51648,7 +52494,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10186",
@@ -51759,7 +52607,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10185",
@@ -51868,7 +52718,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10184",
@@ -51977,7 +52829,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10183",
@@ -52086,7 +52940,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10182",
@@ -52217,7 +53073,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10181",
@@ -52347,7 +53205,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10180",
@@ -52458,7 +53318,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10175",
@@ -52567,7 +53429,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10174",
@@ -52676,7 +53540,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10172",
@@ -52805,7 +53671,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10170",
@@ -52914,7 +53782,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10169",
@@ -53044,7 +53914,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10168",
@@ -53174,7 +54046,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10167",
@@ -53304,7 +54178,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10166",
@@ -53413,7 +54289,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10165",
@@ -53522,7 +54400,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10164",
@@ -53632,7 +54512,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10163",
@@ -53739,7 +54621,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10162",
@@ -53848,7 +54732,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10161",
@@ -53980,7 +54866,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10160",
@@ -54110,7 +54998,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10159",
@@ -54220,7 +55110,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10158",
@@ -54332,7 +55224,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10157",
@@ -54443,7 +55337,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10156",
@@ -54552,7 +55448,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10155",
@@ -54663,7 +55561,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10153",
@@ -54774,7 +55674,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10152",
@@ -54883,7 +55785,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10150",
@@ -54994,7 +55898,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10148",
@@ -55131,7 +56037,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10147",
@@ -55268,7 +56176,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10146",
@@ -55378,7 +56288,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10145",
@@ -55487,7 +56399,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10144",
@@ -55597,7 +56511,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10143",
@@ -55704,7 +56620,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10142",
@@ -55815,7 +56733,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10141",
@@ -55925,7 +56845,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10110",
@@ -56034,7 +56956,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10109",
@@ -56165,7 +57089,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10108",
@@ -56296,7 +57222,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10107",
@@ -56427,7 +57355,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10106",
@@ -56558,7 +57488,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10105",
@@ -56688,7 +57620,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10104",
@@ -56797,7 +57731,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10103",
@@ -56909,7 +57845,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10102",
@@ -57018,7 +57956,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10101",
@@ -57127,7 +58067,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10100",
@@ -57237,7 +58179,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10099",
@@ -57346,7 +58290,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10098",
@@ -57455,7 +58401,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10097",
@@ -57566,7 +58514,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10096",
@@ -57677,7 +58627,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10095",
@@ -57788,7 +58740,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10094",
@@ -57897,7 +58851,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10093",
@@ -58006,7 +58962,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10092",
@@ -58117,7 +59075,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": true
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10091",
@@ -58224,7 +59184,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10090",
@@ -58334,7 +59296,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10089",
@@ -58466,7 +59430,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10088",
@@ -58597,7 +59563,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10087",
@@ -58729,7 +59697,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10086",
@@ -58860,7 +59830,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10085",
@@ -58969,7 +59941,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10084",
@@ -59078,7 +60052,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10082",
@@ -59211,7 +60187,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10081",
@@ -59344,7 +60322,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10080",
@@ -59477,7 +60457,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10079",
@@ -59609,7 +60591,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10078",
@@ -59739,7 +60723,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10077",
@@ -59855,7 +60841,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10076",
@@ -59971,7 +60959,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10075",
@@ -60087,7 +61077,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10074",
@@ -60203,7 +61195,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10073",
@@ -60312,7 +61306,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10071",
@@ -60444,7 +61440,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10070",
@@ -60576,7 +61574,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10069",
@@ -60708,7 +61708,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10068",
@@ -60840,7 +61842,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10067",
@@ -60971,7 +61975,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10066",
@@ -61087,7 +62093,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10065",
@@ -61203,7 +62211,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10064",
@@ -61319,7 +62329,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10063",
@@ -61435,7 +62447,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10062",
@@ -61551,7 +62565,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10061",
@@ -61667,7 +62683,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10060",
@@ -61783,7 +62801,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10059",
@@ -61899,7 +62919,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10058",
@@ -62015,7 +63037,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10048",
@@ -62122,7 +63146,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10047",
@@ -62231,7 +63257,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10046",
@@ -62342,7 +63370,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10045",
@@ -62451,7 +63481,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10043",
@@ -62583,7 +63615,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10042",
@@ -62714,7 +63748,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10041",
@@ -62844,7 +63880,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10040",
@@ -62954,7 +63992,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10039",
@@ -63106,7 +64146,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10038",
@@ -63257,7 +64299,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10033",
@@ -63408,7 +64452,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10032",
@@ -63519,7 +64565,9 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10031",
@@ -63648,7 +64696,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10030",
@@ -63777,7 +64827,9 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   },
   {
     "EventTag": "10026",
@@ -63902,6 +64954,8 @@
       "IsOnline": false,
       "AuthenticatedBy": "googleSso",
       "IsEmailVerified": false
-    }
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   }
 ]
