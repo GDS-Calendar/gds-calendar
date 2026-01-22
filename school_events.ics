@@ -2911,7 +2911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a8223fa5-7aea-40aa-8273-0e401f756f7b@gds.incidentiq.com
 SUMMARY:Lower School MLK Jr. Justice Assembly
-DTSTART;TZID=America/New_York:20260130T084500
+DTSTART;TZID=America/New_York:20260130T090000
 DTEND;TZID=America/New_York:20260130T094500
 DESCRIPTION:First Grade families only are encouraged to join us.
 LOCATION:B201 LMS Flexible Performance Center
