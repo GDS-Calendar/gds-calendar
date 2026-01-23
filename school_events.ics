@@ -23,6 +23,48 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f931f92e-122e-45eb-b82b-445cf00d6c55@gds.incidentiq.com
+SUMMARY:3rd & 4th Grade Parent Coffee
+DTSTART;TZID=America/New_York:20260306T120000
+DTEND;TZID=America/New_York:20260306T130000
+DESCRIPTION:As we begin the third trimester. Join us to learn about the 
+ exciting learning your child will embark on for the remainder of the year.
+  We will begin each session by sharing how Lower School is incorporating "
+ The Writing Revolution" into its writing instruction. Following\, we will 
+ break out into grade levels where you will hear from the Grade Level Leads
+ \, a member of the VPA team\, and more!
+LOCATION:Virtual #02
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:16cca353-b931-431f-85b0-e731d5d90882@gds.incidentiq.com
+SUMMARY:1st & 2nd Grade Parent Coffee
+DTSTART;TZID=America/New_York:20260305T120000
+DTEND;TZID=America/New_York:20260305T130000
+DESCRIPTION:As we begin the third trimester. Join us to learn about the 
+ exciting learning your child will embark on for the remainder of the year.
+  We will begin each session by sharing how Lower School is incorporating "
+ The Writing Revolution" into its writing instruction. Following\, we will 
+ break out into grade levels where you will hear from the Grade Level Leads
+ \, a member of the VPA team\, and more!
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:7c4d3f1a-3c31-4855-961d-a474e6c6ceec@gds.incidentiq.com
+SUMMARY:PK/K Parent Coffee
+DTSTART;TZID=America/New_York:20260304T120000
+DTEND;TZID=America/New_York:20260304T130000
+DESCRIPTION:As we begin the third trimester. Join us to learn about the 
+ exciting learning your child will embark on for the remainder of the year.
+  We will begin each session by sharing how Lower School is incorporating "
+ The Writing Revolution" into its writing instruction. Following\, we will 
+ break out into grade levels where you will hear from the Grade Level Leads
+ \, a member of the VPA team\, and more!
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:25d1ce80-e258-4ebf-a445-7d4caddd1f1f@gds.incidentiq.com
 SUMMARY:Parent Connect: for Adoptive Parents
 DTSTART;TZID=America/New_York:20260422T180000
