@@ -23,6 +23,19 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:24ad270e-4079-4abd-98da-398d4822dc8d@gds.incidentiq.com
+SUMMARY:State of the School & Parent Corporation Meeting
+DTSTART;TZID=America/New_York:20260210T190000
+DTEND;TZID=America/New_York:20260210T210000
+DESCRIPTION:Parents are invited to join us for this evening session\, in
+  which Head of School Russell Shaw will give an overview of where the scho
+ ol stands for the 2025-26 school year. The State of the School presentatio
+ n will be followed by our annual Parent Corporation Meeting held by the Bo
+ ard of Trustees.
+LOCATION:101 LMS Library
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:f931f92e-122e-45eb-b82b-445cf00d6c55@gds.incidentiq.com
 SUMMARY:3rd & 4th Grade Parent Coffee
 DTSTART;TZID=America/New_York:20260306T120000
