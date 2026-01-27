@@ -730,15 +730,6 @@ LOCATION:HS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:4490fade-0ce8-40af-9014-20eab00cf107@gds.incidentiq.com
-SUMMARY:[PSA] LMS Book Fair
-DTSTART;TZID=America/New_York:20260313T080000
-DTEND;TZID=America/New_York:20260313T160000
-DESCRIPTION:Please join us for the LMS Book Fair\, one of GDS's most treasured events!
-LOCATION:B102
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:7233e942-93c8-4fa6-b17b-f597d0a60138@gds.incidentiq.com
 SUMMARY:[PSA] LMS Book Fair
 DTSTART;TZID=America/New_York:20260312T080000

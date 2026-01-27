@@ -8574,139 +8574,6 @@
     "InsuranceExpired": false
   },
   {
-    "EventTag": "10632",
-    "EventId": "4490fade-0ce8-40af-9014-20eab00cf107",
-    "CreatedDate": "2025-07-29T21:42:27.09",
-    "ModifiedDate": "2025-08-22T14:27:55.187",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-    "EventType": {
-      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-      "CreatedDate": "2025-04-09T01:25:15.37",
-      "ModifiedDate": "2025-04-09T01:25:15.37",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "PSA Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "[PSA] LMS Book Fair",
-    "Description": "Please join us for the LMS Book Fair, one of GDS's most treasured events!",
-    "StartDateTime": "2026-03-13T08:00:00",
-    "SetUpStartDateTime": "2026-03-13T08:00:00",
-    "EndDateTime": "2026-03-13T16:00:00",
-    "BreakdownEndDateTime": "2026-03-13T16:00:00",
-    "IsAllDay": false,
-    "RecurringScheduleId": "4313c1fd-01ed-45e1-8949-e7b3c9df09de",
-    "SeriesType": 1,
-    "ParentEventId": "74d7bbaa-9c73-4792-bc39-9e4fc2477481",
-    "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
-    "SeriesInfo": {
-      "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
-      "NumberOfEvents": 5,
-      "MinStartDatetime": "2026-03-09T08:00:00",
-      "MaxStartDatetime": "2026-03-13T08:00:00"
-    },
-    "Schedule": {
-      "RecurringScheduleId": "4313c1fd-01ed-45e1-8949-e7b3c9df09de",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "CreatedDate": "2025-07-30T01:42:26.907",
-      "ModifiedDate": "2025-07-30T01:42:26.907",
-      "Name": "Daily at 8:00 AM until 03/13/26",
-      "Pattern": "Daily",
-      "StartTime": "08:00:00",
-      "StopRecurringDate": "2026-03-13T00:00:00",
-      "IsValidMonthlyPattern": false,
-      "IsValidQuarterlyPattern": false,
-      "IsMonthlyInstanceBased": false
-    },
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "ccc7dd7c-06f1-4142-aeea-c5f6f051ccad",
-        "Name": "B102",
-        "NameFormatted": "B102",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 1685,
-        "Description": "Band",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "B102",
-        "IsDeleted": false,
-        "CreatedDate": "2024-12-23T23:22:53.07",
-        "ModifiedDate": "2024-12-23T23:22:53.07"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "LMS > B102",
-    "DateTimeDisplay": "March 13, 2026\n08:00 AM - 04:00 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": true,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
     "EventTag": "10631",
     "EventId": "7233e942-93c8-4fa6-b17b-f597d0a60138",
     "CreatedDate": "2025-07-29T21:42:27.087",
@@ -8745,9 +8612,9 @@
     "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
     "SeriesInfo": {
       "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
-      "NumberOfEvents": 5,
+      "NumberOfEvents": 4,
       "MinStartDatetime": "2026-03-09T08:00:00",
-      "MaxStartDatetime": "2026-03-13T08:00:00"
+      "MaxStartDatetime": "2026-03-12T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "4313c1fd-01ed-45e1-8949-e7b3c9df09de",
@@ -8878,9 +8745,9 @@
     "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
     "SeriesInfo": {
       "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
-      "NumberOfEvents": 5,
+      "NumberOfEvents": 4,
       "MinStartDatetime": "2026-03-09T08:00:00",
-      "MaxStartDatetime": "2026-03-13T08:00:00"
+      "MaxStartDatetime": "2026-03-12T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "4313c1fd-01ed-45e1-8949-e7b3c9df09de",
@@ -9011,9 +8878,9 @@
     "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
     "SeriesInfo": {
       "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
-      "NumberOfEvents": 5,
+      "NumberOfEvents": 4,
       "MinStartDatetime": "2026-03-09T08:00:00",
-      "MaxStartDatetime": "2026-03-13T08:00:00"
+      "MaxStartDatetime": "2026-03-12T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "4313c1fd-01ed-45e1-8949-e7b3c9df09de",
@@ -9143,9 +9010,9 @@
     "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
     "SeriesInfo": {
       "SeriesId": "91e510ad-96df-4065-9d89-fa4fee5ad095",
-      "NumberOfEvents": 5,
+      "NumberOfEvents": 4,
       "MinStartDatetime": "2026-03-09T08:00:00",
-      "MaxStartDatetime": "2026-03-13T08:00:00"
+      "MaxStartDatetime": "2026-03-12T08:00:00"
     },
     "Schedule": {
       "RecurringScheduleId": "4313c1fd-01ed-45e1-8949-e7b3c9df09de",
