@@ -9754,7 +9754,7 @@
     "EventTag": "10621",
     "EventId": "8539d067-85e9-450f-946c-5b6f5c5f03ac",
     "CreatedDate": "2025-07-29T21:07:04.177",
-    "ModifiedDate": "2025-07-29T21:07:04.177",
+    "ModifiedDate": "2026-01-28T14:13:46.837",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -9778,10 +9778,10 @@
     },
     "Title": "GDS 360 Season 3 Registration Opens",
     "Description": "GDS 360 Registration for Season 3 Opens at 10AM.\nTo view class offerings visit https://www.gds.org/academics/extended-day/gds-360-afternoon-programming\nRegistration Link: gds360.campbrainregistration.com",
-    "StartDateTime": "2026-02-02T10:00:00",
-    "SetUpStartDateTime": "2026-02-02T10:00:00",
-    "EndDateTime": "2026-02-02T17:00:00",
-    "BreakdownEndDateTime": "2026-02-02T17:00:00",
+    "StartDateTime": "2026-02-04T10:00:00",
+    "SetUpStartDateTime": "2026-02-04T10:00:00",
+    "EndDateTime": "2026-02-04T11:00:00",
+    "BreakdownEndDateTime": "2026-02-04T11:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -9829,16 +9829,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #03",
-    "DateTimeDisplay": "February 02, 2026\n10:00 AM - 05:00 PM",
+    "DateTimeDisplay": "February 04, 2026\n10:00 AM - 11:00 AM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -9849,6 +9854,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -34208,7 +34218,7 @@
     "EventTag": "10359",
     "EventId": "5b6f9190-a44a-45ab-b751-7e8d17c29d0b",
     "CreatedDate": "2025-07-22T11:40:32.293",
-    "ModifiedDate": "2025-09-11T11:12:54.237",
+    "ModifiedDate": "2026-01-28T14:14:39.957",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -34232,10 +34242,10 @@
     },
     "Title": "GDS 360 Season 3 Registration Closes",
     "Description": "",
-    "StartDateTime": "2026-02-20T08:00:00",
-    "SetUpStartDateTime": "2026-02-20T08:00:00",
-    "EndDateTime": "2026-02-20T16:00:00",
-    "BreakdownEndDateTime": "2026-02-20T16:00:00",
+    "StartDateTime": "2026-02-24T08:00:00",
+    "SetUpStartDateTime": "2026-02-24T08:00:00",
+    "EndDateTime": "2026-02-24T09:00:00",
+    "BreakdownEndDateTime": "2026-02-24T09:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -34283,16 +34293,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #02",
-    "DateTimeDisplay": "February 20, 2026\n08:00 AM - 04:00 PM",
+    "DateTimeDisplay": "February 24, 2026\n08:00 AM - 09:00 AM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -34303,6 +34318,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "m",
         "IsHidden": false
       },
       {

@@ -818,8 +818,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8539d067-85e9-450f-946c-5b6f5c5f03ac@gds.incidentiq.com
 SUMMARY:GDS 360 Season 3 Registration Opens
-DTSTART;TZID=America/New_York:20260202T100000
-DTEND;TZID=America/New_York:20260202T170000
+DTSTART;TZID=America/New_York:20260204T100000
+DTEND;TZID=America/New_York:20260204T110000
 DESCRIPTION:GDS 360 Registration for Season 3 Opens at 10AM.\nTo view cl
  ass offerings visit https://www.gds.org/academics/extended-day/gds-360-aft
  ernoon-programming\nRegistration Link: gds360.campbrainregistration.com
@@ -2698,8 +2698,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5b6f9190-a44a-45ab-b751-7e8d17c29d0b@gds.incidentiq.com
 SUMMARY:GDS 360 Season 3 Registration Closes
-DTSTART;TZID=America/New_York:20260220T080000
-DTEND;TZID=America/New_York:20260220T160000
+DTSTART;TZID=America/New_York:20260224T080000
+DTEND;TZID=America/New_York:20260224T090000
 LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
