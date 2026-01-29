@@ -827,30 +827,6 @@ LOCATION:Virtual #03
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:a06b9999-5afa-42c1-8934-4116ef5b6e51@gds.incidentiq.com
-SUMMARY:Winter One Acts
-DTSTART;TZID=America/New_York:20260131T190000
-DTEND;TZID=America/New_York:20260131T210000
-LOCATION:HS Black Box
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:853c45b2-3ec7-4fa6-ba75-264bccaaaadc@gds.incidentiq.com
-SUMMARY:Winter One Acts
-DTSTART;TZID=America/New_York:20260130T190000
-DTEND;TZID=America/New_York:20260130T210000
-LOCATION:HS Black Box
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:af2bb3a5-53a0-4af4-92f5-eef9390cef7d@gds.incidentiq.com
-SUMMARY:Winter One Acts
-DTSTART;TZID=America/New_York:20260129T190000
-DTEND;TZID=America/New_York:20260129T210000
-LOCATION:HS Black Box
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:2ccaef93-b830-48db-a7e5-0652b998c130@gds.incidentiq.com
 SUMMARY:The Great Kindness Challenge Week Begins
 DTSTART;TZID=America/New_York:20260126T083000
