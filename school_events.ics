@@ -23,6 +23,22 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:3aca852a-9154-4c2a-a54a-1e13133d79bb@gds.incidentiq.com
+SUMMARY:Winter One Acts
+DTSTART;TZID=America/New_York:20260206T190000
+DTEND;TZID=America/New_York:20260206T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:1984a827-9e6f-490d-beae-b4e2ed2889f8@gds.incidentiq.com
+SUMMARY:Winter One Acts
+DTSTART;TZID=America/New_York:20260205T190000
+DTEND;TZID=America/New_York:20260205T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:24ad270e-4079-4abd-98da-398d4822dc8d@gds.incidentiq.com
 SUMMARY:State of the School & Parent Corporation Meeting
 DTSTART;TZID=America/New_York:20260210T190000
@@ -2933,8 +2949,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a8223fa5-7aea-40aa-8273-0e401f756f7b@gds.incidentiq.com
 SUMMARY:Lower School MLK Jr. Justice Assembly
-DTSTART;TZID=America/New_York:20260130T090000
-DTEND;TZID=America/New_York:20260130T094500
+DTSTART;TZID=America/New_York:20260213T084500
+DTEND;TZID=America/New_York:20260213T094500
 DESCRIPTION:First Grade families only are encouraged to join us.
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
