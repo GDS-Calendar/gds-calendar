@@ -2845,8 +2845,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47f2a3f7-2189-404b-afa1-b03d0f1af846@gds.incidentiq.com
 SUMMARY:High School Identity Art Show Opens
-DTSTART;TZID=America/New_York:20260209T153000
-DTEND;TZID=America/New_York:20260209T173000
+DTSTART;TZID=America/New_York:20260212T153000
+DTEND;TZID=America/New_York:20260212T173000
 DESCRIPTION:Join us for the art show reception to kick off our annual mo
  nth-long Identity Art Show.
 LOCATION:309
