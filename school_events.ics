@@ -54,8 +54,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f931f92e-122e-45eb-b82b-445cf00d6c55@gds.incidentiq.com
 SUMMARY:3rd & 4th Grade Parent Coffee
-DTSTART;TZID=America/New_York:20260306T120000
-DTEND;TZID=America/New_York:20260306T130000
+DTSTART;TZID=America/New_York:20260304T120000
+DTEND;TZID=America/New_York:20260304T130000
 DESCRIPTION:As we begin the third trimester. Join us to learn about the 
  exciting learning your child will embark on for the remainder of the year.
   We will begin each session by sharing how Lower School is incorporating "
@@ -82,8 +82,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7c4d3f1a-3c31-4855-961d-a474e6c6ceec@gds.incidentiq.com
 SUMMARY:PK/K Parent Coffee
-DTSTART;TZID=America/New_York:20260304T120000
-DTEND;TZID=America/New_York:20260304T130000
+DTSTART;TZID=America/New_York:20260306T120000
+DTEND;TZID=America/New_York:20260306T130000
 DESCRIPTION:As we begin the third trimester. Join us to learn about the 
  exciting learning your child will embark on for the remainder of the year.
   We will begin each session by sharing how Lower School is incorporating "
