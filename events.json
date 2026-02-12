@@ -1,5 +1,130 @@
 [
   {
+    "EventTag": "11275",
+    "EventId": "30de4d35-6610-433c-b7d2-49e4c4661bd4",
+    "CreatedDate": "2026-02-02T10:44:57.66",
+    "ModifiedDate": "2026-02-12T08:38:15.94",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+    "EventType": {
+      "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+      "CreatedDate": "2025-04-09T01:34:24.48",
+      "ModifiedDate": "2025-04-09T01:34:24.48",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Community Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Former Faculty and Current Parent Alumni Luncheon",
+    "Description": "Current parent Alumni (CPALs) and former faculty and staff are invited to this luncheon to reconnect and hear updates about the school. Current faculty and staff are encouraged to stop by as their schedules allow. Did receive an invite? Email alumni@gds.org",
+    "StartDateTime": "2026-03-13T11:30:00",
+    "SetUpStartDateTime": "2026-03-13T10:30:00",
+    "EndDateTime": "2026-03-13T13:45:00",
+    "BreakdownEndDateTime": "2026-03-13T14:45:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "SetupTimeInMinutes": 60,
+    "BreakdownTimeInMinutes": 60,
+    "NumberOfAttendees": 30,
+    "OwnerId": "75f7ea3c-b812-45ab-914e-94c1925814f9",
+    "Owner": {
+      "UserId": "75f7ea3c-b812-45ab-914e-94c1925814f9",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Ashley Doherty",
+      "FullName": "Ashley Doherty",
+      "Initials": "AD",
+      "FirstName": "Ashley",
+      "LastName": "Doherty",
+      "LocationId": "6d50f695-b139-f011-a5f1-000d3a0db0e1",
+      "PhotoId": "c4d8ef3c-c45a-f011-8f7c-000d3a0db9a7",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e502",
+      "SchoolIdNumber": "7041503",
+      "Email": "adoherty@gds.org",
+      "Username": "adoherty@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "20a4e2be-642c-400b-8976-18de8ad6889b",
+        "Name": "HS Library Quiet Side",
+        "NameFormatted": "HS Library Quiet Side",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 100,
+        "MaximumOccupancy": 100,
+        "Description": "HS Library Quiet Side",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "HS Library Quiet Side",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.003",
+        "ModifiedDate": "2025-08-07T18:50:48.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > HS Library Quiet Side",
+    "DateTimeDisplay": "March 13, 2026\n11:30 AM - 01:45 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "buffet lunch, bamboo products",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "will need buffet line of tables for lunch, and rounds with chairs",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "Microphone. Maybe screen for slides presentation",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "yes",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "11272",
     "EventId": "3aca852a-9154-4c2a-a54a-1e13133d79bb",
     "CreatedDate": "2026-01-29T14:59:06.053",

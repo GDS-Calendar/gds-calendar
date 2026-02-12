@@ -23,6 +23,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:30de4d35-6610-433c-b7d2-49e4c4661bd4@gds.incidentiq.com
+SUMMARY:Former Faculty and Current Parent Alumni Luncheon
+DTSTART;TZID=America/New_York:20260313T113000
+DTEND;TZID=America/New_York:20260313T134500
+DESCRIPTION:Current parent Alumni (CPALs) and former faculty and staff a
+ re invited to this luncheon to reconnect and hear updates about the school
+ . Current faculty and staff are encouraged to stop by as their schedules a
+ llow. Did receive an invite? Email alumni@gds.org
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Ashley Doherty:mailto:adoherty@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:3aca852a-9154-4c2a-a54a-1e13133d79bb@gds.incidentiq.com
 SUMMARY:Winter One Acts
 DTSTART;TZID=America/New_York:20260206T190000
