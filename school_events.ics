@@ -23,6 +23,33 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:8bffa30d-55e7-42f1-aeba-b389729420c4@gds.incidentiq.com
+SUMMARY:Navigating College Admissions: First Generation Parents and Guardians
+DTSTART;TZID=America/New_York:20260518T190000
+DTEND;TZID=America/New_York:20260518T203000
+DESCRIPTION:Join us for an informative presentation and open Q&A session
+  about the U.S. college admissions process. This program is designed espec
+ ially for parents and guardians who did not attend college themselves or w
+ ho completed their education outside of the United States.\n\nIf you are s
+ upporting a child through the U.S. college application process for the fir
+ st time\, this session will provide clear guidance\, practical information
+ \, and the opportunity to ask questions of the GDS College Counseling team
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6f86b864-9fb0-4563-b608-f1482033c1e2@gds.incidentiq.com
+SUMMARY:Ninth and Tenth Grade College Counseling Meet and Greet
+DTSTART;TZID=America/New_York:20260309T190000
+DTEND;TZID=America/New_York:20260309T200000
+DESCRIPTION:The College Counseling Office will introduce ninth and tenth
+  parents and guardians to the college counseling program at GDS. We will p
+ rovide information about the arc of the college counseling process at GDS\
+ , standardized testing\, and college admissions.
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:30de4d35-6610-433c-b7d2-49e4c4661bd4@gds.incidentiq.com
 SUMMARY:Former Faculty and Current Parent Alumni Luncheon
 DTSTART;TZID=America/New_York:20260313T113000
