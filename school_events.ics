@@ -2584,7 +2584,7 @@ UID:cbd34221-0d28-45f4-b891-b6bcf7cb3bc7@gds.incidentiq.com
 SUMMARY:Middle School Choral Festival Grades 7 and 8
 DTSTART;TZID=America/New_York:20260311T190000
 DTEND;TZID=America/New_York:20260311T203000
-LOCATION:Offsite #01
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2647,14 +2647,6 @@ SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260303T080000
 DTEND;TZID=America/New_York:20260303T084000
 LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:3424acf2-24c6-474e-be3d-ca0e9ede3bdc@gds.incidentiq.com
-SUMMARY:LMS Break Camp
-DTSTART;TZID=America/New_York:20260302T080000
-DTEND;TZID=America/New_York:20260302T160000
-LOCATION:121 Multi-Purpose Room
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT

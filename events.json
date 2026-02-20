@@ -32538,7 +32538,7 @@
     "EventTag": "10375",
     "EventId": "cbd34221-0d28-45f4-b891-b6bcf7cb3bc7",
     "CreatedDate": "2025-07-22T12:10:49.423",
-    "ModifiedDate": "2025-07-22T12:10:49.423",
+    "ModifiedDate": "2026-02-20T09:03:46.167",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -32592,37 +32592,45 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
-        "Name": "Offsite #01",
-        "NameFormatted": "Offsite #01",
+        "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
         "Icon": "fa fa-door-open",
-        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Offsite",
-        "LocationAbbreviation": "OFF",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9031-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Offsite Meeting #01",
-        "InternalNotes": "Offsite Meeting #01",
+        "Area": 12936,
+        "SeatingCapacity": 500,
+        "MaximumOccupancy": 640,
+        "Description": "Gymnasium",
+        "InternalNotes": "Gymnasium",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "Offsite #01",
+        "NameSort": "B200 LMS Gym",
         "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:02:28.15",
-        "ModifiedDate": "2025-07-03T23:20:03.463"
+        "CreatedDate": "2024-12-23T22:59:16.85",
+        "ModifiedDate": "2025-08-07T19:09:04.06"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "OFF > Offsite #01",
+    "LocationDisplay": "LMS > B200 LMS Gym",
     "DateTimeDisplay": "March 11, 2026\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -32636,12 +32644,37 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false,
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-02-20T09:03:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
     "InsuranceExpiring": false,
     "InsuranceExpired": false
   },
@@ -33358,119 +33391,6 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10368",
-    "EventId": "3424acf2-24c6-474e-be3d-ca0e9ede3bdc",
-    "CreatedDate": "2025-07-22T12:00:23.133",
-    "ModifiedDate": "2025-07-29T21:19:07.77",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
-    "EventType": {
-      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
-      "CreatedDate": "2025-07-16T15:10:07.81",
-      "ModifiedDate": "2025-07-16T15:10:07.81",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Calendar Date"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "LMS Break Camp",
-    "Description": "",
-    "StartDateTime": "2026-03-02T08:00:00",
-    "SetUpStartDateTime": "2026-03-02T08:00:00",
-    "EndDateTime": "2026-03-02T16:00:00",
-    "BreakdownEndDateTime": "2026-03-02T16:00:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "d6b6af6c-294f-4d9e-aa4b-78ccc83fcffb",
-        "Name": "121 Multi-Purpose Room",
-        "NameFormatted": "121 Multi-Purpose Room",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "25b3722c-ae97-9d0a-440c-fabf34785db6",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 656,
-        "SeatingCapacity": 20,
-        "MaximumOccupancy": 40,
-        "Description": "Multi-Purpose Room",
-        "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "121 Multi-Purpose Room",
-        "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.647",
-        "ModifiedDate": "2025-08-07T19:03:37.917"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "LMS > 121 Multi-Purpose Room",
-    "DateTimeDisplay": "March 02, 2026\n08:00 AM - 04:00 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false,
     "InsuranceExpiring": false,
     "InsuranceExpired": false
   },
