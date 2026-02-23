@@ -2545,12 +2545,14 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:d38fe8e9-b788-4e37-b0f7-d9f3225a473f@gds.incidentiq.com
-SUMMARY:[PSA] PSA Coffee and Meeting
-DTSTART;TZID=America/New_York:20260311T083000
-DTEND;TZID=America/New_York:20260311T094500
-DESCRIPTION:Join the PSA for coffee and a meeting. Coffee and mingling s
- tarting at 8:30 and meeting starting at 8:45.
-LOCATION:122
+SUMMARY:[PSA] PSA Meeting and Parent Book Fair Shopping Time
+DTSTART;TZID=America/New_York:20260311T160000
+DTEND;TZID=America/New_York:20260311T170000
+DESCRIPTION:Come for the PSA updates and stay for the shopping! We will 
+ kick off with a brief meeting to share updates on the PSA and ways to get 
+ involved for the rest of this school year and next. Then there will be tim
+ e for pizza and shopping at the Book Fair.
+LOCATION:300
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT

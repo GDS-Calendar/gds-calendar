@@ -32159,7 +32159,7 @@
     "EventTag": "10378",
     "EventId": "d38fe8e9-b788-4e37-b0f7-d9f3225a473f",
     "CreatedDate": "2025-07-22T12:26:29.093",
-    "ModifiedDate": "2025-09-15T11:14:48.45",
+    "ModifiedDate": "2026-02-23T14:41:06.933",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -32181,12 +32181,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "[PSA] PSA Coffee and Meeting",
-    "Description": "Join the PSA for coffee and a meeting. Coffee and mingling starting at 8:30 and meeting starting at 8:45.",
-    "StartDateTime": "2026-03-11T08:30:00",
-    "SetUpStartDateTime": "2026-03-11T08:30:00",
-    "EndDateTime": "2026-03-11T09:45:00",
-    "BreakdownEndDateTime": "2026-03-11T09:45:00",
+    "Title": "[PSA] PSA Meeting and Parent Book Fair Shopping Time",
+    "Description": "Come for the PSA updates and stay for the shopping! We will kick off with a brief meeting to share updates on the PSA and ways to get involved for the rest of this school year and next. Then there will be time for pizza and shopping at the Book Fair.",
+    "StartDateTime": "2026-03-11T16:00:00",
+    "SetUpStartDateTime": "2026-03-11T16:00:00",
+    "EndDateTime": "2026-03-11T17:00:00",
+    "BreakdownEndDateTime": "2026-03-11T17:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -32213,39 +32213,44 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
-        "Name": "122",
-        "NameFormatted": "122",
+        "LocationRoomId": "83df0380-e865-4410-ba50-a2a36667bf67",
+        "Name": "300",
+        "NameFormatted": "300",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 1035,
-        "SeatingCapacity": 400,
-        "MaximumOccupancy": 450,
-        "Description": "Cafeteria",
+        "LocationRoomTypeId": "65894e38-7633-0247-44ad-70da265a6413",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 712,
+        "SeatingCapacity": 20,
+        "MaximumOccupancy": 30,
+        "Description": "Grade 5 Classroom",
         "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "122",
+        "IsExternallyAvailable": true,
+        "NameSort": "300",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "CreatedDate": "2024-12-29T18:44:37.893",
+        "ModifiedDate": "2025-04-29T16:53:41.64"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 122",
-    "DateTimeDisplay": "March 11, 2026\n08:30 AM - 09:45 AM",
+    "LocationDisplay": "LMS > 300",
+    "DateTimeDisplay": "March 11, 2026\n04:00 PM - 05:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -32256,6 +32261,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
