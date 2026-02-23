@@ -52,8 +52,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:30de4d35-6610-433c-b7d2-49e4c4661bd4@gds.incidentiq.com
 SUMMARY:Former Faculty and Current Parent Alumni Luncheon
-DTSTART;TZID=America/New_York:20260313T113000
-DTEND;TZID=America/New_York:20260313T134500
+DTSTART;TZID=America/New_York:20260417T113000
+DTEND;TZID=America/New_York:20260417T130000
 DESCRIPTION:Current parent Alumni (CPALs) and former faculty and staff a
  re invited to this luncheon to reconnect and hear updates about the school
  . Current faculty and staff are encouraged to stop by as their schedules a
