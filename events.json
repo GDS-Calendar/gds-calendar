@@ -10201,7 +10201,7 @@
     "EventTag": "10623",
     "EventId": "6e904036-8d7f-445f-aca8-7e208bec8c8b",
     "CreatedDate": "2025-07-29T21:18:09.67",
-    "ModifiedDate": "2025-07-29T21:18:09.67",
+    "ModifiedDate": "2026-02-25T12:02:35.53",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -10227,31 +10227,16 @@
     "Description": "No classes for students on March 19 and 20.",
     "StartDateTime": "2026-03-20T08:00:00",
     "SetUpStartDateTime": "2026-03-20T08:00:00",
-    "EndDateTime": "2026-03-20T16:00:00",
-    "BreakdownEndDateTime": "2026-03-20T16:00:00",
+    "EndDateTime": "2026-03-20T12:00:00",
+    "BreakdownEndDateTime": "2026-03-20T12:00:00",
     "IsAllDay": false,
-    "RecurringScheduleId": "6bc54278-4848-4c70-9b2a-30f89ba535e7",
     "SeriesType": 1,
-    "ParentEventId": "1d695d27-e960-40db-9a6f-3a3abac025ac",
     "SeriesId": "0e900e54-dee2-4ebc-ba3b-6655077ce210",
     "SeriesInfo": {
       "SeriesId": "0e900e54-dee2-4ebc-ba3b-6655077ce210",
       "NumberOfEvents": 2,
       "MinStartDatetime": "2026-03-19T08:00:00",
       "MaxStartDatetime": "2026-03-20T08:00:00"
-    },
-    "Schedule": {
-      "RecurringScheduleId": "6bc54278-4848-4c70-9b2a-30f89ba535e7",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "CreatedDate": "2025-07-22T16:34:40.307",
-      "ModifiedDate": "2025-07-22T16:34:40.307",
-      "Name": "Daily at 8:00 AM until 03/20/26",
-      "Pattern": "Daily",
-      "StartTime": "08:00:00",
-      "StopRecurringDate": "2026-03-20T00:00:00",
-      "IsValidMonthlyPattern": false,
-      "IsValidQuarterlyPattern": false,
-      "IsMonthlyInstanceBased": false
     },
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "Owner": {
@@ -10298,16 +10283,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > LMS-Campus",
-    "DateTimeDisplay": "March 20, 2026\n08:00 AM - 04:00 PM",
+    "DateTimeDisplay": "March 20, 2026\n08:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -10318,6 +10308,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
@@ -31316,11 +31311,11 @@
       "RecurringScheduleId": "6bc54278-4848-4c70-9b2a-30f89ba535e7",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2025-07-22T16:34:40.307",
-      "ModifiedDate": "2025-07-22T16:34:40.307",
-      "Name": "Daily at 8:00 AM until 03/20/26",
+      "ModifiedDate": "2026-02-25T17:02:35.17",
+      "Name": "Daily at 8:00 AM until 03/19/26",
       "Pattern": "Daily",
       "StartTime": "08:00:00",
-      "StopRecurringDate": "2026-03-20T00:00:00",
+      "StopRecurringDate": "2026-03-19T00:00:00",
       "IsValidMonthlyPattern": false,
       "IsValidQuarterlyPattern": false,
       "IsMonthlyInstanceBased": false

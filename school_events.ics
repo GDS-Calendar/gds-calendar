@@ -857,7 +857,7 @@ BEGIN:VEVENT
 UID:6e904036-8d7f-445f-aca8-7e208bec8c8b@gds.incidentiq.com
 SUMMARY:Lower School Parent/Teacher Conferences
 DTSTART;TZID=America/New_York:20260320T080000
-DTEND;TZID=America/New_York:20260320T160000
+DTEND;TZID=America/New_York:20260320T120000
 DESCRIPTION:No classes for students on March 19 and 20.
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
