@@ -23,6 +23,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:0aacb4ed-7af8-480a-9ac3-2b252b4e6035@gds.incidentiq.com
+SUMMARY:Black Alumni Brunch
+DTSTART;TZID=America/New_York:20260503T113000
+DTEND;TZID=America/New_York:20260503T133000
+DESCRIPTION:Join us at Ben’s Next Door from 11:30 a.m. to 1:30 p.m. as w
+ e close out reunion weekend with the annual Black Alumni Brunch. Due to ve
+ nue capacity\, space is limited. Must be 21 or older.\nhttps://www.gds.org
+ /alumni/reunion-2026/rsvp
+LOCATION:Offsite #01
+ORGANIZER;CN=Alissa Peruzzini:mailto:aperuzzini@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:8bffa30d-55e7-42f1-aeba-b389729420c4@gds.incidentiq.com
 SUMMARY:Navigating College Admissions: First Generation Parents and Guardians
 DTSTART;TZID=America/New_York:20260518T190000

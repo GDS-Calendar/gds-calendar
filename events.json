@@ -1,5 +1,129 @@
 [
   {
+    "EventTag": "11285",
+    "EventId": "0aacb4ed-7af8-480a-9ac3-2b252b4e6035",
+    "CreatedDate": "2026-02-25T21:16:11.887",
+    "ModifiedDate": "2026-02-26T15:55:19.187",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "0b55f67c-bf7c-280a-3263-48d5fcdde7be",
+    "EventType": {
+      "EventTypeId": "0b55f67c-bf7c-280a-3263-48d5fcdde7be",
+      "CreatedDate": "2025-04-09T01:37:23.093",
+      "ModifiedDate": "2025-04-09T01:37:23.093",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Alumni Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Black Alumni Brunch",
+    "Description": "Join us at Ben\u2019s Next Door from 11:30 a.m. to 1:30 p.m. as we close out reunion weekend with the annual Black Alumni Brunch. Due to venue capacity, space is limited. Must be 21 or older.\nhttps://www.gds.org/alumni/reunion-2026/rsvp",
+    "StartDateTime": "2026-05-03T11:30:00",
+    "SetUpStartDateTime": "2026-05-03T11:30:00",
+    "EndDateTime": "2026-05-03T13:30:00",
+    "BreakdownEndDateTime": "2026-05-03T13:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "SetupTimeInMinutes": 0,
+    "BreakdownTimeInMinutes": 0,
+    "NumberOfAttendees": 35,
+    "OwnerId": "15b2b1ce-0895-48b0-b9ef-0ad903ec9d5a",
+    "Owner": {
+      "UserId": "15b2b1ce-0895-48b0-b9ef-0ad903ec9d5a",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Alissa Peruzzini",
+      "FullName": "Alissa Peruzzini",
+      "Initials": "AP",
+      "FirstName": "Alissa",
+      "LastName": "Peruzzini",
+      "LocationId": "6d50f695-b139-f011-a5f1-000d3a0db0e1",
+      "PhotoId": "381627c2-9298-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e502",
+      "SchoolIdNumber": "7322246",
+      "Email": "aperuzzini@gds.org",
+      "Username": "aperuzzini@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "May 03, 2026\n11:30 AM - 01:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "11279",
     "EventId": "8bffa30d-55e7-42f1-aeba-b389729420c4",
     "CreatedDate": "2026-02-17T15:04:38.08",
