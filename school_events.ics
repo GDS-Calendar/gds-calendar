@@ -845,7 +845,7 @@ BEGIN:VEVENT
 UID:57267d40-ae32-496b-b9c0-d4381626c5af@gds.incidentiq.com
 SUMMARY:Middle School Student-Led Conferences
 DTSTART;TZID=America/New_York:20260320T080000
-DTEND;TZID=America/New_York:20260320T160000
+DTEND;TZID=America/New_York:20260320T120000
 DESCRIPTION:Families will select a conference between 3/19/2026 and 3/20
  /2026 for their child's Student Led Conference. Both students and caregive
  rs should plan to be present in-person/on campus. No classes for students 
