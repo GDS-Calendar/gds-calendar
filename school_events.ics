@@ -2656,14 +2656,6 @@ LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:3798de9b-a748-439e-a15f-5ef597df4825@gds.incidentiq.com
-SUMMARY:High School Parent Coffee
-DTSTART;TZID=America/New_York:20260303T080000
-DTEND;TZID=America/New_York:20260303T084000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:4cdbee71-7afb-4c18-961f-a2e657a16021@gds.incidentiq.com
 SUMMARY:Lower Middle School Professional / Report Writing Day (no classes)
 DTSTART;TZID=America/New_York:20260302T080000
