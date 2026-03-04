@@ -23,6 +23,16 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f8afbe2c-4eed-444e-b62e-e7ecbe93bc2e@gds.incidentiq.com
+SUMMARY:5th & 6th Grade Social
+DTSTART;TZID=America/New_York:20260417T190000
+DTEND;TZID=America/New_York:20260417T203000
+DESCRIPTION:The fifth and sixth grade dance is a DJ dance party with sna
+ cks and treats provided by our PSA. Come join the fun!
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:0aacb4ed-7af8-480a-9ac3-2b252b4e6035@gds.incidentiq.com
 SUMMARY:Black Alumni Brunch
 DTSTART;TZID=America/New_York:20260503T113000
@@ -481,7 +491,7 @@ UID:53f5a7bb-8e8f-40de-82f5-3dfad90f1163@gds.incidentiq.com
 SUMMARY:7th Grade Coffee
 DTSTART;TZID=America/New_York:20260309T083000
 DTEND;TZID=America/New_York:20260309T093000
-LOCATION:122
+LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1461,10 +1471,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:216c593d-3289-4ccc-94a9-bd59022f9d75@gds.incidentiq.com
 SUMMARY:7th Grade Power Project
-DTSTART;TZID=America/New_York:20260602T122000
-DTEND;TZID=America/New_York:20260602T141000
+DTSTART;TZID=America/New_York:20260528T141500
+DTEND;TZID=America/New_York:20260528T151500
 DESCRIPTION:Families are invited to view the culminating history project
- s for their 7th grade students at the LMS between 12:20-2:10 pm.
+ s for their 7th grade students on the fourth floor of the LMS between 2:15
+ -3:15 PM.
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
