@@ -2535,14 +2535,6 @@ LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:9dd9f186-b18b-40c6-8e6a-41e046e3b2d7@gds.incidentiq.com
-SUMMARY:High School Go-Go
-DTSTART;TZID=America/New_York:20260313T210000
-DTEND;TZID=America/New_York:20260313T230000
-LOCATION:220 HS Library (Full)
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:ac8b8403-ec31-403d-b148-dec7204f3d08@gds.incidentiq.com
 SUMMARY:Lower School Admitted Parent/Guardian Reception
 DTSTART;TZID=America/New_York:20260305T180000
