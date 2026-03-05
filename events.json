@@ -7908,7 +7908,7 @@
     "EventTag": "10650",
     "EventId": "210ab2f2-2071-482a-a42f-4b4549f4e788",
     "CreatedDate": "2025-07-29T22:07:18.51",
-    "ModifiedDate": "2025-07-29T22:07:18.51",
+    "ModifiedDate": "2026-03-05T09:08:11.043",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -7962,40 +7962,42 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 LMS Gym",
-        "NameFormatted": "B200 LMS Gym",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
         "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9031-e699-ec11-8617-f8e43b468024",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 12936,
-        "SeatingCapacity": 500,
-        "MaximumOccupancy": 640,
-        "Description": "Gymnasium",
-        "InternalNotes": "Gymnasium",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "B200 LMS Gym",
+        "NameSort": "Offsite #01",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-08-07T19:09:04.06"
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B200 LMS Gym",
+    "LocationDisplay": "OFF > Offsite #01",
     "DateTimeDisplay": "May 02, 2026\n07:00 PM - 11:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -8009,13 +8011,18 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-29T22:07:00",
+    "OverrideDateTime": "2026-03-05T09:08:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",

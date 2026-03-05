@@ -699,7 +699,7 @@ UID:210ab2f2-2071-482a-a42f-4b4549f4e788@gds.incidentiq.com
 SUMMARY:80th Anniversary Celebration Event
 DTSTART;TZID=America/New_York:20260502T190000
 DTEND;TZID=America/New_York:20260502T230000
-LOCATION:B200 LMS Gym
+LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
