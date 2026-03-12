@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:5d091a77-8593-4fd0-8e27-02b04a65de8a@gds.incidentiq.com
+SUMMARY:Red Cross Blood Drive
+DTSTART;TZID=America/New_York:20260430T140000
+DTEND;TZID=America/New_York:20260430T180000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:f8afbe2c-4eed-444e-b62e-e7ecbe93bc2e@gds.incidentiq.com
 SUMMARY:5th & 6th Grade Social
 DTSTART;TZID=America/New_York:20260417T190000
