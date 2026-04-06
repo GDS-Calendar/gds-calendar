@@ -8171,7 +8171,7 @@
     "EventTag": "10649",
     "EventId": "38903167-cf2c-4d47-be83-8bd00502d77f",
     "CreatedDate": "2025-07-29T22:06:11.737",
-    "ModifiedDate": "2025-09-11T12:38:42.12",
+    "ModifiedDate": "2026-04-06T08:56:46.38",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -8250,13 +8250,18 @@
     "DateTimeDisplay": "May 01, 2026\n07:00 PM - 08:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -8270,13 +8275,18 @@
         "IsHidden": false
       },
       {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
         "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
         "Value": "no",
         "IsHidden": false
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-09-11T12:38:00",
+    "OverrideDateTime": "2026-04-06T08:56:00",
     "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
     "OverrideUser": {
       "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
