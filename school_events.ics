@@ -27,7 +27,11 @@ UID:ff7de1ed-cdde-4a49-9b04-c825410bbf82@gds.incidentiq.com
 SUMMARY:CMD Kick Off Meeting
 DTSTART;TZID=America/New_York:20260515T083000
 DTEND;TZID=America/New_York:20260515T100000
-LOCATION:130 LMS Cafe
+DESCRIPTION:[[Original Location: Lower Middle School\, 130 LMS Cafe - 42
+ 03 Davenport St. NW\, Washington\, DC 20016\, Lower Middle School Building
+ -Ground-130-Cafeteria (Dining) (350) [Projector\, Wall Mount Display (TV)]
+ ]]
+LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -2236,34 +2240,11 @@ LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:b1b5573f-df61-4b74-980b-93dbc41d7435@gds.incidentiq.com
-SUMMARY:DEI Evening Programming: Dinner and Conversations
-DTSTART;TZID=America/New_York:20260409T183000
-DTEND;TZID=America/New_York:20260409T210000
-DESCRIPTION:This year\, the Office of Diversity\, Equity\, and Inclusion
-  will continue its a program series titled Dinner & Conversations. Each pr
- ogram will focus on different topics that are relevant to the GDS communit
- y and give families the opportunity to engage in conversations with profes
- sionals within our school and outside of the community. The goal of these 
- programs is to create spaces for our community to engage with each other i
- n dialogue with experts in their field and members of our community.
-LOCATION:220 HS Library (Full)
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:7dffcff3-43d4-41ff-84f4-2322a6a5bf5b@gds.incidentiq.com
 SUMMARY:ISCF Choral Concert
 DTSTART;TZID=America/New_York:20260408T190000
 DTEND;TZID=America/New_York:20260408T210000
 LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:eb2d1737-18b2-42ef-8b9c-8d67369dac0e@gds.incidentiq.com
-SUMMARY:High School Parent Coffee
-DTSTART;TZID=America/New_York:20260407T080000
-DTEND;TZID=America/New_York:20260407T084000
-LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
