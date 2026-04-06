@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ff7de1ed-cdde-4a49-9b04-c825410bbf82@gds.incidentiq.com
+SUMMARY:CMD Kick Off Meeting
+DTSTART;TZID=America/New_York:20260515T083000
+DTEND;TZID=America/New_York:20260515T100000
+LOCATION:130 LMS Cafe
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:34a85ee5-dfb0-4e81-bf33-875f07c5ee2c@gds.incidentiq.com
 SUMMARY:80th Anniversary Speaker Series: The Future of Democracy and the First Amendment
 DTSTART;TZID=America/New_York:20260423T190000
@@ -753,7 +761,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e4987e35-2bad-41ce-a9be-bb74bdb9160a@gds.incidentiq.com
 SUMMARY:Spring Musical Matinee
-DTSTART;TZID=America/New_York:20260426T130000
+DTSTART;TZID=America/New_York:20260426T140000
 DTEND;TZID=America/New_York:20260426T150000
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
