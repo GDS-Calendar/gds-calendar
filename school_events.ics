@@ -23,6 +23,22 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:34a85ee5-dfb0-4e81-bf33-875f07c5ee2c@gds.incidentiq.com
+SUMMARY:80th Anniversary Speaker Series: The Future of Democracy and the First Amendment
+DTSTART;TZID=America/New_York:20260423T190000
+DTEND;TZID=America/New_York:20260423T210000
+DESCRIPTION:Our guests will discuss the many complexities that news orga
+ nizations face in an age of stark polarization and rapid technological cha
+ nge. They will explore how journalists navigate their role as watchdogs de
+ spite hostility to pr\n\nModerator: Adrienne LaFrance\, Executive Editor\,
+  The Atlantic\n\nFeaturing: Jeffrey Goldberg\, Editor in Chief\, The Atlan
+ tic\; Meredith Kopit Levien\, President and CEO\, The New York Times Compa
+ ny\; and Jennifer Griffin\, Chief National Security Correspondent\, FOX Ne
+ ws Channel
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:5d091a77-8593-4fd0-8e27-02b04a65de8a@gds.incidentiq.com
 SUMMARY:Red Cross Blood Drive
 DTSTART;TZID=America/New_York:20260430T140000
