@@ -2030,9 +2030,9 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:10fe6a48-648b-46bf-973d-a579ad9be7fc@gds.incidentiq.com
-SUMMARY:College Athlete Recognition Night
-DTSTART;TZID=America/New_York:20260429T180000
-DTEND;TZID=America/New_York:20260429T193000
+SUMMARY:College Athlete Recognition
+DTSTART;TZID=America/New_York:20260429T120000
+DTEND;TZID=America/New_York:20260429T133000
 DESCRIPTION:GDS celebrates seniors who plan to play sports in college.
 LOCATION:L291
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org

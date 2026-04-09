@@ -25325,7 +25325,7 @@
     "EventTag": "10450",
     "EventId": "10fe6a48-648b-46bf-973d-a579ad9be7fc",
     "CreatedDate": "2025-07-22T13:55:18.14",
-    "ModifiedDate": "2025-07-22T13:55:18.14",
+    "ModifiedDate": "2026-04-09T08:56:08.78",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -25347,12 +25347,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "College Athlete Recognition Night",
+    "Title": "College Athlete Recognition",
     "Description": "GDS celebrates seniors who plan to play sports in college.",
-    "StartDateTime": "2026-04-29T18:00:00",
-    "SetUpStartDateTime": "2026-04-29T18:00:00",
-    "EndDateTime": "2026-04-29T19:30:00",
-    "BreakdownEndDateTime": "2026-04-29T19:30:00",
+    "StartDateTime": "2026-04-29T12:00:00",
+    "SetUpStartDateTime": "2026-04-29T12:00:00",
+    "EndDateTime": "2026-04-29T13:30:00",
+    "BreakdownEndDateTime": "2026-04-29T13:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
@@ -25401,16 +25401,21 @@
     ],
     "Locations": [],
     "LocationDisplay": "HS > L291",
-    "DateTimeDisplay": "April 29, 2026\n06:00 PM - 07:30 PM",
+    "DateTimeDisplay": "April 29, 2026\n12:00 PM - 01:30 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -25421,6 +25426,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {
