@@ -27,10 +27,13 @@ UID:ff7de1ed-cdde-4a49-9b04-c825410bbf82@gds.incidentiq.com
 SUMMARY:CMD Kick Off Meeting
 DTSTART;TZID=America/New_York:20260515T083000
 DTEND;TZID=America/New_York:20260515T100000
-DESCRIPTION:[[Original Location: Lower Middle School\, 130 LMS Cafe - 42
- 03 Davenport St. NW\, Washington\, DC 20016\, Lower Middle School Building
- -Ground-130-Cafeteria (Dining) (350) [Projector\, Wall Mount Display (TV)]
- ]]
+DESCRIPTION:Join us for our final PSA meeting of the year and kick off p
+ lans for CMD 2026! \n\nNext year’s Country Market Day will take place on S
+ aturday\, September 26\, 2026\, in conjunction with Sports Saturday.\n\nWh
+ ether you’re a returning volunteer or new to CMD/PSA\, we would love your 
+ ideas\, energy\, and support as we kick off planning for next school year.
+  So that we have a headcount for breakfast\, please RSVP before May 10. We
+  look forward to seeing you there!
 LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -1858,16 +1861,6 @@ SUMMARY:4th Grade Overnight Trip
 DTSTART;TZID=America/New_York:20260514T080000
 DTEND;TZID=America/New_York:20260514T170000
 LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:86128525-7bd3-4b0b-9279-df6d4a5c6d13@gds.incidentiq.com
-SUMMARY:[PSA] Coffee and Meeting
-DTSTART;TZID=America/New_York:20260513T081500
-DTEND;TZID=America/New_York:20260513T094500
-DESCRIPTION:Join the PSA for coffee and a meeting. Coffee and mingling s
- tarting at 8:15 and meeting starting at 8:45.
-LOCATION:122
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
