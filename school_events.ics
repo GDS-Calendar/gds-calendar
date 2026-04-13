@@ -1525,7 +1525,7 @@ DTSTART;TZID=America/New_York:20260604T133000
 DTEND;TZID=America/New_York:20260604T143000
 DESCRIPTION:LS 4th grade parents are invited to join us for the 4th Grad
  e Promotion Ceremony.
-LOCATION:B201 LMS Flexible Performance Center
+LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
