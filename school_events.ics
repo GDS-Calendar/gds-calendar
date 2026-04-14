@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:a1781f62-0dad-4155-bfee-8cd863a16bbf@gds.incidentiq.com
+SUMMARY:Parent Showcase for Upper Level Historic Research Seminar: Race\, Place\, and Real Estate
+DTSTART;TZID=America/New_York:20260504T180000
+DTEND;TZID=America/New_York:20260504T200000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Lisa Rauschart:mailto:lrauschart@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:ff7de1ed-cdde-4a49-9b04-c825410bbf82@gds.incidentiq.com
 SUMMARY:CMD Kick Off Meeting
 DTSTART;TZID=America/New_York:20260515T083000
