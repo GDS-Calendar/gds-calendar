@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:44e9efb3-9ad9-4127-bbc7-b4dae291f421@gds.incidentiq.com
+SUMMARY:SchoolPass Registration Opens
+DTSTART;TZID=America/New_York:20260701T170000
+DTEND;TZID=America/New_York:20260701T180000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:a1781f62-0dad-4155-bfee-8cd863a16bbf@gds.incidentiq.com
 SUMMARY:Parent Showcase for Upper Level Historic Research Seminar: Race\, Place\, and Real Estate
 DTSTART;TZID=America/New_York:20260504T180000
