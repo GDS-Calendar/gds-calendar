@@ -2079,7 +2079,7 @@ UID:03888169-0e74-49ce-b862-e5820e61d4b9@gds.incidentiq.com
 SUMMARY:High School Spring Choral Concert
 DTSTART;TZID=America/New_York:20260428T190000
 DTEND;TZID=America/New_York:20260428T210000
-LOCATION:B201 LMS Flexible Performance Center
+LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
