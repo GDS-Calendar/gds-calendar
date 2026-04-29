@@ -1955,7 +1955,7 @@ UID:faf705af-f96d-4429-b778-c6b3e2025488@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260505T080000
 DTEND;TZID=America/New_York:20260505T084000
-LOCATION:Virtual #02
+LOCATION:116
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
