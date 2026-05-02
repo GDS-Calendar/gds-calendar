@@ -706,6 +706,8 @@ UID:4e3e3e49-ce82-4de4-98ae-f3f9c25de5b5@gds.incidentiq.com
 SUMMARY:Fata Morgana
 DTSTART;TZID=America/New_York:20260516T190000
 DTEND;TZID=America/New_York:20260516T210000
+DESCRIPTION:[[Original Location: High School\, 360 - 4200 Davenport Stre
+ et\, Washington\, DC 20016]]
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -714,6 +716,8 @@ UID:36fef538-9d84-4ec1-ad85-f758e8b8ca05@gds.incidentiq.com
 SUMMARY:Fata Morgana
 DTSTART;TZID=America/New_York:20260515T190000
 DTEND;TZID=America/New_York:20260515T210000
+DESCRIPTION:[[Original Location: High School\, 360 - 4200 Davenport Stre
+ et\, Washington\, DC 20016]]
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -722,6 +726,8 @@ UID:2afe854a-7cbf-4ac6-ad8d-b3805b075617@gds.incidentiq.com
 SUMMARY:Fata Morgana
 DTSTART;TZID=America/New_York:20260514T190000
 DTEND;TZID=America/New_York:20260514T210000
+DESCRIPTION:[[Original Location: High School\, 360 - 4200 Davenport Stre
+ et\, Washington\, DC 20016]]
 LOCATION:HS Black Box
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -746,6 +752,8 @@ UID:8b2ec345-d4a7-4c01-a390-d8c5ef41183e@gds.incidentiq.com
 SUMMARY:High School Jazz and Creative Music Concert
 DTSTART;TZID=America/New_York:20260512T190000
 DTEND;TZID=America/New_York:20260512T203000
+DESCRIPTION:[[Original Location: High School\, 360 - 4200 Davenport Stre
+ et\, Washington\, DC 20016]]
 LOCATION:L200 HS Dance Studio
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -754,6 +762,10 @@ UID:210ab2f2-2071-482a-a42f-4b4549f4e788@gds.incidentiq.com
 SUMMARY:80th Anniversary Celebration Event
 DTSTART;TZID=America/New_York:20260502T190000
 DTEND;TZID=America/New_York:20260502T230000
+DESCRIPTION:[[Original Location: Lower Middle School\, B200 LMS Gym - 42
+ 03 Davenport St. NW\, Washington\, DC 20016\, Lower Middle School Building
+ -B2-200-Gymnasium (485) [Conference Phone\, Projector\, Wall Mount Display
+  (TV)]]]
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
@@ -1955,6 +1967,8 @@ UID:faf705af-f96d-4429-b778-c6b3e2025488@gds.incidentiq.com
 SUMMARY:High School Parent Coffee
 DTSTART;TZID=America/New_York:20260505T080000
 DTEND;TZID=America/New_York:20260505T084000
+DESCRIPTION:[[Original Location: Virtual\, Virtual #02 - 4200 DAVENPORT 
+ ST NW\, WASHINGTON\, 20016]]
 LOCATION:116
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
