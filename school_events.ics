@@ -23,6 +23,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2d1a5f87-1b42-4084-8682-439e4ff9cac5@gds.incidentiq.com
+SUMMARY:Dinner and Conversations with Antonio "Tony" Harris
+DTSTART;TZID=America/New_York:20260513T180000
+DTEND;TZID=America/New_York:20260513T200000
+DESCRIPTION:The Office of Diversity\, Equity\, and Inclusion invites you
+  to a Dinner & Conversation featuring our beloved member of the GDS commun
+ ity and security team\, Antonio “Tony” Harris\, who will share his "Voice 
+ of a Survivor of a School Shooting" presentation to the community.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:44e9efb3-9ad9-4127-bbc7-b4dae291f421@gds.incidentiq.com
 SUMMARY:SchoolPass Registration Opens
 DTSTART;TZID=America/New_York:20260701T170000
