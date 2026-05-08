@@ -537,8 +537,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:04353cd5-b0d9-4e8b-b330-85f36b5d97b9@gds.incidentiq.com
 SUMMARY:PSA Volunteers Thank You Party
-DTSTART;TZID=America/New_York:20260528T183000
-DTEND;TZID=America/New_York:20260528T203000
+DTSTART;TZID=America/New_York:20260526T170000
+DTEND;TZID=America/New_York:20260526T190000
+DESCRIPTION:[[Original Location: Offsite\, Offsite #01 - 4200 DAVENPORT 
+ ST NW\, WASHINGTON\, 20016]]
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
