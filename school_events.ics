@@ -23,6 +23,491 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:6b63d142-5789-443b-a96a-505a4a96f40b@gds.incidentiq.com
+SUMMARY:Middle School New Family & Student Orientation
+DTSTART;TZID=America/New_York:20260831T100000
+DTEND;TZID=America/New_York:20260831T120000
+DESCRIPTION:The purpose of orientation is to provide students and famili
+ es who are new to our community with pertinent information regarding our M
+ iddle School program.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f9cde3-08ae-4e2e-b3d5-84cbfe034800@gds.incidentiq.com
+SUMMARY:Grades 1-4 New Student Orientation
+DTSTART;TZID=America/New_York:20260831T080000
+DTEND;TZID=America/New_York:20260831T094500
+DESCRIPTION:Students will engage in fun activities \, explore the GDS ca
+ mpus\, and meet other new students.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:802f63b3-cc70-40cd-99d8-74c01359e312@gds.incidentiq.com
+SUMMARY:Grades 1-4 New Family Orientation
+DTSTART;TZID=America/New_York:20260831T081500
+DTEND;TZID=America/New_York:20260831T090000
+LOCATION:101 LMS Library
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:179f2729-e9b8-4095-9048-6962aef42444@gds.incidentiq.com
+SUMMARY:Grade 1-4 Open House
+DTSTART;TZID=America/New_York:20260831T100000
+DTEND;TZID=America/New_York:20260831T110000
+DESCRIPTION:Grade 1 and Grade 4 students and their parents are invited t
+ o visit their classrooms and connect with their classroom communities.
+LOCATION:101 LMS Library
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9920f7-f30c-49d6-8abb-e2b3a146a544@gds.incidentiq.com
+SUMMARY:5th Grade Student Orientation
+DTSTART;TZID=America/New_York:20260831T124500
+DTEND;TZID=America/New_York:20260831T140000
+DESCRIPTION:This event is designed to give all fifth graders a jump star
+ t to be successful on their first day of middle school.
+LOCATION:300
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a2dd63-02a2-481d-a79a-ff6ee82a1b13@gds.incidentiq.com
+SUMMARY:August Break Camp
+DTSTART;TZID=America/New_York:20260828T080000
+DTEND;TZID=America/New_York:20260828T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb32373-6972-4b5d-9c63-0d9246cb98f3@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260827T080000
+DTEND;TZID=America/New_York:20260827T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:771771c4-f1e1-4258-991c-814b22ea9431@gds.incidentiq.com
+SUMMARY:High School Back-to-School Event
+DTSTART;TZID=America/New_York:20260827T183000
+DTEND;TZID=America/New_York:20260827T193000
+DESCRIPTION:Join the High School team as we discuss the upcoming school year!
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:4a35c5ff-1c55-42b5-be1a-82484556999f@gds.incidentiq.com
+SUMMARY:August Break Camp
+DTSTART;TZID=America/New_York:20260827T080000
+DTEND;TZID=America/New_York:20260827T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2b5a3d-1236-4367-bdc4-6aa51f420f9f@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260826T080000
+DTEND;TZID=America/New_York:20260826T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:57351747-d1f4-42e3-895d-b68e0a586e24@gds.incidentiq.com
+SUMMARY:August Break Camp
+DTSTART;TZID=America/New_York:20260826T080000
+DTEND;TZID=America/New_York:20260826T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9ec9498b-207f-4a25-a789-0a4d597a9a6b@gds.incidentiq.com
+SUMMARY:Welcome to GDS Reception for Parents/Guardians of Students New to GDS
+DTSTART;TZID=America/New_York:20260825T183000
+DTEND;TZID=America/New_York:20260825T203000
+DESCRIPTION:Parents/Guardians of students new to GDS are invited to join
+  us for this reception. Meet fellow parents/guardians\, PSA Co-Chairs\, Bo
+ ard Members\, and members of the school leadership.
+LOCATION:LMS-Driveway
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd9d5fa-4cc3-440f-b361-d888a692e759@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260825T080000
+DTEND;TZID=America/New_York:20260825T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:8832be3d-43ae-49e5-9bdb-5c6d566ae862@gds.incidentiq.com
+SUMMARY:August Break Camp
+DTSTART;TZID=America/New_York:20260825T080000
+DTEND;TZID=America/New_York:20260825T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:64f30d71-56f3-4f18-96a0-ac5a7007596f@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260824T080000
+DTEND;TZID=America/New_York:20260824T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3333329a-d9f0-4c59-a9fd-feb429cc4724@gds.incidentiq.com
+SUMMARY:High School Fall MAC & ISL Sports Begin
+DTSTART;TZID=America/New_York:20260824T080000
+DTEND;TZID=America/New_York:20260824T160000
+LOCATION:HS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:91965de0-c3c4-48a8-af40-eb682c9941a0@gds.incidentiq.com
+SUMMARY:August Break Camp
+DTSTART;TZID=America/New_York:20260824T080000
+DTEND;TZID=America/New_York:20260824T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3349db26-0522-43fa-8a1d-d224102578ad@gds.incidentiq.com
+SUMMARY:12th Grade Overnight
+DTSTART;TZID=America/New_York:20260823T000000
+DTEND;TZID=America/New_York:20260823T120000
+DESCRIPTION:The senior trip is a seminal experience which serves to bond
+  the class and faculty as well as to begin year-long conversations about l
+ eadership and social justice. This trip is free and we are aiming for full
+  class participation!\n\nQuestions? Please email dpardner@gds.org.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:75d814a9-de5b-4e31-b124-98a2df11530a@gds.incidentiq.com
+SUMMARY:Annual GDS Alumni Challenge 2 Mile Run/Walk
+DTSTART;TZID=America/New_York:20260822T100000
+DTEND;TZID=America/New_York:20260822T120000
+DESCRIPTION:An opportunity for GDS running alumni to return and run agai
+ n with former coaches\, teachers\, and current members of the GDS running 
+ teams. Runners and walkers of all ages are encouraged to come out to parti
+ cipate in this low-key\, free race along a flat course beside the beautifu
+ l C & O Canal. No registration necessary.\n \n The race begins and ends in
+  the Fletcher's Cove Boathouse parking lot (4940 Canal Rd NW\, Washington\
+ , DC 20007 - Corner of Canal Road & Reservoir Road).\n Email: abelber@gds.
+ org
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8d4f89-5b4a-4995-9edb-2e2929c2ab93@gds.incidentiq.com
+SUMMARY:12th Grade Overnight
+DTSTART;TZID=America/New_York:20260822T000000
+DTEND;TZID=America/New_York:20260822T230000
+DESCRIPTION:The senior trip is a seminal experience which serves to bond
+  the class and faculty as well as to begin year-long conversations about l
+ eadership and social justice. This trip is free and we are aiming for full
+  class participation!\n\nQuestions? Please email dpardner@gds.org.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:856614eb-3b2b-443e-af59-50005daeabb4@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260821T080000
+DTEND;TZID=America/New_York:20260821T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a34ee3fd-ac55-4f48-91fc-7d4848c1087e@gds.incidentiq.com
+SUMMARY:GDS 360 Season 1 Registration Closes
+DTSTART;TZID=America/New_York:20260821T170000
+DTEND;TZID=America/New_York:20260821T180000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a93ad516-c3c7-4a43-9165-0420453bab41@gds.incidentiq.com
+SUMMARY:9th Grade Orientation
+DTSTART;TZID=America/New_York:20260821T090000
+DTEND;TZID=America/New_York:20260821T150000
+DESCRIPTION:All 9th graders will gather for a chance to meet each other\
+ , learn about the culture of the high school\, connect with some current s
+ tudents\, meet with staff (teachers\, deans\, administrators)\, and get fa
+ miliar with the building before the first day of school.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9d54c7e9-4e18-478f-8abb-20ccb415e058@gds.incidentiq.com
+SUMMARY:12th Grade Overnight
+DTSTART;TZID=America/New_York:20260821T160000
+DTEND;TZID=America/New_York:20260821T170000
+DESCRIPTION:The senior trip is a seminal experience which serves to bond
+  the class and faculty as well as to begin year-long conversations about l
+ eadership and social justice. This trip is free and we are aiming for full
+  class participation!\n\nQuestions? Please email dpardner@gds.org.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ed2dfb0f-9581-407c-84dc-7a15c5e13a35@gds.incidentiq.com
+SUMMARY:10th\, 11th & 12th Grade New Student Orientation
+DTSTART;TZID=America/New_York:20260821T140000
+DTEND;TZID=America/New_York:20260821T160000
+DESCRIPTION:All new-to-GDS 10th\, 11th and 12th graders will gather for 
+ a chance to meet each other\, learn about the culture of the high school\,
+  connect with some current students\, meet with staff (teachers\, deans\, 
+ administrators)\, and get familiar with the building before the first day 
+ of school.\n \n Questions? Please email dpardner@gds.org.
+LOCATION:G002
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:727824ac-d759-4ff2-bc5a-04338269324c@gds.incidentiq.com
+SUMMARY:Orientation Family Cook-out
+DTSTART;TZID=America/New_York:20260820T173000
+DTEND;TZID=America/New_York:20260820T193000
+DESCRIPTION:9th Grade families are invited to the High School for a family cook-out.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a5eb187b-f0dc-4ada-a386-f36df2d98975@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260820T080000
+DTEND;TZID=America/New_York:20260820T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a7039a9e-c067-44e2-8208-1ca6f06214ea@gds.incidentiq.com
+SUMMARY:9th Grade Picture Day
+DTSTART;TZID=America/New_York:20260820T090000
+DTEND;TZID=America/New_York:20260820T150000
+DESCRIPTION:All 9th graders will have their pictures taken during Orient
+ ation for student IDs\, MyGDS\, the yearbook\, and for school portraits\, 
+ which families can later purchase. A make-up day will follow for those who
+  miss picture day or families who are not pleased with their portraits.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:be0336b4-abc7-41fc-9278-80252cf48fef@gds.incidentiq.com
+SUMMARY:9th Grade Orientation
+DTSTART;TZID=America/New_York:20260820T090000
+DTEND;TZID=America/New_York:20260820T150000
+DESCRIPTION:All 9th graders will gather for a chance to meet each other\
+ , learn about the culture of the high school\, connect with some current s
+ tudents\, meet with staff (teachers\, deans\, administrators)\, and get fa
+ miliar with the building before the first day of school.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b93193be-e7d2-408f-a582-16afb46c99b7@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260820T130000
+DTEND;TZID=America/New_York:20260820T160000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:fad9f7b9-f5bf-4f08-8413-a1c2ebe819bd@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260820T090000
+DTEND;TZID=America/New_York:20260820T120000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0899d734-6908-4721-b522-19532939f3d9@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260819T080000
+DTEND;TZID=America/New_York:20260819T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:17fddf22-85cc-4744-ad63-a4ec42027345@gds.incidentiq.com
+SUMMARY:Hop-Into-GDS Bridge Program
+DTSTART;TZID=America/New_York:20260819T090000
+DTEND;TZID=America/New_York:20260819T150000
+DESCRIPTION:Hop-Into-GDS Bridge Program. We invite new-to-GDS 9th grader
+ s to join us for our Hop-Into-GDS Program\, intended to give students new 
+ to GDS a preview of life within the High School community. The goals of th
+ is program are to expose and introduce students to the GDS High School exp
+ erience and to develop a cohort of students who are able to grow together 
+ as a community before 9th grade orientation begins.\n \nEmail scordo@gds.o
+ rg with questions.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a65569b4-e9d3-4da6-8e44-ec956a18ba2a@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260819T130000
+DTEND;TZID=America/New_York:20260819T160000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:7d77c4c5-a158-4e18-87e0-f08917e2d63a@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260819T090000
+DTEND;TZID=America/New_York:20260819T120000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:45e338c7-32e9-4f91-b40e-b28f1f7f2145@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260818T080000
+DTEND;TZID=America/New_York:20260818T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2f754d01-07ac-4a8d-bdbe-0e667a783144@gds.incidentiq.com
+SUMMARY:Hop-Into-GDS Bridge Program
+DTSTART;TZID=America/New_York:20260818T090000
+DTEND;TZID=America/New_York:20260818T150000
+DESCRIPTION:Hop-Into-GDS Bridge Program. We invite new-to-GDS 9th grader
+ s to join us for our Hop-Into-GDS Program\, intended to give students new 
+ to GDS a preview of life within the High School community. The goals of th
+ is program are to expose and introduce students to the GDS High School exp
+ erience and to develop a cohort of students who are able to grow together 
+ as a community before 9th grade orientation begins.\n \nEmail scordo@gds.o
+ rg with questions.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9b4a9c44-96f8-444f-af92-f20222108e3b@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260818T130000
+DTEND;TZID=America/New_York:20260818T160000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:331c1ad9-0fb0-4816-8607-193f67dfd338@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260818T090000
+DTEND;TZID=America/New_York:20260818T120000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:58e5a9c3-2786-4e4f-b831-05a0fa63f789@gds.incidentiq.com
+SUMMARY:Opening Days and New Faculty & Staff Orientation
+DTSTART;TZID=America/New_York:20260817T080000
+DTEND;TZID=America/New_York:20260817T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:401053f1-4f5c-4498-8199-3d66066c1172@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260817T130000
+DTEND;TZID=America/New_York:20260817T160000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:590bef78-21cb-4ef3-a883-2c3d411b8213@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20260817T090000
+DTEND;TZID=America/New_York:20260817T120000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:325
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:11144697-94d7-4a9a-b0b1-96a184de3143@gds.incidentiq.com
+SUMMARY:General Information Session about Transportation Options Session #2
+DTSTART;TZID=America/New_York:20260813T180000
+DTEND;TZID=America/New_York:20260813T190000
+DESCRIPTION:Do you have questions about our commute to GDS for Fall\, 20
+ 26? Join one of our upcoming info sessions. During these sessions\, we wil
+ l talk through the various options and restrictions related to commuting t
+ o GDS and answer questions that you might have. We will also be able to he
+ lp you determine what commuting method is best for your family. If you hav
+ e any questions\, please contact: ImproveMyCommute@gds.org.\nMeeting Link:
+  https://gds-org.zoom.us/j/2679759863?pwd=awpLpm9zYEETjxXLU3ogZRrDcVyDqE.1
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3f812ff6-dc10-45d0-a5f8-1f7cb6e5a581@gds.incidentiq.com
+SUMMARY:GDS 360 Season 1 Registration Opens
+DTSTART;TZID=America/New_York:20260803T120000
+DTEND;TZID=America/New_York:20260803T170000
+DESCRIPTION:Don't forget to enroll in the exciting enrichment class offe
+ rings from the GDS 360 Extended Day Program! Classes fill quickly\, so reg
+ ister early. Families receiving financial aid should check their emails fo
+ r a financial aid code from the GDS 360 team. Register at gds360.campbrain
+ registration.com.\n \n Questions? Please email auxiliaryprograms@gds.org
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:141770ed-bd3b-43fb-833b-170abd202488@gds.incidentiq.com
+SUMMARY:Magnus Health Forms Due
+DTSTART;TZID=America/New_York:20260731T080000
+DTEND;TZID=America/New_York:20260731T170000
+DESCRIPTION:Please email nurses@gds.org with questions.
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:2d1a5f87-1b42-4084-8682-439e4ff9cac5@gds.incidentiq.com
 SUMMARY:Dinner and Conversations with Antonio "Tony" Harris
 DTSTART;TZID=America/New_York:20260513T180000
