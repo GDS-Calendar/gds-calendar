@@ -23,6 +23,161 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:3981a3dd-9112-4b02-8283-58ef91bde928@gds.incidentiq.com
+SUMMARY:Labor Day
+DTSTART;TZID=America/New_York:20260907T080000
+DTEND;TZID=America/New_York:20260907T160000
+LOCATION:Calendar Date
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:89615ada-9f64-40aa-9820-b5442b4d6756@gds.incidentiq.com
+SUMMARY:Buddy Program Session 1 Registration Opens
+DTSTART;TZID=America/New_York:20260903T080000
+DTEND;TZID=America/New_York:20260903T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0f4bb3-5e2f-45a0-bc67-9db79a005151@gds.incidentiq.com
+SUMMARY:Freshman Foundations
+DTSTART;TZID=America/New_York:20260902T084500
+DTEND;TZID=America/New_York:20260902T151500
+DESCRIPTION:These days continue the work we started in Orientation Part 
+ I - building strong connections among students\, reinforcing the expectati
+ ons and responsibilities of our community\, and exploring the ins and outs
+  of student life at the GDS High School. By the end\, students should be r
+ eady to jump right into classes and the fall semester.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:342674eb-a784-408f-8c89-e5bab931ed21@gds.incidentiq.com
+SUMMARY:12th Grade Students: Class Events and College Counseling Workshops
+DTSTART;TZID=America/New_York:20260902T084500
+DTEND;TZID=America/New_York:20260902T150000
+DESCRIPTION:12th Grade students will kick off the year with class events
+  and programming with our College Counseling office.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b4af2f93-8f8d-4352-8733-fdd1cb8e5cdb@gds.incidentiq.com
+SUMMARY:12th Grade Parents - Nuts and Bolts of the College Process
+DTSTART;TZID=America/New_York:20260902T190000
+DTEND;TZID=America/New_York:20260902T203000
+DESCRIPTION:Parents/Guardians of seniors are invited to this important s
+ ession for a detailed overview of the GDS procedures for the college-searc
+ h process to help families move through the fall as effectively and effici
+ ently as possible. Students will have their own program covering this mate
+ rial during the day.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:afa8ad39-9393-4448-b81d-e1f34687f1aa@gds.incidentiq.com
+SUMMARY:11th Grade Class Trip
+DTSTART;TZID=America/New_York:20260902T000000
+DTEND;TZID=America/New_York:20260902T150000
+DESCRIPTION:The 11th Grade Class trip will return by 3:00 pm.
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:788decf0-d356-4a01-80e1-8dd96a0d333b@gds.incidentiq.com
+SUMMARY:10th Grade Class Trip
+DTSTART;TZID=America/New_York:20260902T000000
+DTEND;TZID=America/New_York:20260902T150000
+DESCRIPTION:The 10th Grade Class trip will return by 3:00 pm.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb36e90-3ed2-4e95-952f-0c73eed28a0c@gds.incidentiq.com
+SUMMARY:Middle School Fall Sports Begin
+DTSTART;TZID=America/New_York:20260901T080000
+DTEND;TZID=America/New_York:20260901T160000
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cbb1e9b5-285a-43c1-a8fe-0807905093d5@gds.incidentiq.com
+SUMMARY:Middle School and Lower School Classes Begin
+DTSTART;TZID=America/New_York:20260901T080000
+DTEND;TZID=America/New_York:20260901T160000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d4af20c9-945a-4cef-9635-5bee31d8b411@gds.incidentiq.com
+SUMMARY:High School Year Begins
+DTSTART;TZID=America/New_York:20260901T084500
+DTEND;TZID=America/New_York:20260901T160000
+LOCATION:HS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2fd15309-c862-4116-8836-10a7701f5ff0@gds.incidentiq.com
+SUMMARY:High School Opening Assembly
+DTSTART;TZID=America/New_York:20260901T084500
+DTEND;TZID=America/New_York:20260901T100000
+DESCRIPTION:All High School students and staff will gather as a communit
+ y to celebrate the start of the new school year.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:64fd1178-54ce-4625-aa75-02a8d5091104@gds.incidentiq.com
+SUMMARY:GDS 360 Extended Day Program Begins
+DTSTART;TZID=America/New_York:20260901T150000
+DTEND;TZID=America/New_York:20260901T183000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:307a6a2d-ff08-43ab-b2fe-b346b7659955@gds.incidentiq.com
+SUMMARY:Freshman Foundations
+DTSTART;TZID=America/New_York:20260901T084500
+DTEND;TZID=America/New_York:20260901T151500
+DESCRIPTION:These days continue the work we started in Orientation - bui
+ lding strong connections among students\, reinforcing the expectations and
+  responsibilities of our community\, and exploring the ins and outs of stu
+ dent life at the GDS High School. By the end\, students should be ready to
+  jump right into classes and the fall semester.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf6a74c-a94a-460d-8869-5aad320a95bf@gds.incidentiq.com
+SUMMARY:12th Grade Students: Class Events and College Counseling Workshops
+DTSTART;TZID=America/New_York:20260901T084500
+DTEND;TZID=America/New_York:20260901T151500
+DESCRIPTION:12th Grade students will kick off the year with class events
+  and programming with our College Counseling office.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:08c65ec6-b774-48d1-bc65-62d69a2e45fa@gds.incidentiq.com
+SUMMARY:11th Grade Overnight Trip Departs
+DTSTART;TZID=America/New_York:20260901T100000
+DTEND;TZID=America/New_York:20260901T235500
+DESCRIPTION:11th Graders will leave after the opening assembly for their
+  overnight and will return by 3:00 pm the following day.
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:03301aff-27f7-4c70-999f-0e2ea8174499@gds.incidentiq.com
+SUMMARY:10th Grade Overnight Trip Departs
+DTSTART;TZID=America/New_York:20260901T100000
+DTEND;TZID=America/New_York:20260901T235500
+DESCRIPTION:10th Graders will leave after the opening assembly for their
+  overnight and will return by 3:00 pm the following day.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:6b63d142-5789-443b-a96a-505a4a96f40b@gds.incidentiq.com
 SUMMARY:Middle School New Family & Student Orientation
 DTSTART;TZID=America/New_York:20260831T100000
