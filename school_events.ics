@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:dd39cb58-eb3b-48c8-996f-7c4a624b061d@gds.incidentiq.com
+SUMMARY:4th Grade End of Year Trip
+DTSTART;TZID=America/New_York:20260602T100000
+DTEND;TZID=America/New_York:20260602T150000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:3981a3dd-9112-4b02-8283-58ef91bde928@gds.incidentiq.com
 SUMMARY:Labor Day
 DTSTART;TZID=America/New_York:20260907T080000
@@ -1281,8 +1289,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0602e395-b5c4-407e-ac8d-b5b2fd606dcd@gds.incidentiq.com
 SUMMARY:8th Grade Overnight Trip Informational Session
-DTSTART;TZID=America/New_York:20260527T120000
-DTEND;TZID=America/New_York:20260527T124500
+DTSTART;TZID=America/New_York:20260527T110000
+DTEND;TZID=America/New_York:20260527T113000
 DESCRIPTION:Please join us for a Zoom session to learn more about the go
  als\, logistics\, and highlights of the upcoming 8th Grade Outdoor Educati
  on trip. We'll share key details about the schedule\, safety\, and what st
