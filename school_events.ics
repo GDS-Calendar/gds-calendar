@@ -23,6 +23,117 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:3112b90c-e326-4380-863c-73518f5a2489@gds.incidentiq.com
+SUMMARY:Try Transit Week
+DTSTART;TZID=America/New_York:20260911T080000
+DTEND;TZID=America/New_York:20260911T170000
+DESCRIPTION:Parents\, students\, and staff are encouraged to try transit
+  this week! Reach out to the transportation team for more information on c
+ ommuting by public transit!
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f3e0e583-7e3c-4c46-a11e-c8e1143dffa2@gds.incidentiq.com
+SUMMARY:Rosh Hashanah Begins @ Sundown
+DTSTART;TZID=America/New_York:20260911T170000
+DTEND;TZID=America/New_York:20260911T235500
+DESCRIPTION:Begins at Sundown
+LOCATION:Calendar Date
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5f49ee-10bf-44a4-ac0b-4a524dbbe8d3@gds.incidentiq.com
+SUMMARY:GDS National Debate Tournament
+DTSTART;TZID=America/New_York:20260911T160000
+DTEND;TZID=America/New_York:20260911T220000
+DESCRIPTION:GDS plays host to teams from all over the country for this e
+ arly season debate showdown.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:eee41d68-dfcd-4221-a268-dba9bf99c87a@gds.incidentiq.com
+SUMMARY:Try Transit Week
+DTSTART;TZID=America/New_York:20260910T080000
+DTEND;TZID=America/New_York:20260910T170000
+DESCRIPTION:Parents\, students\, and staff are encouraged to try transit
+  this week! Reach out to the transportation team for more information on c
+ ommuting by public transit!
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e9e711-291b-45dd-931a-41069ae29fc7@gds.incidentiq.com
+SUMMARY:Middle School Curriculum Night
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T210000
+DESCRIPTION:All middle school parents are invited to meet their child's 
+ teachers and learn more about our academic programming. At this back-to-sc
+ hool night\, parents can get a snapshot of their child's school day experi
+ ence. Light refreshments will be served starting at 6:00 with formal progr
+ amming beginning at 6:30 pm.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:23dcd9a2-7a5a-4050-957c-f070ea605880@gds.incidentiq.com
+SUMMARY:9th Grade Picture Day #2
+DTSTART;TZID=America/New_York:20260910T083000
+DTEND;TZID=America/New_York:20260910T140000
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cf20b025-d231-4757-b5eb-3c26c91d55d8@gds.incidentiq.com
+SUMMARY:10th & 11th Grade Picture Day #1
+DTSTART;TZID=America/New_York:20260910T083000
+DTEND;TZID=America/New_York:20260910T153000
+DESCRIPTION:All 10th and 11th graders will have their pictures taken for
+  student IDs\, MyGDS\, the yearbook\, and for school portraits\, which fam
+ ilies can later purchase. A make-up day will follow for those who miss pic
+ ture day or families who are not pleased with their portraits.
+LOCATION:HS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9d019782-7828-4009-bfdb-337afb1efc26@gds.incidentiq.com
+SUMMARY:Try Transit Week
+DTSTART;TZID=America/New_York:20260909T080000
+DTEND;TZID=America/New_York:20260909T170000
+DESCRIPTION:Parents\, students\, and staff are encouraged to try transit
+  this week! Reach out to the transportation team for more information on c
+ ommuting by public transit!
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:45a19a8b-9910-4818-afcc-d11a13bf9b6b@gds.incidentiq.com
+SUMMARY:Senior Portrait Day #1
+DTSTART;TZID=America/New_York:20260909T080000
+DTEND;TZID=America/New_York:20260909T150000
+DESCRIPTION:All seniors will have an extended* on-campus portrait sessio
+ n with a professional photographer. These photos will be used in MyGDS\, o
+ n student IDs\, and for other senior-related school purposes. Families wil
+ l also receive a gallery link directly from Freed Spirit Photography and w
+ ill have the option to purchase downloads and/or prints. \n \n *These sess
+ ions are longer than the typical student portraits\, involving more than o
+ ne location.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:190425d9-8e4f-4ebc-9ad6-afe7fc76d380@gds.incidentiq.com
+SUMMARY:Try Transit Week
+DTSTART;TZID=America/New_York:20260908T080000
+DTEND;TZID=America/New_York:20260908T170000
+DESCRIPTION:Parents\, students\, and staff are encouraged to try transit
+  this week! Reach out to the transportation team for more information on c
+ ommuting by public transit!
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:dd39cb58-eb3b-48c8-996f-7c4a624b061d@gds.incidentiq.com
 SUMMARY:4th Grade End of Year Trip
 DTSTART;TZID=America/New_York:20260602T100000
