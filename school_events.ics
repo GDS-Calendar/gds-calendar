@@ -23,6 +23,20 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:82450c47-3ebb-4014-9e9f-06e8e37aa76d@gds.incidentiq.com
+SUMMARY:8th Grade Parent Coffee
+DTSTART;TZID=America/New_York:20261109T120000
+DTEND;TZID=America/New_York:20261109T124500
+DESCRIPTION:Grade-level coffees offer parents and guardians a chance to 
+ connect with one another\, hear from school leaders\, and learn more about
+  key developmental milestones and program highlights for your child’s year
+ . Whether you're new to the school or a returning family\, we hope you'll 
+ come enjoy conversation\, connection\, and a window into life at this grad
+ e level.  See the MS newsletter to access the Zoom link.
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:70173f46-5413-430f-8cc3-5a9836c52614@gds.incidentiq.com
 SUMMARY:1st Grade Parent Coffee
 DTSTART;TZID=America/New_York:20261109T120000
@@ -134,7 +148,7 @@ DESCRIPTION:Building a Foundation for Kindness and Consideration Online
  sibility Programming in Health classes\, talk to teachers and HS students\
  , learn skills for navigating social device use for your child. \n \nConta
  ct Caitlin Hutcheon for more information.
-LOCATION:130 LMS Cafe
+LOCATION:122
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
