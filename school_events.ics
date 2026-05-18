@@ -23,6 +23,20 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:5f64558f-3ef4-4f4d-a9d1-b4606e0288cc@gds.incidentiq.com
+SUMMARY:GDS Lower School: Rising First Grade Parent Meeting
+DTSTART;TZID=America/New_York:20260528T083000
+DTEND;TZID=America/New_York:20260528T093000
+DESCRIPTION:Becoming a first grader is a big deal! Not only do you head 
+ up to the second floor\, but you also begin eating lunch in the cafeteria!
+  Please join us on Thursday\, May 28\, from 8:30-9:00 in the GDS cafeteria
+  to learn about our dining program from the Meriweather Godsey Dining Team
+ . This will also be an opportunity to hear Nurse Avery provide an overview
+  of our allergy policy for Grades 1- 4.
+LOCATION:122
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:a60c08b8-8676-4565-90e3-213df2c8c37e@gds.incidentiq.com
 SUMMARY:High School Fall Show
 DTSTART;TZID=America/New_York:20261112T190000
