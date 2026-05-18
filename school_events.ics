@@ -23,6 +23,78 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:a60c08b8-8676-4565-90e3-213df2c8c37e@gds.incidentiq.com
+SUMMARY:High School Fall Show
+DTSTART;TZID=America/New_York:20261112T190000
+DTEND;TZID=America/New_York:20261112T213000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b35effc4-e17e-452c-a51e-ca70ca70f61d@gds.incidentiq.com
+SUMMARY:Veteran's Day
+DTSTART;TZID=America/New_York:20261111T080000
+DTEND;TZID=America/New_York:20261111T160000
+LOCATION:Calendar Date
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b8b4aa60-8c08-4f09-b4b0-866e1c5d72cc@gds.incidentiq.com
+SUMMARY:High School ISL/MAC Winter Sports Begin
+DTSTART;TZID=America/New_York:20261111T080000
+DTEND;TZID=America/New_York:20261111T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3de66a59-857c-4c60-8752-9d4d827cf22d@gds.incidentiq.com
+SUMMARY:PK/K Parent Coffee
+DTSTART;TZID=America/New_York:20261110T120000
+DTEND;TZID=America/New_York:20261110T130000
+DESCRIPTION:As we approach the end of the first trimester\, join the gra
+ de level leads to hear about the exciting learning your child will embark 
+ upon in the second trimester. Christy and Denise will start this session b
+ y sharing information about changes to the Lower School report card\, how 
+ to read the report card\, and how to get the most out of Parent-Teacher co
+ nferences. This session will also feature special guests from the Counselo
+ r\, Science and Physical Education team!
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:801fac91-4708-4e9f-abc7-938ec5bba542@gds.incidentiq.com
+SUMMARY:Parent Connect: for Adoptive Parents
+DTSTART;TZID=America/New_York:20261110T180000
+DTEND;TZID=America/New_York:20261110T200000
+DESCRIPTION:Join the counselors and Debbie Riley\, LCMFT\, and CEO at th
+ e Center for Adoption Support and Education during National Adoption Aware
+ ness Month. Debbie and a panel of adult adoptees will share experiences an
+ d offer support for adoptive parents. Families and student support team me
+ mbers from other nearby independent schools are also invited.\n \n Please 
+ contact Meryl Heyliger with questions: mheyliger@gds.org
+LOCATION:101 LMS Library
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:35dac250-d5bb-464e-a6b9-2053d4465718@gds.incidentiq.com
+SUMMARY:PSA HS Coffee & Conversations
+DTSTART;TZID=America/New_York:20261110T083000
+DTEND;TZID=America/New_York:20261110T093000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ba212025-43a7-4300-a0ad-584feefbd06b@gds.incidentiq.com
+SUMMARY:Conversations That Count For 9th Grade Families
+DTSTART;TZID=America/New_York:20261109T190000
+DTEND;TZID=America/New_York:20261109T203000
+DESCRIPTION:Conversations that Count is an annual evening event for GDS 
+ 9th graders and their parents where families will hear from experts and en
+ gage in dialog with students about adolescent alcohol and drug use.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:82450c47-3ebb-4014-9e9f-06e8e37aa76d@gds.incidentiq.com
 SUMMARY:8th Grade Parent Coffee
 DTSTART;TZID=America/New_York:20261109T120000
