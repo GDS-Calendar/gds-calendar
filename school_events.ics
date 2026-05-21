@@ -23,6 +23,24 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:d9ec5944-afe4-4c65-9897-ba01f825690a@gds.incidentiq.com
+SUMMARY:Alumni Weekend 2027
+DTSTART;TZID=America/New_York:20270515T120000
+DTEND;TZID=America/New_York:20270515T170000
+DESCRIPTION:All-Alumni Weekend 2027! Visit gds.org/alumni for more information.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:474e4cfb-627d-4264-b767-08aa55a48a68@gds.incidentiq.com
+SUMMARY:Alumni Weekend 2027
+DTSTART;TZID=America/New_York:20270514T120000
+DTEND;TZID=America/New_York:20270514T170000
+DESCRIPTION:All-Alumni Weekend 2027! Visit gds.org/alumni for more information.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:8429f884-b690-4582-8140-4e0bb9c7f636@gds.incidentiq.com
 SUMMARY:7th & 8th Grade Arts Trips
 DTSTART;TZID=America/New_York:20270514T081500

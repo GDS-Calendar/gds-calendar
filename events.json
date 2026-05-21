@@ -1,5 +1,290 @@
 [
   {
+    "EventTag": "11880",
+    "EventId": "d9ec5944-afe4-4c65-9897-ba01f825690a",
+    "CreatedDate": "2026-05-21T16:03:40.73",
+    "ModifiedDate": "2026-05-21T16:03:40.73",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "0b55f67c-bf7c-280a-3263-48d5fcdde7be",
+    "EventType": {
+      "EventTypeId": "0b55f67c-bf7c-280a-3263-48d5fcdde7be",
+      "CreatedDate": "2025-04-09T01:37:23.093",
+      "ModifiedDate": "2025-04-09T01:37:23.093",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Alumni Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Alumni Weekend 2027",
+    "Description": "All-Alumni Weekend 2027! Visit gds.org/alumni for more information.",
+    "StartDateTime": "2027-05-15T12:00:00",
+    "SetUpStartDateTime": "2027-05-15T12:00:00",
+    "EndDateTime": "2027-05-15T17:00:00",
+    "BreakdownEndDateTime": "2027-05-15T17:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "85c0ffc1-cb62-44c4-b7b2-6b5e75e469f5",
+    "SeriesType": 1,
+    "ParentEventId": "474e4cfb-627d-4264-b767-08aa55a48a68",
+    "SeriesId": "460719cb-7262-44a3-9fed-debc77566f13",
+    "SeriesInfo": {
+      "SeriesId": "460719cb-7262-44a3-9fed-debc77566f13",
+      "NumberOfEvents": 2,
+      "MinStartDatetime": "2027-05-14T12:00:00",
+      "MaxStartDatetime": "2027-05-15T12:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "85c0ffc1-cb62-44c4-b7b2-6b5e75e469f5",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2026-05-21T20:03:40.49",
+      "ModifiedDate": "2026-05-21T20:03:40.49",
+      "Name": "Daily at 12:00 PM until 05/15/27",
+      "Pattern": "Daily",
+      "StartTime": "12:00:00",
+      "StopRecurringDate": "2027-05-15T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e502",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "May 15, 2027\n12:00 PM - 05:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "11879",
+    "EventId": "474e4cfb-627d-4264-b767-08aa55a48a68",
+    "CreatedDate": "2026-05-21T16:03:40.71",
+    "ModifiedDate": "2026-05-21T16:03:40.71",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "0b55f67c-bf7c-280a-3263-48d5fcdde7be",
+    "EventType": {
+      "EventTypeId": "0b55f67c-bf7c-280a-3263-48d5fcdde7be",
+      "CreatedDate": "2025-04-09T01:37:23.093",
+      "ModifiedDate": "2025-04-09T01:37:23.093",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Alumni Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Alumni Weekend 2027",
+    "Description": "All-Alumni Weekend 2027! Visit gds.org/alumni for more information.",
+    "StartDateTime": "2027-05-14T12:00:00",
+    "SetUpStartDateTime": "2027-05-14T12:00:00",
+    "EndDateTime": "2027-05-14T17:00:00",
+    "BreakdownEndDateTime": "2027-05-14T17:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "85c0ffc1-cb62-44c4-b7b2-6b5e75e469f5",
+    "SeriesType": 1,
+    "SeriesId": "460719cb-7262-44a3-9fed-debc77566f13",
+    "SeriesInfo": {
+      "SeriesId": "460719cb-7262-44a3-9fed-debc77566f13",
+      "NumberOfEvents": 2,
+      "MinStartDatetime": "2027-05-14T12:00:00",
+      "MaxStartDatetime": "2027-05-15T12:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "85c0ffc1-cb62-44c4-b7b2-6b5e75e469f5",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2026-05-21T20:03:40.49",
+      "ModifiedDate": "2026-05-21T20:03:40.49",
+      "Name": "Daily at 12:00 PM until 05/15/27",
+      "Pattern": "Daily",
+      "StartTime": "12:00:00",
+      "StopRecurringDate": "2027-05-15T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e502",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "May 14, 2027\n12:00 PM - 05:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "11878",
     "EventId": "8429f884-b690-4582-8140-4e0bb9c7f636",
     "CreatedDate": "2026-05-21T15:58:37.517",
