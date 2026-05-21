@@ -23,6 +23,538 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:8429f884-b690-4582-8140-4e0bb9c7f636@gds.incidentiq.com
+SUMMARY:7th & 8th Grade Arts Trips
+DTSTART;TZID=America/New_York:20270514T081500
+DTEND;TZID=America/New_York:20270514T153000
+DESCRIPTION:7th and 8th Grade band and chorus members will attend a comp
+ etition. More details will be shared as the date approaches. These student
+ s will return to campus in the evening.\n \nThe 7th and 8th grade students
+  that are not in band or chorus will attend a field trip during the day re
+ lated to their arts classes and will return in time for regular dismissal.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fe46d0-b347-4d5a-9ada-24432769f0d2@gds.incidentiq.com
+SUMMARY:Middle School Chorus Concert
+DTSTART;TZID=America/New_York:20270513T183000
+DTEND;TZID=America/New_York:20270513T203000
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4ac1f2-73d8-4cad-adec-cebf8130181e@gds.incidentiq.com
+SUMMARY:Magnus Health Forms for 26-27 School Year
+DTSTART;TZID=America/New_York:20270513T080000
+DTEND;TZID=America/New_York:20270513T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:bb37e0e9-eb46-4931-bbc3-615f76450640@gds.incidentiq.com
+SUMMARY:Fata Morgana
+DTSTART;TZID=America/New_York:20270515T190000
+DTEND;TZID=America/New_York:20270515T210000
+DESCRIPTION:Come see Fata Morgana perform in the Black Box Theatre at GD
+ S High School! Enjoy the work of our wonderful GDS dancers and student cho
+ reographers. Tickets: $15 for general public\, $5 for current GDS students
+ \, free for faculty and staff. Seating is on a first come\, first served b
+ asis.
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e6a0bd-104e-42fd-8508-f1a73484a847@gds.incidentiq.com
+SUMMARY:Fata Morgana
+DTSTART;TZID=America/New_York:20270514T190000
+DTEND;TZID=America/New_York:20270514T210000
+DESCRIPTION:Come see Fata Morgana perform in the Black Box Theatre at GD
+ S High School! Enjoy the work of our wonderful GDS dancers and student cho
+ reographers. Tickets: $15 for general public\, $5 for current GDS students
+ \, free for faculty and staff. Seating is on a first come\, first served b
+ asis.
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:849407b7-c044-4549-8712-ac48c9408e0b@gds.incidentiq.com
+SUMMARY:Fata Morgana
+DTSTART;TZID=America/New_York:20270513T190000
+DTEND;TZID=America/New_York:20270513T210000
+DESCRIPTION:Come see Fata Morgana perform in the Black Box Theatre at GD
+ S High School! Enjoy the work of our wonderful GDS dancers and student cho
+ reographers. Tickets: $15 for general public\, $5 for current GDS students
+ \, free for faculty and staff. Seating is on a first come\, first served b
+ asis.
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:aa3630df-2526-4b57-9068-723d72fe71c0@gds.incidentiq.com
+SUMMARY:7th & 8th Grade Visual Art Show Opening
+DTSTART;TZID=America/New_York:20270513T170000
+DTEND;TZID=America/New_York:20270513T173000
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cf72ee2b-f24c-4a00-bda6-23ac3ea9298e@gds.incidentiq.com
+SUMMARY:High School Jazz and Creative Music Concert
+DTSTART;TZID=America/New_York:20270511T190000
+DTEND;TZID=America/New_York:20270511T203000
+LOCATION:L200 HS Dance Studio
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:df51992f-0c76-4bf1-9974-c06c6f57a988@gds.incidentiq.com
+SUMMARY:In-Service Day (no classes)
+DTSTART;TZID=America/New_York:20270510T080000
+DTEND;TZID=America/New_York:20270510T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1c5b4e-a550-4567-aa65-5e5f72481d7a@gds.incidentiq.com
+SUMMARY:Mother's Day
+DTSTART;TZID=America/New_York:20270509T080000
+DTEND;TZID=America/New_York:20270509T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:66eb080d-a58e-4ef5-9f58-a0a1f86e85fd@gds.incidentiq.com
+SUMMARY:Spring Theater Lab
+DTSTART;TZID=America/New_York:20270508T190000
+DTEND;TZID=America/New_York:20270508T210000
+LOCATION:L200 HS Dance Studio
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:54dd9f69-6c49-48ad-a6e0-90cdd6c76efb@gds.incidentiq.com
+SUMMARY:Spring Theater Lab
+DTSTART;TZID=America/New_York:20270507T190000
+DTEND;TZID=America/New_York:20270507T210000
+LOCATION:L200 HS Dance Studio
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:df1c034c-95d9-4be7-a691-6efecc87d552@gds.incidentiq.com
+SUMMARY:Spring Theater Lab
+DTSTART;TZID=America/New_York:20270506T190000
+DTEND;TZID=America/New_York:20270506T210000
+LOCATION:L200 HS Dance Studio
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:54b1cc2c-762f-4ea8-9aec-965c0294efa8@gds.incidentiq.com
+SUMMARY:LMS Spring MAP Testing
+DTSTART;TZID=America/New_York:20270506T080000
+DTEND;TZID=America/New_York:20270506T150000
+DESCRIPTION:Students will complete online MAP Testing in Math (2-8) and 
+ Reading (3-8) during some periods of the day. Students need to be sure to 
+ get a good night’s sleep\, eat breakfast\, and bring a charged chromebook 
+ to school.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:1bfb0771-b62e-4059-88ab-aac382c1e82f@gds.incidentiq.com
+SUMMARY:LMS Spring MAP Testing
+DTSTART;TZID=America/New_York:20270505T080000
+DTEND;TZID=America/New_York:20270505T150000
+DESCRIPTION:Students will complete online MAP Testing in Math (2-8) and 
+ Reading (3-8) during some periods of the day. Students need to be sure to 
+ get a good night’s sleep\, eat breakfast\, and bring a charged chromebook 
+ to school.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:69451114-acea-4be3-b951-5b535b058ba3@gds.incidentiq.com
+SUMMARY:Transition Event for Rising 5th Graders
+DTSTART;TZID=America/New_York:20270503T190000
+DTEND;TZID=America/New_York:20270503T200000
+DESCRIPTION:The purpose of this grade-level transition is to welcome ris
+ ing 5th grade parents to Middle School by providing an overview of curricu
+ lar themes\, highlights for the year\, and address any questions and/or to
+ pics families are interested in learning. A zoom link will be emailed dire
+ ctly to all rising 5th grade families.
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f6089488-243c-4839-8f6a-767bbaf419d1@gds.incidentiq.com
+SUMMARY:Faculty and Staff Appreciation Week
+DTSTART;TZID=America/New_York:20270507T080000
+DTEND;TZID=America/New_York:20270507T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3c246c-a998-4d64-8235-d61880c57174@gds.incidentiq.com
+SUMMARY:Faculty and Staff Appreciation Week
+DTSTART;TZID=America/New_York:20270506T080000
+DTEND;TZID=America/New_York:20270506T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:912ec41b-5dd2-4195-91bb-11d37788cd70@gds.incidentiq.com
+SUMMARY:Faculty and Staff Appreciation Week
+DTSTART;TZID=America/New_York:20270505T080000
+DTEND;TZID=America/New_York:20270505T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf3bfbc-eb4b-454d-8111-d0d64d015aa8@gds.incidentiq.com
+SUMMARY:Faculty and Staff Appreciation Week
+DTSTART;TZID=America/New_York:20270504T080000
+DTEND;TZID=America/New_York:20270504T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a82f4809-0b70-4637-a689-c9f8482184a5@gds.incidentiq.com
+SUMMARY:Faculty and Staff Appreciation Week
+DTSTART;TZID=America/New_York:20270503T080000
+DTEND;TZID=America/New_York:20270503T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:00989b5f-3176-41e9-88c8-603c00127db0@gds.incidentiq.com
+SUMMARY:National Bike Month Begins
+DTSTART;TZID=America/New_York:20270501T080000
+DTEND;TZID=America/New_York:20270501T170000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a77cf411-3266-4388-b9dd-385642fbc48d@gds.incidentiq.com
+SUMMARY:Middle School Community Production
+DTSTART;TZID=America/New_York:20270430T183000
+DTEND;TZID=America/New_York:20270430T193000
+DESCRIPTION:Middle School Community Production is written and performed 
+ by Middle School students.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5d2ab4-d7e5-4082-bca0-b6e14f8d77a5@gds.incidentiq.com
+SUMMARY:High School Spring Cabaret
+DTSTART;TZID=America/New_York:20270430T190000
+DTEND;TZID=America/New_York:20270430T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:90f5f566-edb3-4ec8-ba81-9c153e85e7c7@gds.incidentiq.com
+SUMMARY:[PSA] HS Coffee And Walk
+DTSTART;TZID=America/New_York:20270430T090000
+DTEND;TZID=America/New_York:20270430T100000
+DESCRIPTION:1st Friday of the month gathering for parents and guardians 
+ of High School students. (MD/DC/VA alternating)
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:82c664ca-3adf-4b53-afb2-85a3a05f1752@gds.incidentiq.com
+SUMMARY:Middle School Community Production
+DTSTART;TZID=America/New_York:20270429T183000
+DTEND;TZID=America/New_York:20270429T193000
+DESCRIPTION:Middle School Community Production is written and performed 
+ by Middle School students.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e3ff1e-cad2-43e4-bcfa-2ba18a0bff18@gds.incidentiq.com
+SUMMARY:High School Art Show Kicks Off
+DTSTART;TZID=America/New_York:20270428T153000
+DTEND;TZID=America/New_York:20270428T170000
+LOCATION:307
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:76da01da-2541-497b-a011-0f30375ca6f9@gds.incidentiq.com
+SUMMARY:College Athlete Recognition Day
+DTSTART;TZID=America/New_York:20270428T180000
+DTEND;TZID=America/New_York:20270428T193000
+DESCRIPTION:GDS celebrates seniors who plan to play sports in college.
+LOCATION:L291
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc35e6c-35c5-4fea-afcf-7ae7558d5eba@gds.incidentiq.com
+SUMMARY:8th Grade World Language Trip
+DTSTART;TZID=America/New_York:20270428T080000
+DTEND;TZID=America/New_York:20270428T134500
+DESCRIPTION:8th Graders will travel off campus to attend cultural experi
+ ences connected to their various world language classes.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:36d060b1-5566-49f6-9a61-9208647a61d7@gds.incidentiq.com
+SUMMARY:High School Spring Choral Concert
+DTSTART;TZID=America/New_York:20270427T190000
+DTEND;TZID=America/New_York:20270427T210000
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b064bd38-f8b7-4b6c-94f1-cdb68ca12a47@gds.incidentiq.com
+SUMMARY:Spring Musical Matinee
+DTSTART;TZID=America/New_York:20270425T130000
+DTEND;TZID=America/New_York:20270425T150000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3f974bb4-5024-4d8f-93db-2a960d40c487@gds.incidentiq.com
+SUMMARY:GDS Eco Market Day
+DTSTART;TZID=America/New_York:20270424T100000
+DTEND;TZID=America/New_York:20270424T150000
+LOCATION:LMS-Driveway
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:03c504f0-902d-4b9c-9cd0-f658d91d8c45@gds.incidentiq.com
+SUMMARY:Spring Musical
+DTSTART;TZID=America/New_York:20270424T190000
+DTEND;TZID=America/New_York:20270424T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a75fd659-8777-4128-8893-9bb1f4ddb2f6@gds.incidentiq.com
+SUMMARY:Spring Musical
+DTSTART;TZID=America/New_York:20270423T190000
+DTEND;TZID=America/New_York:20270423T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ac086447-d820-4d37-bda5-d755fa36d672@gds.incidentiq.com
+SUMMARY:Spring Musical
+DTSTART;TZID=America/New_York:20270422T190000
+DTEND;TZID=America/New_York:20270422T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1760e3-c406-4405-8849-de062e714dbe@gds.incidentiq.com
+SUMMARY:Earth Day
+DTSTART;TZID=America/New_York:20270422T080000
+DTEND;TZID=America/New_York:20270422T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:28d381f3-501b-4ae9-9717-dd43de2f1f05@gds.incidentiq.com
+SUMMARY:Passover Begins @ Sundown
+DTSTART;TZID=America/New_York:20270421T170000
+DTEND;TZID=America/New_York:20270421T210000
+DESCRIPTION:Begins at Sundown
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:522839e1-5c00-46f8-8481-a48d38dff476@gds.incidentiq.com
+SUMMARY:Rising 9th Families: Transition to the HS
+DTSTART;TZID=America/New_York:20270420T183000
+DTEND;TZID=America/New_York:20270420T193000
+DESCRIPTION:We invite families of all rising 9th graders to join us to h
+ ear from the HS leadership and support teams\, and learn more about the tr
+ ansition to the HS.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cf41b5c7-92b9-4f62-90a7-b8992ada55c6@gds.incidentiq.com
+SUMMARY:Understanding Testing for College Admissions
+DTSTART;TZID=America/New_York:20270419T190000
+DTEND;TZID=America/New_York:20270419T203000
+DESCRIPTION:The College Counseling Office along with test preparation ex
+ perts will speak about college admissions testing and planning ahead for j
+ unior families. We will overview the format and content of the SAT and ACT
+ \, discuss appropriate testing timelines\, provide resources for students 
+ as they prepare to take these exams\, and discuss the test preparation opt
+ ions available at GDS. Juniors who took the optional mock ACT exam will al
+ so receive the results of that test at this time.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8fa404-ffa7-46e2-8de3-a2222b64f933@gds.incidentiq.com
+SUMMARY:Parent Connect with the Counselors
+DTSTART;TZID=America/New_York:20270419T083000
+DTEND;TZID=America/New_York:20270419T093000
+DESCRIPTION:This gathering will give parents/guardians the opportunity t
+ o share perspectives about ending the school year as well as preparing for
+  a new grade/division.
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:92fc78d5-34a9-46cb-99b0-adeee3181c0a@gds.incidentiq.com
+SUMMARY:Lower School Free To Be Me Assembly
+DTSTART;TZID=America/New_York:20270416T083000
+DTEND;TZID=America/New_York:20270416T094500
+DESCRIPTION:Fourth Grade families are encouraged to join us for the Lowe
+ r School Free to Be Me Assembly in the LMS Flex Space.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed72cf5-4e0d-4fac-8240-6411bf6cf20c@gds.incidentiq.com
+SUMMARY:Emancipation Day
+DTSTART;TZID=America/New_York:20270416T080000
+DTEND;TZID=America/New_York:20270416T160000
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:59fb8319-3bc6-4e29-b179-f47a9c98ed88@gds.incidentiq.com
+SUMMARY:DEI Evening Programming: Dinner and Conversations
+DTSTART;TZID=America/New_York:20270415T183000
+DTEND;TZID=America/New_York:20270415T200000
+DESCRIPTION:This year\, the Office of Diversity\, Equity\, and Inclusion
+  will continue its a program series titled Dinner & Conversations. Each pr
+ ogram will focus on different topics that are relevant to the GDS communit
+ y and give families the opportunity to engage in conversations with profes
+ sionals within our school and outside of the community. The goal of these 
+ programs is to create spaces for our community to engage with each other i
+ n dialogue with experts in their field and members of our community.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ec24cf8c-915f-4b40-9749-6372e63a0e96@gds.incidentiq.com
+SUMMARY:LMS STEAM Day
+DTSTART;TZID=America/New_York:20270414T081500
+DTEND;TZID=America/New_York:20270414T150000
+DESCRIPTION:This day-long event brings together GDS students\, parents\,
+  alumni and other experts to promote science and education within our comm
+ unity. Our students have the opportunity to build\, code\, experiment and 
+ learn as they engage in a fun-filled day of discovery.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f00ee9-e38c-467a-b78b-de02fb6bbb9b@gds.incidentiq.com
+SUMMARY:Pride Week
+DTSTART;TZID=America/New_York:20270416T080000
+DTEND;TZID=America/New_York:20270416T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a4554af0-c1ce-45bb-bdcc-ff38bd093843@gds.incidentiq.com
+SUMMARY:Pride Week
+DTSTART;TZID=America/New_York:20270415T080000
+DTEND;TZID=America/New_York:20270415T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:df2c4575-7ee6-4f68-83af-ffd3387eaed1@gds.incidentiq.com
+SUMMARY:Pride Week
+DTSTART;TZID=America/New_York:20270414T080000
+DTEND;TZID=America/New_York:20270414T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d2da28ed-479a-4dcf-b24f-0d4dd0ad0b82@gds.incidentiq.com
+SUMMARY:Pride Week
+DTSTART;TZID=America/New_York:20270413T080000
+DTEND;TZID=America/New_York:20270413T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3bac80ca-77e6-4683-9791-0f603f1aede3@gds.incidentiq.com
+SUMMARY:Pride Week
+DTSTART;TZID=America/New_York:20270412T080000
+DTEND;TZID=America/New_York:20270412T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:efd3252c-3849-4932-b0d8-657e3b000b07@gds.incidentiq.com
+SUMMARY:Mock ACT Exam
+DTSTART;TZID=America/New_York:20270410T090000
+DTEND;TZID=America/New_York:20270410T130000
+DESCRIPTION:This optional testing opportunity gives 10th grade students 
+ a chance to take a practice ACT and compare and contrast their experiences
+  with the PSAT.
+LOCATION:220-A
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:8a22ddd4-6a58-4732-81f5-73c9322fb2cc@gds.incidentiq.com
+SUMMARY:High School Slam Poetry Night
+DTSTART;TZID=America/New_York:20270409T183000
+DTEND;TZID=America/New_York:20270409T203000
+DESCRIPTION:The GDS HS slam poetry club invites you to a poetry night & 
+ open mic featuring guest poets\, live music\, and student performances.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9f7df888-f59b-403a-96ea-a13b93201120@gds.incidentiq.com
+SUMMARY:New-to-GDS 9th Grade Placement and Registration
+DTSTART;TZID=America/New_York:20270408T160000
+DTEND;TZID=America/New_York:20270408T180000
+DESCRIPTION:New-to-GDS families are invited to the High School to regist
+ er for classes for the upcoming school year. Students will have the opport
+ unity to speak with a math teacher to determine placement\, take a World L
+ anguage placement test and interview\, and request Studio Art\, Performing
+  Art & Innov and Comp Sci classes.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b0029c76-2b30-44d1-b860-0543ea9895a6@gds.incidentiq.com
+SUMMARY:PSA HS Coffee & Conversations
+DTSTART;TZID=America/New_York:20270406T083000
+DTEND;TZID=America/New_York:20270406T093000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:33cc932e-9f41-436d-87b9-ae81d53a3613@gds.incidentiq.com
+SUMMARY:Buddy Program Session 3 Begins
+DTSTART;TZID=America/New_York:20270405T150000
+DTEND;TZID=America/New_York:20270405T170000
+DESCRIPTION:[[Original Location: Lower Middle School\, 130 LMS Cafe - 42
+ 03 Davenport St. NW\, Washington\, DC 20016\, Lower Middle School Building
+ -Ground-130-Cafeteria (Dining) (350) [Projector\, Wall Mount Display (TV)]
+ ]]
+LOCATION:122
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:468747ba-ff79-422b-8818-5543f4198adc@gds.incidentiq.com
+SUMMARY:[PSA] High School Coffee And Walk
+DTSTART;TZID=America/New_York:20270402T090000
+DTEND;TZID=America/New_York:20270402T100000
+DESCRIPTION:1st Friday of the month gathering for HS parents - MD/DC/VA alternating
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e48c4dc5-e7d4-4a5c-bd47-b7ae2f25411d@gds.incidentiq.com
+SUMMARY:April Fool's Day
+DTSTART;TZID=America/New_York:20270401T080000
+DTEND;TZID=America/New_York:20270401T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:9b52d214-3938-4a3e-8564-1bce2337dc73@gds.incidentiq.com
 SUMMARY:School Resumes
 DTSTART;TZID=America/New_York:20270330T080000
