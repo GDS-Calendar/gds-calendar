@@ -23,6 +23,619 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1d358a5d-e16f-4795-b7c9-ce6e63818cf8@gds.incidentiq.com
+SUMMARY:Summer@GDS Begins
+DTSTART;TZID=America/New_York:20270621T080000
+DTEND;TZID=America/New_York:20270621T160000
+DESCRIPTION:Check out summer.gds.org for more information!
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c537a006-aff3-4dc6-a1be-5b4194c6a212@gds.incidentiq.com
+SUMMARY:Policy Institute Begins
+DTSTART;TZID=America/New_York:20270621T080000
+DTEND;TZID=America/New_York:20270621T160000
+DESCRIPTION:The Georgetown Day School Policy Institute is an incubator f
+ or activism. For four weeks each summer\, High School students from across
+  the DMV learn about pressing social justice issues of global and/or natio
+ nal importance by working with advocates\, engaging in direct conversation
+  with policymakers\, traveling to “ground zero” cities where the focus iss
+ ue is most prevalent\, and building relationships with individuals at the 
+ heart of the issue.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b492faa8-d00b-4766-a869-2941e5b61796@gds.incidentiq.com
+SUMMARY:Father's Day
+DTSTART;TZID=America/New_York:20270620T080000
+DTEND;TZID=America/New_York:20270620T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0e114a6b-6cc0-4699-b840-72c24e09988c@gds.incidentiq.com
+SUMMARY:Juneteenth
+DTSTART;TZID=America/New_York:20270619T080000
+DTEND;TZID=America/New_York:20270619T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:216bcb8d-904f-4d83-b0fb-3284cafd8417@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20270618T080000
+DTEND;TZID=America/New_York:20270618T130000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:322
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9785b77b-52d7-4f38-9b5a-af7051210be6@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20270617T080000
+DTEND;TZID=America/New_York:20270617T130000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:322
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3e7162-5207-4b86-94d3-b07d06309c62@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20270616T080000
+DTEND;TZID=America/New_York:20270616T130000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:322
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ab67b299-926c-4b2b-8cb6-07fc1c3a2aa9@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20270615T080000
+DTEND;TZID=America/New_York:20270615T130000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:322
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:875558b8-c34c-45f4-880a-09df02229531@gds.incidentiq.com
+SUMMARY:Faculty & Staff School Closing Days
+DTSTART;TZID=America/New_York:20270616T080000
+DTEND;TZID=America/New_York:20270616T160000
+LOCATION:Virtual #03
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:562f0ff6-07f5-4225-88fb-7351f35c0e94@gds.incidentiq.com
+SUMMARY:Faculty & Staff School Closing Days
+DTSTART;TZID=America/New_York:20270615T080000
+DTEND;TZID=America/New_York:20270615T160000
+LOCATION:Virtual #03
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb6eeab-342f-41bb-810e-2a7647aa3d6f@gds.incidentiq.com
+SUMMARY:Faculty & Staff School Closing Days
+DTSTART;TZID=America/New_York:20270614T080000
+DTEND;TZID=America/New_York:20270614T160000
+LOCATION:Virtual #03
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:4aea56dd-950c-419b-99c2-1146a5ed2526@gds.incidentiq.com
+SUMMARY:Break Camp
+DTSTART;TZID=America/New_York:20270616T080000
+DTEND;TZID=America/New_York:20270616T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b7811ee1-e8a1-4462-8d68-76f0b3db5e6c@gds.incidentiq.com
+SUMMARY:Break Camp
+DTSTART;TZID=America/New_York:20270615T080000
+DTEND;TZID=America/New_York:20270615T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e1aa7404-69df-4d91-a754-8dbfec29d49a@gds.incidentiq.com
+SUMMARY:Break Camp
+DTSTART;TZID=America/New_York:20270614T080000
+DTEND;TZID=America/New_York:20270614T160000
+DESCRIPTION:Join us for a final summer break camp before school starts! 
+ Open to students in PK-4th grade. \n \n To register please go to hopperext
+ ras.campbrainregistration.com
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:18d2081a-07b3-4921-8837-55f9e034cd21@gds.incidentiq.com
+SUMMARY:12th Grade Student College Essay Workshop
+DTSTART;TZID=America/New_York:20270614T080000
+DTEND;TZID=America/New_York:20270614T130000
+DESCRIPTION:This optional workshop provides rising seniors with an oppor
+ tunity to kick-start work on their college essays. Students will leave the
+  workshop having brainstormed\, drafted\, and edited their main college es
+ say.
+LOCATION:322
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b1d6f6-54b8-4e18-b7bf-a5a6fbec417f@gds.incidentiq.com
+SUMMARY:High School Graduation
+DTSTART;TZID=America/New_York:20270613T150000
+DTEND;TZID=America/New_York:20270613T170000
+DESCRIPTION:We're excited to celebrate our Class of 2027. Stay tuned for more details.
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:1b57724f-3754-457e-bbf0-9a13b8b94394@gds.incidentiq.com
+SUMMARY:Lower Middle School Field Day
+DTSTART;TZID=America/New_York:20270611T081500
+DTEND;TZID=America/New_York:20270611T120000
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:becd8979-3361-4915-a9fd-68be8fc8a32c@gds.incidentiq.com
+SUMMARY:Last Day of School (Half Day)
+DTSTART;TZID=America/New_York:20270611T113000
+DTEND;TZID=America/New_York:20270611T120000
+DESCRIPTION:1st Bell (LS) @ 11:30 a.m.\; 2nd Bell (HS) @ 12:00 p.m. (noo
+ n)\; 3rd Bell (LMS) @ 12:00 p.m. (noon)
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c0315c-1dc5-4309-be3a-2143386722e3@gds.incidentiq.com
+SUMMARY:High School Semester II Ends
+DTSTART;TZID=America/New_York:20270611T080000
+DTEND;TZID=America/New_York:20270611T170000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a7a9c6-a525-416d-abbc-31699fe6506f@gds.incidentiq.com
+SUMMARY:High School Make-up Exam Day
+DTSTART;TZID=America/New_York:20270611T090000
+DTEND;TZID=America/New_York:20270611T130000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bf85ae-1908-4720-b39c-c8c32e619c8b@gds.incidentiq.com
+SUMMARY:After Prom
+DTSTART;TZID=America/New_York:20270611T003000
+DTEND;TZID=America/New_York:20270611T030000
+DESCRIPTION:HS students are invited to continue the Prom celebrations wi
+ th the After Prom festivities.
+LOCATION:L291
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e2bf86c6-7c6d-4935-95df-5ba24a843987@gds.incidentiq.com
+SUMMARY:9th & 10th Grade Year-end Events
+DTSTART;TZID=America/New_York:20270611T090000
+DTEND;TZID=America/New_York:20270611T140000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:72bb2237-ce12-4675-95cc-5f42d3eb60fb@gds.incidentiq.com
+SUMMARY:Prom
+DTSTART;TZID=America/New_York:20270610T210000
+DTEND;TZID=America/New_York:20270610T235500
+DESCRIPTION:Get ready to dance the night away! 11th and 12th graders are
+  invited to attend the Prom. Tickets can be purchased online. Check the Hi
+ gh School resource board for more information.
+LOCATION:Offsite #04
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:433434b5-919c-4306-898f-0eff0420214a@gds.incidentiq.com
+SUMMARY:8th Grade Closing Ceremony
+DTSTART;TZID=America/New_York:20270610T090000
+DTEND;TZID=America/New_York:20270610T103000
+DESCRIPTION:Reception will be from 10:30am-11:30am on the LMS patio.
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f15deb39-5090-49d8-b40b-fa4ca4029e2e@gds.incidentiq.com
+SUMMARY:7th Grade End-of-Year Field Trip
+DTSTART;TZID=America/New_York:20270610T083000
+DTEND;TZID=America/New_York:20270610T153000
+LOCATION:Offsite #03
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:17c28873-6221-4724-afad-0323519423e4@gds.incidentiq.com
+SUMMARY:6th Grade End-of-Year Field Trip
+DTSTART;TZID=America/New_York:20270610T083000
+DTEND;TZID=America/New_York:20270610T153000
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:56a3c1dc-f058-4daf-9410-3df6aafdca2b@gds.incidentiq.com
+SUMMARY:5th Grade End-of-Year Field Trip
+DTSTART;TZID=America/New_York:20270610T083000
+DTEND;TZID=America/New_York:20270610T153000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0c244e8e-45b9-41fc-b5a1-2bdffe48cac6@gds.incidentiq.com
+SUMMARY:4th Grade Promotion Ceremony
+DTSTART;TZID=America/New_York:20270610T133000
+DTEND;TZID=America/New_York:20270610T143000
+DESCRIPTION:LS 4th grade parents are invited to join us for the 4th Grad
+ e Promotion Ceremony.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:65747b3e-06c8-4381-8f6b-0cea6e294a49@gds.incidentiq.com
+SUMMARY:7th Grade Power Project
+DTSTART;TZID=America/New_York:20270609T090000
+DTEND;TZID=America/New_York:20270609T100000
+DESCRIPTION:Families are invited to view the culminating history project
+ s for their 7th grade students at the LMS between 12:20-2:10 pm.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:588dc259-7ee3-4cdd-a08e-8ca6f35e7974@gds.incidentiq.com
+SUMMARY:8th Grade Overnight Trip
+DTSTART;TZID=America/New_York:20270608T080000
+DTEND;TZID=America/New_York:20270608T200000
+DESCRIPTION:8th graders will travel off campus for their annual trip. Ad
+ visors will be in touch with families regarding the details closer to the 
+ trip.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:891bc7d2-481b-4cfc-aaf0-6f06b37ab64b@gds.incidentiq.com
+SUMMARY:8th Grade Overnight Trip
+DTSTART;TZID=America/New_York:20270607T080000
+DTEND;TZID=America/New_York:20270607T153000
+DESCRIPTION:8th graders will travel off campus for their annual trip. Ad
+ visors will be in touch with families regarding the details closer to the 
+ trip.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c0fb8d48-59c2-4f09-b873-3946f382cf05@gds.incidentiq.com
+SUMMARY:Middle School Trimester III Ends
+DTSTART;TZID=America/New_York:20270604T080000
+DTEND;TZID=America/New_York:20270604T153000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d036d8-7130-488a-b2be-088431bdd5b3@gds.incidentiq.com
+SUMMARY:5th Grade Overnight Trip
+DTSTART;TZID=America/New_York:20270604T070000
+DTEND;TZID=America/New_York:20270604T200000
+DESCRIPTION:5th graders will travel off campus for their annual trip. Ad
+ visors will be in touch with families regarding the details closer to the 
+ trip.
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:5fcc387d-e3d9-77bc-4b43-b621edfc4220@gds.incidentiq.com
+SUMMARY:High School Exams
+DTSTART;TZID=America/New_York:20270610T090000
+DTEND;TZID=America/New_York:20270610T150000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:56ed93fb-dd0d-50f4-44b0-550e7f1c4cc1@gds.incidentiq.com
+SUMMARY:High School Exams
+DTSTART;TZID=America/New_York:20270609T090000
+DTEND;TZID=America/New_York:20270609T150000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab81018-6e4c-caca-f561-cbbb88f8f5a1@gds.incidentiq.com
+SUMMARY:High School Exams
+DTSTART;TZID=America/New_York:20270608T090000
+DTEND;TZID=America/New_York:20270608T150000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6f03bece-8e64-c95f-34f5-66643e8cac9f@gds.incidentiq.com
+SUMMARY:High School Exams
+DTSTART;TZID=America/New_York:20270607T090000
+DTEND;TZID=America/New_York:20270607T150000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d2ecf5ea-eb8b-e38a-dc39-89410336d9f0@gds.incidentiq.com
+SUMMARY:High School Exams
+DTSTART;TZID=America/New_York:20270604T090000
+DTEND;TZID=America/New_York:20270604T150000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3693d6e9-2d67-d112-6466-f651f3c73ccc@gds.incidentiq.com
+SUMMARY:High School Exams
+DTSTART;TZID=America/New_York:20270603T090000
+DTEND;TZID=America/New_York:20270603T150000
+LOCATION:320
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d99a9d25-b0a8-4361-8551-70e686601b6c@gds.incidentiq.com
+SUMMARY:5th Grade Overnight Trip
+DTSTART;TZID=America/New_York:20270603T070000
+DTEND;TZID=America/New_York:20270603T170000
+DESCRIPTION:5th graders will travel off campus for their annual trip. Ad
+ visors will be in touch with families regarding the details closer to the 
+ trip.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a696d0-142d-45c4-8a25-61ebfe3ef915@gds.incidentiq.com
+SUMMARY:Senior Quest Night
+DTSTART;TZID=America/New_York:20270602T180000
+DTEND;TZID=America/New_York:20270602T200000
+DESCRIPTION:The Senior Quest presentations begin at 6:00 p.m. at the HS.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3abe414d-2928-43ca-a528-9d2d03766ee7@gds.incidentiq.com
+SUMMARY:High School Year-End Assembly
+DTSTART;TZID=America/New_York:20270602T141500
+DTEND;TZID=America/New_York:20270602T151500
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e973c8d6-0672-4034-8c22-5a442b89bb12@gds.incidentiq.com
+SUMMARY:8th Grade Overnight Trip Informational Session
+DTSTART;TZID=America/New_York:20270602T120000
+DTEND;TZID=America/New_York:20270602T124500
+DESCRIPTION:Please join us for a Zoom session to learn more about the go
+ als\, logistics\, and highlights of the upcoming 8th Grade Outdoor Educati
+ on trip. We'll share key details about the schedule\, safety\, and what st
+ udents can expect\, and there will be time for Q&A at the end. This is a g
+ reat opportunity to get your questions answered and hear how this experien
+ ce supports student growth\, teamwork\, and connection. We hope to see you
+  there!
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e13d1f5f-0a78-4c6a-bb61-5448d034e517@gds.incidentiq.com
+SUMMARY:1st Grade End of Year Trip
+DTSTART;TZID=America/New_York:20270601T080000
+DTEND;TZID=America/New_York:20270601T150000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:33554c37-bfe0-49da-9ba3-34066dc858ce@gds.incidentiq.com
+SUMMARY:Memorial Day (no classes)
+DTSTART;TZID=America/New_York:20270531T080000
+DTEND;TZID=America/New_York:20270531T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3bc51c-db46-462e-a757-666e27a82b0d@gds.incidentiq.com
+SUMMARY:GDS 360 Closed
+DTSTART;TZID=America/New_York:20270528T150000
+DTEND;TZID=America/New_York:20270528T183000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:3f31af3e-0679-49ee-a25f-59cde9c1060d@gds.incidentiq.com
+SUMMARY:4th Grade Band Concert
+DTSTART;TZID=America/New_York:20270528T084500
+DTEND;TZID=America/New_York:20270528T094500
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a855645d-d2ae-4964-90f3-977673937228@gds.incidentiq.com
+SUMMARY:Middle School Band Concert
+DTSTART;TZID=America/New_York:20270527T183000
+DTEND;TZID=America/New_York:20270527T193000
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b53f5289-5a1a-42f0-9847-f329e735d479@gds.incidentiq.com
+SUMMARY:2nd Grade Overnight Trip
+DTSTART;TZID=America/New_York:20270521T080000
+DTEND;TZID=America/New_York:20270521T170000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:add10272-59a6-42b1-9f8a-2f061e751e32@gds.incidentiq.com
+SUMMARY:Middle School Dance Showcase
+DTSTART;TZID=America/New_York:20270520T183000
+DTEND;TZID=America/New_York:20270520T193000
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9fbff3-e0ca-4ae0-82ad-6c89518ab5ae@gds.incidentiq.com
+SUMMARY:2nd Grade Overnight Trip
+DTSTART;TZID=America/New_York:20270520T080000
+DTEND;TZID=America/New_York:20270520T170000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:285a70f6-9ed5-48a5-b6f5-64c822575bbb@gds.incidentiq.com
+SUMMARY:1st Grade Author's Brunch
+DTSTART;TZID=America/New_York:20270520T083000
+DTEND;TZID=America/New_York:20270520T093000
+DESCRIPTION:First Grade families are encouraged to attend this event. \n
+  Location: First Grade Homerooms
+LOCATION:219
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:565fbe21-3c4d-4945-ba2f-8a6ebc635b7c@gds.incidentiq.com
+SUMMARY:High School Spring Sports Banquet
+DTSTART;TZID=America/New_York:20270518T180000
+DTEND;TZID=America/New_York:20270518T210000
+LOCATION:L291
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:12add436-008b-44dc-87a5-647198e5ee5d@gds.incidentiq.com
+SUMMARY:Buddy Program Session 3 Celebration (3rd-8th Grade)
+DTSTART;TZID=America/New_York:20270518T150000
+DTEND;TZID=America/New_York:20270518T170000
+DESCRIPTION:To celebrate the end of this session\, younger buddies in gr
+ ades 3rd-8th will join their older buddies for a celebration of joy and fr
+ iendship.
+LOCATION:LMS-Sports Field
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0262ef-5ff8-4411-955f-8751721e4301@gds.incidentiq.com
+SUMMARY:5th Grade Overnight Trip Informational Session
+DTSTART;TZID=America/New_York:20270518T081500
+DTEND;TZID=America/New_York:20270518T084500
+DESCRIPTION:Please join us for an in person session to learn more about 
+ the goals\, logistics\, and highlights of the upcoming 5th Grade Outdoor E
+ ducation trip. We'll share key details about the schedule\, safety\, and w
+ hat students can expect\, and there will be time for Q&A at the end. This 
+ is a great opportunity to get your questions answered and hear how this ex
+ perience supports student growth\, teamwork\, and connection. We hope to s
+ ee you there!
+LOCATION:122
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ccdf2c2d-8a70-4af9-b4ea-d7b83a4697dc@gds.incidentiq.com
+SUMMARY:5th Grade Living Museum
+DTSTART;TZID=America/New_York:20270518T084500
+DTEND;TZID=America/New_York:20270518T094500
+DESCRIPTION:5th grade families are invited to campus to this culmination
+  of the fifth grade Traveling Biographies project.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6f0855d0-fc4c-4801-bcb6-5ead3be1ad86@gds.incidentiq.com
+SUMMARY:Buddy Program Session 3 Celebration (PK-2nd Grade)
+DTSTART;TZID=America/New_York:20270517T150000
+DTEND;TZID=America/New_York:20270517T170000
+DESCRIPTION:To celebrate the end of this session\, younger buddies in gr
+ ades PK-2 will join their older buddies for a celebration of joy and frien
+ dship.
+LOCATION:LMS-Sports Field
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:52787de5-dc06-45a6-a995-ceff9dd5c1d9@gds.incidentiq.com
+SUMMARY:New Families Ice Cream Social: Lower & Middle School
+DTSTART;TZID=America/New_York:20270516T130000
+DTEND;TZID=America/New_York:20270516T140000
+LOCATION:LMS-Driveway
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:957c8555-7687-4248-a505-6e7e90f697b9@gds.incidentiq.com
+SUMMARY:New Families Ice Cream Social: High School
+DTSTART;TZID=America/New_York:20270516T143000
+DTEND;TZID=America/New_York:20270516T153000
+LOCATION:LMS-Driveway
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:a1201e5f-48cd-4b63-9580-5b077b380320@gds.incidentiq.com
+SUMMARY:Eid al-Adha (Tentative Date)
+DTSTART;TZID=America/New_York:20270516T080000
+DTEND;TZID=America/New_York:20270516T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b45c7ef4-cf1c-47e5-b70d-df8dcbd17851@gds.incidentiq.com
+SUMMARY:Black Alumni Brunch
+DTSTART;TZID=America/New_York:20270516T110000
+DTEND;TZID=America/New_York:20270516T130000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d30de37d-8e82-4a57-977a-f83fc652310a@gds.incidentiq.com
+SUMMARY:Armed Forces Day
+DTSTART;TZID=America/New_York:20270515T080000
+DTEND;TZID=America/New_York:20270515T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:dea5228a-29d2-47a6-adb7-63e373c86c78@gds.incidentiq.com
+SUMMARY:All-Alumni and Parent of Alumni BBQ
+DTSTART;TZID=America/New_York:20270515T123000
+DTEND;TZID=America/New_York:20270515T143000
+DESCRIPTION:[[Original Location: Lower Middle School\, 130 LMS Cafe - 42
+ 03 Davenport St. NW\, Washington\, DC 20016\, Lower Middle School Building
+ -Ground-130-Cafeteria (Dining) (350) [Projector\, Wall Mount Display (TV)]
+ ]]
+LOCATION:122
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf10a6e-c3e5-447a-bdd4-034c559f7a66@gds.incidentiq.com
+SUMMARY:Reunion Luncheon for the Class of 1977
+DTSTART;TZID=America/New_York:20270514T113000
+DTEND;TZID=America/New_York:20270514T130000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f0936bca-8338-4d0b-aa56-f39ebcf48759@gds.incidentiq.com
+SUMMARY:Reunion Class Parties
+DTSTART;TZID=America/New_York:20270514T120000
+DTEND;TZID=America/New_York:20270514T170000
+DESCRIPTION:Offsite events for alumni classes ending in 2 and 7. Hosted 
+ by Reunion Class Chairs. Contact alumni@gds.org for more information.
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:d9ec5944-afe4-4c65-9897-ba01f825690a@gds.incidentiq.com
 SUMMARY:Alumni Weekend 2027
 DTSTART;TZID=America/New_York:20270515T120000
