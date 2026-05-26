@@ -78661,7 +78661,7 @@
     "EventTag": "10517",
     "EventId": "170a6f1c-c7ff-4280-a7a2-b91a98c15058",
     "CreatedDate": "2025-07-24T14:10:05.297",
-    "ModifiedDate": "2026-05-16T01:59:01.573",
+    "ModifiedDate": "2026-05-26T09:05:52.11",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -78683,7 +78683,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "9th Grade Trip to Six Flags",
+    "Title": "9th Grade Trip",
     "Description": "",
     "StartDateTime": "2026-06-05T09:00:00",
     "SetUpStartDateTime": "2026-06-05T09:00:00",
@@ -78739,13 +78739,18 @@
     "DateTimeDisplay": "June 05, 2026\n09:00 AM - 04:00 PM",
     "CustomFieldValues": [
       {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
         "IsHidden": false
       },
       {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
         "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
         "IsHidden": false
       },
       {
@@ -78756,6 +78761,11 @@
       {
         "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
         "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
         "IsHidden": false
       },
       {

@@ -6122,7 +6122,7 @@ ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:170a6f1c-c7ff-4280-a7a2-b91a98c15058@gds.incidentiq.com
-SUMMARY:9th Grade Trip to Six Flags
+SUMMARY:9th Grade Trip
 DTSTART;TZID=America/New_York:20260605T090000
 DTEND;TZID=America/New_York:20260605T160000
 LOCATION:Offsite #03
