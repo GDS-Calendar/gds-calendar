@@ -4379,8 +4379,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3349db26-0522-43fa-8a1d-d224102578ad@gds.incidentiq.com
 SUMMARY:12th Grade Overnight
-DTSTART;TZID=America/New_York:20260823T000000
-DTEND;TZID=America/New_York:20260823T120000
+DTSTART;TZID=America/New_York:20260830T080000
+DTEND;TZID=America/New_York:20260830T160000
 DESCRIPTION:The senior trip is a seminal experience which serves to bond
   the class and faculty as well as to begin year-long conversations about l
  eadership and social justice. This trip is free and we are aiming for full
@@ -4407,8 +4407,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5f8d4f89-5b4a-4995-9edb-2e2929c2ab93@gds.incidentiq.com
 SUMMARY:12th Grade Overnight
-DTSTART;TZID=America/New_York:20260822T000000
-DTEND;TZID=America/New_York:20260822T230000
+DTSTART;TZID=America/New_York:20260829T080000
+DTEND;TZID=America/New_York:20260829T160000
 DESCRIPTION:The senior trip is a seminal experience which serves to bond
   the class and faculty as well as to begin year-long conversations about l
  eadership and social justice. This trip is free and we are aiming for full
@@ -4447,8 +4447,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9d54c7e9-4e18-478f-8abb-20ccb415e058@gds.incidentiq.com
 SUMMARY:12th Grade Overnight
-DTSTART;TZID=America/New_York:20260821T160000
-DTEND;TZID=America/New_York:20260821T170000
+DTSTART;TZID=America/New_York:20260828T160000
+DTEND;TZID=America/New_York:20260828T170000
 DESCRIPTION:The senior trip is a seminal experience which serves to bond
   the class and faculty as well as to begin year-long conversations about l
  eadership and social justice. This trip is free and we are aiming for full
