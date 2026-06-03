@@ -1,5 +1,151 @@
 [
   {
+    "EventTag": "11991",
+    "EventId": "44f544e4-683c-413e-a132-7f224ee7b715",
+    "CreatedDate": "2026-06-02T14:11:07.673",
+    "ModifiedDate": "2026-06-03T12:52:30.037",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+    "EventType": {
+      "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+      "CreatedDate": "2025-04-09T01:34:24.48",
+      "ModifiedDate": "2025-04-09T01:34:24.48",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Community Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Hopper Fund Ambassador Info Breakfast",
+    "Description": "",
+    "StartDateTime": "2026-09-10T08:30:00",
+    "SetUpStartDateTime": "2026-09-10T07:30:00",
+    "EndDateTime": "2026-09-10T10:00:00",
+    "BreakdownEndDateTime": "2026-09-10T11:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "SetupTimeInMinutes": 60,
+    "BreakdownTimeInMinutes": 60,
+    "NumberOfAttendees": 20,
+    "OwnerId": "75f7ea3c-b812-45ab-914e-94c1925814f9",
+    "Owner": {
+      "UserId": "75f7ea3c-b812-45ab-914e-94c1925814f9",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Ashley Doherty",
+      "FullName": "Ashley Doherty",
+      "Initials": "AD",
+      "FirstName": "Ashley",
+      "LastName": "Doherty",
+      "LocationId": "6d50f695-b139-f011-a5f1-000d3a0db0e1",
+      "PhotoId": "c4d8ef3c-c45a-f011-8f7c-000d3a0db9a7",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e502",
+      "SchoolIdNumber": "7041503",
+      "Email": "adoherty@gds.org",
+      "Username": "adoherty@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3477,
+        "SeatingCapacity": 400,
+        "MaximumOccupancy": 450,
+        "Description": "Dining",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "130 LMS Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.72",
+        "ModifiedDate": "2025-08-07T18:47:43.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "DateTimeDisplay": "September 10, 2026\n08:30 AM - 10:00 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "Continental Breakfast",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "using tables as are",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "Screens down for slide deck",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-03T12:51:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "11949",
     "EventId": "1d358a5d-e16f-4795-b7c9-ce6e63818cf8",
     "CreatedDate": "2026-05-22T11:37:26.963",
@@ -7024,9 +7170,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -8003,9 +8149,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -16005,9 +16151,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -29986,9 +30132,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -34717,9 +34863,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -40032,9 +40178,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -42457,9 +42603,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -50518,9 +50664,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -51310,9 +51456,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -51433,9 +51579,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -61393,9 +61539,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -63956,9 +64102,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -64079,9 +64225,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -67230,9 +67376,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -67585,9 +67731,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -67698,9 +67844,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -67811,9 +67957,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -67924,9 +68070,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -76354,9 +76500,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -86289,9 +86435,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -98151,9 +98297,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -100249,9 +100395,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -105229,9 +105375,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -111681,9 +111827,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -117377,9 +117523,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -117938,9 +118084,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -118773,9 +118919,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
@@ -121115,9 +121261,9 @@
         "IsAvailable": false,
         "IsExternallyAvailable": false,
         "NameSort": "122",
-        "IsDeleted": false,
+        "IsDeleted": true,
         "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2024-12-29T16:59:08.653"
+        "ModifiedDate": "2026-06-03T16:53:16.31"
       }
     ],
     "Locations": [],
