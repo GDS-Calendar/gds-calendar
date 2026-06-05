@@ -3171,8 +3171,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c9942795-9e29-47dc-a64c-af3381f38642@gds.incidentiq.com
 SUMMARY:Middle School Winter Sports Begin
-DTSTART;TZID=America/New_York:20261102T070000
-DTEND;TZID=America/New_York:20261102T180000
+DTSTART;TZID=America/New_York:20261102T080000
+DTEND;TZID=America/New_York:20261102T160000
 LOCATION:Virtual #02
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3428,7 +3428,7 @@ BEGIN:VEVENT
 UID:d130571d-7ec1-4551-a920-81574fab5ed6@gds.incidentiq.com
 SUMMARY:7th Grade Overnight Trip
 DTSTART;TZID=America/New_York:20261016T080000
-DTEND;TZID=America/New_York:20261016T200000
+DTEND;TZID=America/New_York:20261016T150000
 DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
  visors will be in touch with families regarding the details. The event sta
  rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
@@ -3439,7 +3439,7 @@ BEGIN:VEVENT
 UID:8e0c2c81-6762-4fe3-be09-a67d816f0e71@gds.incidentiq.com
 SUMMARY:6th Grade Overnight Trip
 DTSTART;TZID=America/New_York:20261016T080000
-DTEND;TZID=America/New_York:20261016T200000
+DTEND;TZID=America/New_York:20261016T150000
 DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
  visors will be in touch with families regarding the details. The event sta
  rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
@@ -3450,7 +3450,7 @@ BEGIN:VEVENT
 UID:835c2b90-d852-4beb-8e06-fd0e5792487f@gds.incidentiq.com
 SUMMARY:4th Grade Overnight Trip
 DTSTART;TZID=America/New_York:20261016T080000
-DTEND;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T150000
 LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -4120,7 +4120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afa8ad39-9393-4448-b81d-e1f34687f1aa@gds.incidentiq.com
 SUMMARY:11th Grade Class Trip
-DTSTART;TZID=America/New_York:20260902T000000
+DTSTART;TZID=America/New_York:20260902T080000
 DTEND;TZID=America/New_York:20260902T150000
 DESCRIPTION:The 11th Grade Class trip will return by 3:00 pm.
 LOCATION:Offsite #02
@@ -4129,7 +4129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:788decf0-d356-4a01-80e1-8dd96a0d333b@gds.incidentiq.com
 SUMMARY:10th Grade Class Trip
-DTSTART;TZID=America/New_York:20260902T000000
+DTSTART;TZID=America/New_York:20260902T080000
 DTEND;TZID=America/New_York:20260902T150000
 DESCRIPTION:The 10th Grade Class trip will return by 3:00 pm.
 LOCATION:Offsite #01
@@ -4204,7 +4204,7 @@ BEGIN:VEVENT
 UID:08c65ec6-b774-48d1-bc65-62d69a2e45fa@gds.incidentiq.com
 SUMMARY:11th Grade Overnight Trip Departs
 DTSTART;TZID=America/New_York:20260901T100000
-DTEND;TZID=America/New_York:20260901T235500
+DTEND;TZID=America/New_York:20260901T160000
 DESCRIPTION:11th Graders will leave after the opening assembly for their
   overnight and will return by 3:00 pm the following day.
 LOCATION:Offsite #02
@@ -4214,7 +4214,7 @@ BEGIN:VEVENT
 UID:03301aff-27f7-4c70-999f-0e2ea8174499@gds.incidentiq.com
 SUMMARY:10th Grade Overnight Trip Departs
 DTSTART;TZID=America/New_York:20260901T100000
-DTEND;TZID=America/New_York:20260901T235500
+DTEND;TZID=America/New_York:20260901T160000
 DESCRIPTION:10th Graders will leave after the opening assembly for their
   overnight and will return by 3:00 pm the following day.
 LOCATION:Offsite #01
