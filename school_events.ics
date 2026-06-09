@@ -3929,8 +3929,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c7aef5b8-3a9f-4d88-8d17-d70fc043d854@gds.incidentiq.com
 SUMMARY:GDS National Debate Tournament
-DTSTART;TZID=America/New_York:20260913T080000
-DTEND;TZID=America/New_York:20260913T160000
+DTSTART;TZID=America/New_York:20261004T080000
+DTEND;TZID=America/New_York:20261004T180000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
 LOCATION:LMS-Campus
@@ -3939,8 +3939,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46eac6ba-f0b1-48f1-a380-72ae1f73cf1d@gds.incidentiq.com
 SUMMARY:GDS National Debate Tournament
-DTSTART;TZID=America/New_York:20260912T080000
-DTEND;TZID=America/New_York:20260912T220000
+DTSTART;TZID=America/New_York:20261003T080000
+DTEND;TZID=America/New_York:20261003T180000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
 LOCATION:LMS-Campus
@@ -3969,8 +3969,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1f5f49ee-10bf-44a4-ac0b-4a524dbbe8d3@gds.incidentiq.com
 SUMMARY:GDS National Debate Tournament
-DTSTART;TZID=America/New_York:20260911T160000
-DTEND;TZID=America/New_York:20260911T220000
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T210000
 DESCRIPTION:GDS plays host to teams from all over the country for this e
  arly season debate showdown.
 LOCATION:LMS-Campus
