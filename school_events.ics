@@ -23,6 +23,17 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1b8d9943-ffcf-43af-85aa-4c902f5a147c@gds.incidentiq.com
+SUMMARY:5th Grade Family Preview Performance for AOSA Conference
+DTSTART;TZID=America/New_York:20261103T183000
+DTEND;TZID=America/New_York:20261103T193000
+DESCRIPTION:Join the fifth graders as they share a family preview of the
+ ir upcoming show for the professional development conference of the Americ
+ an Orff-Schulwerk Association.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:44f544e4-683c-413e-a132-7f224ee7b715@gds.incidentiq.com
 SUMMARY:Hopper Fund Ambassador Info Breakfast
 DTSTART;TZID=America/New_York:20260910T083000
