@@ -1,5 +1,411 @@
 [
   {
+    "EventTag": "12001",
+    "EventId": "4c164740-dd6a-4024-a588-7f1a518185cd",
+    "CreatedDate": "2026-06-16T14:40:38.89",
+    "ModifiedDate": "2026-06-16T14:40:38.89",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Augur Bit Boot Camp",
+    "Description": "",
+    "StartDateTime": "2026-09-03T18:30:00",
+    "SetUpStartDateTime": "2026-09-03T18:30:00",
+    "EndDateTime": "2026-09-03T20:00:00",
+    "BreakdownEndDateTime": "2026-09-03T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "20a4e2be-642c-400b-8976-18de8ad6889b",
+        "Name": "HS Library Quiet Side",
+        "NameFormatted": "HS Library Quiet Side",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 100,
+        "MaximumOccupancy": 100,
+        "Description": "HS Library Quiet Side",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "HS Library Quiet Side",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.003",
+        "ModifiedDate": "2025-08-07T18:50:48.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > HS Library Quiet Side",
+    "DateTimeDisplay": "September 03, 2026\n06:30 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-16T14:40:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12000",
+    "EventId": "f5d53c3f-d69d-4c73-9a75-4e3828f387b3",
+    "CreatedDate": "2026-06-16T14:39:53.483",
+    "ModifiedDate": "2026-06-16T14:39:53.483",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Augur Bit Boot Camp",
+    "Description": "",
+    "StartDateTime": "2026-09-02T18:30:00",
+    "SetUpStartDateTime": "2026-09-02T18:30:00",
+    "EndDateTime": "2026-09-02T20:00:00",
+    "BreakdownEndDateTime": "2026-09-02T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "20a4e2be-642c-400b-8976-18de8ad6889b",
+        "Name": "HS Library Quiet Side",
+        "NameFormatted": "HS Library Quiet Side",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 100,
+        "MaximumOccupancy": 100,
+        "Description": "HS Library Quiet Side",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "HS Library Quiet Side",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.003",
+        "ModifiedDate": "2025-08-07T18:50:48.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > HS Library Quiet Side",
+    "DateTimeDisplay": "September 02, 2026\n06:30 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-16T14:39:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "11999",
+    "EventId": "40c460b4-7744-45e3-8e6b-eab25186dd49",
+    "CreatedDate": "2026-06-16T14:38:59.207",
+    "ModifiedDate": "2026-06-16T14:38:59.207",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Augur Bit Boot Camp",
+    "Description": "",
+    "StartDateTime": "2026-08-31T09:00:00",
+    "SetUpStartDateTime": "2026-08-31T09:00:00",
+    "EndDateTime": "2026-08-31T15:00:00",
+    "BreakdownEndDateTime": "2026-08-31T15:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "20a4e2be-642c-400b-8976-18de8ad6889b",
+        "Name": "HS Library Quiet Side",
+        "NameFormatted": "HS Library Quiet Side",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9034-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 100,
+        "MaximumOccupancy": 100,
+        "Description": "HS Library Quiet Side",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "HS Library Quiet Side",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.003",
+        "ModifiedDate": "2025-08-07T18:50:48.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > HS Library Quiet Side",
+    "DateTimeDisplay": "August 31, 2026\n09:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "11998",
     "EventId": "1b8d9943-ffcf-43af-85aa-4c902f5a147c",
     "CreatedDate": "2026-06-15T11:43:03.823",
@@ -14881,7 +15287,7 @@
     "EventTag": "11832",
     "EventId": "ec24cf8c-915f-4b40-9749-6372e63a0e96",
     "CreatedDate": "2026-05-21T14:51:28.71",
-    "ModifiedDate": "2026-05-21T14:51:28.71",
+    "ModifiedDate": "2026-06-16T14:36:07.45",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -14905,10 +15311,10 @@
     },
     "Title": "LMS STEAM Day",
     "Description": "This day-long event brings together GDS students, parents, alumni and other experts to promote science and education within our community. Our students have the opportunity to build, code, experiment and learn as they engage in a fun-filled day of discovery.",
-    "StartDateTime": "2027-04-14T08:15:00",
-    "SetUpStartDateTime": "2027-04-14T08:15:00",
-    "EndDateTime": "2027-04-14T15:00:00",
-    "BreakdownEndDateTime": "2027-04-14T15:00:00",
+    "StartDateTime": "2027-04-21T08:00:00",
+    "SetUpStartDateTime": "2027-04-21T08:00:00",
+    "EndDateTime": "2027-04-21T15:00:00",
+    "BreakdownEndDateTime": "2027-04-21T15:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -14956,7 +15362,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > LMS-Campus",
-    "DateTimeDisplay": "April 14, 2027\n08:15 AM - 03:00 PM",
+    "DateTimeDisplay": "April 21, 2027\n08:00 AM - 03:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",

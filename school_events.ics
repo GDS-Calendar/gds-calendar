@@ -23,6 +23,30 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:4c164740-dd6a-4024-a588-7f1a518185cd@gds.incidentiq.com
+SUMMARY:Augur Bit Boot Camp
+DTSTART;TZID=America/New_York:20260903T183000
+DTEND;TZID=America/New_York:20260903T200000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f5d53c3f-d69d-4c73-9a75-4e3828f387b3@gds.incidentiq.com
+SUMMARY:Augur Bit Boot Camp
+DTSTART;TZID=America/New_York:20260902T183000
+DTEND;TZID=America/New_York:20260902T200000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:40c460b4-7744-45e3-8e6b-eab25186dd49@gds.incidentiq.com
+SUMMARY:Augur Bit Boot Camp
+DTSTART;TZID=America/New_York:20260831T090000
+DTEND;TZID=America/New_York:20260831T150000
+LOCATION:HS Library Quiet Side
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:1b8d9943-ffcf-43af-85aa-4c902f5a147c@gds.incidentiq.com
 SUMMARY:5th Grade Family Preview Performance for AOSA Conference
 DTSTART;TZID=America/New_York:20261103T183000
@@ -1084,8 +1108,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ec24cf8c-915f-4b40-9749-6372e63a0e96@gds.incidentiq.com
 SUMMARY:LMS STEAM Day
-DTSTART;TZID=America/New_York:20270414T081500
-DTEND;TZID=America/New_York:20270414T150000
+DTSTART;TZID=America/New_York:20270421T080000
+DTEND;TZID=America/New_York:20270421T150000
 DESCRIPTION:This day-long event brings together GDS students\, parents\,
   alumni and other experts to promote science and education within our comm
  unity. Our students have the opportunity to build\, code\, experiment and 
