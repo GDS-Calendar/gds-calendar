@@ -1,5 +1,573 @@
 [
   {
+    "EventTag": "12012",
+    "EventId": "b554f7fc-f0bb-4dd3-9e0b-8f999a50d598",
+    "CreatedDate": "2026-06-29T10:48:26.153",
+    "ModifiedDate": "2026-06-29T10:48:26.153",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "9th Grade Parent Potluck",
+    "Description": "",
+    "StartDateTime": "2026-10-07T18:30:00",
+    "SetUpStartDateTime": "2026-10-07T18:30:00",
+    "EndDateTime": "2026-10-07T20:00:00",
+    "BreakdownEndDateTime": "2026-10-07T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "6fce6166-b4d3-4def-a898-bce4a8b72501",
+        "Name": "139 Internet Cafe",
+        "NameFormatted": "139 Internet Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "25b3722c-ae97-9d0a-440c-fabf34785db6",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 50,
+        "MaximumOccupancy": 50,
+        "Description": "Internet Cafe",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "139 Internet Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.63",
+        "ModifiedDate": "2025-08-07T19:04:33.377"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 139 Internet Cafe",
+    "DateTimeDisplay": "October 07, 2026\n06:30 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-29T10:48:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12011",
+    "EventId": "1fdf23bb-aeea-4caf-b679-2730a9cec5d6",
+    "CreatedDate": "2026-06-29T10:44:45.587",
+    "ModifiedDate": "2026-06-29T10:44:45.587",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "11th Grade Parent Potluck",
+    "Description": "",
+    "StartDateTime": "2026-10-06T18:30:00",
+    "SetUpStartDateTime": "2026-10-06T18:30:00",
+    "EndDateTime": "2026-10-06T20:00:00",
+    "BreakdownEndDateTime": "2026-10-06T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "6fce6166-b4d3-4def-a898-bce4a8b72501",
+        "Name": "139 Internet Cafe",
+        "NameFormatted": "139 Internet Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "25b3722c-ae97-9d0a-440c-fabf34785db6",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 50,
+        "MaximumOccupancy": 50,
+        "Description": "Internet Cafe",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "139 Internet Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.63",
+        "ModifiedDate": "2025-08-07T19:04:33.377"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 139 Internet Cafe",
+    "DateTimeDisplay": "October 06, 2026\n06:30 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-29T10:44:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12010",
+    "EventId": "20a60883-4805-4886-8087-ad06e1506e17",
+    "CreatedDate": "2026-06-29T10:43:37.147",
+    "ModifiedDate": "2026-06-29T10:43:37.147",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "12th Grade Parent Potluck",
+    "Description": "",
+    "StartDateTime": "2026-09-23T18:30:00",
+    "SetUpStartDateTime": "2026-09-23T18:30:00",
+    "EndDateTime": "2026-09-23T20:00:00",
+    "BreakdownEndDateTime": "2026-09-23T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "6fce6166-b4d3-4def-a898-bce4a8b72501",
+        "Name": "139 Internet Cafe",
+        "NameFormatted": "139 Internet Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "25b3722c-ae97-9d0a-440c-fabf34785db6",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 50,
+        "MaximumOccupancy": 50,
+        "Description": "Internet Cafe",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "139 Internet Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.63",
+        "ModifiedDate": "2025-08-07T19:04:33.377"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 139 Internet Cafe",
+    "DateTimeDisplay": "September 23, 2026\n06:30 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-29T10:43:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12009",
+    "EventId": "5bd49fb0-9d79-4664-8813-bb959bf4e4f5",
+    "CreatedDate": "2026-06-29T10:42:28.05",
+    "ModifiedDate": "2026-06-29T10:42:28.05",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "10th Grade Parent Potluck",
+    "Description": "",
+    "StartDateTime": "2026-09-09T18:30:00",
+    "SetUpStartDateTime": "2026-09-09T18:30:00",
+    "EndDateTime": "2026-09-09T20:00:00",
+    "BreakdownEndDateTime": "2026-09-09T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "6fce6166-b4d3-4def-a898-bce4a8b72501",
+        "Name": "139 Internet Cafe",
+        "NameFormatted": "139 Internet Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "25b3722c-ae97-9d0a-440c-fabf34785db6",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 50,
+        "MaximumOccupancy": 50,
+        "Description": "Internet Cafe",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "139 Internet Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.63",
+        "ModifiedDate": "2025-08-07T19:04:33.377"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 139 Internet Cafe",
+    "DateTimeDisplay": "September 09, 2026\n06:30 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-06-29T10:42:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12001",
     "EventId": "4c164740-dd6a-4024-a588-7f1a518185cd",
     "CreatedDate": "2026-06-16T14:40:38.89",
