@@ -4547,8 +4547,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:727824ac-d759-4ff2-bc5a-04338269324c@gds.incidentiq.com
 SUMMARY:Orientation Family Cook-out
-DTSTART;TZID=America/New_York:20260820T173000
-DTEND;TZID=America/New_York:20260820T193000
+DTSTART;TZID=America/New_York:20260820T170000
+DTEND;TZID=America/New_York:20260820T183000
 DESCRIPTION:9th Grade families are invited to the High School for a family cook-out.
 LOCATION:G001 HS Forum
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
