@@ -57965,7 +57965,7 @@
     "EventTag": "11471",
     "EventId": "9ec9498b-207f-4a25-a789-0a4d597a9a6b",
     "CreatedDate": "2026-05-12T13:21:55.83",
-    "ModifiedDate": "2026-05-16T01:59:17.057",
+    "ModifiedDate": "2026-07-23T10:57:31.773",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -57987,7 +57987,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Welcome to GDS Reception for Parents/Guardians of Students New to GDS",
+    "Title": "Welcome to GDS Reception for Parents/Guardians",
     "Description": "Parents/Guardians of students new to GDS are invited to join us for this reception. Meet fellow parents/guardians, PSA Co-Chairs, Board Members, and members of the school leadership.",
     "StartDateTime": "2026-08-25T18:30:00",
     "SetUpStartDateTime": "2026-08-25T18:30:00",
@@ -58082,7 +58082,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-12T13:21:00",
+    "OverrideDateTime": "2026-07-23T07:57:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",

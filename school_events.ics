@@ -4396,7 +4396,7 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:9ec9498b-207f-4a25-a789-0a4d597a9a6b@gds.incidentiq.com
-SUMMARY:Welcome to GDS Reception for Parents/Guardians of Students New to GDS
+SUMMARY:Welcome to GDS Reception for Parents/Guardians
 DTSTART;TZID=America/New_York:20260825T183000
 DTEND;TZID=America/New_York:20260825T203000
 DESCRIPTION:Parents/Guardians of students new to GDS are invited to join
