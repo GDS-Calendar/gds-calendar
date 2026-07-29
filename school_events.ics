@@ -23,6 +23,30 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:cc708cf1-97ec-4060-97c7-591f8ebf2b47@gds.incidentiq.com
+SUMMARY:Spring Musical
+DTSTART;TZID=America/New_York:20270501T190000
+DTEND;TZID=America/New_York:20270501T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:82c3b1e0-cff4-4873-b8f9-96f635301833@gds.incidentiq.com
+SUMMARY:Spring Musical
+DTSTART;TZID=America/New_York:20270424T190000
+DTEND;TZID=America/New_York:20270424T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:697efb94-4898-49a3-a249-68582948c15b@gds.incidentiq.com
+SUMMARY:Spring Musical
+DTSTART;TZID=America/New_York:20270423T190000
+DTEND;TZID=America/New_York:20270423T210000
+LOCATION:HS Black Box
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:b554f7fc-f0bb-4dd3-9e0b-8f999a50d598@gds.incidentiq.com
 SUMMARY:9th Grade Parent Potluck
 DTSTART;TZID=America/New_York:20261007T183000
@@ -950,8 +974,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c5d2ab4-d7e5-4082-bca0-b6e14f8d77a5@gds.incidentiq.com
 SUMMARY:High School Spring Cabaret
-DTSTART;TZID=America/New_York:20270430T190000
-DTEND;TZID=America/New_York:20270430T210000
+DTSTART;TZID=America/New_York:20270521T190000
+DTEND;TZID=America/New_York:20270521T210000
 LOCATION:HS Black Box
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -968,8 +992,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:82c664ca-3adf-4b53-afb2-85a3a05f1752@gds.incidentiq.com
 SUMMARY:Middle School Community Production
-DTSTART;TZID=America/New_York:20270429T183000
-DTEND;TZID=America/New_York:20270429T193000
+DTSTART;TZID=America/New_York:20270501T130000
+DTEND;TZID=America/New_York:20270501T140000
 DESCRIPTION:Middle School Community Production is written and performed 
  by Middle School students.
 LOCATION:B201 LMS Flexible Performance Center
@@ -1013,8 +1037,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b064bd38-f8b7-4b6c-94f1-cdb68ca12a47@gds.incidentiq.com
 SUMMARY:Spring Musical Matinee
-DTSTART;TZID=America/New_York:20270425T130000
-DTEND;TZID=America/New_York:20270425T150000
+DTSTART;TZID=America/New_York:20270502T140000
+DTEND;TZID=America/New_York:20270502T150000
 LOCATION:HS Black Box
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -1024,30 +1048,6 @@ SUMMARY:GDS Eco Market Day
 DTSTART;TZID=America/New_York:20270424T100000
 DTEND;TZID=America/New_York:20270424T150000
 LOCATION:LMS-Driveway
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:03c504f0-902d-4b9c-9cd0-f658d91d8c45@gds.incidentiq.com
-SUMMARY:Spring Musical
-DTSTART;TZID=America/New_York:20270424T190000
-DTEND;TZID=America/New_York:20270424T210000
-LOCATION:HS Black Box
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:a75fd659-8777-4128-8893-9bb1f4ddb2f6@gds.incidentiq.com
-SUMMARY:Spring Musical
-DTSTART;TZID=America/New_York:20270423T190000
-DTEND;TZID=America/New_York:20270423T210000
-LOCATION:HS Black Box
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:ac086447-d820-4d37-bda5-d755fa36d672@gds.incidentiq.com
-SUMMARY:Spring Musical
-DTSTART;TZID=America/New_York:20270422T190000
-DTEND;TZID=America/New_York:20270422T210000
-LOCATION:HS Black Box
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
