@@ -23,6 +23,27 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:35ceebe5-2bb4-451d-8df6-0759c5f6b266@gds.incidentiq.com
+SUMMARY:Senior Breakfast
+DTSTART;TZID=America/New_York:20270609T093000
+DTEND;TZID=America/New_York:20270609T103000
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:25ea5153-1120-47a8-9a9a-443edeaae1be@gds.incidentiq.com
+SUMMARY:Fancy Sparkly Day
+DTSTART;TZID=America/New_York:20270507T080000
+DTEND;TZID=America/New_York:20270507T160000
+DESCRIPTION:Fancy Sparkly Day is a GDS event where all community members
+  are invited to arrive at school in attire that makes them feel beautiful\
+ , but especially things they consider extra fancy or sparkly. Students are
+  invited to participate in a fun\, music-filled parade celebrating their i
+ ndividuality.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:cc708cf1-97ec-4060-97c7-591f8ebf2b47@gds.incidentiq.com
 SUMMARY:Spring Musical
 DTSTART;TZID=America/New_York:20270501T190000
@@ -386,20 +407,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0c244e8e-45b9-41fc-b5a1-2bdffe48cac6@gds.incidentiq.com
 SUMMARY:4th Grade Promotion Ceremony
-DTSTART;TZID=America/New_York:20270610T133000
-DTEND;TZID=America/New_York:20270610T143000
+DTSTART;TZID=America/New_York:20270609T090000
+DTEND;TZID=America/New_York:20270609T100000
 DESCRIPTION:LS 4th grade parents are invited to join us for the 4th Grad
  e Promotion Ceremony.
-LOCATION:B201 LMS Flexible Performance Center
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:17897834-9078-4be6-82f1-2649dd152b0c@gds.incidentiq.com
+SUMMARY:High School Graduation Rehearsal
+DTSTART;TZID=America/New_York:20270609T103000
+DTEND;TZID=America/New_York:20270609T123000
+LOCATION:B200 LMS Gym\, B201 LMS Flexible Performance Center
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:65747b3e-06c8-4381-8f6b-0cea6e294a49@gds.incidentiq.com
 SUMMARY:7th Grade Power Project
-DTSTART;TZID=America/New_York:20270609T090000
-DTEND;TZID=America/New_York:20270609T100000
+DTSTART;TZID=America/New_York:20270604T141500
+DTEND;TZID=America/New_York:20270604T151500
 DESCRIPTION:Families are invited to view the culminating history project
- s for their 7th grade students at the LMS between 12:20-2:10 pm.
+ s for their 7th grade students at the LMS.
 LOCATION:LMS-Campus
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -578,9 +607,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b53f5289-5a1a-42f0-9847-f329e735d479@gds.incidentiq.com
 SUMMARY:2nd Grade Overnight Trip
-DTSTART;TZID=America/New_York:20270521T080000
-DTEND;TZID=America/New_York:20270521T170000
-LOCATION:Offsite #01
+DTSTART;TZID=America/New_York:20270514T080000
+DTEND;TZID=America/New_York:20270514T170000
+LOCATION:Offsite #03
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -594,8 +623,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2e9fbff3-e0ca-4ae0-82ad-6c89518ab5ae@gds.incidentiq.com
 SUMMARY:2nd Grade Overnight Trip
-DTSTART;TZID=America/New_York:20270520T080000
-DTEND;TZID=America/New_York:20270520T170000
+DTSTART;TZID=America/New_York:20270513T080000
+DTEND;TZID=America/New_York:20270513T170000
 LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -1395,7 +1424,7 @@ BEGIN:VEVENT
 UID:77ee1405-1994-4e63-98a3-a13cc7c7e0f2@gds.incidentiq.com
 SUMMARY:Middle School Student-Led Conferences
 DTSTART;TZID=America/New_York:20270319T080000
-DTEND;TZID=America/New_York:20270319T160000
+DTEND;TZID=America/New_York:20270319T120000
 DESCRIPTION:Families will select a conference between 3/18/2027 and 3/19
  /2027 for their child's Student Led Conference. Both students and caregive
  rs should plan to be present in-person/on campus. No classes for students 
@@ -1419,7 +1448,7 @@ BEGIN:VEVENT
 UID:674867d6-6f4f-475c-aeda-db5c0dbdf952@gds.incidentiq.com
 SUMMARY:Lower School Parent/Teacher Conferences
 DTSTART;TZID=America/New_York:20270319T080000
-DTEND;TZID=America/New_York:20270319T160000
+DTEND;TZID=America/New_York:20270319T120000
 DESCRIPTION:No classes for students on March 18 and 19.
 LOCATION:LMS-Campus
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
@@ -3315,6 +3344,16 @@ LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
+UID:b853cc53-d007-4ab2-8779-3db6749ec515@gds.incidentiq.com
+SUMMARY:All-School Halloween Celebration
+DTSTART;TZID=America/New_York:20261030T133000
+DTEND;TZID=America/New_York:20261030T143000
+DESCRIPTION:Please join us as we celebrate Halloween. Parents are invite
+ d to join us for the annual Halloween Parade! Meet on the field.
+LOCATION:LMS-Sports Field
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:1d331a54-6f9a-49d9-80de-036adeccface@gds.incidentiq.com
 SUMMARY:Jazz Residency Concert
 DTSTART;TZID=America/New_York:20261029T190000
@@ -3961,14 +4000,14 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:1cbea1eb-1bd6-45e7-a639-7a3e4e196074@gds.incidentiq.com
-SUMMARY:Meet and Greet with LS Leadership
+SUMMARY:Meet & Greet with LS Leadership and Student Support Team
 DTSTART;TZID=America/New_York:20260909T083000
 DTEND;TZID=America/New_York:20260909T093000
 DESCRIPTION:Join the LS Leadership and Student Support team who will sha
  re tips to help our Hoppers begin the year successfully. We will also shar
  e the many different roles designed to support students and families in th
  e Lower School and highlights for the upcoming school year.
-LOCATION:122
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -4396,12 +4435,12 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:9ec9498b-207f-4a25-a789-0a4d597a9a6b@gds.incidentiq.com
-SUMMARY:Welcome to GDS Reception for Parents/Guardians
+SUMMARY:GDS Welcome Reception
 DTSTART;TZID=America/New_York:20260825T183000
 DTEND;TZID=America/New_York:20260825T203000
-DESCRIPTION:Parents/Guardians of students new to GDS are invited to join
-  us for this reception. Meet fellow parents/guardians\, PSA Co-Chairs\, Bo
- ard Members\, and members of the school leadership.
+DESCRIPTION:Join fellow GDS parents and guardians as we welcome new fami
+ lies\, reconnect after the summer\, and celebrate the start of a new schoo
+ l year with Head of School Tori Jueds. Adults only.
 LOCATION:LMS-Driveway
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT

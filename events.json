@@ -1,5 +1,248 @@
 [
   {
+    "EventTag": "12023",
+    "EventId": "35ceebe5-2bb4-451d-8df6-0759c5f6b266",
+    "CreatedDate": "2026-08-06T12:01:08.657",
+    "ModifiedDate": "2026-08-06T12:07:16.15",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Senior Breakfast",
+    "Description": "",
+    "StartDateTime": "2027-06-09T09:30:00",
+    "SetUpStartDateTime": "2027-06-09T09:30:00",
+    "EndDateTime": "2027-06-09T10:30:00",
+    "BreakdownEndDateTime": "2027-06-09T10:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 200,
+        "MaximumOccupancy": 200,
+        "Description": "Library",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "220 HS Library (Full)",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.98",
+        "ModifiedDate": "2025-08-07T18:51:21.867"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 220 HS Library (Full)",
+    "DateTimeDisplay": "June 09, 2027\n09:30 AM - 10:30 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12022",
+    "EventId": "25ea5153-1120-47a8-9a9a-443edeaae1be",
+    "CreatedDate": "2026-08-06T11:39:08.017",
+    "ModifiedDate": "2026-08-06T11:39:08.017",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+    "EventType": {
+      "EventTypeId": "62e28887-8d6d-9861-638e-9cc3d8dae44a",
+      "CreatedDate": "2025-04-09T01:30:00.857",
+      "ModifiedDate": "2025-04-09T01:30:00.857",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "LS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Fancy Sparkly Day",
+    "Description": "Fancy Sparkly Day is a GDS event where all community members are invited to arrive at school in attire that makes them feel beautiful, but especially things they consider extra fancy or sparkly. Students are invited to participate in a fun, music-filled parade celebrating their individuality.",
+    "StartDateTime": "2027-05-07T08:00:00",
+    "SetUpStartDateTime": "2027-05-07T08:00:00",
+    "EndDateTime": "2027-05-07T16:00:00",
+    "BreakdownEndDateTime": "2027-05-07T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "May 07, 2027\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12017",
     "EventId": "cc708cf1-97ec-4060-97c7-591f8ebf2b47",
     "CreatedDate": "2026-07-29T13:53:52.673",
@@ -5194,7 +5437,7 @@
     "EventTag": "11922",
     "EventId": "0c244e8e-45b9-41fc-b5a1-2bdffe48cac6",
     "CreatedDate": "2026-05-22T11:18:54.747",
-    "ModifiedDate": "2026-05-22T11:18:54.747",
+    "ModifiedDate": "2026-08-06T11:43:23",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -5218,10 +5461,10 @@
     },
     "Title": "4th Grade Promotion Ceremony",
     "Description": "LS 4th grade parents are invited to join us for the 4th Grade Promotion Ceremony.",
-    "StartDateTime": "2027-06-10T13:30:00",
-    "SetUpStartDateTime": "2027-06-10T13:30:00",
-    "EndDateTime": "2027-06-10T14:30:00",
-    "BreakdownEndDateTime": "2027-06-10T14:30:00",
+    "StartDateTime": "2027-06-09T09:00:00",
+    "SetUpStartDateTime": "2027-06-09T09:00:00",
+    "EndDateTime": "2027-06-09T10:00:00",
+    "BreakdownEndDateTime": "2027-06-09T10:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -5248,6 +5491,153 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9031-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 12936,
+        "SeatingCapacity": 500,
+        "MaximumOccupancy": 640,
+        "Description": "Gymnasium",
+        "InternalNotes": "Gymnasium",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "B200 LMS Gym",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-23T22:59:16.85",
+        "ModifiedDate": "2025-08-07T19:09:04.06"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > B200 LMS Gym",
+    "DateTimeDisplay": "June 09, 2027\n09:00 AM - 10:00 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "11921",
+    "EventId": "17897834-9078-4be6-82f1-2649dd152b0c",
+    "CreatedDate": "2026-05-22T11:18:01.743",
+    "ModifiedDate": "2026-08-06T12:07:32.27",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "High School Graduation Rehearsal",
+    "Description": "",
+    "StartDateTime": "2027-06-09T10:30:00",
+    "SetUpStartDateTime": "2027-06-09T10:30:00",
+    "EndDateTime": "2027-06-09T12:30:00",
+    "BreakdownEndDateTime": "2027-06-09T12:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
+        "Name": "B200 LMS Gym",
+        "NameFormatted": "B200 LMS Gym",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9031-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 12936,
+        "SeatingCapacity": 500,
+        "MaximumOccupancy": 640,
+        "Description": "Gymnasium",
+        "InternalNotes": "Gymnasium",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "B200 LMS Gym",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-23T22:59:16.85",
+        "ModifiedDate": "2025-08-07T19:09:04.06"
+      },
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
         "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
         "Name": "B201 LMS Flexible Performance Center",
         "NameFormatted": "B201 LMS Flexible Performance Center",
@@ -5270,8 +5660,8 @@
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
-    "DateTimeDisplay": "June 10, 2027\n01:30 PM - 02:30 PM",
+    "LocationDisplay": "LMS > B200 LMS Gym\nLMS > B201 LMS Flexible Performance Center",
+    "DateTimeDisplay": "June 09, 2027\n10:30 AM - 12:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -5317,7 +5707,7 @@
     "EventTag": "11920",
     "EventId": "65747b3e-06c8-4381-8f6b-0cea6e294a49",
     "CreatedDate": "2026-05-22T11:16:19.13",
-    "ModifiedDate": "2026-05-22T11:16:19.13",
+    "ModifiedDate": "2026-08-06T14:15:33.427",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -5340,11 +5730,11 @@
       "Name": "Approved"
     },
     "Title": "7th Grade Power Project",
-    "Description": "Families are invited to view the culminating history projects for their 7th grade students at the LMS between 12:20-2:10 pm.",
-    "StartDateTime": "2027-06-09T09:00:00",
-    "SetUpStartDateTime": "2027-06-09T09:00:00",
-    "EndDateTime": "2027-06-09T10:00:00",
-    "BreakdownEndDateTime": "2027-06-09T10:00:00",
+    "Description": "Families are invited to view the culminating history projects for their 7th grade students at the LMS.",
+    "StartDateTime": "2027-06-04T14:15:00",
+    "SetUpStartDateTime": "2027-06-04T14:15:00",
+    "EndDateTime": "2027-06-04T15:15:00",
+    "BreakdownEndDateTime": "2027-06-04T15:15:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -5392,7 +5782,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > LMS-Campus",
-    "DateTimeDisplay": "June 09, 2027\n09:00 AM - 10:00 AM",
+    "DateTimeDisplay": "June 04, 2027\n02:15 PM - 03:15 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -7871,7 +8261,7 @@
     "EventTag": "11897",
     "EventId": "b53f5289-5a1a-42f0-9847-f329e735d479",
     "CreatedDate": "2026-05-22T10:33:44.23",
-    "ModifiedDate": "2026-05-22T10:33:44.23",
+    "ModifiedDate": "2026-08-06T11:41:54.153",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -7895,10 +8285,10 @@
     },
     "Title": "2nd Grade Overnight Trip",
     "Description": "",
-    "StartDateTime": "2027-05-21T08:00:00",
-    "SetUpStartDateTime": "2027-05-21T08:00:00",
-    "EndDateTime": "2027-05-21T17:00:00",
-    "BreakdownEndDateTime": "2027-05-21T17:00:00",
+    "StartDateTime": "2027-05-14T08:00:00",
+    "SetUpStartDateTime": "2027-05-14T08:00:00",
+    "EndDateTime": "2027-05-14T17:00:00",
+    "BreakdownEndDateTime": "2027-05-14T17:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -7925,28 +8315,28 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
-        "Name": "Offsite #01",
-        "NameFormatted": "Offsite #01",
+        "LocationRoomId": "6c9272b7-41a3-4f0c-b136-11539862e2ee",
+        "Name": "Offsite #03",
+        "NameFormatted": "Offsite #03",
         "Icon": "fa fa-door-open",
         "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
         "LocationName": "Offsite",
         "LocationAbbreviation": "OFF",
         "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Offsite Meeting #01",
-        "InternalNotes": "Offsite Meeting #01",
+        "Description": "Offsite Meeting #03",
+        "InternalNotes": "Offsite Meeting #03",
         "IsAvailable": false,
         "IsExternallyAvailable": false,
-        "NameSort": "Offsite #01",
+        "NameSort": "Offsite #03",
         "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:02:28.15",
-        "ModifiedDate": "2025-07-03T23:20:03.463"
+        "CreatedDate": "2025-07-05T20:18:09.327",
+        "ModifiedDate": "2025-07-05T20:18:33.727"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "OFF > Offsite #01",
-    "DateTimeDisplay": "May 21, 2027\n08:00 AM - 05:00 PM",
+    "LocationDisplay": "OFF > Offsite #03",
+    "DateTimeDisplay": "May 14, 2027\n08:00 AM - 05:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -7984,7 +8374,27 @@
         "IsHidden": false
       }
     ],
-    "SkipAvailabilityCheck": false,
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-08-06T11:41:00",
+    "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "OverrideUser": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
     "InsuranceExpiring": false,
     "InsuranceExpired": false
   },
@@ -8135,7 +8545,7 @@
     "EventTag": "11895",
     "EventId": "2e9fbff3-e0ca-4ae0-82ad-6c89518ab5ae",
     "CreatedDate": "2026-05-22T10:32:31.143",
-    "ModifiedDate": "2026-05-22T10:32:31.143",
+    "ModifiedDate": "2026-08-06T11:40:42.997",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -8159,10 +8569,10 @@
     },
     "Title": "2nd Grade Overnight Trip",
     "Description": "",
-    "StartDateTime": "2027-05-20T08:00:00",
-    "SetUpStartDateTime": "2027-05-20T08:00:00",
-    "EndDateTime": "2027-05-20T17:00:00",
-    "BreakdownEndDateTime": "2027-05-20T17:00:00",
+    "StartDateTime": "2027-05-13T08:00:00",
+    "SetUpStartDateTime": "2027-05-13T08:00:00",
+    "EndDateTime": "2027-05-13T17:00:00",
+    "BreakdownEndDateTime": "2027-05-13T17:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -8210,7 +8620,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "OFF > Offsite #01",
-    "DateTimeDisplay": "May 20, 2027\n08:00 AM - 05:00 PM",
+    "DateTimeDisplay": "May 13, 2027\n08:00 AM - 05:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -19675,7 +20085,7 @@
     "EventTag": "11801",
     "EventId": "77ee1405-1994-4e63-98a3-a13cc7c7e0f2",
     "CreatedDate": "2026-05-21T11:45:19.223",
-    "ModifiedDate": "2026-05-21T11:45:19.223",
+    "ModifiedDate": "2026-08-06T11:32:18.353",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -19701,31 +20111,16 @@
     "Description": "Families will select a conference between 3/18/2027 and 3/19/2027 for their child's Student Led Conference. Both students and caregivers should plan to be present in-person/on campus. No classes for students on March 18 and 19.",
     "StartDateTime": "2027-03-19T08:00:00",
     "SetUpStartDateTime": "2027-03-19T08:00:00",
-    "EndDateTime": "2027-03-19T16:00:00",
-    "BreakdownEndDateTime": "2027-03-19T16:00:00",
+    "EndDateTime": "2027-03-19T12:00:00",
+    "BreakdownEndDateTime": "2027-03-19T12:00:00",
     "IsAllDay": false,
-    "RecurringScheduleId": "bfcb4cd2-f4a6-41b5-864a-d00aff3e7d1c",
     "SeriesType": 1,
-    "ParentEventId": "18a8fe35-810c-44dc-9d93-fc41633239ad",
     "SeriesId": "1d86c4f6-4659-4483-aad7-48e95a436b0b",
     "SeriesInfo": {
       "SeriesId": "1d86c4f6-4659-4483-aad7-48e95a436b0b",
       "NumberOfEvents": 2,
       "MinStartDatetime": "2027-03-18T08:00:00",
       "MaxStartDatetime": "2027-03-19T08:00:00"
-    },
-    "Schedule": {
-      "RecurringScheduleId": "bfcb4cd2-f4a6-41b5-864a-d00aff3e7d1c",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "CreatedDate": "2026-05-21T15:45:19.043",
-      "ModifiedDate": "2026-05-21T15:45:19.043",
-      "Name": "Daily at 8:00 AM until 03/19/27",
-      "Pattern": "Daily",
-      "StartTime": "08:00:00",
-      "StopRecurringDate": "2027-03-19T00:00:00",
-      "IsValidMonthlyPattern": false,
-      "IsValidQuarterlyPattern": false,
-      "IsMonthlyInstanceBased": false
     },
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "Owner": {
@@ -19774,7 +20169,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > 104 LMS Main Lobby",
-    "DateTimeDisplay": "March 19, 2027\n08:00 AM - 04:00 PM",
+    "DateTimeDisplay": "March 19, 2027\n08:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -19862,11 +20257,11 @@
       "RecurringScheduleId": "bfcb4cd2-f4a6-41b5-864a-d00aff3e7d1c",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2026-05-21T15:45:19.043",
-      "ModifiedDate": "2026-05-21T15:45:19.043",
-      "Name": "Daily at 8:00 AM until 03/19/27",
+      "ModifiedDate": "2026-08-06T15:32:17.903",
+      "Name": "Daily at 8:00 AM until 03/18/27",
       "Pattern": "Daily",
       "StartTime": "08:00:00",
-      "StopRecurringDate": "2027-03-19T00:00:00",
+      "StopRecurringDate": "2027-03-18T00:00:00",
       "IsValidMonthlyPattern": false,
       "IsValidQuarterlyPattern": false,
       "IsMonthlyInstanceBased": false
@@ -19964,7 +20359,7 @@
     "EventTag": "11799",
     "EventId": "674867d6-6f4f-475c-aeda-db5c0dbdf952",
     "CreatedDate": "2026-05-21T11:43:45.837",
-    "ModifiedDate": "2026-05-21T11:43:45.837",
+    "ModifiedDate": "2026-08-06T11:31:59.063",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -19990,31 +20385,16 @@
     "Description": "No classes for students on March 18 and 19.",
     "StartDateTime": "2027-03-19T08:00:00",
     "SetUpStartDateTime": "2027-03-19T08:00:00",
-    "EndDateTime": "2027-03-19T16:00:00",
-    "BreakdownEndDateTime": "2027-03-19T16:00:00",
+    "EndDateTime": "2027-03-19T12:00:00",
+    "BreakdownEndDateTime": "2027-03-19T12:00:00",
     "IsAllDay": false,
-    "RecurringScheduleId": "2fc0c01a-f1b6-4806-82f5-e7b5fee3513e",
     "SeriesType": 1,
-    "ParentEventId": "ac3ee3b4-4bae-4982-89c4-4c8c6f38c458",
     "SeriesId": "8b9f02d3-9bb5-417e-b8c0-ae8dbf57dc72",
     "SeriesInfo": {
       "SeriesId": "8b9f02d3-9bb5-417e-b8c0-ae8dbf57dc72",
       "NumberOfEvents": 2,
       "MinStartDatetime": "2027-03-18T08:00:00",
       "MaxStartDatetime": "2027-03-19T08:00:00"
-    },
-    "Schedule": {
-      "RecurringScheduleId": "2fc0c01a-f1b6-4806-82f5-e7b5fee3513e",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "CreatedDate": "2026-05-21T15:43:45.6",
-      "ModifiedDate": "2026-05-21T15:43:45.6",
-      "Name": "Daily at 8:00 AM until 03/19/27",
-      "Pattern": "Daily",
-      "StartTime": "08:00:00",
-      "StopRecurringDate": "2027-03-19T00:00:00",
-      "IsValidMonthlyPattern": false,
-      "IsValidQuarterlyPattern": false,
-      "IsMonthlyInstanceBased": false
     },
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "Owner": {
@@ -20061,7 +20441,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > LMS-Campus",
-    "DateTimeDisplay": "March 19, 2027\n08:00 AM - 04:00 PM",
+    "DateTimeDisplay": "March 19, 2027\n08:00 AM - 12:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -20149,11 +20529,11 @@
       "RecurringScheduleId": "2fc0c01a-f1b6-4806-82f5-e7b5fee3513e",
       "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
       "CreatedDate": "2026-05-21T15:43:45.6",
-      "ModifiedDate": "2026-05-21T15:43:45.6",
-      "Name": "Daily at 8:00 AM until 03/19/27",
+      "ModifiedDate": "2026-08-06T15:31:58.663",
+      "Name": "Daily at 8:00 AM until 03/18/27",
       "Pattern": "Daily",
       "StartTime": "08:00:00",
-      "StopRecurringDate": "2027-03-19T00:00:00",
+      "StopRecurringDate": "2027-03-18T00:00:00",
       "IsValidMonthlyPattern": false,
       "IsValidQuarterlyPattern": false,
       "IsMonthlyInstanceBased": false
@@ -45187,6 +45567,128 @@
     "InsuranceExpired": false
   },
   {
+    "EventTag": "11586",
+    "EventId": "b853cc53-d007-4ab2-8779-3db6749ec515",
+    "CreatedDate": "2026-05-14T13:04:23.977",
+    "ModifiedDate": "2026-08-06T11:36:56.113",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "All-School Halloween Celebration",
+    "Description": "Please join us as we celebrate Halloween. Parents are invited to join us for the annual Halloween Parade! Meet on the field.",
+    "StartDateTime": "2026-10-30T13:30:00",
+    "SetUpStartDateTime": "2026-10-30T13:30:00",
+    "EndDateTime": "2026-10-30T14:30:00",
+    "BreakdownEndDateTime": "2026-10-30T14:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "25795e20-9e6c-498a-b2df-78293fdc271e",
+        "Name": "LMS-Sports Field",
+        "NameFormatted": "LMS-Sports Field",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9032-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 39000,
+        "MaximumOccupancy": 300,
+        "Description": "Sports Field",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "LMS-Sports Field",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.77",
+        "ModifiedDate": "2025-05-28T16:23:25.793"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Sports Field",
+    "DateTimeDisplay": "October 30, 2026\n01:30 PM - 02:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "11585",
     "EventId": "1d331a54-6f9a-49d9-80de-036adeccface",
     "CreatedDate": "2026-05-14T13:02:58.84",
@@ -52438,7 +52940,7 @@
     "EventTag": "11519",
     "EventId": "1cbea1eb-1bd6-45e7-a639-7a3e4e196074",
     "CreatedDate": "2026-05-14T10:43:47.73",
-    "ModifiedDate": "2026-05-16T01:59:17.563",
+    "ModifiedDate": "2026-08-06T11:35:58.103",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -52460,7 +52962,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Meet and Greet with LS Leadership",
+    "Title": "Meet & Greet with LS Leadership and Student Support Team",
     "Description": "Join the LS Leadership and Student Support team who will share tips to help our Hoppers begin the year successfully. We will also share the many different roles designed to support students and families in the Lower School and highlights for the upcoming school year.",
     "StartDateTime": "2026-09-09T08:30:00",
     "SetUpStartDateTime": "2026-09-09T08:30:00",
@@ -52492,29 +52994,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
-        "Name": "122",
-        "NameFormatted": "122",
+        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 1035,
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3477,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Cafeteria",
+        "Description": "Dining",
         "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "122",
-        "IsDeleted": true,
-        "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2026-06-03T16:53:16.31"
+        "IsExternallyAvailable": true,
+        "NameSort": "130 LMS Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.72",
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 122",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
     "DateTimeDisplay": "September 09, 2026\n08:30 AM - 09:30 AM",
     "CustomFieldValues": [
       {
@@ -57900,7 +58402,7 @@
     "EventTag": "11471",
     "EventId": "9ec9498b-207f-4a25-a789-0a4d597a9a6b",
     "CreatedDate": "2026-05-12T13:21:55.83",
-    "ModifiedDate": "2026-07-23T10:57:31.773",
+    "ModifiedDate": "2026-08-06T10:53:11.59",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -57922,8 +58424,8 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Welcome to GDS Reception for Parents/Guardians",
-    "Description": "Parents/Guardians of students new to GDS are invited to join us for this reception. Meet fellow parents/guardians, PSA Co-Chairs, Board Members, and members of the school leadership.",
+    "Title": "GDS Welcome Reception",
+    "Description": "Join fellow GDS parents and guardians as we welcome new families, reconnect after the summer, and celebrate the start of a new school year with Head of School Tori Jueds. Adults only.",
     "StartDateTime": "2026-08-25T18:30:00",
     "SetUpStartDateTime": "2026-08-25T18:30:00",
     "EndDateTime": "2026-08-25T20:30:00",
@@ -58017,7 +58519,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-07-23T07:57:00",
+    "OverrideDateTime": "2026-08-06T10:53:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
