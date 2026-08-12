@@ -608,7 +608,7 @@ BEGIN:VEVENT
 UID:b53f5289-5a1a-42f0-9847-f329e735d479@gds.incidentiq.com
 SUMMARY:2nd Grade Overnight Trip
 DTSTART;TZID=America/New_York:20270514T080000
-DTEND;TZID=America/New_York:20270514T170000
+DTEND;TZID=America/New_York:20270514T140000
 LOCATION:Offsite #03
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 UID:2e9fbff3-e0ca-4ae0-82ad-6c89518ab5ae@gds.incidentiq.com
 SUMMARY:2nd Grade Overnight Trip
 DTSTART;TZID=America/New_York:20270513T080000
-DTEND;TZID=America/New_York:20270513T170000
+DTEND;TZID=America/New_York:20270513T235500
 LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3556,7 +3556,7 @@ BEGIN:VEVENT
 UID:835c2b90-d852-4beb-8e06-fd0e5792487f@gds.incidentiq.com
 SUMMARY:4th Grade Overnight Trip
 DTSTART;TZID=America/New_York:20261016T080000
-DTEND;TZID=America/New_York:20261016T150000
+DTEND;TZID=America/New_York:20261016T140000
 LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3586,7 +3586,7 @@ BEGIN:VEVENT
 UID:b19a9d50-a181-42c6-9be7-41d09fe5cd05@gds.incidentiq.com
 SUMMARY:4th Grade Overnight Trip
 DTSTART;TZID=America/New_York:20261015T080000
-DTEND;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T235500
 LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
