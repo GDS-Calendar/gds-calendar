@@ -1,5 +1,247 @@
 [
   {
+    "EventTag": "12035",
+    "EventId": "f2a42ab1-e82b-437a-8706-657589f41b00",
+    "CreatedDate": "2026-08-13T11:51:03.39",
+    "ModifiedDate": "2026-08-13T14:27:23.48",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "6th Grade Trip to Calleva",
+    "Description": "",
+    "StartDateTime": "2027-06-01T08:00:00",
+    "SetUpStartDateTime": "2027-06-01T08:00:00",
+    "EndDateTime": "2027-06-01T15:00:00",
+    "BreakdownEndDateTime": "2027-06-01T15:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d4284312-c291-4923-ad91-d930440aee09",
+        "Name": "Offsite #02",
+        "NameFormatted": "Offsite #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #02",
+        "InternalNotes": "Offsite Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-03T23:20:37.173",
+        "ModifiedDate": "2025-07-03T23:21:03.713"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #02",
+    "DateTimeDisplay": "June 01, 2027\n08:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12034",
+    "EventId": "625aff5c-7b9d-4b20-ac6f-ab9c37ef46ae",
+    "CreatedDate": "2026-08-13T11:49:43.34",
+    "ModifiedDate": "2026-08-13T14:27:11.613",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "7th Grade Trip to Calleva",
+    "Description": "",
+    "StartDateTime": "2027-05-24T08:00:00",
+    "SetUpStartDateTime": "2027-05-24T08:00:00",
+    "EndDateTime": "2027-05-24T15:00:00",
+    "BreakdownEndDateTime": "2027-05-24T15:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "May 24, 2027\n08:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12033",
     "EventId": "2f1d3e6e-4e61-4be0-a9d3-34942e7b1a00",
     "CreatedDate": "2026-08-13T11:44:20.513",
@@ -52954,6 +53196,149 @@
     ],
     "SkipAvailabilityCheck": true,
     "OverrideDateTime": "2026-05-14T10:47:00",
+    "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "OverrideUser": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "11520",
+    "EventId": "0d773217-62a0-4801-9847-9a410a29f081",
+    "CreatedDate": "2026-05-14T10:45:00.08",
+    "ModifiedDate": "2026-08-13T14:50:30.233",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "60b69159-1db5-9207-09c4-5fab12681b72",
+    "EventType": {
+      "EventTypeId": "60b69159-1db5-9207-09c4-5fab12681b72",
+      "CreatedDate": "2025-04-09T01:28:57.057",
+      "ModifiedDate": "2025-04-09T01:28:57.057",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "DEI Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "DEI Office Welcome Back Meet & Greet",
+    "Description": "The Office of Diversity, Equity & Inclusion welcomes our community to come meet & greet our team & each other! Come learn about the strategies & plans we create to foster equitable & inclusive learning environments for all students, staff, & faculty at GDS. Join us in celebrating our new student leaders, new families, and new employees. We are excited to engage in conversation as we continue to strive towards our mission of an inclusive environment where everyone can be their authentic selves!",
+    "StartDateTime": "2026-09-15T18:00:00",
+    "SetUpStartDateTime": "2026-09-15T18:00:00",
+    "EndDateTime": "2026-09-15T19:30:00",
+    "BreakdownEndDateTime": "2026-09-15T19:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3477,
+        "SeatingCapacity": 400,
+        "MaximumOccupancy": 450,
+        "Description": "Dining",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "130 LMS Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.72",
+        "ModifiedDate": "2025-08-07T18:47:43.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "DateTimeDisplay": "September 15, 2026\n06:00 PM - 07:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "NA",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-08-13T14:50:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",

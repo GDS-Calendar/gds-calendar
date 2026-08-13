@@ -23,6 +23,22 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f2a42ab1-e82b-437a-8706-657589f41b00@gds.incidentiq.com
+SUMMARY:6th Grade Trip to Calleva
+DTSTART;TZID=America/New_York:20270601T080000
+DTEND;TZID=America/New_York:20270601T150000
+LOCATION:Offsite #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:625aff5c-7b9d-4b20-ac6f-ab9c37ef46ae@gds.incidentiq.com
+SUMMARY:7th Grade Trip to Calleva
+DTSTART;TZID=America/New_York:20270524T080000
+DTEND;TZID=America/New_York:20270524T150000
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:2f1d3e6e-4e61-4be0-a9d3-34942e7b1a00@gds.incidentiq.com
 SUMMARY:Trimester 2 Reports
 DTSTART;TZID=America/New_York:20270312T080000
@@ -3982,6 +3998,21 @@ DESCRIPTION:Join us for our first PSA meeting of the year\, featuring a
  will support our community this year. This will be an in-person only event
  .
 LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0d773217-62a0-4801-9847-9a410a29f081@gds.incidentiq.com
+SUMMARY:DEI Office Welcome Back Meet & Greet
+DTSTART;TZID=America/New_York:20260915T180000
+DTEND;TZID=America/New_York:20260915T193000
+DESCRIPTION:The Office of Diversity\, Equity & Inclusion welcomes our co
+ mmunity to come meet & greet our team & each other! Come learn about the s
+ trategies & plans we create to foster equitable & inclusive learning envir
+ onments for all students\, staff\, & faculty at GDS. Join us in celebratin
+ g our new student leaders\, new families\, and new employees. We are excit
+ ed to engage in conversation as we continue to strive towards our mission 
+ of an inclusive environment where everyone can be their authentic selves!
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
