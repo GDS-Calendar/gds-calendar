@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2f1d3e6e-4e61-4be0-a9d3-34942e7b1a00@gds.incidentiq.com
+SUMMARY:Trimester 2 Reports
+DTSTART;TZID=America/New_York:20270312T080000
+DTEND;TZID=America/New_York:20270312T160000
+LOCATION:Virtual #05
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:35ceebe5-2bb4-451d-8df6-0759c5f6b266@gds.incidentiq.com
 SUMMARY:Senior Breakfast
 DTSTART;TZID=America/New_York:20270609T093000
@@ -798,7 +806,7 @@ BEGIN:VEVENT
 UID:f9fe46d0-b347-4d5a-9ada-24432769f0d2@gds.incidentiq.com
 SUMMARY:Middle School Chorus Concert
 DTSTART;TZID=America/New_York:20270513T183000
-DTEND;TZID=America/New_York:20270513T203000
+DTEND;TZID=America/New_York:20270513T193000
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -852,8 +860,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aa3630df-2526-4b57-9068-723d72fe71c0@gds.incidentiq.com
 SUMMARY:7th & 8th Grade Visual Art Show Opening
-DTSTART;TZID=America/New_York:20270513T170000
-DTEND;TZID=America/New_York:20270513T173000
+DTSTART;TZID=America/New_York:20270513T173000
+DTEND;TZID=America/New_York:20270513T183000
 LOCATION:LMS-Campus
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3205,14 +3213,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f5a60101-82ea-4889-8a01-bfdb9ff1f3a6@gds.incidentiq.com
 SUMMARY:Digital Wellness Parent Education
-DTSTART;TZID=America/New_York:20261105T190000
-DTEND;TZID=America/New_York:20261105T200000
+DTSTART;TZID=America/New_York:20261105T183000
+DTEND;TZID=America/New_York:20261105T193000
 DESCRIPTION:Building a Foundation for Kindness and Consideration Online 
  (for 4th\, 5th\, & 6th grade parents). Learn more about the Digital Respon
  sibility Programming in Health classes\, talk to teachers and HS students\
  , learn skills for navigating social device use for your child. \n \nConta
  ct Caitlin Hutcheon for more information.
-LOCATION:122
+LOCATION:130 LMS Cafe
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3359,20 +3367,6 @@ SUMMARY:Jazz Residency Concert
 DTSTART;TZID=America/New_York:20261029T190000
 DTEND;TZID=America/New_York:20261029T203000
 LOCATION:L200 HS Dance Studio
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:46beeca2-f0a4-4d48-bddf-731efd96e0ab@gds.incidentiq.com
-SUMMARY:5th Grade Parent Coffee
-DTSTART;TZID=America/New_York:20261027T120000
-DTEND;TZID=America/New_York:20261027T124500
-DESCRIPTION:Grade-level coffees offer parents and guardians a chance to 
- connect with one another\, hear from school leaders\, and learn more about
-  key developmental milestones and program highlights for your child’s year
- . Whether you're new to the school or a returning family\, we hope you'll 
- come enjoy conversation\, connection\, and a window into life at this grad
- e level.  See the MS newsletter to access the Zoom link.
-LOCATION:Virtual #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3537,7 +3531,8 @@ DTSTART;TZID=America/New_York:20261016T080000
 DTEND;TZID=America/New_York:20261016T150000
 DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
  visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
+ rts at 8:00 AM on the first day and students will return on Friday at 8 PM
+ .
 LOCATION:Offsite #03
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3548,7 +3543,8 @@ DTSTART;TZID=America/New_York:20261016T080000
 DTEND;TZID=America/New_York:20261016T150000
 DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
  visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
+ rts at 8:00 AM on the first day and students will return on Friday at 8 PM
+ .
 LOCATION:Offsite #02
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3567,7 +3563,8 @@ DTSTART;TZID=America/New_York:20261015T080000
 DTEND;TZID=America/New_York:20261015T153000
 DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
  visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
+ rts at 8:00 AM on the first day and students will return on Friday at 8 PM
+ .
 LOCATION:Offsite #03
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3578,7 +3575,8 @@ DTSTART;TZID=America/New_York:20261015T080000
 DTEND;TZID=America/New_York:20261015T153000
 DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
  visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
+ rts at 8:00 AM on the first day and students will return on Friday at 8 PM
+ .
 LOCATION:Offsite #02
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3680,16 +3678,10 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:72448ad4-b47a-4f31-a443-8f399f5cf00d@gds.incidentiq.com
-SUMMARY:7th Grade Parent Coffee & Overnight Trip Informational Session
+SUMMARY:7th Grade Overnight Trip Informational Session
 DTSTART;TZID=America/New_York:20261008T120000
-DTEND;TZID=America/New_York:20261008T130000
-DESCRIPTION:Grade-level coffees offer parents & guardians a chance to co
- nnect with one another\, hear from school leaders\, & learn more about key
-  developmental milestones & program highlights for your child’s year. Whet
- her you're new to the school or a returning family\, we hope you'll come e
- njoy conversation\, connection\, & a window into life at this grade level.
-   Additionally\, we will review the upcoming 7th Grade Outdoor Education t
- rip. See the MS newsletter to access the Zoom link.
+DTEND;TZID=America/New_York:20261008T124500
+DESCRIPTION:7th Grade Overnight Trip Informational Session will held on Zoom
 LOCATION:Virtual #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3721,16 +3713,10 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:976e2e11-2081-4b47-98cd-1456493f3ba7@gds.incidentiq.com
-SUMMARY:6th Grade Parent Coffee & Overnight Trip Informational Session
+SUMMARY:6th Grade Overnight Trip Informational Session
 DTSTART;TZID=America/New_York:20261002T120000
-DTEND;TZID=America/New_York:20261002T130000
-DESCRIPTION:Grade-level coffees offer parents & guardians a chance to co
- nnect with one another\, hear from school leaders\, & learn about key deve
- lopmental milestones & program highlights for your child’s year. Whether y
- ou're new to the school or a returning family\, we hope you'll come enjoy 
- conversation\, connection\, & a window into life at this grade level.  We 
- will review the goals\, logistics\, & highlights of the upcoming 6th Grade
-  Outdoor Education trip. See the MS newsletter to access the Zoom link.
+DTEND;TZID=America/New_York:20261002T124500
+DESCRIPTION:6th Grade Overnight Trip Informational Session will be held via Zoom.
 LOCATION:Virtual #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -4367,7 +4353,7 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9920f7-f30c-49d6-8abb-e2b3a146a544@gds.incidentiq.com
-SUMMARY:5th Grade Student Orientation
+SUMMARY:5th Grade Student Orientation & 5th Grade Parent Orientation
 DTSTART;TZID=America/New_York:20260831T124500
 DTEND;TZID=America/New_York:20260831T140000
 DESCRIPTION:This event is designed to give all fifth graders a jump star

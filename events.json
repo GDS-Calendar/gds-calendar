@@ -1,5 +1,126 @@
 [
   {
+    "EventTag": "12033",
+    "EventId": "2f1d3e6e-4e61-4be0-a9d3-34942e7b1a00",
+    "CreatedDate": "2026-08-13T11:44:20.513",
+    "ModifiedDate": "2026-08-13T11:44:20.513",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Trimester 2 Reports",
+    "Description": "",
+    "StartDateTime": "2027-03-12T08:00:00",
+    "SetUpStartDateTime": "2027-03-12T08:00:00",
+    "EndDateTime": "2027-03-12T16:00:00",
+    "BreakdownEndDateTime": "2027-03-12T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "f01d1dc7-f9b7-46d0-bff6-d30a48a4d47e",
+        "Name": "Virtual #05",
+        "NameFormatted": "Virtual #05",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #05",
+        "InternalNotes": "Virtual/Remote Meeting #05",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #05",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:21:49.57",
+        "ModifiedDate": "2025-07-05T20:21:49.57"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #05",
+    "DateTimeDisplay": "March 12, 2027\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "na",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12023",
     "EventId": "35ceebe5-2bb4-451d-8df6-0759c5f6b266",
     "CreatedDate": "2026-08-06T12:01:08.657",
@@ -10824,7 +10945,7 @@
     "EventTag": "11877",
     "EventId": "f9fe46d0-b347-4d5a-9ada-24432769f0d2",
     "CreatedDate": "2026-05-21T15:57:42.313",
-    "ModifiedDate": "2026-05-21T15:57:42.313",
+    "ModifiedDate": "2026-08-13T11:45:20.207",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -10850,8 +10971,8 @@
     "Description": "",
     "StartDateTime": "2027-05-13T18:30:00",
     "SetUpStartDateTime": "2027-05-13T18:30:00",
-    "EndDateTime": "2027-05-13T20:30:00",
-    "BreakdownEndDateTime": "2027-05-13T20:30:00",
+    "EndDateTime": "2027-05-13T19:30:00",
+    "BreakdownEndDateTime": "2027-05-13T19:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -10901,7 +11022,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
-    "DateTimeDisplay": "May 13, 2027\n06:30 PM - 08:30 PM",
+    "DateTimeDisplay": "May 13, 2027\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -10940,7 +11061,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-21T15:57:00",
+    "OverrideDateTime": "2026-08-13T11:45:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -11579,7 +11700,7 @@
     "EventTag": "11872",
     "EventId": "aa3630df-2526-4b57-9068-723d72fe71c0",
     "CreatedDate": "2026-05-21T15:54:55.02",
-    "ModifiedDate": "2026-05-21T15:54:55.02",
+    "ModifiedDate": "2026-08-13T11:44:56.617",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -11603,10 +11724,10 @@
     },
     "Title": "7th & 8th Grade Visual Art Show Opening",
     "Description": "",
-    "StartDateTime": "2027-05-13T17:00:00",
-    "SetUpStartDateTime": "2027-05-13T17:00:00",
-    "EndDateTime": "2027-05-13T17:30:00",
-    "BreakdownEndDateTime": "2027-05-13T17:30:00",
+    "StartDateTime": "2027-05-13T17:30:00",
+    "SetUpStartDateTime": "2027-05-13T17:30:00",
+    "EndDateTime": "2027-05-13T18:30:00",
+    "BreakdownEndDateTime": "2027-05-13T18:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -11654,7 +11775,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "LMS > LMS-Campus",
-    "DateTimeDisplay": "May 13, 2027\n05:00 PM - 05:30 PM",
+    "DateTimeDisplay": "May 13, 2027\n05:30 PM - 06:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -43985,7 +44106,7 @@
     "EventTag": "11600",
     "EventId": "f5a60101-82ea-4889-8a01-bfdb9ff1f3a6",
     "CreatedDate": "2026-05-14T13:21:32.223",
-    "ModifiedDate": "2026-05-16T01:59:32.02",
+    "ModifiedDate": "2026-08-13T11:43:17.793",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -44009,10 +44130,10 @@
     },
     "Title": "Digital Wellness Parent Education",
     "Description": "Building a Foundation for Kindness and Consideration Online (for 4th, 5th, & 6th grade parents). Learn more about the Digital Responsibility Programming in Health classes, talk to teachers and HS students, learn skills for navigating social device use for your child. \n \nContact Caitlin Hutcheon for more information.",
-    "StartDateTime": "2026-11-05T19:00:00",
-    "SetUpStartDateTime": "2026-11-05T19:00:00",
-    "EndDateTime": "2026-11-05T20:00:00",
-    "BreakdownEndDateTime": "2026-11-05T20:00:00",
+    "StartDateTime": "2026-11-05T18:30:00",
+    "SetUpStartDateTime": "2026-11-05T18:30:00",
+    "EndDateTime": "2026-11-05T19:30:00",
+    "BreakdownEndDateTime": "2026-11-05T19:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -44039,30 +44160,30 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "21acfa8a-3988-4155-b86c-6d2382a2039e",
-        "Name": "122",
-        "NameFormatted": "122",
+        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
         "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 1035,
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3477,
         "SeatingCapacity": 400,
         "MaximumOccupancy": 450,
-        "Description": "Cafeteria",
+        "Description": "Dining",
         "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "122",
-        "IsDeleted": true,
-        "CreatedDate": "2024-12-29T16:59:08.653",
-        "ModifiedDate": "2026-06-03T16:53:16.31"
+        "IsExternallyAvailable": true,
+        "NameSort": "130 LMS Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.72",
+        "ModifiedDate": "2025-08-07T18:47:43.62"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > 122",
-    "DateTimeDisplay": "November 05, 2026\n07:00 PM - 08:00 PM",
+    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "DateTimeDisplay": "November 05, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -44101,7 +44222,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-14T13:21:00",
+    "OverrideDateTime": "2026-08-13T11:43:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -45853,127 +45974,6 @@
     "InsuranceExpired": false
   },
   {
-    "EventTag": "11581",
-    "EventId": "46beeca2-f0a4-4d48-bddf-731efd96e0ab",
-    "CreatedDate": "2026-05-14T12:59:34.183",
-    "ModifiedDate": "2026-05-16T01:59:31.7",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
-    "EventType": {
-      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
-      "CreatedDate": "2025-04-09T01:30:11.187",
-      "ModifiedDate": "2025-04-09T01:30:11.187",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "MS Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "5th Grade Parent Coffee",
-    "Description": "Grade-level coffees offer parents and guardians a chance to connect with one another, hear from school leaders, and learn more about key developmental milestones and program highlights for your child\u2019s year. Whether you're new to the school or a returning family, we hope you'll come enjoy conversation, connection, and a window into life at this grade level.  See the MS newsletter to access the Zoom link.",
-    "StartDateTime": "2026-10-27T12:00:00",
-    "SetUpStartDateTime": "2026-10-27T12:00:00",
-    "EndDateTime": "2026-10-27T12:45:00",
-    "BreakdownEndDateTime": "2026-10-27T12:45:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
-    "Owner": {
-      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Maria Rodriguez",
-      "FullName": "Maria Rodriguez",
-      "Initials": "MR",
-      "FirstName": "Maria",
-      "LastName": "Rodriguez",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "8324805",
-      "Email": "mrodriguez@gds.org",
-      "Username": "mrodriguez@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
-        "Name": "Virtual #01",
-        "NameFormatted": "Virtual #01",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Virtual",
-        "LocationAbbreviation": "VIR",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Virtual/Remote Meeting #01",
-        "InternalNotes": "Virtual/Remote Meeting #01",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "Virtual #01",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:05:12.4",
-        "ModifiedDate": "2025-07-05T20:20:08.967"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 27, 2026\n12:00 PM - 12:45 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
-        "Value": "NA",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
-        "Value": "NA",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
-        "Value": "NA",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": true,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
     "EventTag": "11580",
     "EventId": "38ac881f-0bff-49ec-a28a-cc195233ae9a",
     "CreatedDate": "2026-05-14T12:58:40.74",
@@ -47678,7 +47678,7 @@
     "EventTag": "11567",
     "EventId": "d130571d-7ec1-4551-a920-81574fab5ed6",
     "CreatedDate": "2026-05-14T12:39:47.723",
-    "ModifiedDate": "2026-06-05T15:20:34.613",
+    "ModifiedDate": "2026-08-13T11:32:36.467",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -47701,7 +47701,7 @@
       "Name": "Approved"
     },
     "Title": "7th Grade Overnight Trip",
-    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and students will return on Friday at 8 PM.",
     "StartDateTime": "2026-10-16T08:00:00",
     "SetUpStartDateTime": "2026-10-16T08:00:00",
     "EndDateTime": "2026-10-16T15:00:00",
@@ -47819,7 +47819,7 @@
     "EventTag": "11566",
     "EventId": "8e0c2c81-6762-4fe3-be09-a67d816f0e71",
     "CreatedDate": "2026-05-14T12:34:55.443",
-    "ModifiedDate": "2026-06-05T15:19:54.637",
+    "ModifiedDate": "2026-08-13T11:32:24.217",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -47842,7 +47842,7 @@
       "Name": "Approved"
     },
     "Title": "6th Grade Overnight Trip",
-    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and students will return on Friday at 8 PM.",
     "StartDateTime": "2026-10-16T08:00:00",
     "SetUpStartDateTime": "2026-10-16T08:00:00",
     "EndDateTime": "2026-10-16T15:00:00",
@@ -48081,7 +48081,7 @@
     "EventTag": "11563",
     "EventId": "cdbc3158-0a91-407b-b493-1c35cdcacf61",
     "CreatedDate": "2026-05-14T12:03:53.72",
-    "ModifiedDate": "2026-05-16T01:59:31.357",
+    "ModifiedDate": "2026-08-13T11:31:53.55",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -48104,7 +48104,7 @@
       "Name": "Approved"
     },
     "Title": "7th Grade Overnight Trip",
-    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and students will return on Friday at 8 PM.",
     "StartDateTime": "2026-10-15T08:00:00",
     "SetUpStartDateTime": "2026-10-15T08:00:00",
     "EndDateTime": "2026-10-15T15:30:00",
@@ -48202,7 +48202,7 @@
     "EventTag": "11562",
     "EventId": "be8abe79-cc89-4687-bf60-d5349e06b410",
     "CreatedDate": "2026-05-14T12:02:34.21",
-    "ModifiedDate": "2026-05-16T01:59:32.117",
+    "ModifiedDate": "2026-08-13T11:30:59.99",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -48225,7 +48225,7 @@
       "Name": "Approved"
     },
     "Title": "6th Grade Overnight Trip",
-    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and students will return on Friday at 8 PM.",
     "StartDateTime": "2026-10-15T08:00:00",
     "SetUpStartDateTime": "2026-10-15T08:00:00",
     "EndDateTime": "2026-10-15T15:30:00",
@@ -49559,7 +49559,7 @@
     "EventTag": "11550",
     "EventId": "72448ad4-b47a-4f31-a443-8f399f5cf00d",
     "CreatedDate": "2026-05-14T11:51:44.023",
-    "ModifiedDate": "2026-05-16T01:59:31.797",
+    "ModifiedDate": "2026-08-13T11:25:25.71",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -49581,12 +49581,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "7th Grade Parent Coffee & Overnight Trip Informational Session",
-    "Description": "Grade-level coffees offer parents & guardians a chance to connect with one another, hear from school leaders, & learn more about key developmental milestones & program highlights for your child\u2019s year. Whether you're new to the school or a returning family, we hope you'll come enjoy conversation, connection, & a window into life at this grade level.  Additionally, we will review the upcoming 7th Grade Outdoor Education trip. See the MS newsletter to access the Zoom link.",
+    "Title": "7th Grade Overnight Trip Informational Session",
+    "Description": "7th Grade Overnight Trip Informational Session will held on Zoom",
     "StartDateTime": "2026-10-08T12:00:00",
     "SetUpStartDateTime": "2026-10-08T12:00:00",
-    "EndDateTime": "2026-10-08T13:00:00",
-    "BreakdownEndDateTime": "2026-10-08T13:00:00",
+    "EndDateTime": "2026-10-08T12:45:00",
+    "BreakdownEndDateTime": "2026-10-08T12:45:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -49634,7 +49634,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 08, 2026\n12:00 PM - 01:00 PM",
+    "DateTimeDisplay": "October 08, 2026\n12:00 PM - 12:45 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -49943,7 +49943,7 @@
     "EventTag": "11547",
     "EventId": "976e2e11-2081-4b47-98cd-1456493f3ba7",
     "CreatedDate": "2026-05-14T11:47:06.223",
-    "ModifiedDate": "2026-05-16T01:59:31.317",
+    "ModifiedDate": "2026-08-13T11:24:24.253",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -49965,12 +49965,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "6th Grade Parent Coffee & Overnight Trip Informational Session",
-    "Description": "Grade-level coffees offer parents & guardians a chance to connect with one another, hear from school leaders, & learn about key developmental milestones & program highlights for your child\u2019s year. Whether you're new to the school or a returning family, we hope you'll come enjoy conversation, connection, & a window into life at this grade level.  We will review the goals, logistics, & highlights of the upcoming 6th Grade Outdoor Education trip. See the MS newsletter to access the Zoom link.",
+    "Title": "6th Grade Overnight Trip Informational Session",
+    "Description": "6th Grade Overnight Trip Informational Session will be held via Zoom.",
     "StartDateTime": "2026-10-02T12:00:00",
     "SetUpStartDateTime": "2026-10-02T12:00:00",
-    "EndDateTime": "2026-10-02T13:00:00",
-    "BreakdownEndDateTime": "2026-10-02T13:00:00",
+    "EndDateTime": "2026-10-02T12:45:00",
+    "BreakdownEndDateTime": "2026-10-02T12:45:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -50018,7 +50018,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 02, 2026\n12:00 PM - 01:00 PM",
+    "DateTimeDisplay": "October 02, 2026\n12:00 PM - 12:45 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -57566,7 +57566,7 @@
     "EventTag": "11481",
     "EventId": "ad9920f7-f30c-49d6-8abb-e2b3a146a544",
     "CreatedDate": "2026-05-12T13:33:16.537",
-    "ModifiedDate": "2026-05-16T01:59:17.967",
+    "ModifiedDate": "2026-08-13T11:27:46.623",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -57588,7 +57588,7 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "5th Grade Student Orientation",
+    "Title": "5th Grade Student Orientation & 5th Grade Parent Orientation",
     "Description": "This event is designed to give all fifth graders a jump start to be successful on their first day of middle school.",
     "StartDateTime": "2026-08-31T12:45:00",
     "SetUpStartDateTime": "2026-08-31T12:45:00",
