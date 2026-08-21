@@ -34,7 +34,7 @@ BEGIN:VEVENT
 UID:f2a42ab1-e82b-437a-8706-657589f41b00@gds.incidentiq.com
 SUMMARY:6th Grade Trip to Calleva
 DTSTART;TZID=America/New_York:20270601T080000
-DTEND;TZID=America/New_York:20270601T150000
+DTEND;TZID=America/New_York:20270601T163000
 LOCATION:Offsite #02
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 UID:625aff5c-7b9d-4b20-ac6f-ab9c37ef46ae@gds.incidentiq.com
 SUMMARY:7th Grade Trip to Calleva
 DTSTART;TZID=America/New_York:20270524T080000
-DTEND;TZID=America/New_York:20270524T150000
+DTEND;TZID=America/New_York:20270524T163000
 LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -1825,7 +1825,7 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:0058476b-1d72-42a7-b08b-e2a52d73e626@gds.incidentiq.com
-SUMMARY:Treble Choral Festival Grades 4-6
+SUMMARY:Treble Choral Festival Grades 5-6
 DTSTART;TZID=America/New_York:20270302T190000
 DTEND;TZID=America/New_York:20270302T203000
 DESCRIPTION:Location: National Presbyterian Church
@@ -3694,7 +3694,7 @@ BEGIN:VEVENT
 UID:d8c9e173-d8fd-4f1c-a1d5-87af52bc6970@gds.incidentiq.com
 SUMMARY:8th Grade Trip to Calleva
 DTSTART;TZID=America/New_York:20261009T083000
-DTEND;TZID=America/New_York:20261009T150000
+DTEND;TZID=America/New_York:20261009T163000
 DESCRIPTION:8th graders will travel to Calleva for a day of teambuilding
   and outdoor education.
 LOCATION:Offsite #01
