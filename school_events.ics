@@ -3402,18 +3402,6 @@ LOCATION:220-A
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:64d33090-2cbd-483d-a16b-513790a667f5@gds.incidentiq.com
-SUMMARY:Grandparents' & Special Friends' Day
-DTSTART;TZID=America/New_York:20261023T080000
-DTEND;TZID=America/New_York:20261023T120000
-DESCRIPTION:GDS welcomes the grandparents and special friends of our Low
- er/Middle School students for a visit at the LMS to enjoy brunch\, watch p
- erformances\, and experience the teaching and learning that their loved on
- es participate in each day.
-LOCATION:B201 LMS Flexible Performance Center
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:c3568cce-f69b-4662-9268-5205f7c869db@gds.incidentiq.com
 SUMMARY:Fall Cabaret
 DTSTART;TZID=America/New_York:20261023T190000
