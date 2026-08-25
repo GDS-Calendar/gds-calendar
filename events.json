@@ -53200,7 +53200,7 @@
     "EventTag": "11521",
     "EventId": "6ac46140-a805-41a3-be8c-f1954e33ccab",
     "CreatedDate": "2026-05-14T10:47:19.403",
-    "ModifiedDate": "2026-05-16T01:59:18.05",
+    "ModifiedDate": "2026-08-25T08:26:40.737",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -53222,8 +53222,8 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "PSA Presents: Head of School",
-    "Description": "Join us for our first PSA meeting of the year, featuring a dessert reception before hearing from Head of School Russell Shaw in the LMS Flexible Performance Space. Learn what\u2019s ahead for GDS and how the PSA will support our community this year. This will be an in-person only event.",
+    "Title": "PSA Presents: Head of School Tori Jueds",
+    "Description": "Join us for our first Parent Service Association (PSA) meeting of the year and hear from Head of School Tori Jueds. Learn how the PSA will support our community this year and what\u2019s ahead for GDS! \nThis is an in-person event; light refreshments will be provided.",
     "StartDateTime": "2026-09-16T18:00:00",
     "SetUpStartDateTime": "2026-09-16T18:00:00",
     "EndDateTime": "2026-09-16T20:00:00",
@@ -53316,7 +53316,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-14T10:47:00",
+    "OverrideDateTime": "2026-08-25T08:26:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",

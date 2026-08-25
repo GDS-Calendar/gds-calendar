@@ -3997,14 +3997,13 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:6ac46140-a805-41a3-be8c-f1954e33ccab@gds.incidentiq.com
-SUMMARY:PSA Presents: Head of School
+SUMMARY:PSA Presents: Head of School Tori Jueds
 DTSTART;TZID=America/New_York:20260916T180000
 DTEND;TZID=America/New_York:20260916T200000
-DESCRIPTION:Join us for our first PSA meeting of the year\, featuring a 
- dessert reception before hearing from Head of School Russell Shaw in the L
- MS Flexible Performance Space. Learn what’s ahead for GDS and how the PSA 
- will support our community this year. This will be an in-person only event
- .
+DESCRIPTION:Join us for our first Parent Service Association (PSA) meeti
+ ng of the year and hear from Head of School Tori Jueds. Learn how the PSA 
+ will support our community this year and what’s ahead for GDS! \nThis is a
+ n in-person event\; light refreshments will be provided.
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
