@@ -23,6 +23,18 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:4d803909-d6d6-48ba-925e-9bf782b3b0ee@gds.incidentiq.com
+SUMMARY:Grandparents & Special Friends Day
+DTSTART;TZID=America/New_York:20261023T080000
+DTEND;TZID=America/New_York:20261023T120000
+DESCRIPTION:GDS welcomes the grandparents and special friends of our Low
+ er/Middle School students for a visit at the LMS to enjoy brunch\, watch p
+ erformances\, and experience the teaching and learning that their loved on
+ es participate in each day.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:513e922d-fb91-4689-b3d6-5bf86252fa32@gds.incidentiq.com
 SUMMARY:No classes
 DTSTART;TZID=America/New_York:20260904T080000

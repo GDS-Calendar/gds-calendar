@@ -1,5 +1,126 @@
 [
   {
+    "EventTag": "12247",
+    "EventId": "4d803909-d6d6-48ba-925e-9bf782b3b0ee",
+    "CreatedDate": "2026-08-28T14:25:37.217",
+    "ModifiedDate": "2026-08-28T14:26:00.34",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+    "EventType": {
+      "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+      "CreatedDate": "2025-04-09T01:34:24.48",
+      "ModifiedDate": "2025-04-09T01:34:24.48",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Community Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Grandparents & Special Friends Day",
+    "Description": "GDS welcomes the grandparents and special friends of our Lower/Middle School students for a visit at the LMS to enjoy brunch, watch performances, and experience the teaching and learning that their loved ones participate in each day.",
+    "StartDateTime": "2026-10-23T08:00:00",
+    "SetUpStartDateTime": "2026-10-23T08:00:00",
+    "EndDateTime": "2026-10-23T12:00:00",
+    "BreakdownEndDateTime": "2026-10-23T12:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "October 23, 2026\n08:00 AM - 12:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12089",
     "EventId": "513e922d-fb91-4689-b3d6-5bf86252fa32",
     "CreatedDate": "2026-08-18T10:09:23.66",
