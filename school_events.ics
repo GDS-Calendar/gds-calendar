@@ -9048,37 +9048,4 @@ DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
 LOCATION:Offsite #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:82978452-b952-4720-9484-a2c9f011c2e3@gds.incidentiq.com
-SUMMARY:7th Grade Overnight Trip
-DTSTART;TZID=America/New_York:20251016T080000
-DTEND;TZID=America/New_York:20251016T153000
-DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
- visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
-LOCATION:Offsite #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:c33ea8f9-d011-4f16-8c4a-50d7515defce@gds.incidentiq.com
-SUMMARY:7th Grade Overnight Trip
-DTSTART;TZID=America/New_York:20251015T080000
-DTEND;TZID=America/New_York:20251015T153000
-DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
- visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
-LOCATION:Offsite #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:31b5333b-06af-486d-a0a2-75a428ff42e7@gds.incidentiq.com
-SUMMARY:6th Grade Overnight Trip
-DTSTART;TZID=America/New_York:20251017T080000
-DTEND;TZID=America/New_York:20251017T153000
-DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
- visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
