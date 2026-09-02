@@ -9037,15 +9037,4 @@ DESCRIPTION:All sophomores and juniors are provided the opportunity to t
 LOCATION:204
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:9272caee-4dcd-4f14-8916-1bffdbe1df5c@gds.incidentiq.com
-SUMMARY:7th Grade Overnight Trip
-DTSTART;TZID=America/New_York:20251017T080000
-DTEND;TZID=America/New_York:20251017T153000
-DESCRIPTION:7th graders will travel off campus for their annual trip. Ad
- visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
-LOCATION:Offsite #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
