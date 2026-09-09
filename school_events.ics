@@ -3712,8 +3712,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:99116bff-0aa6-42af-a242-5e57913e2d39@gds.incidentiq.com
 SUMMARY:Understanding College Financial Aid
-DTSTART;TZID=America/New_York:20261005T190000
-DTEND;TZID=America/New_York:20261005T203000
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T200000
 DESCRIPTION:At this program\, families will gain useful information abou
  t how the financial aid process works at colleges and universities\, inclu
  ding applying for need-based financial aid\, the availability of merit-bas
@@ -8987,42 +8987,6 @@ DESCRIPTION:This optional and informal coffee meeting is a great opportu
  rs and connect with other parents engaged in the college process. There is
   no set agenda\; just bring your questions!
 LOCATION:Virtual #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:ac4a8986-e722-4870-9ccd-6b0473b34b06@gds.incidentiq.com
-SUMMARY:Diwali
-DTSTART;TZID=America/New_York:20251020T080000
-DTEND;TZID=America/New_York:20251020T160000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:174dafd4-65ec-4cf4-bdcb-8afe147553e3@gds.incidentiq.com
-SUMMARY:Country Market Day: A Community Festival
-DTSTART;TZID=America/New_York:20251018T110000
-DTEND;TZID=America/New_York:20251018T160000
-DESCRIPTION:Join us for Country Market Day\, GDS's annual fall festival—
- packed with delicious food\, rides and games\, live performances\, vendors
- \, used book store\, Sweet Shoppe\, crafts\, and more!—is a highly spirite
- d event for the entire GDS community and their families. Rain or shine\, C
- ountry Market Day will go on!
-LOCATION:LMS-Campus
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:102b3bad-44e2-48d9-880e-ce1844203c78@gds.incidentiq.com
-SUMMARY:Middle School SOC Mentoring
-DTSTART;TZID=America/New_York:20251015T153000
-DTEND;TZID=America/New_York:20251015T163000
-DESCRIPTION:Please join us for the monthly SOC Mentoring session for MS 
- students of color.  MS SOC Mentoring Program is open to all students of co
- lor in middle school. During MS SOC sessions\, students openly discuss the
- ir experiences and concerns as members of the GDS community. Students shar
- e their successes and accomplishments with one another while also learning
-  how to use one another as resources in approaching challenges and develop
- ing effective problem-solving strategies.
-LOCATION:423
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 END:VCALENDAR
