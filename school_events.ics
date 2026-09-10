@@ -659,8 +659,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:add10272-59a6-42b1-9f8a-2f061e751e32@gds.incidentiq.com
 SUMMARY:Middle School Dance Showcase
-DTSTART;TZID=America/New_York:20270520T183000
-DTEND;TZID=America/New_York:20270520T193000
+DTSTART;TZID=America/New_York:20270513T183000
+DTEND;TZID=America/New_York:20270513T193000
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -828,8 +828,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8429f884-b690-4582-8140-4e0bb9c7f636@gds.incidentiq.com
 SUMMARY:7th & 8th Grade Arts Trips
-DTSTART;TZID=America/New_York:20270514T081500
-DTEND;TZID=America/New_York:20270514T153000
+DTSTART;TZID=America/New_York:20270521T081500
+DTEND;TZID=America/New_York:20270521T153000
 DESCRIPTION:7th and 8th Grade band and chorus members will attend a comp
  etition. More details will be shared as the date approaches. These student
  s will return to campus in the evening.\n \nThe 7th and 8th grade students
@@ -841,8 +841,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f9fe46d0-b347-4d5a-9ada-24432769f0d2@gds.incidentiq.com
 SUMMARY:Middle School Chorus Concert
-DTSTART;TZID=America/New_York:20270513T183000
-DTEND;TZID=America/New_York:20270513T193000
+DTSTART;TZID=America/New_York:20270520T183000
+DTEND;TZID=America/New_York:20270520T193000
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -896,8 +896,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aa3630df-2526-4b57-9068-723d72fe71c0@gds.incidentiq.com
 SUMMARY:7th & 8th Grade Visual Art Show Opening
-DTSTART;TZID=America/New_York:20270513T173000
-DTEND;TZID=America/New_York:20270513T183000
+DTSTART;TZID=America/New_York:20270520T173000
+DTEND;TZID=America/New_York:20270520T183000
 LOCATION:LMS-Campus
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
