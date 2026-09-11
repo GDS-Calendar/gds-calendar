@@ -8925,12 +8925,4 @@ DTEND;TZID=America/New_York:20251030T150000
 LOCATION:310
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:6e31a095-4c35-40cf-901d-87050b2b3da2@gds.incidentiq.com
-SUMMARY:High School Jazz Residency Program
-DTSTART;TZID=America/New_York:20251029T090000
-DTEND;TZID=America/New_York:20251029T150000
-LOCATION:310
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
