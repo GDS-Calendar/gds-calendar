@@ -8917,12 +8917,4 @@ DESCRIPTION:The GDS College Counseling Office invites students in 10th t
 LOCATION:L101 HS Turf Room
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:c20b6fa1-71c9-4a7a-a8f1-1055b38757ce@gds.incidentiq.com
-SUMMARY:High School Jazz Residency Program
-DTSTART;TZID=America/New_York:20251030T090000
-DTEND;TZID=America/New_York:20251030T150000
-LOCATION:310
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
