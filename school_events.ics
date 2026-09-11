@@ -8895,26 +8895,4 @@ DESCRIPTION:Join the 11th and 12th Grade Dean for a Presentation and Con
 LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:2c5bcf71-b6de-412f-983c-42718f81c617@gds.incidentiq.com
-SUMMARY:ISCF Choral Concert
-DTSTART;TZID=America/New_York:20251029T190000
-DTEND;TZID=America/New_York:20251029T210000
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:c114bcde-32b3-45c6-b1bf-4ece1004857a@gds.incidentiq.com
-SUMMARY:10th\, 11th & 12th Grade Mini College Fair
-DTSTART;TZID=America/New_York:20251015T141500
-DTEND;TZID=America/New_York:20251015T151500
-DESCRIPTION:The GDS College Counseling Office invites students in 10th t
- hrough 12th grades to attend our mini college fair. We host 30-40 differen
- t college representatives at GDS after classes end at 2:15pm. This is a wo
- nderful opportunity for students to discover a wide range of colleges and 
- universities\, sign up for some mailing lists\, and ask questions in a cas
- ual format.
-LOCATION:L101 HS Turf Room
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
