@@ -38005,7 +38005,7 @@
     "EventTag": "11655",
     "EventId": "a7ce35e9-4e68-474d-9bcc-d9388182abd3",
     "CreatedDate": "2026-05-18T15:18:14.823",
-    "ModifiedDate": "2026-05-18T15:18:14.823",
+    "ModifiedDate": "2026-09-14T12:30:46.38",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -38028,11 +38028,11 @@
       "Name": "Approved"
     },
     "Title": "Annual Young Alumni Thanksgiving Bash",
-    "Description": "Get into the spirit of the holiday season by gathering with fellow GDS alumni for this annual Thanksgiving weekend tradition! Come on out and enjoy food, drinks, and great conversation. Please email alumni@gds.org for more information.",
-    "StartDateTime": "2026-11-27T19:00:00",
-    "SetUpStartDateTime": "2026-11-27T19:00:00",
-    "EndDateTime": "2026-11-27T21:00:00",
-    "BreakdownEndDateTime": "2026-11-27T21:00:00",
+    "Description": "Get into the spirit of the holiday season by gathering with fellow GDS alumni for this annual Thanksgiving weekend tradition! Come out to Puttery DC and enjoy food, drinks, great conversation, and a round of mini golf! Go to: https://www.givecampus.com/schools/GeorgetownDaySchool/events/gds-young-alumni-bash or alumni@gds.org for more information. 21 and up only.",
+    "StartDateTime": "2026-11-27T19:30:00",
+    "SetUpStartDateTime": "2026-11-27T19:30:00",
+    "EndDateTime": "2026-11-27T21:30:00",
+    "BreakdownEndDateTime": "2026-11-27T21:30:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -38080,7 +38080,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "OFF > Offsite #01",
-    "DateTimeDisplay": "November 27, 2026\n07:00 PM - 09:00 PM",
+    "DateTimeDisplay": "November 27, 2026\n07:30 PM - 09:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -38119,7 +38119,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-18T15:18:00",
+    "OverrideDateTime": "2026-09-14T12:30:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
