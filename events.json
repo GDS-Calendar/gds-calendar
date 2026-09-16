@@ -114481,5 +114481,4500 @@
     "SkipAvailabilityCheck": false,
     "InsuranceExpiring": false,
     "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10208",
+    "EventId": "9ad080ca-7664-49d6-abed-1e827537a0d1",
+    "CreatedDate": "2025-07-18T11:00:02.32",
+    "ModifiedDate": "2025-07-18T11:00:02.32",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "[PSA] Parent Coffee with HS Dean: 11th & 12th Grades",
+    "Description": "Join the 11th and 12th Grade Dean for a Presentation and Conversation. For more information, please contact GDS PSA at psa@gds.org.",
+    "StartDateTime": "2025-10-23T08:45:00",
+    "SetUpStartDateTime": "2025-10-23T08:45:00",
+    "EndDateTime": "2025-10-23T09:45:00",
+    "BreakdownEndDateTime": "2025-10-23T09:45:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
+        "Name": "220 HS Library (Full)",
+        "NameFormatted": "220 HS Library (Full)",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "SeatingCapacity": 200,
+        "MaximumOccupancy": 200,
+        "Description": "Library",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "220 HS Library (Full)",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.98",
+        "ModifiedDate": "2025-08-07T18:51:21.867"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 220 HS Library (Full)",
+    "DateTimeDisplay": "October 23, 2025\n08:45 AM - 09:45 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10207",
+    "EventId": "2c5bcf71-b6de-412f-983c-42718f81c617",
+    "CreatedDate": "2025-07-18T10:58:39.58",
+    "ModifiedDate": "2025-07-18T10:58:39.58",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "ISCF Choral Concert",
+    "Description": "",
+    "StartDateTime": "2025-10-29T19:00:00",
+    "SetUpStartDateTime": "2025-10-29T19:00:00",
+    "EndDateTime": "2025-10-29T21:00:00",
+    "BreakdownEndDateTime": "2025-10-29T21:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 29, 2025\n07:00 PM - 09:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10206",
+    "EventId": "c114bcde-32b3-45c6-b1bf-4ece1004857a",
+    "CreatedDate": "2025-07-18T10:54:52.823",
+    "ModifiedDate": "2025-07-18T10:54:52.823",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+    "EventType": {
+      "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+      "CreatedDate": "2025-04-09T01:29:23.74",
+      "ModifiedDate": "2025-04-09T01:29:23.74",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "College Counseling Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "10th, 11th & 12th Grade Mini College Fair",
+    "Description": "The GDS College Counseling Office invites students in 10th through 12th grades to attend our mini college fair. We host 30-40 different college representatives at GDS after classes end at 2:15pm. This is a wonderful opportunity for students to discover a wide range of colleges and universities, sign up for some mailing lists, and ask questions in a casual format.",
+    "StartDateTime": "2025-10-15T14:15:00",
+    "SetUpStartDateTime": "2025-10-15T14:15:00",
+    "EndDateTime": "2025-10-15T15:15:00",
+    "BreakdownEndDateTime": "2025-10-15T15:15:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "6998c110-ac31-40c0-91c3-33dcf946e553",
+        "Name": "L101 HS Turf Room",
+        "NameFormatted": "L101 HS Turf Room",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "5b4d4bc2-10cb-3bdb-0ab3-214c5ea18ce9",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 1000,
+        "SeatingCapacity": 75,
+        "MaximumOccupancy": 75,
+        "Description": "Turf Room",
+        "InternalNotes": "Turf Room",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "L101 HS Turf Room",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-10T23:15:31.407",
+        "ModifiedDate": "2025-08-07T19:10:49.627"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > L101 HS Turf Room",
+    "DateTimeDisplay": "October 15, 2025\n02:15 PM - 03:15 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10205",
+    "EventId": "c20b6fa1-71c9-4a7a-a8f1-1055b38757ce",
+    "CreatedDate": "2025-07-18T10:53:34.863",
+    "ModifiedDate": "2025-07-18T10:53:34.863",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "High School Jazz Residency Program",
+    "Description": "",
+    "StartDateTime": "2025-10-30T09:00:00",
+    "SetUpStartDateTime": "2025-10-30T09:00:00",
+    "EndDateTime": "2025-10-30T15:00:00",
+    "BreakdownEndDateTime": "2025-10-30T15:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "7d2e9a68-f1cd-4b7d-8cbb-a1506383ba3d",
+    "SeriesType": 1,
+    "ParentEventId": "216279fe-6086-432a-a6cb-dd8fd72ec9b2",
+    "SeriesId": "272b50a9-e230-4e72-854f-1d283722c38a",
+    "SeriesInfo": {
+      "SeriesId": "272b50a9-e230-4e72-854f-1d283722c38a",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-28T09:00:00",
+      "MaxStartDatetime": "2025-10-30T09:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "7d2e9a68-f1cd-4b7d-8cbb-a1506383ba3d",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:53:34.7",
+      "ModifiedDate": "2025-07-18T14:53:34.7",
+      "Name": "Daily at 9:00 AM until 10/30/25",
+      "Pattern": "Daily",
+      "StartTime": "09:00:00",
+      "StopRecurringDate": "2025-10-30T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "23f47e05-7a58-40e5-aaa2-fc25cbc21ad8",
+        "Name": "310",
+        "NameFormatted": "310",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "SeatingCapacity": 18,
+        "MaximumOccupancy": 18,
+        "Description": "Band Room (Main)",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "310",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.2",
+        "ModifiedDate": "2025-01-15T19:52:02.2"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 310",
+    "DateTimeDisplay": "October 30, 2025\n09:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10204",
+    "EventId": "6e31a095-4c35-40cf-901d-87050b2b3da2",
+    "CreatedDate": "2025-07-18T10:53:34.857",
+    "ModifiedDate": "2025-07-18T10:53:34.857",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "High School Jazz Residency Program",
+    "Description": "",
+    "StartDateTime": "2025-10-29T09:00:00",
+    "SetUpStartDateTime": "2025-10-29T09:00:00",
+    "EndDateTime": "2025-10-29T15:00:00",
+    "BreakdownEndDateTime": "2025-10-29T15:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "7d2e9a68-f1cd-4b7d-8cbb-a1506383ba3d",
+    "SeriesType": 1,
+    "ParentEventId": "216279fe-6086-432a-a6cb-dd8fd72ec9b2",
+    "SeriesId": "272b50a9-e230-4e72-854f-1d283722c38a",
+    "SeriesInfo": {
+      "SeriesId": "272b50a9-e230-4e72-854f-1d283722c38a",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-28T09:00:00",
+      "MaxStartDatetime": "2025-10-30T09:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "7d2e9a68-f1cd-4b7d-8cbb-a1506383ba3d",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:53:34.7",
+      "ModifiedDate": "2025-07-18T14:53:34.7",
+      "Name": "Daily at 9:00 AM until 10/30/25",
+      "Pattern": "Daily",
+      "StartTime": "09:00:00",
+      "StopRecurringDate": "2025-10-30T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "23f47e05-7a58-40e5-aaa2-fc25cbc21ad8",
+        "Name": "310",
+        "NameFormatted": "310",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "SeatingCapacity": 18,
+        "MaximumOccupancy": 18,
+        "Description": "Band Room (Main)",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "310",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.2",
+        "ModifiedDate": "2025-01-15T19:52:02.2"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 310",
+    "DateTimeDisplay": "October 29, 2025\n09:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10203",
+    "EventId": "216279fe-6086-432a-a6cb-dd8fd72ec9b2",
+    "CreatedDate": "2025-07-18T10:53:34.85",
+    "ModifiedDate": "2025-07-18T10:53:34.85",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "High School Jazz Residency Program",
+    "Description": "",
+    "StartDateTime": "2025-10-28T09:00:00",
+    "SetUpStartDateTime": "2025-10-28T09:00:00",
+    "EndDateTime": "2025-10-28T15:00:00",
+    "BreakdownEndDateTime": "2025-10-28T15:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "7d2e9a68-f1cd-4b7d-8cbb-a1506383ba3d",
+    "SeriesType": 1,
+    "SeriesId": "272b50a9-e230-4e72-854f-1d283722c38a",
+    "SeriesInfo": {
+      "SeriesId": "272b50a9-e230-4e72-854f-1d283722c38a",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-28T09:00:00",
+      "MaxStartDatetime": "2025-10-30T09:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "7d2e9a68-f1cd-4b7d-8cbb-a1506383ba3d",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:53:34.7",
+      "ModifiedDate": "2025-07-18T14:53:34.7",
+      "Name": "Daily at 9:00 AM until 10/30/25",
+      "Pattern": "Daily",
+      "StartTime": "09:00:00",
+      "StopRecurringDate": "2025-10-30T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "23f47e05-7a58-40e5-aaa2-fc25cbc21ad8",
+        "Name": "310",
+        "NameFormatted": "310",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9038-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "SeatingCapacity": 18,
+        "MaximumOccupancy": 18,
+        "Description": "Band Room (Main)",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "310",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:02.2",
+        "ModifiedDate": "2025-01-15T19:52:02.2"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 310",
+    "DateTimeDisplay": "October 28, 2025\n09:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10202",
+    "EventId": "bfc69dcd-e31d-4b0b-bb44-ed7aa1caef26",
+    "CreatedDate": "2025-07-18T10:52:06.447",
+    "ModifiedDate": "2025-07-18T10:52:06.447",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "5th Grade Calleva Trip",
+    "Description": "",
+    "StartDateTime": "2025-10-22T08:00:00",
+    "SetUpStartDateTime": "2025-10-22T08:00:00",
+    "EndDateTime": "2025-10-22T15:00:00",
+    "BreakdownEndDateTime": "2025-10-22T15:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 22, 2025\n08:00 AM - 03:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10201",
+    "EventId": "7e7d4a4e-416c-47ed-948d-de667ddd6ca5",
+    "CreatedDate": "2025-07-18T10:50:38.487",
+    "ModifiedDate": "2025-08-27T09:58:27.88",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "fef5e03e-a3b8-88f5-479e-4f9aa86ee422",
+    "EventType": {
+      "EventTypeId": "fef5e03e-a3b8-88f5-479e-4f9aa86ee422",
+      "CreatedDate": "2025-04-09T01:26:59.787",
+      "ModifiedDate": "2025-04-09T01:26:59.787",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Admissions Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "VIRTUAL: High School Admissions Open House",
+    "Description": "Our High School Open House offers prospective High School families (parents/guardians and students) an opportunity to explore our curriculum and community during an interactive information session featuring our school leadership, faculty, and students. \n\nPlease register for this Open House on Ravenna (https://www.ravenna-hub.com/login). Open Houses are not required as part of our admissions process; however, we do hope you will register and explore GDS as a fit for your family.",
+    "StartDateTime": "2025-10-21T17:00:00",
+    "SetUpStartDateTime": "2025-10-21T17:00:00",
+    "EndDateTime": "2025-10-21T18:30:00",
+    "BreakdownEndDateTime": "2025-10-21T18:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "4e019b84-d206-48d8-9ceb-287d99bc7b4c",
+        "Name": "Virtual #04",
+        "NameFormatted": "Virtual #04",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #04",
+        "InternalNotes": "Virtual/Remote Meeting #04",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #04",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:21:26.7",
+        "ModifiedDate": "2025-07-05T20:21:26.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #04",
+    "DateTimeDisplay": "October 21, 2025\n05:00 PM - 06:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10200",
+    "EventId": "cb798164-4e18-45d6-8a04-0f4fe6283719",
+    "CreatedDate": "2025-07-18T10:47:44.147",
+    "ModifiedDate": "2025-10-21T11:44:04.127",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "306a99bb-f057-a2f1-96eb-1b18f1bfb943",
+    "EventType": {
+      "EventTypeId": "306a99bb-f057-a2f1-96eb-1b18f1bfb943",
+      "CreatedDate": "2025-07-03T00:30:05.6",
+      "ModifiedDate": "2025-07-03T00:30:05.6",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Auxiliary Programs Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "GDS 360 Registration for Season 2 Opens",
+    "Description": "Don't forget to enroll in the exciting enrichment class offerings through the GDS 360 Extended Day Program! Registration closes November 16.  Classes fill quickly so register early. Families receiving financial aid should check their emails for a financial aid code from the GDS 360 team. \n\nRegistration Portal: gds360.campbrainregistration.com",
+    "StartDateTime": "2025-10-22T12:00:00",
+    "SetUpStartDateTime": "2025-10-22T12:00:00",
+    "EndDateTime": "2025-10-22T16:00:00",
+    "BreakdownEndDateTime": "2025-10-22T16:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "6ee1e31b-8533-41b7-90f8-fab72105b429",
+    "SeriesType": 1,
+    "ParentEventId": "d040c1f0-1ba6-4d83-b42c-7bddbfdd821b",
+    "SeriesId": "1a533f6c-ebd3-4e7a-aef2-10361250b8a7",
+    "SeriesInfo": {
+      "SeriesId": "1a533f6c-ebd3-4e7a-aef2-10361250b8a7",
+      "NumberOfEvents": 1,
+      "MinStartDatetime": "2025-10-22T12:00:00",
+      "MaxStartDatetime": "2025-10-22T12:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "6ee1e31b-8533-41b7-90f8-fab72105b429",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:47:43.987",
+      "ModifiedDate": "2025-07-18T14:47:43.987",
+      "Name": "Daily at 8:00 AM until 10/22/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-22T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "205a0cbe-3a21-49c5-9e92-c817bbda9749",
+        "Name": "Virtual #03",
+        "NameFormatted": "Virtual #03",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #03",
+        "InternalNotes": "Virtual/Remote Meeting #03",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #03",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:21:01.4",
+        "ModifiedDate": "2025-07-05T20:21:01.4"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #03",
+    "DateTimeDisplay": "October 22, 2025\n12:00 PM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10197",
+    "EventId": "4789f0fa-d88b-43bc-80e5-d15330e7e2b7",
+    "CreatedDate": "2025-07-18T10:45:36.517",
+    "ModifiedDate": "2025-07-18T10:45:36.517",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+    "EventType": {
+      "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+      "CreatedDate": "2025-04-09T01:29:23.74",
+      "ModifiedDate": "2025-04-09T01:29:23.74",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "College Counseling Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "12th Grade Parents College Counseling Coffee",
+    "Description": "This optional and informal coffee meeting is a great opportunity for senior parents/guardians to ask questions of the college counselors and connect with other parents engaged in the college process. There is no set agenda; just bring your questions!",
+    "StartDateTime": "2025-10-20T08:45:00",
+    "SetUpStartDateTime": "2025-10-20T08:45:00",
+    "EndDateTime": "2025-10-20T09:45:00",
+    "BreakdownEndDateTime": "2025-10-20T09:45:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3a5d6d4c-80f7-4d8a-bde6-cd14fbe2b5d5",
+        "Name": "Virtual #02",
+        "NameFormatted": "Virtual #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #02",
+        "InternalNotes": "Virtual/Remote Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:20:35.543",
+        "ModifiedDate": "2025-07-05T20:20:35.543"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #02",
+    "DateTimeDisplay": "October 20, 2025\n08:45 AM - 09:45 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10196",
+    "EventId": "ac4a8986-e722-4870-9ccd-6b0473b34b06",
+    "CreatedDate": "2025-07-18T10:43:58.323",
+    "ModifiedDate": "2025-07-18T10:43:58.323",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Diwali",
+    "Description": "",
+    "StartDateTime": "2025-10-20T08:00:00",
+    "SetUpStartDateTime": "2025-10-20T08:00:00",
+    "EndDateTime": "2025-10-20T16:00:00",
+    "BreakdownEndDateTime": "2025-10-20T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "October 20, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10195",
+    "EventId": "174dafd4-65ec-4cf4-bdcb-8afe147553e3",
+    "CreatedDate": "2025-07-18T10:43:00.66",
+    "ModifiedDate": "2025-07-18T10:43:00.66",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+    "EventType": {
+      "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+      "CreatedDate": "2025-04-09T01:34:24.48",
+      "ModifiedDate": "2025-04-09T01:34:24.48",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Community Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Country Market Day: A Community Festival",
+    "Description": "Join us for Country Market Day, GDS's annual fall festival\u2014packed with delicious food, rides and games, live performances, vendors, used book store, Sweet Shoppe, crafts, and more!\u2014is a highly spirited event for the entire GDS community and their families. Rain or shine, Country Market Day will go on!",
+    "StartDateTime": "2025-10-18T11:00:00",
+    "SetUpStartDateTime": "2025-10-18T11:00:00",
+    "EndDateTime": "2025-10-18T16:00:00",
+    "BreakdownEndDateTime": "2025-10-18T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "October 18, 2025\n11:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-07-18T10:43:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10194",
+    "EventId": "102b3bad-44e2-48d9-880e-ce1844203c78",
+    "CreatedDate": "2025-07-18T10:40:41.817",
+    "ModifiedDate": "2025-07-18T10:40:41.817",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "60b69159-1db5-9207-09c4-5fab12681b72",
+    "EventType": {
+      "EventTypeId": "60b69159-1db5-9207-09c4-5fab12681b72",
+      "CreatedDate": "2025-04-09T01:28:57.057",
+      "ModifiedDate": "2025-04-09T01:28:57.057",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "DEI Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Middle School SOC Mentoring",
+    "Description": "Please join us for the monthly SOC Mentoring session for MS students of color.  MS SOC Mentoring Program is open to all students of color in middle school. During MS SOC sessions, students openly discuss their experiences and concerns as members of the GDS community. Students share their successes and accomplishments with one another while also learning how to use one another as resources in approaching challenges and developing effective problem-solving strategies.",
+    "StartDateTime": "2025-10-15T15:30:00",
+    "SetUpStartDateTime": "2025-10-15T15:30:00",
+    "EndDateTime": "2025-10-15T16:30:00",
+    "BreakdownEndDateTime": "2025-10-15T16:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d5eaa707-09f8-412c-adcc-2739099a8627",
+        "Name": "423",
+        "NameFormatted": "423",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 535,
+        "SeatingCapacity": 20,
+        "MaximumOccupancy": 30,
+        "Description": "Grade 8 Classroom",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "423",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T19:24:21.513",
+        "ModifiedDate": "2025-04-09T01:10:43.433"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 423",
+    "DateTimeDisplay": "October 15, 2025\n03:30 PM - 04:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10193",
+    "EventId": "92e329ee-ed63-47d4-aab4-f801fd07af06",
+    "CreatedDate": "2025-07-18T10:38:29.45",
+    "ModifiedDate": "2025-07-18T10:39:18.57",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+    "EventType": {
+      "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+      "CreatedDate": "2025-04-09T01:29:23.74",
+      "ModifiedDate": "2025-04-09T01:29:23.74",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "College Counseling Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "10th & 11th Grade PSAT Administration",
+    "Description": "All sophomores and juniors are provided the opportunity to take the PSAT, a practice exam for the SAT. GDS automatically registers students. Students should be at school and in their assigned rooms by 8:30 am. Bring two sharpened #2 pencils and a calculator.",
+    "StartDateTime": "2025-10-15T09:00:00",
+    "SetUpStartDateTime": "2025-10-15T09:00:00",
+    "EndDateTime": "2025-10-15T13:00:00",
+    "BreakdownEndDateTime": "2025-10-15T13:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "531b00c9-9d7c-453c-a895-970f09fd6037",
+        "Name": "204",
+        "NameFormatted": "204",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "SeatingCapacity": 14,
+        "MaximumOccupancy": 14,
+        "Description": "Classroom",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "204",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.897",
+        "ModifiedDate": "2025-04-09T01:10:43.637"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 204",
+    "DateTimeDisplay": "October 15, 2025\n09:00 AM - 01:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10192",
+    "EventId": "9272caee-4dcd-4f14-8916-1bffdbe1df5c",
+    "CreatedDate": "2025-07-18T10:34:35.25",
+    "ModifiedDate": "2025-07-18T10:34:35.25",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "7th Grade Overnight Trip",
+    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "StartDateTime": "2025-10-17T08:00:00",
+    "SetUpStartDateTime": "2025-10-17T08:00:00",
+    "EndDateTime": "2025-10-17T15:30:00",
+    "BreakdownEndDateTime": "2025-10-17T15:30:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "8b027344-56be-4026-a84c-53d6d47885b8",
+    "SeriesType": 1,
+    "ParentEventId": "c33ea8f9-d011-4f16-8c4a-50d7515defce",
+    "SeriesId": "b2abcea4-c3be-4917-bce2-aa76d7fdb9b5",
+    "SeriesInfo": {
+      "SeriesId": "b2abcea4-c3be-4917-bce2-aa76d7fdb9b5",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-15T08:00:00",
+      "MaxStartDatetime": "2025-10-17T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "8b027344-56be-4026-a84c-53d6d47885b8",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:34:35.117",
+      "ModifiedDate": "2025-07-18T14:34:35.117",
+      "Name": "Daily at 8:00 AM until 10/17/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-17T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d4284312-c291-4923-ad91-d930440aee09",
+        "Name": "Offsite #02",
+        "NameFormatted": "Offsite #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #02",
+        "InternalNotes": "Offsite Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-03T23:20:37.173",
+        "ModifiedDate": "2025-07-03T23:21:03.713"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #02",
+    "DateTimeDisplay": "October 17, 2025\n08:00 AM - 03:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10191",
+    "EventId": "82978452-b952-4720-9484-a2c9f011c2e3",
+    "CreatedDate": "2025-07-18T10:34:35.243",
+    "ModifiedDate": "2025-07-18T10:34:35.243",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "7th Grade Overnight Trip",
+    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "StartDateTime": "2025-10-16T08:00:00",
+    "SetUpStartDateTime": "2025-10-16T08:00:00",
+    "EndDateTime": "2025-10-16T15:30:00",
+    "BreakdownEndDateTime": "2025-10-16T15:30:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "8b027344-56be-4026-a84c-53d6d47885b8",
+    "SeriesType": 1,
+    "ParentEventId": "c33ea8f9-d011-4f16-8c4a-50d7515defce",
+    "SeriesId": "b2abcea4-c3be-4917-bce2-aa76d7fdb9b5",
+    "SeriesInfo": {
+      "SeriesId": "b2abcea4-c3be-4917-bce2-aa76d7fdb9b5",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-15T08:00:00",
+      "MaxStartDatetime": "2025-10-17T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "8b027344-56be-4026-a84c-53d6d47885b8",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:34:35.117",
+      "ModifiedDate": "2025-07-18T14:34:35.117",
+      "Name": "Daily at 8:00 AM until 10/17/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-17T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d4284312-c291-4923-ad91-d930440aee09",
+        "Name": "Offsite #02",
+        "NameFormatted": "Offsite #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #02",
+        "InternalNotes": "Offsite Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-03T23:20:37.173",
+        "ModifiedDate": "2025-07-03T23:21:03.713"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #02",
+    "DateTimeDisplay": "October 16, 2025\n08:00 AM - 03:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10190",
+    "EventId": "c33ea8f9-d011-4f16-8c4a-50d7515defce",
+    "CreatedDate": "2025-07-18T10:34:35.23",
+    "ModifiedDate": "2025-07-18T10:34:35.23",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "7th Grade Overnight Trip",
+    "Description": "7th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "StartDateTime": "2025-10-15T08:00:00",
+    "SetUpStartDateTime": "2025-10-15T08:00:00",
+    "EndDateTime": "2025-10-15T15:30:00",
+    "BreakdownEndDateTime": "2025-10-15T15:30:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "8b027344-56be-4026-a84c-53d6d47885b8",
+    "SeriesType": 1,
+    "SeriesId": "b2abcea4-c3be-4917-bce2-aa76d7fdb9b5",
+    "SeriesInfo": {
+      "SeriesId": "b2abcea4-c3be-4917-bce2-aa76d7fdb9b5",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-15T08:00:00",
+      "MaxStartDatetime": "2025-10-17T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "8b027344-56be-4026-a84c-53d6d47885b8",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:34:35.117",
+      "ModifiedDate": "2025-07-18T14:34:35.117",
+      "Name": "Daily at 8:00 AM until 10/17/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-17T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "d4284312-c291-4923-ad91-d930440aee09",
+        "Name": "Offsite #02",
+        "NameFormatted": "Offsite #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #02",
+        "InternalNotes": "Offsite Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-03T23:20:37.173",
+        "ModifiedDate": "2025-07-03T23:21:03.713"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #02",
+    "DateTimeDisplay": "October 15, 2025\n08:00 AM - 03:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10189",
+    "EventId": "31b5333b-06af-486d-a0a2-75a428ff42e7",
+    "CreatedDate": "2025-07-18T10:31:38.82",
+    "ModifiedDate": "2025-07-18T10:31:38.82",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "6th Grade Overnight Trip",
+    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "StartDateTime": "2025-10-17T08:00:00",
+    "SetUpStartDateTime": "2025-10-17T08:00:00",
+    "EndDateTime": "2025-10-17T15:30:00",
+    "BreakdownEndDateTime": "2025-10-17T15:30:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "e4754ba0-a76d-4747-8334-d9ccb7818cd6",
+    "SeriesType": 1,
+    "ParentEventId": "91a3c84e-c7b0-4b90-8e58-7b265f2af3b1",
+    "SeriesId": "b3ae8892-8c17-4e3a-a6aa-0dac787803af",
+    "SeriesInfo": {
+      "SeriesId": "b3ae8892-8c17-4e3a-a6aa-0dac787803af",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-15T08:00:00",
+      "MaxStartDatetime": "2025-10-17T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "e4754ba0-a76d-4747-8334-d9ccb7818cd6",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:31:38.66",
+      "ModifiedDate": "2025-07-18T14:31:38.66",
+      "Name": "Daily at 8:00 AM until 10/17/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-17T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 17, 2025\n08:00 AM - 03:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10188",
+    "EventId": "ab9dabce-c45e-4765-9b75-1b04121b0c85",
+    "CreatedDate": "2025-07-18T10:31:38.813",
+    "ModifiedDate": "2025-07-18T10:31:38.813",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "6th Grade Overnight Trip",
+    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "StartDateTime": "2025-10-16T08:00:00",
+    "SetUpStartDateTime": "2025-10-16T08:00:00",
+    "EndDateTime": "2025-10-16T15:30:00",
+    "BreakdownEndDateTime": "2025-10-16T15:30:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "e4754ba0-a76d-4747-8334-d9ccb7818cd6",
+    "SeriesType": 1,
+    "ParentEventId": "91a3c84e-c7b0-4b90-8e58-7b265f2af3b1",
+    "SeriesId": "b3ae8892-8c17-4e3a-a6aa-0dac787803af",
+    "SeriesInfo": {
+      "SeriesId": "b3ae8892-8c17-4e3a-a6aa-0dac787803af",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-15T08:00:00",
+      "MaxStartDatetime": "2025-10-17T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "e4754ba0-a76d-4747-8334-d9ccb7818cd6",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:31:38.66",
+      "ModifiedDate": "2025-07-18T14:31:38.66",
+      "Name": "Daily at 8:00 AM until 10/17/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-17T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 16, 2025\n08:00 AM - 03:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10187",
+    "EventId": "91a3c84e-c7b0-4b90-8e58-7b265f2af3b1",
+    "CreatedDate": "2025-07-18T10:31:38.8",
+    "ModifiedDate": "2025-07-18T10:31:38.8",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "6th Grade Overnight Trip",
+    "Description": "6th graders will travel off campus for their annual trip. Advisors will be in touch with families regarding the details. The event starts at 8:00 AM on the first day and ends at 3:30 PM on the last day.",
+    "StartDateTime": "2025-10-15T08:00:00",
+    "SetUpStartDateTime": "2025-10-15T08:00:00",
+    "EndDateTime": "2025-10-15T15:30:00",
+    "BreakdownEndDateTime": "2025-10-15T15:30:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "e4754ba0-a76d-4747-8334-d9ccb7818cd6",
+    "SeriesType": 1,
+    "SeriesId": "b3ae8892-8c17-4e3a-a6aa-0dac787803af",
+    "SeriesInfo": {
+      "SeriesId": "b3ae8892-8c17-4e3a-a6aa-0dac787803af",
+      "NumberOfEvents": 3,
+      "MinStartDatetime": "2025-10-15T08:00:00",
+      "MaxStartDatetime": "2025-10-17T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "e4754ba0-a76d-4747-8334-d9ccb7818cd6",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:31:38.66",
+      "ModifiedDate": "2025-07-18T14:31:38.66",
+      "Name": "Daily at 8:00 AM until 10/17/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-17T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 15, 2025\n08:00 AM - 03:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10186",
+    "EventId": "4f52c9b0-3c1b-41f3-be52-db1d88f3f50f",
+    "CreatedDate": "2025-07-18T10:29:30.65",
+    "ModifiedDate": "2025-07-29T21:24:35.05",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "306a99bb-f057-a2f1-96eb-1b18f1bfb943",
+    "EventType": {
+      "EventTypeId": "306a99bb-f057-a2f1-96eb-1b18f1bfb943",
+      "CreatedDate": "2025-07-03T00:30:05.6",
+      "ModifiedDate": "2025-07-03T00:30:05.6",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Auxiliary Programs Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Fall Break - Break Camp",
+    "Description": "Join us for an exciting break camp at GDS! Details will be posted in the fall at www.gds.org/breakcamp!",
+    "StartDateTime": "2025-10-14T08:00:00",
+    "SetUpStartDateTime": "2025-10-14T08:00:00",
+    "EndDateTime": "2025-10-14T16:00:00",
+    "BreakdownEndDateTime": "2025-10-14T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "14764dc3-fb01-427f-a34c-5a691a1a367c",
+        "Name": "131",
+        "NameFormatted": "131",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9033-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "Area": 107,
+        "SeatingCapacity": 400,
+        "MaximumOccupancy": 450,
+        "Description": "Dining Office 2",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "131",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.723",
+        "ModifiedDate": "2024-12-29T16:59:08.723"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 131",
+    "DateTimeDisplay": "October 14, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10185",
+    "EventId": "f3a8e0e4-4ced-4c9a-bf91-f3dac3affa3a",
+    "CreatedDate": "2025-07-18T10:28:36.48",
+    "ModifiedDate": "2025-07-18T10:28:36.48",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "School Resumes",
+    "Description": "",
+    "StartDateTime": "2025-10-15T08:00:00",
+    "SetUpStartDateTime": "2025-10-15T08:00:00",
+    "EndDateTime": "2025-10-15T16:00:00",
+    "BreakdownEndDateTime": "2025-10-15T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "October 15, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10184",
+    "EventId": "ee020e50-eb7f-45b3-be33-d05ec470a3b3",
+    "CreatedDate": "2025-07-18T10:25:51.543",
+    "ModifiedDate": "2025-07-18T10:26:42.663",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "In-Service Day (no classes)",
+    "Description": "This is a GDS faculty/staff professional day. There will be no school for GDS students.",
+    "StartDateTime": "2025-10-14T08:00:00",
+    "SetUpStartDateTime": "2025-10-14T08:00:00",
+    "EndDateTime": "2025-10-14T16:00:00",
+    "BreakdownEndDateTime": "2025-10-14T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3a5d6d4c-80f7-4d8a-bde6-cd14fbe2b5d5",
+        "Name": "Virtual #02",
+        "NameFormatted": "Virtual #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #02",
+        "InternalNotes": "Virtual/Remote Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:20:35.543",
+        "ModifiedDate": "2025-07-05T20:20:35.543"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #02",
+    "DateTimeDisplay": "October 14, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10183",
+    "EventId": "a6ff36bc-caa2-4729-b309-e1a022404daa",
+    "CreatedDate": "2025-07-18T10:24:52.61",
+    "ModifiedDate": "2025-07-18T10:24:52.61",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Indigenous Peoples' Day (no classes)",
+    "Description": "",
+    "StartDateTime": "2025-10-13T08:00:00",
+    "SetUpStartDateTime": "2025-10-13T08:00:00",
+    "EndDateTime": "2025-10-13T16:00:00",
+    "BreakdownEndDateTime": "2025-10-13T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3a5d6d4c-80f7-4d8a-bde6-cd14fbe2b5d5",
+        "Name": "Virtual #02",
+        "NameFormatted": "Virtual #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #02",
+        "InternalNotes": "Virtual/Remote Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:20:35.543",
+        "ModifiedDate": "2025-07-05T20:20:35.543"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #02",
+    "DateTimeDisplay": "October 13, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10182",
+    "EventId": "4e924874-f65b-4546-af0b-6410e30d4cc9",
+    "CreatedDate": "2025-07-18T10:23:53.703",
+    "ModifiedDate": "2025-07-18T10:23:53.703",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Fall Break (No Classes)",
+    "Description": "",
+    "StartDateTime": "2025-10-14T08:00:00",
+    "SetUpStartDateTime": "2025-10-14T08:00:00",
+    "EndDateTime": "2025-10-14T16:00:00",
+    "BreakdownEndDateTime": "2025-10-14T16:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "49e75bde-e162-4624-9dcc-266eb8a04754",
+    "SeriesType": 1,
+    "ParentEventId": "453b6e44-1ac9-4b8d-b774-b216fe62e3b4",
+    "SeriesId": "70e4e5fd-1a9c-4aba-8451-3c3f8728b957",
+    "SeriesInfo": {
+      "SeriesId": "70e4e5fd-1a9c-4aba-8451-3c3f8728b957",
+      "NumberOfEvents": 2,
+      "MinStartDatetime": "2025-10-13T08:00:00",
+      "MaxStartDatetime": "2025-10-14T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "49e75bde-e162-4624-9dcc-266eb8a04754",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:23:53.563",
+      "ModifiedDate": "2025-07-18T14:23:53.563",
+      "Name": "Daily at 8:00 AM until 10/14/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-14T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "October 14, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10181",
+    "EventId": "453b6e44-1ac9-4b8d-b774-b216fe62e3b4",
+    "CreatedDate": "2025-07-18T10:23:53.693",
+    "ModifiedDate": "2025-07-18T10:23:53.693",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Fall Break (No Classes)",
+    "Description": "",
+    "StartDateTime": "2025-10-13T08:00:00",
+    "SetUpStartDateTime": "2025-10-13T08:00:00",
+    "EndDateTime": "2025-10-13T16:00:00",
+    "BreakdownEndDateTime": "2025-10-13T16:00:00",
+    "IsAllDay": false,
+    "RecurringScheduleId": "49e75bde-e162-4624-9dcc-266eb8a04754",
+    "SeriesType": 1,
+    "SeriesId": "70e4e5fd-1a9c-4aba-8451-3c3f8728b957",
+    "SeriesInfo": {
+      "SeriesId": "70e4e5fd-1a9c-4aba-8451-3c3f8728b957",
+      "NumberOfEvents": 2,
+      "MinStartDatetime": "2025-10-13T08:00:00",
+      "MaxStartDatetime": "2025-10-14T08:00:00"
+    },
+    "Schedule": {
+      "RecurringScheduleId": "49e75bde-e162-4624-9dcc-266eb8a04754",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "CreatedDate": "2025-07-18T14:23:53.563",
+      "ModifiedDate": "2025-07-18T14:23:53.563",
+      "Name": "Daily at 8:00 AM until 10/14/25",
+      "Pattern": "Daily",
+      "StartTime": "08:00:00",
+      "StopRecurringDate": "2025-10-14T00:00:00",
+      "IsValidMonthlyPattern": false,
+      "IsValidQuarterlyPattern": false,
+      "IsMonthlyInstanceBased": false
+    },
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "October 13, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10180",
+    "EventId": "c747c133-216c-4da8-9458-ed462d75cdda",
+    "CreatedDate": "2025-07-18T10:22:27.527",
+    "ModifiedDate": "2025-07-18T10:22:27.527",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b7a77930-3497-ea1c-0dec-14fe31ab45e8",
+    "EventType": {
+      "EventTypeId": "b7a77930-3497-ea1c-0dec-14fe31ab45e8",
+      "CreatedDate": "2025-04-09T01:28:41.13",
+      "ModifiedDate": "2025-04-09T01:28:41.13",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Advancement Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "A Celebration of the 1945 Society at Georgetown Day School",
+    "Description": "Donors who make annual gifts of $2,500 or more are members of the 1945 Society. Named for the year in which GDS was founded, the 1945 Society was established to provide our School\u2019s philanthropic leaders the opportunity to express their dedication & commitment to the founding families\u2019 vision, ideals, & principles. Members of the 1945 Society, & those who volunteered last year to secure foundational philanthropic support for the School, will be celebrated at a reception hosted by the HoS & BoT.",
+    "StartDateTime": "2025-10-09T19:00:00",
+    "SetUpStartDateTime": "2025-10-09T19:00:00",
+    "EndDateTime": "2025-10-09T21:00:00",
+    "BreakdownEndDateTime": "2025-10-09T21:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3484,
+        "SeatingCapacity": 60,
+        "MaximumOccupancy": 100,
+        "Description": "Library",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "101 LMS Library",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.393",
+        "ModifiedDate": "2025-08-07T18:45:47.87"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 101 LMS Library",
+    "DateTimeDisplay": "October 09, 2025\n07:00 PM - 09:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10175",
+    "EventId": "573c2029-8cba-4672-98d5-d54f2b918794",
+    "CreatedDate": "2025-07-18T10:06:41.367",
+    "ModifiedDate": "2025-07-18T10:06:41.367",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+    "EventType": {
+      "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
+      "CreatedDate": "2025-04-09T01:29:23.74",
+      "ModifiedDate": "2025-04-09T01:29:23.74",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "College Counseling Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Understanding College Financial Aid",
+    "Description": "At this program, families will gain useful information about how the financial aid process works at colleges and universities, including applying for need-based financial aid, the availability of merit-based scholarships, and understanding the costs of college.",
+    "StartDateTime": "2025-10-06T19:00:00",
+    "SetUpStartDateTime": "2025-10-06T19:00:00",
+    "EndDateTime": "2025-10-06T20:30:00",
+    "BreakdownEndDateTime": "2025-10-06T20:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "October 06, 2025\n07:00 PM - 08:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10174",
+    "EventId": "c23b80f0-5a6a-4b45-99ca-bb2a6d80404f",
+    "CreatedDate": "2025-07-18T10:05:14.94",
+    "ModifiedDate": "2025-07-18T10:05:14.94",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "[PSA] High School Coffee And Walk",
+    "Description": "1st Friday of the month gathering for parents and guardians of High School students. (MD/DC/VA alternating)",
+    "StartDateTime": "2025-10-03T09:00:00",
+    "SetUpStartDateTime": "2025-10-03T09:00:00",
+    "EndDateTime": "2025-10-03T10:00:00",
+    "BreakdownEndDateTime": "2025-10-03T10:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "October 03, 2025\n09:00 AM - 10:00 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10172",
+    "EventId": "9ba45cab-a01c-4dc2-ac66-166e101b4baf",
+    "CreatedDate": "2025-07-18T10:01:52.623",
+    "ModifiedDate": "2025-07-18T10:01:52.623",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+    "EventType": {
+      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
+      "CreatedDate": "2025-07-16T15:10:07.81",
+      "ModifiedDate": "2025-07-16T15:10:07.81",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Calendar Date"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Yom Kippur Begins @ Sundown",
+    "Description": "Begins at Sundown",
+    "StartDateTime": "2025-10-01T17:00:00",
+    "SetUpStartDateTime": "2025-10-01T17:00:00",
+    "EndDateTime": "2025-10-01T23:55:00",
+    "BreakdownEndDateTime": "2025-10-01T23:55:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "October 01, 2025\n05:00 PM - 11:55 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-07-18T10:01:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10170",
+    "EventId": "5abbc9f7-140d-476f-a537-26e0a48ad77d",
+    "CreatedDate": "2025-07-16T14:32:08.687",
+    "ModifiedDate": "2025-07-16T14:32:08.687",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "fef5e03e-a3b8-88f5-479e-4f9aa86ee422",
+    "EventType": {
+      "EventTypeId": "fef5e03e-a3b8-88f5-479e-4f9aa86ee422",
+      "CreatedDate": "2025-04-09T01:26:59.787",
+      "ModifiedDate": "2025-04-09T01:26:59.787",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Admissions Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "VIRTUAL: Lower School Admissions Open House",
+    "Description": "Our Lower School Open House offers prospective PK-4th Grade parents/guardians an opportunity to explore our curriculum and community during an interactive information session featuring our school leadership and faculty.\n \nPlease register for this Open House on Ravenna (https://www.ravenna-hub.com/login). Open Houses are not required as part of our admissions process; however, we do hope you will register and explore GDS as a fit for your family.",
+    "StartDateTime": "2025-09-30T17:00:00",
+    "SetUpStartDateTime": "2025-09-30T17:00:00",
+    "EndDateTime": "2025-09-30T18:30:00",
+    "BreakdownEndDateTime": "2025-09-30T18:30:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "September 30, 2025\n05:00 PM - 06:30 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10169",
+    "EventId": "461146a2-1b3c-4bc5-8ab4-bfe3f1bb2449",
+    "CreatedDate": "2025-07-16T14:30:30.537",
+    "ModifiedDate": "2025-09-22T14:08:21.98",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "GDS National Debate Tournament",
+    "Description": "GDS plays host to teams from all over the country for this early season debate showdown.",
+    "StartDateTime": "2025-09-28T08:00:00",
+    "SetUpStartDateTime": "2025-09-28T08:00:00",
+    "EndDateTime": "2025-09-28T20:00:00",
+    "BreakdownEndDateTime": "2025-09-28T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "SeriesId": "637f4343-1d60-4496-bd7a-bc509255a89f",
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "September 28, 2025\n08:00 AM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-09-22T13:36:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10168",
+    "EventId": "311d7eef-d66d-41c0-a5c8-9c9395db67b0",
+    "CreatedDate": "2025-07-16T14:30:30.53",
+    "ModifiedDate": "2025-09-22T14:08:21.95",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "GDS National Debate Tournament",
+    "Description": "GDS plays host to teams from all over the country for this early season debate showdown.",
+    "StartDateTime": "2025-09-27T08:00:00",
+    "SetUpStartDateTime": "2025-09-27T08:00:00",
+    "EndDateTime": "2025-09-27T20:00:00",
+    "BreakdownEndDateTime": "2025-09-27T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "SeriesId": "637f4343-1d60-4496-bd7a-bc509255a89f",
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "September 27, 2025\n08:00 AM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-09-22T13:36:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10167",
+    "EventId": "72034ee0-bcf6-4820-9a95-bd0f6cf7561f",
+    "CreatedDate": "2025-07-16T14:30:30.52",
+    "ModifiedDate": "2025-09-22T14:08:21.967",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "GDS National Debate Tournament",
+    "Description": "GDS plays host to teams from all over the country for this early season debate showdown.",
+    "StartDateTime": "2025-09-26T16:00:00",
+    "SetUpStartDateTime": "2025-09-26T16:00:00",
+    "EndDateTime": "2025-09-26T22:00:00",
+    "BreakdownEndDateTime": "2025-09-26T22:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "SeriesId": "637f4343-1d60-4496-bd7a-bc509255a89f",
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "c26e0000-92f8-4cdf-a1ac-2da74801612d",
+        "Name": "LMS-Campus",
+        "NameFormatted": "LMS-Campus",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "eeb6dcbc-16c7-f220-9daa-f543ae40dd8d",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "LMS Campus",
+        "InternalNotes": "LMS Campus",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "LMS-Campus",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:11:22.85",
+        "ModifiedDate": "2025-07-29T22:47:41.7"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > LMS-Campus",
+    "DateTimeDisplay": "September 26, 2025\n04:00 PM - 10:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2025-09-22T13:35:00",
+    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "OverrideUser": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10166",
+    "EventId": "3a858412-5ba6-43ad-bb8c-7b8e0553caf3",
+    "CreatedDate": "2025-07-16T14:28:29.18",
+    "ModifiedDate": "2025-09-22T10:09:01.193",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+    "EventType": {
+      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
+      "CreatedDate": "2025-04-09T01:30:11.187",
+      "ModifiedDate": "2025-04-09T01:30:11.187",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "MS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "8th Grade Advisory Trip",
+    "Description": "",
+    "StartDateTime": "2025-09-26T10:15:00",
+    "SetUpStartDateTime": "2025-09-26T10:15:00",
+    "EndDateTime": "2025-09-26T14:15:00",
+    "BreakdownEndDateTime": "2025-09-26T14:15:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "September 26, 2025\n10:15 AM - 02:15 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10165",
+    "EventId": "cfbe30d5-7f99-4818-84fe-44b9bd8d4228",
+    "CreatedDate": "2025-07-16T14:27:29.99",
+    "ModifiedDate": "2025-07-16T14:27:29.99",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "High School: Last Day to Drop Classes",
+    "Description": "",
+    "StartDateTime": "2025-09-26T08:00:00",
+    "SetUpStartDateTime": "2025-09-26T08:00:00",
+    "EndDateTime": "2025-09-26T16:00:00",
+    "BreakdownEndDateTime": "2025-09-26T16:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
+        "Name": "Virtual #01",
+        "NameFormatted": "Virtual #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #01",
+        "InternalNotes": "Virtual/Remote Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:05:12.4",
+        "ModifiedDate": "2025-07-05T20:20:08.967"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #01",
+    "DateTimeDisplay": "September 26, 2025\n08:00 AM - 04:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "10164",
+    "EventId": "e9faf2bb-e39d-4b09-98ba-bf5133ff40eb",
+    "CreatedDate": "2025-07-16T14:26:48.307",
+    "ModifiedDate": "2025-07-16T14:26:48.307",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+    "EventType": {
+      "EventTypeId": "23598e90-eed9-594e-08d2-3498eb252266",
+      "CreatedDate": "2025-04-09T01:30:20.687",
+      "ModifiedDate": "2025-04-09T01:30:20.687",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "HS Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "High School Curriculum Night",
+    "Description": "",
+    "StartDateTime": "2025-09-25T19:00:00",
+    "SetUpStartDateTime": "2025-09-25T19:00:00",
+    "EndDateTime": "2025-09-25T21:00:00",
+    "BreakdownEndDateTime": "2025-09-25T21:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+    "Owner": {
+      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Natalie Markley",
+      "FullName": "Natalie Markley",
+      "Initials": "NM",
+      "FirstName": "Natalie",
+      "LastName": "Markley",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "5263518",
+      "Email": "nmarkley@gds.org",
+      "Username": "nmarkley@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "2331026a-54f2-4e2b-ac9f-dbe9c8627320",
+        "Name": "101",
+        "NameFormatted": "101",
+        "Icon": "fa fa-door-open",
+        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
+        "LocationName": "High School",
+        "LocationAbbreviation": "HS",
+        "LocationRoomTypeId": "2d8e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
+        "SeatingCapacity": 18,
+        "MaximumOccupancy": 18,
+        "Description": "Math Classroom",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "101",
+        "IsDeleted": false,
+        "CreatedDate": "2025-01-15T19:52:01.37",
+        "ModifiedDate": "2025-04-09T01:10:43.883"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "HS > 101",
+    "DateTimeDisplay": "September 25, 2025\n07:00 PM - 09:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
+        "Value": "n",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
   }
 ]
