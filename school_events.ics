@@ -23,6 +23,16 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:8d05bb85-99c1-4bb8-8d31-11d209ae677b@gds.incidentiq.com
+SUMMARY:12th Grade Social
+DTSTART;TZID=America/New_York:20261024T183000
+DTEND;TZID=America/New_York:20261024T203000
+DESCRIPTION:Please contact Kirsten Wegner\, 12th grade coordinator\, at 
+ \nkirsten.wegner@gmail.com for more information.
+LOCATION:Offsite #03
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:4d803909-d6d6-48ba-925e-9bf782b3b0ee@gds.incidentiq.com
 SUMMARY:Grandparents & Special Friends Day
 DTSTART;TZID=America/New_York:20261023T080000
@@ -8885,16 +8895,6 @@ DESCRIPTION:This program is intended to help students and families under
  thletes will discuss what it is like to be a college athlete and share tip
  s about engaging in the recruitment process.
 LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:9ad080ca-7664-49d6-abed-1e827537a0d1@gds.incidentiq.com
-SUMMARY:[PSA] Parent Coffee with HS Dean: 11th & 12th Grades
-DTSTART;TZID=America/New_York:20251023T084500
-DTEND;TZID=America/New_York:20251023T094500
-DESCRIPTION:Join the 11th and 12th Grade Dean for a Presentation and Con
- versation. For more information\, please contact GDS PSA at psa@gds.org.
-LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 END:VCALENDAR
