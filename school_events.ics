@@ -9239,32 +9239,4 @@ DESCRIPTION:GDS plays host to teams from all over the country for this e
 LOCATION:LMS-Campus
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:311d7eef-d66d-41c0-a5c8-9c9395db67b0@gds.incidentiq.com
-SUMMARY:GDS National Debate Tournament
-DTSTART;TZID=America/New_York:20250927T080000
-DTEND;TZID=America/New_York:20250927T200000
-DESCRIPTION:GDS plays host to teams from all over the country for this e
- arly season debate showdown.
-LOCATION:LMS-Campus
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:72034ee0-bcf6-4820-9a95-bd0f6cf7561f@gds.incidentiq.com
-SUMMARY:GDS National Debate Tournament
-DTSTART;TZID=America/New_York:20250926T160000
-DTEND;TZID=America/New_York:20250926T220000
-DESCRIPTION:GDS plays host to teams from all over the country for this e
- arly season debate showdown.
-LOCATION:LMS-Campus
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:3a858412-5ba6-43ad-bb8c-7b8e0553caf3@gds.incidentiq.com
-SUMMARY:8th Grade Advisory Trip
-DTSTART;TZID=America/New_York:20250926T101500
-DTEND;TZID=America/New_York:20250926T141500
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
