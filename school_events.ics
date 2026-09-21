@@ -23,6 +23,34 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:af4e4283-d149-4466-903b-7199ebc49e82@gds.incidentiq.com
+SUMMARY:Parent Connect: Connected or Overloaded? Supporting Children & Teens Mental Health in Digital Age
+DTSTART;TZID=America/New_York:20261021T190000
+DTEND;TZID=America/New_York:20261021T200000
+DESCRIPTION:A panel of experts\, including nationally recognized digital
+  addiction specialist Dr. Edward Spector\, board-certified child and adole
+ scent psychiatrist and author Dr. Shari Thomas\, and Emily Kircher-Morris\
+ , M.A.\, M.Ed.\, LPC\, a nationally recognized speaker\, author\, and lice
+ nsed professional counselor specializing in neurodiversity-affirming pract
+ ice\, will explore strategies for promoting healthy development in the dig
+ ital age.
+LOCATION:Virtual #02
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:225691c5-8105-44b7-a08a-a1e25daef5c9@gds.incidentiq.com
+SUMMARY:PSA New Families Meeting
+DTSTART;TZID=America/New_York:20261029T083000
+DTEND;TZID=America/New_York:20261029T094500
+DESCRIPTION:This informal gathering will be an opportunity to connect wi
+ th other new (and newish) families and PSA representatives\, ask questions
+ \, learn more about the GDS community\, and share what would be helpful as
+  your family continues to navigate the school year. \nContact: Amy Leveton
+ \, amyleveton@outlook.com
+LOCATION:130 LMS Cafe
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:8d05bb85-99c1-4bb8-8d31-11d209ae677b@gds.incidentiq.com
 SUMMARY:12th Grade Social
 DTSTART;TZID=America/New_York:20261024T183000
@@ -1583,12 +1611,13 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:8159f28a-33b0-41f8-8e52-0c2cacd96842@gds.incidentiq.com
-SUMMARY:Parent Connect:  (Virtual)
+SUMMARY:Parent Connect: Managing Anxious Feelings
 DTSTART;TZID=America/New_York:20270315T120000
 DTEND;TZID=America/New_York:20270315T130000
-DESCRIPTION:Join us as we welcome author and psychologist\, Samantha Swe
- eney\, PhD to talk about strategies to reduce anxious feelings in the mome
- nt and beyond.
+DESCRIPTION:Author and psychologist Dr. Samantha Sweeney will share\nstr
+ ategies to reduce anxious feelings in the moment and beyond. She is the co
+ -author of Working with Worry and the author of Culturally Competent Kids.
+ \n\nPlease contact Meryl Heyliger with questions: mheyliger@gds.org
 LOCATION:Virtual #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -2280,20 +2309,6 @@ DTEND;TZID=America/New_York:20270121T193000
 DESCRIPTION:Join the MS Dance students as they showcase their work from 
  the first semester.
 LOCATION:B201 LMS Flexible Performance Center
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:0085edbd-fa5c-4be7-ae7a-d4a02fafe926@gds.incidentiq.com
-SUMMARY:Parent Connect: Guest Speaker\, Dr. Ryan DeLapp
-DTSTART;TZID=America/New_York:20270120T183000
-DTEND;TZID=America/New_York:20270120T203000
-DESCRIPTION:Join us as we welcome back author\, parenting expert and par
- ent of alumni Katherine Reynolds Lewis to talk more about 'The Good News a
- bout Bad Behavior.' Katherine spoke to parents and guardians last year and
-  we're inviting her to continue the conversation. Come to hear more about 
- effective parenting\, be encouraged\, and learn strategies to improve your
-  connection with your children/teens.
-LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
@@ -3111,15 +3126,16 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:801fac91-4708-4e9f-abc7-938ec5bba542@gds.incidentiq.com
-SUMMARY:Parent Connect: for Adoptive Parents
+SUMMARY:Parent Connect: Adoptive Families
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T200000
-DESCRIPTION:Join the counselors and Debbie Riley\, LCMFT\, and CEO at th
- e Center for Adoption Support and Education during National Adoption Aware
- ness Month. Debbie and a panel of adult adoptees will share experiences an
- d offer support for adoptive parents. Families and student support team me
- mbers from other nearby independent schools are also invited.\n \n Please 
- contact Meryl Heyliger with questions: mheyliger@gds.org
+DESCRIPTION:During National Adoption Month\, Debbie Riley\, LCMFT\, and 
+ CEO at the Center for Adoption Support and Education\, and a panel of adul
+ t adoptees will share experiences and offer support for adoptive parents. 
+ Simultaneously\, adopted youth are invited for pizza and games. Families a
+ nd student support team members from other nearby independent schools are 
+ also invited.\n \n Please contact Meryl Heyliger with questions: mheyliger
+ @gds.org
 LOCATION:101 LMS Library
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -3468,14 +3484,15 @@ ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
 UID:fda48851-0c31-452c-a98f-c37dd722a745@gds.incidentiq.com
-SUMMARY:Parent Connect: Supporting My Child/Teen’s Emotional Responses to the Current Political Climate
-DTSTART;TZID=America/New_York:20261021T183000
-DTEND;TZID=America/New_York:20261021T200000
-DESCRIPTION:In this webinar\, Dr. Ryan C.T. DeLapp\, a psychologist at t
- he Ross Center and creator of the Racial\, Ethnic\, and Cultural Healing (
- REACH) Program\, will share some tips for supporting your child/teen’s emo
- tional processing and coping during the current political climate. \n \n P
- lease contact Meryl Heyliger with questions. mheyliger@gds.org
+SUMMARY:Parent Connect: Supporting Children & Teens’ Responses to Social\, Emotional\, and Political Stressors
+DTSTART;TZID=America/New_York:20270120T190000
+DTEND;TZID=America/New_York:20270120T200000
+DESCRIPTION:An author\, psychologist\, and expert in racial and cultural
+  healing\, Dr. Ryan C.T. DeLapp will discuss ways to support children and 
+ teens as they navigate social and emotional challenges in everyday situati
+ ons and within our broader political climate. Participants will gain strat
+ egies to support children/teens’ emotional processing and coping.\n \n Ple
+ ase contact Meryl Heyliger with questions: mheyliger@gds.org
 LOCATION:Virtual #02
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
@@ -9181,52 +9198,6 @@ DESCRIPTION:Donors who make annual gifts of $2\,500 or more are members
  for the School\, will be celebrated at a reception hosted by the HoS & BoT
  .
 LOCATION:101 LMS Library
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:573c2029-8cba-4672-98d5-d54f2b918794@gds.incidentiq.com
-SUMMARY:Understanding College Financial Aid
-DTSTART;TZID=America/New_York:20251006T190000
-DTEND;TZID=America/New_York:20251006T203000
-DESCRIPTION:At this program\, families will gain useful information abou
- t how the financial aid process works at colleges and universities\, inclu
- ding applying for need-based financial aid\, the availability of merit-bas
- ed scholarships\, and understanding the costs of college.
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:c23b80f0-5a6a-4b45-99ca-bb2a6d80404f@gds.incidentiq.com
-SUMMARY:[PSA] High School Coffee And Walk
-DTSTART;TZID=America/New_York:20251003T090000
-DTEND;TZID=America/New_York:20251003T100000
-DESCRIPTION:1st Friday of the month gathering for parents and guardians 
- of High School students. (MD/DC/VA alternating)
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:9ba45cab-a01c-4dc2-ac66-166e101b4baf@gds.incidentiq.com
-SUMMARY:Yom Kippur Begins @ Sundown
-DTSTART;TZID=America/New_York:20251001T170000
-DTEND;TZID=America/New_York:20251001T235500
-DESCRIPTION:Begins at Sundown
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:5abbc9f7-140d-476f-a537-26e0a48ad77d@gds.incidentiq.com
-SUMMARY:VIRTUAL: Lower School Admissions Open House
-DTSTART;TZID=America/New_York:20250930T170000
-DTEND;TZID=America/New_York:20250930T183000
-DESCRIPTION:Our Lower School Open House offers prospective PK-4th Grade 
- parents/guardians an opportunity to explore our curriculum and community d
- uring an interactive information session featuring our school leadership a
- nd faculty.\n \nPlease register for this Open House on Ravenna (https://ww
- w.ravenna-hub.com/login). Open Houses are not required as part of our admi
- ssions process\; however\, we do hope you will register and explore GDS as
-  a fit for your family.
-LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 END:VCALENDAR

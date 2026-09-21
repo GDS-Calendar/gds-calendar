@@ -1,5 +1,269 @@
 [
   {
+    "EventTag": "12424",
+    "EventId": "af4e4283-d149-4466-903b-7199ebc49e82",
+    "CreatedDate": "2026-09-21T12:15:42.9",
+    "ModifiedDate": "2026-09-21T12:15:42.9",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "d38e56fa-0ff4-7353-3460-e4e1844b03a8",
+    "EventType": {
+      "EventTypeId": "d38e56fa-0ff4-7353-3460-e4e1844b03a8",
+      "CreatedDate": "2025-04-09T01:29:50.43",
+      "ModifiedDate": "2025-04-09T01:29:50.43",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Health Services Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "Parent Connect: Connected or Overloaded? Supporting Children & Teens Mental Health in Digital Age",
+    "Description": "A panel of experts, including nationally recognized digital addiction specialist Dr. Edward Spector, board-certified child and adolescent psychiatrist and author Dr. Shari Thomas, and Emily Kircher-Morris, M.A., M.Ed., LPC, a nationally recognized speaker, author, and licensed professional counselor specializing in neurodiversity-affirming practice, will explore strategies for promoting healthy development in the digital age.",
+    "StartDateTime": "2026-10-21T19:00:00",
+    "SetUpStartDateTime": "2026-10-21T19:00:00",
+    "EndDateTime": "2026-10-21T20:00:00",
+    "BreakdownEndDateTime": "2026-10-21T20:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3a5d6d4c-80f7-4d8a-bde6-cd14fbe2b5d5",
+        "Name": "Virtual #02",
+        "NameFormatted": "Virtual #02",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Virtual",
+        "LocationAbbreviation": "VIR",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Virtual/Remote Meeting #02",
+        "InternalNotes": "Virtual/Remote Meeting #02",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Virtual #02",
+        "IsDeleted": false,
+        "CreatedDate": "2025-07-05T20:20:35.543",
+        "ModifiedDate": "2025-07-05T20:20:35.543"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "VIR > Virtual #02",
+    "DateTimeDisplay": "October 21, 2026\n07:00 PM - 08:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": true,
+    "OverrideDateTime": "2026-09-21T12:15:00",
+    "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "OverrideUser": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
+    "EventTag": "12422",
+    "EventId": "225691c5-8105-44b7-a08a-a1e25daef5c9",
+    "CreatedDate": "2026-09-21T08:49:10.17",
+    "ModifiedDate": "2026-09-21T08:49:10.17",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+    "EventType": {
+      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
+      "CreatedDate": "2025-04-09T01:25:15.37",
+      "ModifiedDate": "2025-04-09T01:25:15.37",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "PSA Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "PSA New Families Meeting",
+    "Description": "This informal gathering will be an opportunity to connect with other new (and newish) families and PSA representatives, ask questions, learn more about the GDS community, and share what would be helpful as your family continues to navigate the school year. \nContact: Amy Leveton, amyleveton@outlook.com",
+    "StartDateTime": "2026-10-29T08:30:00",
+    "SetUpStartDateTime": "2026-10-29T08:30:00",
+    "EndDateTime": "2026-10-29T09:45:00",
+    "BreakdownEndDateTime": "2026-10-29T09:45:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "3c6d2364-d055-4d43-8680-e6dba2f3dcac",
+        "Name": "130 LMS Cafe",
+        "NameFormatted": "130 LMS Cafe",
+        "Icon": "fa fa-door-open",
+        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+        "LocationName": "Lower Middle School",
+        "LocationAbbreviation": "LMS",
+        "LocationRoomTypeId": "2d8e9030-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Area": 3477,
+        "SeatingCapacity": 400,
+        "MaximumOccupancy": 450,
+        "Description": "Dining",
+        "IsAvailable": false,
+        "IsExternallyAvailable": true,
+        "NameSort": "130 LMS Cafe",
+        "IsDeleted": false,
+        "CreatedDate": "2024-12-29T16:59:08.72",
+        "ModifiedDate": "2025-08-07T18:47:43.62"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "LMS > 130 LMS Cafe",
+    "DateTimeDisplay": "October 29, 2026\n08:30 AM - 09:45 AM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12415",
     "EventId": "8d05bb85-99c1-4bb8-8d31-11d209ae677b",
     "CreatedDate": "2026-09-16T08:31:23.697",
@@ -22271,7 +22535,7 @@
     "EventTag": "11790",
     "EventId": "8159f28a-33b0-41f8-8e52-0c2cacd96842",
     "CreatedDate": "2026-05-21T11:36:29.14",
-    "ModifiedDate": "2026-05-21T11:36:29.14",
+    "ModifiedDate": "2026-09-21T12:20:54.227",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -22293,8 +22557,8 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Parent Connect:  (Virtual)",
-    "Description": "Join us as we welcome author and psychologist, Samantha Sweeney, PhD to talk about strategies to reduce anxious feelings in the moment and beyond.",
+    "Title": "Parent Connect: Managing Anxious Feelings",
+    "Description": "Author and psychologist Dr. Samantha Sweeney will share\nstrategies to reduce anxious feelings in the moment and beyond. She is the co-author of Working with Worry and the author of Culturally Competent Kids.\n\nPlease contact Meryl Heyliger with questions: mheyliger@gds.org",
     "StartDateTime": "2027-03-15T12:00:00",
     "SetUpStartDateTime": "2027-03-15T12:00:00",
     "EndDateTime": "2027-03-15T13:00:00",
@@ -31282,148 +31546,6 @@
     ],
     "SkipAvailabilityCheck": true,
     "OverrideDateTime": "2026-05-21T10:09:00",
-    "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
-    "OverrideUser": {
-      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Maria Rodriguez",
-      "FullName": "Maria Rodriguez",
-      "Initials": "MR",
-      "FirstName": "Maria",
-      "LastName": "Rodriguez",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "8324805",
-      "Email": "mrodriguez@gds.org",
-      "Username": "mrodriguez@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "11717",
-    "EventId": "0085edbd-fa5c-4be7-ae7a-d4a02fafe926",
-    "CreatedDate": "2026-05-21T10:08:31.417",
-    "ModifiedDate": "2026-05-21T10:08:31.417",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "d38e56fa-0ff4-7353-3460-e4e1844b03a8",
-    "EventType": {
-      "EventTypeId": "d38e56fa-0ff4-7353-3460-e4e1844b03a8",
-      "CreatedDate": "2025-04-09T01:29:50.43",
-      "ModifiedDate": "2025-04-09T01:29:50.43",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Health Services Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "Parent Connect: Guest Speaker, Dr. Ryan DeLapp",
-    "Description": "Join us as we welcome back author, parenting expert and parent of alumni Katherine Reynolds Lewis to talk more about 'The Good News about Bad Behavior.' Katherine spoke to parents and guardians last year and we're inviting her to continue the conversation. Come to hear more about effective parenting, be encouraged, and learn strategies to improve your connection with your children/teens.",
-    "StartDateTime": "2027-01-20T18:30:00",
-    "SetUpStartDateTime": "2027-01-20T18:30:00",
-    "EndDateTime": "2027-01-20T20:30:00",
-    "BreakdownEndDateTime": "2027-01-20T20:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
-    "Owner": {
-      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Maria Rodriguez",
-      "FullName": "Maria Rodriguez",
-      "Initials": "MR",
-      "FirstName": "Maria",
-      "LastName": "Rodriguez",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "8324805",
-      "Email": "mrodriguez@gds.org",
-      "Username": "mrodriguez@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "d524835a-d5f9-4c59-8586-36b7cdf1c6aa",
-        "Name": "220 HS Library (Full)",
-        "NameFormatted": "220 HS Library (Full)",
-        "Icon": "fa fa-door-open",
-        "LocationId": "4317c9cc-4776-46ba-b2f6-9ee44ef8efc6",
-        "LocationName": "High School",
-        "LocationAbbreviation": "HS",
-        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "SeatingCapacity": 200,
-        "MaximumOccupancy": 200,
-        "Description": "Library",
-        "IsAvailable": false,
-        "IsExternallyAvailable": true,
-        "NameSort": "220 HS Library (Full)",
-        "IsDeleted": false,
-        "CreatedDate": "2025-01-15T19:52:01.98",
-        "ModifiedDate": "2025-08-07T18:51:21.867"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "HS > 220 HS Library (Full)",
-    "DateTimeDisplay": "January 20, 2027\n06:30 PM - 08:30 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
-        "Value": "NA",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
-        "Value": "NA",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
-        "Value": "NA",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-21T10:08:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -42932,7 +43054,7 @@
     "EventTag": "11615",
     "EventId": "801fac91-4708-4e9f-abc7-938ec5bba542",
     "CreatedDate": "2026-05-18T09:45:23.07",
-    "ModifiedDate": "2026-05-18T09:45:23.07",
+    "ModifiedDate": "2026-09-21T12:18:20.367",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -42954,8 +43076,8 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Parent Connect: for Adoptive Parents",
-    "Description": "Join the counselors and Debbie Riley, LCMFT, and CEO at the Center for Adoption Support and Education during National Adoption Awareness Month. Debbie and a panel of adult adoptees will share experiences and offer support for adoptive parents. Families and student support team members from other nearby independent schools are also invited.\n \n Please contact Meryl Heyliger with questions: mheyliger@gds.org",
+    "Title": "Parent Connect: Adoptive Families",
+    "Description": "During National Adoption Month, Debbie Riley, LCMFT, and CEO at the Center for Adoption Support and Education, and a panel of adult adoptees will share experiences and offer support for adoptive parents. Simultaneously, adopted youth are invited for pizza and games. Families and student support team members from other nearby independent schools are also invited.\n \n Please contact Meryl Heyliger with questions: mheyliger@gds.org",
     "StartDateTime": "2026-11-10T18:00:00",
     "SetUpStartDateTime": "2026-11-10T18:00:00",
     "EndDateTime": "2026-11-10T20:00:00",
@@ -43048,7 +43170,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-18T09:45:00",
+    "OverrideDateTime": "2026-09-21T12:18:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -47150,7 +47272,7 @@
     "EventTag": "11575",
     "EventId": "fda48851-0c31-452c-a98f-c37dd722a745",
     "CreatedDate": "2026-05-14T12:53:14.333",
-    "ModifiedDate": "2026-05-16T01:59:32.053",
+    "ModifiedDate": "2026-09-21T11:58:46.467",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -47172,12 +47294,12 @@
       "IsDeleted": false,
       "Name": "Approved"
     },
-    "Title": "Parent Connect: Supporting My Child/Teen\u2019s Emotional Responses to the Current Political Climate",
-    "Description": "In this webinar, Dr. Ryan C.T. DeLapp, a psychologist at the Ross Center and creator of the Racial, Ethnic, and Cultural Healing (REACH) Program, will share some tips for supporting your child/teen\u2019s emotional processing and coping during the current political climate. \n \n Please contact Meryl Heyliger with questions. mheyliger@gds.org",
-    "StartDateTime": "2026-10-21T18:30:00",
-    "SetUpStartDateTime": "2026-10-21T18:30:00",
-    "EndDateTime": "2026-10-21T20:00:00",
-    "BreakdownEndDateTime": "2026-10-21T20:00:00",
+    "Title": "Parent Connect: Supporting Children & Teens\u2019 Responses to Social, Emotional, and Political Stressors",
+    "Description": "An author, psychologist, and expert in racial and cultural healing, Dr. Ryan C.T. DeLapp will discuss ways to support children and teens as they navigate social and emotional challenges in everyday situations and within our broader political climate. Participants will gain strategies to support children/teens\u2019 emotional processing and coping.\n \n Please contact Meryl Heyliger with questions: mheyliger@gds.org",
+    "StartDateTime": "2027-01-20T19:00:00",
+    "SetUpStartDateTime": "2027-01-20T19:00:00",
+    "EndDateTime": "2027-01-20T20:00:00",
+    "BreakdownEndDateTime": "2027-01-20T20:00:00",
     "IsAllDay": false,
     "SeriesType": 0,
     "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -47225,7 +47347,7 @@
     ],
     "Locations": [],
     "LocationDisplay": "VIR > Virtual #02",
-    "DateTimeDisplay": "October 21, 2026\n06:30 PM - 08:00 PM",
+    "DateTimeDisplay": "January 20, 2027\n07:00 PM - 08:00 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
@@ -47264,7 +47386,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-05-14T12:53:00",
+    "OverrideDateTime": "2026-09-21T11:58:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
@@ -117752,470 +117874,6 @@
     "Locations": [],
     "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "October 09, 2025\n07:00 PM - 09:00 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10175",
-    "EventId": "573c2029-8cba-4672-98d5-d54f2b918794",
-    "CreatedDate": "2025-07-18T10:06:41.367",
-    "ModifiedDate": "2025-07-18T10:06:41.367",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
-    "EventType": {
-      "EventTypeId": "cd37f81f-69d9-c831-2fac-6ce1a06fe307",
-      "CreatedDate": "2025-04-09T01:29:23.74",
-      "ModifiedDate": "2025-04-09T01:29:23.74",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "College Counseling Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "Understanding College Financial Aid",
-    "Description": "At this program, families will gain useful information about how the financial aid process works at colleges and universities, including applying for need-based financial aid, the availability of merit-based scholarships, and understanding the costs of college.",
-    "StartDateTime": "2025-10-06T19:00:00",
-    "SetUpStartDateTime": "2025-10-06T19:00:00",
-    "EndDateTime": "2025-10-06T20:30:00",
-    "BreakdownEndDateTime": "2025-10-06T20:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
-        "Name": "Virtual #01",
-        "NameFormatted": "Virtual #01",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Virtual",
-        "LocationAbbreviation": "VIR",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Virtual/Remote Meeting #01",
-        "InternalNotes": "Virtual/Remote Meeting #01",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "Virtual #01",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:05:12.4",
-        "ModifiedDate": "2025-07-05T20:20:08.967"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 06, 2025\n07:00 PM - 08:30 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10174",
-    "EventId": "c23b80f0-5a6a-4b45-99ca-bb2a6d80404f",
-    "CreatedDate": "2025-07-18T10:05:14.94",
-    "ModifiedDate": "2025-07-18T10:05:14.94",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-    "EventType": {
-      "EventTypeId": "b447c77a-3157-0425-3993-41e20aab4f7b",
-      "CreatedDate": "2025-04-09T01:25:15.37",
-      "ModifiedDate": "2025-04-09T01:25:15.37",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "PSA Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "[PSA] High School Coffee And Walk",
-    "Description": "1st Friday of the month gathering for parents and guardians of High School students. (MD/DC/VA alternating)",
-    "StartDateTime": "2025-10-03T09:00:00",
-    "SetUpStartDateTime": "2025-10-03T09:00:00",
-    "EndDateTime": "2025-10-03T10:00:00",
-    "BreakdownEndDateTime": "2025-10-03T10:00:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
-        "Name": "Offsite #01",
-        "NameFormatted": "Offsite #01",
-        "Icon": "fa fa-door-open",
-        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Offsite",
-        "LocationAbbreviation": "OFF",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Offsite Meeting #01",
-        "InternalNotes": "Offsite Meeting #01",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "Offsite #01",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:02:28.15",
-        "ModifiedDate": "2025-07-03T23:20:03.463"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "OFF > Offsite #01",
-    "DateTimeDisplay": "October 03, 2025\n09:00 AM - 10:00 AM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10172",
-    "EventId": "9ba45cab-a01c-4dc2-ac66-166e101b4baf",
-    "CreatedDate": "2025-07-18T10:01:52.623",
-    "ModifiedDate": "2025-07-18T10:01:52.623",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
-    "EventType": {
-      "EventTypeId": "c200b5a0-e5b4-f942-e33b-ef04e7a39a56",
-      "CreatedDate": "2025-07-16T15:10:07.81",
-      "ModifiedDate": "2025-07-16T15:10:07.81",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Calendar Date"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "Yom Kippur Begins @ Sundown",
-    "Description": "Begins at Sundown",
-    "StartDateTime": "2025-10-01T17:00:00",
-    "SetUpStartDateTime": "2025-10-01T17:00:00",
-    "EndDateTime": "2025-10-01T23:55:00",
-    "BreakdownEndDateTime": "2025-10-01T23:55:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
-        "Name": "Virtual #01",
-        "NameFormatted": "Virtual #01",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Virtual",
-        "LocationAbbreviation": "VIR",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Virtual/Remote Meeting #01",
-        "InternalNotes": "Virtual/Remote Meeting #01",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "Virtual #01",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:05:12.4",
-        "ModifiedDate": "2025-07-05T20:20:08.967"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "October 01, 2025\n05:00 PM - 11:55 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2025-07-18T10:01:00",
-    "OverrideUserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "OverrideUser": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10170",
-    "EventId": "5abbc9f7-140d-476f-a537-26e0a48ad77d",
-    "CreatedDate": "2025-07-16T14:32:08.687",
-    "ModifiedDate": "2025-07-16T14:32:08.687",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "fef5e03e-a3b8-88f5-479e-4f9aa86ee422",
-    "EventType": {
-      "EventTypeId": "fef5e03e-a3b8-88f5-479e-4f9aa86ee422",
-      "CreatedDate": "2025-04-09T01:26:59.787",
-      "ModifiedDate": "2025-04-09T01:26:59.787",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Admissions Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "VIRTUAL: Lower School Admissions Open House",
-    "Description": "Our Lower School Open House offers prospective PK-4th Grade parents/guardians an opportunity to explore our curriculum and community during an interactive information session featuring our school leadership and faculty.\n \nPlease register for this Open House on Ravenna (https://www.ravenna-hub.com/login). Open Houses are not required as part of our admissions process; however, we do hope you will register and explore GDS as a fit for your family.",
-    "StartDateTime": "2025-09-30T17:00:00",
-    "SetUpStartDateTime": "2025-09-30T17:00:00",
-    "EndDateTime": "2025-09-30T18:30:00",
-    "BreakdownEndDateTime": "2025-09-30T18:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "b374fbe2-f96a-4d70-ab7d-e87b44d61b57",
-        "Name": "Virtual #01",
-        "NameFormatted": "Virtual #01",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5a5cb96-e742-f011-8f7d-000d3a0db550",
-        "LocationName": "Virtual",
-        "LocationAbbreviation": "VIR",
-        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Description": "Virtual/Remote Meeting #01",
-        "InternalNotes": "Virtual/Remote Meeting #01",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "Virtual #01",
-        "IsDeleted": false,
-        "CreatedDate": "2025-06-06T15:05:12.4",
-        "ModifiedDate": "2025-07-05T20:20:08.967"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "VIR > Virtual #01",
-    "DateTimeDisplay": "September 30, 2025\n05:00 PM - 06:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
