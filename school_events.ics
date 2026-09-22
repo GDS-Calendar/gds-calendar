@@ -9184,20 +9184,4 @@ DTEND;TZID=America/New_York:20251013T160000
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:c747c133-216c-4da8-9458-ed462d75cdda@gds.incidentiq.com
-SUMMARY:A Celebration of the 1945 Society at Georgetown Day School
-DTSTART;TZID=America/New_York:20251009T190000
-DTEND;TZID=America/New_York:20251009T210000
-DESCRIPTION:Donors who make annual gifts of $2\,500 or more are members 
- of the 1945 Society. Named for the year in which GDS was founded\, the 194
- 5 Society was established to provide our School’s philanthropic leaders th
- e opportunity to express their dedication & commitment to the founding fam
- ilies’ vision\, ideals\, & principles. Members of the 1945 Society\, & tho
- se who volunteered last year to secure foundational philanthropic support 
- for the School\, will be celebrated at a reception hosted by the HoS & BoT
- .
-LOCATION:101 LMS Library
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
