@@ -9168,20 +9168,4 @@ DTEND;TZID=America/New_York:20251013T160000
 LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:4e924874-f65b-4546-af0b-6410e30d4cc9@gds.incidentiq.com
-SUMMARY:Fall Break (No Classes)
-DTSTART;TZID=America/New_York:20251014T080000
-DTEND;TZID=America/New_York:20251014T160000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:453b6e44-1ac9-4b8d-b774-b216fe62e3b4@gds.incidentiq.com
-SUMMARY:Fall Break (No Classes)
-DTSTART;TZID=America/New_York:20251013T080000
-DTEND;TZID=America/New_York:20251013T160000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
