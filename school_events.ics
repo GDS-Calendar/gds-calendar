@@ -9142,30 +9142,4 @@ DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
 LOCATION:131
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:f3a8e0e4-4ced-4c9a-bf91-f3dac3affa3a@gds.incidentiq.com
-SUMMARY:School Resumes
-DTSTART;TZID=America/New_York:20251015T080000
-DTEND;TZID=America/New_York:20251015T160000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:ee020e50-eb7f-45b3-be33-d05ec470a3b3@gds.incidentiq.com
-SUMMARY:In-Service Day (no classes)
-DTSTART;TZID=America/New_York:20251014T080000
-DTEND;TZID=America/New_York:20251014T160000
-DESCRIPTION:This is a GDS faculty/staff professional day. There will be 
- no school for GDS students.
-LOCATION:Virtual #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:a6ff36bc-caa2-4729-b309-e1a022404daa@gds.incidentiq.com
-SUMMARY:Indigenous Peoples' Day (no classes)
-DTSTART;TZID=America/New_York:20251013T080000
-DTEND;TZID=America/New_York:20251013T160000
-LOCATION:Virtual #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
