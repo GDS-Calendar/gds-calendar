@@ -9121,25 +9121,4 @@ DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:91a3c84e-c7b0-4b90-8e58-7b265f2af3b1@gds.incidentiq.com
-SUMMARY:6th Grade Overnight Trip
-DTSTART;TZID=America/New_York:20251015T080000
-DTEND;TZID=America/New_York:20251015T153000
-DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
- visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:4f52c9b0-3c1b-41f3-be52-db1d88f3f50f@gds.incidentiq.com
-SUMMARY:Fall Break - Break Camp
-DTSTART;TZID=America/New_York:20251014T080000
-DTEND;TZID=America/New_York:20251014T160000
-DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
- osted in the fall at www.gds.org/breakcamp!
-LOCATION:131
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
