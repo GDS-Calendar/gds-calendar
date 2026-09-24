@@ -9110,15 +9110,4 @@ DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
 LOCATION:Offsite #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:ab9dabce-c45e-4765-9b75-1b04121b0c85@gds.incidentiq.com
-SUMMARY:6th Grade Overnight Trip
-DTSTART;TZID=America/New_York:20251016T080000
-DTEND;TZID=America/New_York:20251016T153000
-DESCRIPTION:6th graders will travel off campus for their annual trip. Ad
- visors will be in touch with families regarding the details. The event sta
- rts at 8:00 AM on the first day and ends at 3:30 PM on the last day.
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
