@@ -7504,23 +7504,4 @@ DTEND;TZID=America/New_York:20260308T160000
 LOCATION:Virtual #01
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:0fba2cc1-1553-4032-bf38-2f47b1a94a02@gds.incidentiq.com
-SUMMARY:GDS Jazz and Creative Music Festival
-DTSTART;TZID=America/New_York:20260307T090000
-DTEND;TZID=America/New_York:20260307T160000
-DESCRIPTION:Everyone is welcome! Enjoy performances by school bands and 
- guest artists and master classes by guest artists.
-LOCATION:B102
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:e63594d9-4102-4a1e-bfe5-95d6b3ed5439@gds.incidentiq.com
-SUMMARY:[PSA] High School Coffee And Walk
-DTSTART;TZID=America/New_York:20260306T090000
-DTEND;TZID=America/New_York:20260306T100000
-DESCRIPTION:1st Friday of the month gathering for HS parents - MD/DC/VA alternating
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
