@@ -7496,12 +7496,4 @@ DTEND;TZID=America/New_York:20260311T203000
 LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:42c2e863-a58f-439c-8608-d27182cf18b3@gds.incidentiq.com
-SUMMARY:Daylight Savings Time Begins
-DTSTART;TZID=America/New_York:20260308T080000
-DTEND;TZID=America/New_York:20260308T160000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
