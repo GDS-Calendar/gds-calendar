@@ -28,21 +28,7 @@ OUTPUT_HTML_FILE = "facilities_security_email.html"
 FROM_EMAIL = os.environ.get('FROM_EMAIL', 'gds-events-notifications@gds.org')
 FROM_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD')
 TO_EMAILS = [
-    'nmarkley@gds.org',        # Natalie
-    'rcampbell@gds.org',       # Rhona
-    'lfall@gds.org',           # Lisa
-    'jperinovic@gds.org',      # Jenny
-    'kdaniels@gds.org',        # Khalid
-    'shharris@gds.org',        # Shelley
-    'wnazari@gds.org',          # Walid  
-    'mjtorres@gds.org',         # MJ
-    'flexspace@gds.org',        # Flexspace
-    'mwatkins@gds.org',        # Malik
-    'jhortman@gds.org',        # Jessica
-    'dprevina@gds.org',        # Debby
-    'yhernandez@gds.org',       # Yenny
-    'dbowen@gds.org',          # Danielle B.
-    'ldickert@gds.org',        # Lauren
+    'tlyons@gds.org'
 ]
 CC_EMAILS = [
     'tlyons@gds.org'  # You for monitoring
