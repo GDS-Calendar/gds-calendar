@@ -2,7 +2,7 @@
 """
 iiQ API Email Generator for GDS - Facilities & Security
 GitHub Actions version - uses environment variables for authentication
-Updated to include Event Type information
+Includes event type, setup/breakdown times, building-grouped locations, and request notes
 """
 
 import os
@@ -148,6 +148,135 @@ def filter_events_for_email(events):
     
     return relevant_events
 
+
+# iiQ custom question IDs (first 8 chars of CustomFieldTypeId) -> what they are
+CF_FACILITIES_FLAG = '2cc0c6a2'   # Does the Event require Facilities Support?
+CF_FACILITIES_TEXT = 'fbcb3674'   # Describe your maintenance needs
+CF_TECH_FLAG       = '1e3bce23'   # Does the Event require Tech Support?
+CF_TECH_TEXT       = 'a0096d94'   # Describe your tech needs
+CF_FOOD_FLAG       = '83ab1e6b'   # Does the Event require Food Service?
+CF_FOOD_TEXT       = '985e45ad'   # Describe your catering needs
+
+# Free-text answers that mean "nothing" (compared lowercase, punctuation stripped)
+FILLER = {'', 'na', 'n/a', 'n a', 'none', 'no', 'n', 'nope', 'nothing', 'no needs',
+          'no need', 'not needed', 'not applicable', 'tbd', 'x', '-', '.'}
+
+# Collapse room lists longer than this into a count
+MAX_ROOMS_LISTED = 6
+
+
+def esc(text):
+    """Minimal HTML escaping for text pulled from iiQ"""
+    return (str(text).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;'))
+
+
+def get_custom_fields(event):
+    """Return {short_id: value} for an event's custom question answers"""
+    out = {}
+    for cf in event.get('CustomFieldValues') or []:
+        key = str(cf.get('CustomFieldTypeId', ''))[:8]
+        out[key] = str(cf.get('Value') or '').strip()
+    return out
+
+
+def is_real_note(value):
+    """True if a free-text answer says something beyond NA/None/etc."""
+    cleaned = (value or '').strip().lower().strip('.!').strip()
+    return cleaned not in FILLER
+
+
+def format_time(dt):
+    return dt.strftime('%I:%M%p').lstrip('0').lower()
+
+
+def parse_dt(value):
+    try:
+        return datetime.fromisoformat((value or '').rstrip('Z'))
+    except ValueError:
+        return None
+
+
+def format_setup_breakdown(event):
+    """Setup/breakdown lines, only when they differ from the event's start/end"""
+    start_dt = parse_dt(event.get('StartDateTime'))
+    end_dt = parse_dt(event.get('EndDateTime'))
+    setup_dt = parse_dt(event.get('SetUpStartDateTime'))
+    breakdown_dt = parse_dt(event.get('BreakdownEndDateTime'))
+    parts = []
+    if setup_dt and start_dt and setup_dt < start_dt:
+        parts.append(f"Setup starts {format_time(setup_dt)}")
+    if breakdown_dt and end_dt and breakdown_dt > end_dt:
+        parts.append(f"breakdown until {format_time(breakdown_dt)}")
+    if not parts:
+        return ''
+    text = ', '.join(parts)
+    return text[0].upper() + text[1:]
+
+
+def format_location(event):
+    """Group rooms by building (HS / LMS); collapse very long room lists"""
+    rooms = event.get('LocationRooms') or []
+    by_building = {}
+    order = []
+    for room in rooms:
+        name = (room.get('Name') or '').strip()
+        if not name:
+            continue
+        building = (room.get('LocationAbbreviation') or room.get('LocationName') or '').strip()
+        if building in ('VIR', 'OFF', 'CD'):   # virtual / offsite / calendar-date pseudo-buildings
+            building = ''
+        if building not in by_building:
+            by_building[building] = []
+            order.append(building)
+        if name not in by_building[building]:
+            by_building[building].append(name)
+
+    if not by_building:
+        display = (event.get('LocationDisplay') or '').replace('\n', '; ').strip()
+        return esc(display) if display else 'Location TBD'
+
+    total = sum(len(v) for v in by_building.values())
+    if total > MAX_ROOMS_LISTED:
+        buildings = ' and '.join(b for b in order if b) or 'campus'
+        return f"{total} rooms across {esc(buildings)}"
+
+    chunks = []
+    for building in order:
+        names = ', '.join(esc(n) for n in by_building[building])
+        chunks.append(f"{esc(building)}: {names}" if building else names)
+    return '; '.join(chunks)
+
+
+def format_notes(event):
+    """Important notes from the iiQ request form; only real answers are shown"""
+    cf = get_custom_fields(event)
+    notes = []
+
+    maint = cf.get(CF_FACILITIES_TEXT, '')
+    if is_real_note(maint):
+        notes.append(('Facilities', maint))
+    elif cf.get(CF_FACILITIES_FLAG, '').lower() == 'yes':
+        notes.append(('Facilities', 'Support requested (no details given)'))
+
+    tech = cf.get(CF_TECH_TEXT, '')
+    if is_real_note(tech):
+        notes.append(('Tech', tech))
+    elif cf.get(CF_TECH_FLAG, '').lower() == 'yes':
+        notes.append(('Tech', 'Support requested (no details given)'))
+
+    food = cf.get(CF_FOOD_TEXT, '')
+    if is_real_note(food):
+        notes.append(('Catering', food))
+    elif cf.get(CF_FOOD_FLAG, '').lower() == 'yes':
+        notes.append(('Catering', 'Food service requested (no details given)'))
+
+    attendees = event.get('NumberOfAttendees')
+    if attendees:
+        notes.append(('Attendees', str(attendees)))
+
+    return notes
+
+
 def generate_email_html(events):
     """Generate compact, professional HTML email content with GDS branding"""
     
@@ -275,6 +404,15 @@ def generate_email_html(events):
                 font-weight: 500;
                 margin-top: 4px;
             }}
+            .notes {{
+                margin-top: 6px;
+                padding: 6px 8px;
+                background-color: #FFF8E1;
+                border-radius: 3px;
+                font-size: 11px;
+                color: #5D4037;
+                border-left: 2px solid #FFA000;
+            }}
             .description {{ 
                 margin-top: 6px; 
                 padding: 6px 8px;
@@ -380,18 +518,9 @@ def generate_email_html(events):
             else:
                 date_time = "Date TBD"
             
-            location_parts = []
-            location = event.get('Location', {})
-            if location and location.get('Name'):
-                location_parts.append(location['Name'])
-            
-            location_rooms = event.get('LocationRooms', [])
-            if location_rooms:
-                room_names = [room.get('Name', '') for room in location_rooms if room.get('Name')]
-                if room_names:
-                    location_parts.append(', '.join(room_names))
-            
-            location_text = ' - '.join(location_parts) if location_parts else 'Location TBD'
+            location_text = format_location(event)
+            setup_text = format_setup_breakdown(event)
+            notes = format_notes(event)
             
             owner = event.get('Owner', {})
             organizer = f"{owner.get('FirstName', '')} {owner.get('LastName', '')}".strip()
@@ -407,6 +536,9 @@ def generate_email_html(events):
                     <div class="event-details"><strong>Where:</strong> {location_text}</div>
             """
             
+            if setup_text:
+                html_content += f'<div class="event-details"><strong>Setup:</strong> {setup_text}</div>'
+            
             # Add event type if available
             if type_name:
                 html_content += f'<div class="event-details"><strong>Type:</strong> <span class="event-type">{type_name}</span></div>'
@@ -416,6 +548,10 @@ def generate_email_html(events):
                 if organizer_email:
                     contact_info += f" ({organizer_email})"
                 html_content += f'<div class="event-details"><strong>Contact:</strong> {contact_info}</div>'
+            
+            if notes:
+                note_lines = '<br>'.join(f'<strong>{label}:</strong> {esc(text)}' for label, text in notes)
+                html_content += f'<div class="notes">{note_lines}</div>'
             
             if description and description.strip():
                 html_content += f'<div class="description">{description}</div>'
@@ -436,7 +572,7 @@ def generate_email_html(events):
             </div>
             
             <div class="footer">
-                <p>Automated bi-weekly report • Generated from iiQ • Questions: Natalie Markley</p>
+                <p>Automated weekly report (next 14 days) • Generated from iiQ • Questions: Yenny Hernandez</p>
             </div>
         </div>
     </body>
@@ -461,7 +597,7 @@ def send_email_smtp(html_content, events_count):
     
     # Create plain text version
     text_content = f"""
-GDS Facilities & Security - Bi-weekly Event Summary
+GDS Facilities & Security - Weekly Event Summary
 
 Generated on {today.strftime('%A, %B %d, %Y at %I:%M %p')}
 Covering events from {today.strftime('%B %d')} to {two_weeks.strftime('%B %d, %Y')}
@@ -470,7 +606,7 @@ Covering events from {today.strftime('%B %d')} to {two_weeks.strftime('%B %d, %Y
 
 Please see the HTML version of this email for full event details.
 
-For questions, contact Natalie Markley.
+For questions, contact Yenny Hernandez.
     """
     
     # Attach both versions
