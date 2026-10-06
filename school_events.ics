@@ -7488,12 +7488,4 @@ DESCRIPTION:Admitted students will spend time visiting classes\, meeting
 LOCATION:G001 HS Forum
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:cbd34221-0d28-45f4-b891-b6bcf7cb3bc7@gds.incidentiq.com
-SUMMARY:Middle School Choral Festival Grades 7 and 8
-DTSTART;TZID=America/New_York:20260311T190000
-DTEND;TZID=America/New_York:20260311T203000
-LOCATION:B200 LMS Gym
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
