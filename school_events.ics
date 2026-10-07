@@ -7462,30 +7462,4 @@ DESCRIPTION:Come for the PSA updates and stay for the shopping! We will
 LOCATION:300
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:274f508c-8d79-4ee2-8e2b-982782597866@gds.incidentiq.com
-SUMMARY:High School Athletics Meet-and-Greet for Admitted Families
-DTSTART;TZID=America/New_York:20260304T183000
-DTEND;TZID=America/New_York:20260304T193000
-DESCRIPTION:Admitted High School students and their parents/guardians ar
- e invited to our Athletics Meet & Greet. All teams will be represented\, a
- nd you will have the chance to meet coaches and players as you explore the
-  many opportunities for student-athletes at GDS.
-LOCATION:L101 HS Turf Room
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:17bcb24e-4060-4c3d-8b33-e50f064e188a@gds.incidentiq.com
-SUMMARY:High School Shadow Day
-DTSTART;TZID=America/New_York:20260304T083000
-DTEND;TZID=America/New_York:20260304T130000
-DESCRIPTION:Admitted students will spend time visiting classes\, meeting
-  faculty and students\, and experiencing the dynamic culture of GDS alongs
- ide a student buddy. Lunch is provided. Shadow visits are not required\; h
- owever\, we do hope you will register as you consider GDS as your next sch
- ool.\n\nFor more information\, please contact GDS Admissions at admissions
- @gds.org.
-LOCATION:G001 HS Forum
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
