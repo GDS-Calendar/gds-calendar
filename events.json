@@ -1,5 +1,126 @@
 [
   {
+    "EventTag": "13141",
+    "EventId": "1b953ae9-edea-40be-acb2-a6116c802373",
+    "CreatedDate": "2026-10-13T09:07:00.14",
+    "ModifiedDate": "2026-10-13T09:07:00.14",
+    "IsDeleted": false,
+    "IsPrivate": false,
+    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+    "AppId": "iiq",
+    "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+    "EventType": {
+      "EventTypeId": "bc9defab-bcf0-6cd0-20e9-28edd0f2b1b8",
+      "CreatedDate": "2025-04-09T01:34:24.48",
+      "ModifiedDate": "2025-04-09T01:34:24.48",
+      "IsDeleted": false,
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Community Event"
+    },
+    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+    "EventStatus": {
+      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
+      "CreatedDate": "2022-09-17T07:16:53.76",
+      "ModifiedDate": "2022-09-17T07:16:53.76",
+      "IsDeleted": false,
+      "Name": "Approved"
+    },
+    "Title": "The Augur Bit's 50th Anniversary Celebration",
+    "Description": "The Augur Bit is turning 50! Alumni from all 50 years are invited to an anniversary celebration on Saturday, November 28. We'll be at the Platinum Suite at 3236 Wisconsin Avenue NW, from 2:00 to 5:00, with a program starting at 3:00. Please save the date for an event featuring panel discussions, archives from the Bit's five decades, and time to mingle and reminisce with staffers past and present. Email Julia Fisher at jfisher@gds.org if you have any questions.",
+    "StartDateTime": "2026-11-28T14:00:00",
+    "SetUpStartDateTime": "2026-11-28T14:00:00",
+    "EndDateTime": "2026-11-28T17:00:00",
+    "BreakdownEndDateTime": "2026-11-28T17:00:00",
+    "IsAllDay": false,
+    "SeriesType": 0,
+    "OwnerId": "a3f44401-271c-4a9c-833c-b23c42957001",
+    "Owner": {
+      "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
+      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+      "Name": "Maria Rodriguez",
+      "FullName": "Maria Rodriguez",
+      "Initials": "MR",
+      "FirstName": "Maria",
+      "LastName": "Rodriguez",
+      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
+      "PhotoId": "c3cc616e-7383-f011-b484-002248538047",
+      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
+      "SchoolIdNumber": "8324805",
+      "Email": "mrodriguez@gds.org",
+      "Username": "mrodriguez@gds.org",
+      "IsOnline": false,
+      "AuthenticatedBy": "googleSso",
+      "IsEmailVerified": false
+    },
+    "IsReadOnly": false,
+    "ExternalId": "",
+    "LocationRooms": [
+      {
+        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
+        "LocationRoomId": "8dc78aa8-e3c1-4205-a706-c3f90f8edf94",
+        "Name": "Offsite #01",
+        "NameFormatted": "Offsite #01",
+        "Icon": "fa fa-door-open",
+        "LocationId": "7b5e4625-e742-f011-8f7d-000d3a0db550",
+        "LocationName": "Offsite",
+        "LocationAbbreviation": "OFF",
+        "LocationRoomTypeId": "308e9f29-e699-ec11-8617-f8e43b468024",
+        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
+        "Description": "Offsite Meeting #01",
+        "InternalNotes": "Offsite Meeting #01",
+        "IsAvailable": false,
+        "IsExternallyAvailable": false,
+        "NameSort": "Offsite #01",
+        "IsDeleted": false,
+        "CreatedDate": "2025-06-06T15:02:28.15",
+        "ModifiedDate": "2025-07-03T23:20:03.463"
+      }
+    ],
+    "Locations": [],
+    "LocationDisplay": "OFF > Offsite #01",
+    "DateTimeDisplay": "November 28, 2026\n02:00 PM - 05:00 PM",
+    "CustomFieldValues": [
+      {
+        "CustomFieldTypeId": "985e45ad-fe1c-4d3c-8000-15e10377c673",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "fbcb3674-83e6-48af-a298-16f5e2d9ac63",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
+        "Value": "no",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
+        "Value": "yes",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "a0096d94-850c-438e-a846-c7fc36301b33",
+        "Value": "N/A",
+        "IsHidden": false
+      },
+      {
+        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
+        "Value": "no",
+        "IsHidden": false
+      }
+    ],
+    "SkipAvailabilityCheck": false,
+    "InsuranceExpiring": false,
+    "InsuranceExpired": false
+  },
+  {
     "EventTag": "12424",
     "EventId": "af4e4283-d149-4466-903b-7199ebc49e82",
     "CreatedDate": "2026-09-21T12:15:42.9",
@@ -94817,233 +94938,6 @@
     "Locations": [],
     "LocationDisplay": "HS > G001 HS Forum",
     "DateTimeDisplay": "March 18, 2026\n06:00 PM - 08:00 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10393",
-    "EventId": "1c15da72-1f5c-40c0-ba07-3a051204b9af",
-    "CreatedDate": "2025-07-22T12:42:40.76",
-    "ModifiedDate": "2025-07-22T12:42:40.76",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "60b69159-1db5-9207-09c4-5fab12681b72",
-    "EventType": {
-      "EventTypeId": "60b69159-1db5-9207-09c4-5fab12681b72",
-      "CreatedDate": "2025-04-09T01:28:57.057",
-      "ModifiedDate": "2025-04-09T01:28:57.057",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "DEI Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "Middle School SOC Mentoring",
-    "Description": "Please join us for the monthly SOC Mentoring session for MS students of color.  MS SOC Mentoring Program is open to all students of color in middle school. During MS SOC sessions, students openly discuss their experiences and concerns as members of the GDS community. Students share their successes and accomplishments with one another while also learning how to use one another as resources in approaching challenges and developing effective problem-solving strategies.",
-    "StartDateTime": "2026-03-18T15:30:00",
-    "SetUpStartDateTime": "2026-03-18T15:30:00",
-    "EndDateTime": "2026-03-18T16:30:00",
-    "BreakdownEndDateTime": "2026-03-18T16:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "d5eaa707-09f8-412c-adcc-2739099a8627",
-        "Name": "423",
-        "NameFormatted": "423",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9f29-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "ee545537-e17a-4034-af22-801b0c8881c8",
-        "Area": 535,
-        "SeatingCapacity": 20,
-        "MaximumOccupancy": 30,
-        "Description": "Grade 8 Classroom",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "423",
-        "IsDeleted": false,
-        "CreatedDate": "2024-12-29T19:24:21.513",
-        "ModifiedDate": "2025-04-09T01:10:43.433"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "LMS > 423",
-    "DateTimeDisplay": "March 18, 2026\n03:30 PM - 04:30 PM",
-    "CustomFieldValues": [
-      {
-        "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "9f9f881d-e307-4c91-9c25-3f10ff5b4cd8",
-        "Value": "n",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "83ab1e6b-7945-4c18-9c27-4458002266e7",
-        "Value": "no",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "e3d6a181-2165-44e1-9a56-5fabcf87fea4",
-        "Value": "yes",
-        "IsHidden": false
-      },
-      {
-        "CustomFieldTypeId": "2cc0c6a2-3491-4b4d-8ffb-d3b0c0488f50",
-        "Value": "no",
-        "IsHidden": false
-      }
-    ],
-    "SkipAvailabilityCheck": false,
-    "InsuranceExpiring": false,
-    "InsuranceExpired": false
-  },
-  {
-    "EventTag": "10392",
-    "EventId": "def6cdda-9685-416b-8343-15268006daf7",
-    "CreatedDate": "2025-07-22T12:39:49.62",
-    "ModifiedDate": "2025-07-30T13:32:35.94",
-    "IsDeleted": false,
-    "IsPrivate": false,
-    "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-    "AppId": "iiq",
-    "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
-    "EventType": {
-      "EventTypeId": "f14f3487-1a41-7efb-cfdb-4515d5075aa3",
-      "CreatedDate": "2025-04-09T01:30:11.187",
-      "ModifiedDate": "2025-04-09T01:30:11.187",
-      "IsDeleted": false,
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "MS Event"
-    },
-    "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-    "EventStatus": {
-      "EventStatusTypeId": "7beff483-d1e4-46b2-a590-7e0e16a8fe26",
-      "CreatedDate": "2022-09-17T07:16:53.76",
-      "ModifiedDate": "2022-09-17T07:16:53.76",
-      "IsDeleted": false,
-      "Name": "Approved"
-    },
-    "Title": "Middle School Passover Freedom Assembly",
-    "Description": "Join us for this annual celebration of the fourth of our five keystone assemblies which uplifts the community value of freedom.",
-    "StartDateTime": "2026-03-18T14:45:00",
-    "SetUpStartDateTime": "2026-03-18T14:45:00",
-    "EndDateTime": "2026-03-18T15:30:00",
-    "BreakdownEndDateTime": "2026-03-18T15:30:00",
-    "IsAllDay": false,
-    "SeriesType": 0,
-    "OwnerId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-    "Owner": {
-      "UserId": "42f57935-c003-4bc2-a8d9-0f1a48301116",
-      "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-      "Name": "Natalie Markley",
-      "FullName": "Natalie Markley",
-      "Initials": "NM",
-      "FirstName": "Natalie",
-      "LastName": "Markley",
-      "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-      "PhotoId": "9000ebfd-d4ca-ef11-88cf-6045bdb03177",
-      "RoleId": "6d5fee76-e05e-43c0-b8e9-b8447746e505",
-      "SchoolIdNumber": "5263518",
-      "Email": "nmarkley@gds.org",
-      "Username": "nmarkley@gds.org",
-      "IsOnline": false,
-      "AuthenticatedBy": "googleSso",
-      "IsEmailVerified": false
-    },
-    "IsReadOnly": false,
-    "ExternalId": "",
-    "LocationRooms": [
-      {
-        "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "50acd741-66b4-4019-81ea-c7dbd8cf4986",
-        "Name": "B200 LMS Gym",
-        "NameFormatted": "B200 LMS Gym",
-        "Icon": "fa fa-door-open",
-        "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
-        "LocationName": "Lower Middle School",
-        "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "2d8e9031-e699-ec11-8617-f8e43b468024",
-        "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 12936,
-        "SeatingCapacity": 500,
-        "MaximumOccupancy": 640,
-        "Description": "Gymnasium",
-        "InternalNotes": "Gymnasium",
-        "IsAvailable": false,
-        "IsExternallyAvailable": false,
-        "NameSort": "B200 LMS Gym",
-        "IsDeleted": false,
-        "CreatedDate": "2024-12-23T22:59:16.85",
-        "ModifiedDate": "2025-08-07T19:09:04.06"
-      }
-    ],
-    "Locations": [],
-    "LocationDisplay": "LMS > B200 LMS Gym",
-    "DateTimeDisplay": "March 18, 2026\n02:45 PM - 03:30 PM",
     "CustomFieldValues": [
       {
         "CustomFieldTypeId": "1e3bce23-b4e0-440f-9cc1-29363ed17412",

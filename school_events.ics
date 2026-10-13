@@ -23,6 +23,21 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1b953ae9-edea-40be-acb2-a6116c802373@gds.incidentiq.com
+SUMMARY:The Augur Bit's 50th Anniversary Celebration
+DTSTART;TZID=America/New_York:20261128T140000
+DTEND;TZID=America/New_York:20261128T170000
+DESCRIPTION:The Augur Bit is turning 50! Alumni from all 50 years are in
+ vited to an anniversary celebration on Saturday\, November 28. We'll be at
+  the Platinum Suite at 3236 Wisconsin Avenue NW\, from 2:00 to 5:00\, with
+  a program starting at 3:00. Please save the date for an event featuring p
+ anel discussions\, archives from the Bit's five decades\, and time to ming
+ le and reminisce with staffers past and present. Email Julia Fisher at jfi
+ sher@gds.org if you have any questions.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:af4e4283-d149-4466-903b-7199ebc49e82@gds.incidentiq.com
 SUMMARY:Parent Connect: Connected or Overloaded? Supporting Children & Teens Mental Health in Digital Age
 DTSTART;TZID=America/New_York:20261021T190000
@@ -7314,31 +7329,6 @@ SUMMARY:High School Integration Bee
 DTSTART;TZID=America/New_York:20260318T180000
 DTEND;TZID=America/New_York:20260318T200000
 LOCATION:G001 HS Forum
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:1c15da72-1f5c-40c0-ba07-3a051204b9af@gds.incidentiq.com
-SUMMARY:Middle School SOC Mentoring
-DTSTART;TZID=America/New_York:20260318T153000
-DTEND;TZID=America/New_York:20260318T163000
-DESCRIPTION:Please join us for the monthly SOC Mentoring session for MS 
- students of color.  MS SOC Mentoring Program is open to all students of co
- lor in middle school. During MS SOC sessions\, students openly discuss the
- ir experiences and concerns as members of the GDS community. Students shar
- e their successes and accomplishments with one another while also learning
-  how to use one another as resources in approaching challenges and develop
- ing effective problem-solving strategies.
-LOCATION:423
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:def6cdda-9685-416b-8343-15268006daf7@gds.incidentiq.com
-SUMMARY:Middle School Passover Freedom Assembly
-DTSTART;TZID=America/New_York:20260318T144500
-DTEND;TZID=America/New_York:20260318T153000
-DESCRIPTION:Join us for this annual celebration of the fourth of our fiv
- e keystone assemblies which uplifts the community value of freedom.
-LOCATION:B200 LMS Gym
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 END:VCALENDAR
