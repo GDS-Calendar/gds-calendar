@@ -7322,12 +7322,4 @@ DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
 LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:2eba8349-4376-40fd-9cc2-c0f085c3486a@gds.incidentiq.com
-SUMMARY:High School Integration Bee
-DTSTART;TZID=America/New_York:20260318T180000
-DTEND;TZID=America/New_York:20260318T200000
-LOCATION:G001 HS Forum
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
