@@ -265,7 +265,7 @@
     "EventTag": "12422",
     "EventId": "225691c5-8105-44b7-a08a-a1e25daef5c9",
     "CreatedDate": "2026-09-21T08:49:10.17",
-    "ModifiedDate": "2026-09-21T08:49:10.17",
+    "ModifiedDate": "2026-10-14T08:37:09.353",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -288,7 +288,7 @@
       "Name": "Approved"
     },
     "Title": "PSA New Families Meeting",
-    "Description": "This informal gathering will be an opportunity to connect with other new (and newish) families and PSA representatives, ask questions, learn more about the GDS community, and share what would be helpful as your family continues to navigate the school year. \nContact: Amy Leveton, amyleveton@outlook.com",
+    "Description": "This informal gathering will be an opportunity to connect with other new (or newish) families and PSA reps, ask questions, learn more about the GDS community, and share what would be helpful as your family continues to navigate the school year. Light refreshments will be served.",
     "StartDateTime": "2026-10-29T08:30:00",
     "SetUpStartDateTime": "2026-10-29T08:30:00",
     "EndDateTime": "2026-10-29T09:45:00",
