@@ -23,6 +23,14 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ee65a133-ee32-44d2-9a7f-ed6f697d82fb@gds.incidentiq.com
+SUMMARY:48 Hours for Financial Aid Kick-Off Event
+DTSTART;TZID=America/New_York:20270313T190000
+DTEND;TZID=America/New_York:20270313T220000
+LOCATION:Calendar Date
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:1b953ae9-edea-40be-acb2-a6116c802373@gds.incidentiq.com
 SUMMARY:The Augur Bit's 50th Anniversary Celebration
 DTSTART;TZID=America/New_York:20261128T140000
@@ -7284,42 +7292,6 @@ SUMMARY:Spring Break
 DTSTART;TZID=America/New_York:20260321T080000
 DTEND;TZID=America/New_York:20260321T160000
 LOCATION:Virtual #04
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:fe9abc62-42e3-4e6d-bb80-218b5c3ae493@gds.incidentiq.com
-SUMMARY:High School Progress Period II Ends
-DTSTART;TZID=America/New_York:20260318T080000
-DTEND;TZID=America/New_York:20260318T170000
-LOCATION:Virtual #03
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:6a4f1017-6c71-48ae-a3eb-af5f03aaadf5@gds.incidentiq.com
-SUMMARY:Eid al-Fitr Begins @ Sundown (Tentative Date)
-DTSTART;TZID=America/New_York:20260320T080000
-DTEND;TZID=America/New_York:20260320T160000
-LOCATION:Virtual #05
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:21d3286d-5427-495e-8faa-b1d50cd50cda@gds.incidentiq.com
-SUMMARY:LMS Parent Teacher Conference Break Camp
-DTSTART;TZID=America/New_York:20260320T080000
-DTEND;TZID=America/New_York:20260320T160000
-DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
- osted in the fall at www.gds.org/breakcamp!
-LOCATION:101 LMS Library
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:c7bda293-4e35-4f03-b83c-dddb18e806ac@gds.incidentiq.com
-SUMMARY:LMS Parent Teacher Conference Break Camp
-DTSTART;TZID=America/New_York:20260319T080000
-DTEND;TZID=America/New_York:20260319T160000
-DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
- osted in the fall at www.gds.org/breakcamp!
-LOCATION:101 LMS Library
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 END:VCALENDAR
