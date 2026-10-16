@@ -7294,4 +7294,307 @@ DTEND;TZID=America/New_York:20260321T160000
 LOCATION:Virtual #04
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
+BEGIN:VEVENT
+UID:fe9abc62-42e3-4e6d-bb80-218b5c3ae493@gds.incidentiq.com
+SUMMARY:High School Progress Period II Ends
+DTSTART;TZID=America/New_York:20260318T080000
+DTEND;TZID=America/New_York:20260318T170000
+LOCATION:Virtual #03
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4f1017-6c71-48ae-a3eb-af5f03aaadf5@gds.incidentiq.com
+SUMMARY:Eid al-Fitr Begins @ Sundown (Tentative Date)
+DTSTART;TZID=America/New_York:20260320T080000
+DTEND;TZID=America/New_York:20260320T160000
+LOCATION:Virtual #05
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:21d3286d-5427-495e-8faa-b1d50cd50cda@gds.incidentiq.com
+SUMMARY:LMS Parent Teacher Conference Break Camp
+DTSTART;TZID=America/New_York:20260320T080000
+DTEND;TZID=America/New_York:20260320T160000
+DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
+ osted in the fall at www.gds.org/breakcamp!
+LOCATION:101 LMS Library
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bda293-4e35-4f03-b83c-dddb18e806ac@gds.incidentiq.com
+SUMMARY:LMS Parent Teacher Conference Break Camp
+DTSTART;TZID=America/New_York:20260319T080000
+DTEND;TZID=America/New_York:20260319T160000
+DESCRIPTION:Join us for an exciting break camp at GDS! Details will be p
+ osted in the fall at www.gds.org/breakcamp!
+LOCATION:101 LMS Library
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2eba8349-4376-40fd-9cc2-c0f085c3486a@gds.incidentiq.com
+SUMMARY:High School Integration Bee
+DTSTART;TZID=America/New_York:20260318T180000
+DTEND;TZID=America/New_York:20260318T200000
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:1c15da72-1f5c-40c0-ba07-3a051204b9af@gds.incidentiq.com
+SUMMARY:Middle School SOC Mentoring
+DTSTART;TZID=America/New_York:20260318T153000
+DTEND;TZID=America/New_York:20260318T163000
+DESCRIPTION:Please join us for the monthly SOC Mentoring session for MS 
+ students of color.  MS SOC Mentoring Program is open to all students of co
+ lor in middle school. During MS SOC sessions\, students openly discuss the
+ ir experiences and concerns as members of the GDS community. Students shar
+ e their successes and accomplishments with one another while also learning
+  how to use one another as resources in approaching challenges and develop
+ ing effective problem-solving strategies.
+LOCATION:423
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:def6cdda-9685-416b-8343-15268006daf7@gds.incidentiq.com
+SUMMARY:Middle School Passover Freedom Assembly
+DTSTART;TZID=America/New_York:20260318T144500
+DTEND;TZID=America/New_York:20260318T153000
+DESCRIPTION:Join us for this annual celebration of the fourth of our fiv
+ e keystone assemblies which uplifts the community value of freedom.
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:47e7866a-205d-4f2e-8b7d-2219d0f87137@gds.incidentiq.com
+SUMMARY:High School Shadow Day
+DTSTART;TZID=America/New_York:20260310T083000
+DTEND;TZID=America/New_York:20260310T123000
+DESCRIPTION:Admitted students will spend time visiting classes\, meeting
+  faculty and students\, and experiencing the dynamic culture of GDS alongs
+ ide a student buddy. Lunch is provided. Shadow visits are not required\; h
+ owever\, we do hope you will register as you consider GDS as your next sch
+ ool.\n\nFor more information\, please contact GDS Admissions at admissions
+ @gds.org.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:72fd59a2-86db-458c-a604-0f44d0800583@gds.incidentiq.com
+SUMMARY:High School Professional / Report Writing Day (no classes)
+DTSTART;TZID=America/New_York:20260320T080000
+DTEND;TZID=America/New_York:20260320T160000
+LOCATION:Virtual #04
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d40830bc-194b-49cc-8fb0-a219bcf67256@gds.incidentiq.com
+SUMMARY:High School Professional / Report Writing Day (no classes)
+DTSTART;TZID=America/New_York:20260319T080000
+DTEND;TZID=America/New_York:20260319T160000
+LOCATION:Virtual #04
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:2d564726-3f65-4518-a229-b0da1251c7ab@gds.incidentiq.com
+SUMMARY:Middle School Student-Led Conferences
+DTSTART;TZID=America/New_York:20260319T080000
+DTEND;TZID=America/New_York:20260319T160000
+DESCRIPTION:Families will select a conference between 3/19/2026 and 3/20
+ /2026 for their child's Student Led Conference. Both students and caregive
+ rs should plan to be present in-person/on campus. No classes for students 
+ on March 19 and 20.
+LOCATION:104 LMS Main Lobby
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:1d695d27-e960-40db-9a6f-3a3abac025ac@gds.incidentiq.com
+SUMMARY:Lower School Parent/Teacher Conferences
+DTSTART;TZID=America/New_York:20260319T080000
+DTEND;TZID=America/New_York:20260319T160000
+DESCRIPTION:No classes for students on March 19 and 20.
+LOCATION:LMS-Campus
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:fb0402a5-9e11-466d-a777-bdfbbc38fa4b@gds.incidentiq.com
+SUMMARY:High School Admitted Family Reception
+DTSTART;TZID=America/New_York:20260310T180000
+DTEND;TZID=America/New_York:20260310T193000
+DESCRIPTION:Admitted High School parents/guardians and students are invi
+ ted to meet school leadership\, faculty\, parents\, and students as you co
+ ntinue to explore GDS as your child(ren)'s next school.\n\nFor more inform
+ ation\, please contact GDS Admissions at admissions@gds.org.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9a828fb9-9b0d-428c-b6a6-da640417bc23@gds.incidentiq.com
+SUMMARY:St. Patrick's Day
+DTSTART;TZID=America/New_York:20260317T080000
+DTEND;TZID=America/New_York:20260317T160000
+LOCATION:Virtual #05
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d6fe2877-a884-4cf5-b0d9-a4562f2f999b@gds.incidentiq.com
+SUMMARY:High School Shadow Day
+DTSTART;TZID=America/New_York:20260309T083000
+DTEND;TZID=America/New_York:20260309T123000
+DESCRIPTION:Admitted students will spend time visiting classes\, meeting
+  faculty and students\, and experiencing the dynamic culture of GDS alongs
+ ide a student buddy. Lunch is provided. Shadow visits are not required\; h
+ owever\, we do hope you will register as you consider GDS as your next sch
+ ool.\n\nFor more information\, please contact GDS Admissions at admissions
+ @gds.org.
+LOCATION:220 HS Library (Full)
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8b8403-ec31-403d-b148-dec7204f3d08@gds.incidentiq.com
+SUMMARY:Lower School Admitted Parent/Guardian Reception
+DTSTART;TZID=America/New_York:20260305T180000
+DTEND;TZID=America/New_York:20260305T190000
+DESCRIPTION:Admitted Lower School parents and guardians are invited to a
+  celebration to meet school leadership and parents as you continue to expl
+ ore GDS as your child(ren)'s next school.  \n\nFor more information\, plea
+ se contact GDS Admissions at admissions@gds.org.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d47ebf-9b5c-4d81-b121-dca75fd0d429@gds.incidentiq.com
+SUMMARY:Middle School Admitted Family Welcome
+DTSTART;TZID=America/New_York:20260305T091500
+DTEND;TZID=America/New_York:20260305T104500
+DESCRIPTION:Admitted Middle School parents/guardians and students are in
+ vited to a celebration to meet school leadership\, faculty\, and peers as 
+ you continue to explore GDS as your child(ren)'s next school.  \n\nFor mor
+ e information\, please contact GDS Admissions at admissions@gds.org.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d38fe8e9-b788-4e37-b0f7-d9f3225a473f@gds.incidentiq.com
+SUMMARY:[PSA] PSA Meeting and Parent Book Fair Shopping Time
+DTSTART;TZID=America/New_York:20260311T160000
+DTEND;TZID=America/New_York:20260311T170000
+DESCRIPTION:Come for the PSA updates and stay for the shopping! We will 
+ kick off with a brief meeting to share updates on the PSA and ways to get 
+ involved for the rest of this school year and next. Then there will be tim
+ e for pizza and shopping at the Book Fair.
+LOCATION:300
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:274f508c-8d79-4ee2-8e2b-982782597866@gds.incidentiq.com
+SUMMARY:High School Athletics Meet-and-Greet for Admitted Families
+DTSTART;TZID=America/New_York:20260304T183000
+DTEND;TZID=America/New_York:20260304T193000
+DESCRIPTION:Admitted High School students and their parents/guardians ar
+ e invited to our Athletics Meet & Greet. All teams will be represented\, a
+ nd you will have the chance to meet coaches and players as you explore the
+  many opportunities for student-athletes at GDS.
+LOCATION:L101 HS Turf Room
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:17bcb24e-4060-4c3d-8b33-e50f064e188a@gds.incidentiq.com
+SUMMARY:High School Shadow Day
+DTSTART;TZID=America/New_York:20260304T083000
+DTEND;TZID=America/New_York:20260304T130000
+DESCRIPTION:Admitted students will spend time visiting classes\, meeting
+  faculty and students\, and experiencing the dynamic culture of GDS alongs
+ ide a student buddy. Lunch is provided. Shadow visits are not required\; h
+ owever\, we do hope you will register as you consider GDS as your next sch
+ ool.\n\nFor more information\, please contact GDS Admissions at admissions
+ @gds.org.
+LOCATION:G001 HS Forum
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd34221-0d28-45f4-b891-b6bcf7cb3bc7@gds.incidentiq.com
+SUMMARY:Middle School Choral Festival Grades 7 and 8
+DTSTART;TZID=America/New_York:20260311T190000
+DTEND;TZID=America/New_York:20260311T203000
+LOCATION:B200 LMS Gym
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:42c2e863-a58f-439c-8608-d27182cf18b3@gds.incidentiq.com
+SUMMARY:Daylight Savings Time Begins
+DTSTART;TZID=America/New_York:20260308T080000
+DTEND;TZID=America/New_York:20260308T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:0fba2cc1-1553-4032-bf38-2f47b1a94a02@gds.incidentiq.com
+SUMMARY:GDS Jazz and Creative Music Festival
+DTSTART;TZID=America/New_York:20260307T090000
+DTEND;TZID=America/New_York:20260307T160000
+DESCRIPTION:Everyone is welcome! Enjoy performances by school bands and 
+ guest artists and master classes by guest artists.
+LOCATION:B102
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:e63594d9-4102-4a1e-bfe5-95d6b3ed5439@gds.incidentiq.com
+SUMMARY:[PSA] High School Coffee And Walk
+DTSTART;TZID=America/New_York:20260306T090000
+DTEND;TZID=America/New_York:20260306T100000
+DESCRIPTION:1st Friday of the month gathering for HS parents - MD/DC/VA alternating
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:b744df89-e818-4baa-901e-33b3e18454e1@gds.incidentiq.com
+SUMMARY:College Counseling Coffee for 11th Grade Parents
+DTSTART;TZID=America/New_York:20260306T084500
+DTEND;TZID=America/New_York:20260306T094500
+DESCRIPTION:This optional and informal coffee meeting is a great opportu
+ nity for parents and guardians of juniors to ask questions of the college 
+ counselors and connect with other parents as they begin the college proces
+ s. There is no set agenda\; just bring your questions!
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:74747f7e-c50d-45bb-a08f-b6f12eed7bda@gds.incidentiq.com
+SUMMARY:Little-Known Secrets of Paying for College
+DTSTART;TZID=America/New_York:20260303T190000
+DTEND;TZID=America/New_York:20260303T203000
+DESCRIPTION:The GDS College Counseling Office has partnered with The Col
+ lege Funding Coach\, financial experts in the field of college financing\,
+  to help families understand the complex landscape of higher education fin
+ ancing\, learn about financial strategies that will allow them to utilize 
+ all of the avenues available to pay for college\, and optimize the potenti
+ al to qualify for funding directly from colleges and universities (in the 
+ form of merit scholarships and need-based financial aid).
+LOCATION:Virtual #02
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdbee71-7afb-4c18-961f-a2e657a16021@gds.incidentiq.com
+SUMMARY:Lower Middle School Professional / Report Writing Day (no classes)
+DTSTART;TZID=America/New_York:20260302T080000
+DTEND;TZID=America/New_York:20260302T160000
+LOCATION:Virtual #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:42ac4403-dfd6-4f7c-b7e0-22d5686f4729@gds.incidentiq.com
+SUMMARY:Treble Choral Festival\, Grades 5-6
+DTSTART;TZID=America/New_York:20260303T190000
+DTEND;TZID=America/New_York:20260303T203000
+LOCATION:Offsite #01
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:9754f439-bac0-4590-b93b-886334efb6b2@gds.incidentiq.com
+SUMMARY:GDS 360 Season 3 Begins
+DTSTART;TZID=America/New_York:20260303T150000
+DTEND;TZID=America/New_York:20260303T180000
+DESCRIPTION:GDS 360 Extended Day - Season 3 Program Begins
+LOCATION:Virtual #02
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
 END:VCALENDAR
