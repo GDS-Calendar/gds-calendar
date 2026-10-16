@@ -43,6 +43,8 @@ TO_EMAILS = [
     'yhernandez@gds.org',       # Yenny
     'dbowen@gds.org',          # Danielle B.
     'ldickert@gds.org',        # Lauren
+    'jdepass@gds.org',        # Joyce
+    'aperuzzini@gds.org',        # Alissa
 ]
 CC_EMAILS = [
     'tlyons@gds.org'  # You for monitoring
