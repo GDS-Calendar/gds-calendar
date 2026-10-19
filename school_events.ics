@@ -23,6 +23,34 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:7da05284-355b-48e0-a655-6f71ad7148f6@gds.incidentiq.com
+SUMMARY:Russell Shaw Civic Engagement Panel
+DTSTART;TZID=America/New_York:20270515T153000
+DTEND;TZID=America/New_York:20270515T170000
+DESCRIPTION:An annual spring event bringing together thought leaders and
+  community members to explore issues related to democracy and engaged citi
+ zenship. This event was created in recognition of Russell’s servant leader
+ ship\, intended to emphasize listening\, dialogue across difference\, and 
+ principled action rooted in empathy and integrity.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d86272cc-f412-4565-aec6-4412cd5ec00b@gds.incidentiq.com
+SUMMARY:Raising Children in the Age of AI with Kevin Roose
+DTSTART;TZID=America/New_York:20261104T183000
+DTEND;TZID=America/New_York:20261104T193000
+DESCRIPTION:Kevin Roose has become one of the foremost voices commenting
+  on and monitoring the development of AI. Kevin will explore how to engage
+  children and teens in conversation about the advent of AI\, how to call a
+ ttention to the ways it shows up in their lives\, and how to maintain good
+  learning habits. He was a tech columnist with The New York Times and co-h
+ ost of the podcast Hard Fork. He just published his fourth book\, The AGI 
+ Chronicles\, and is about to co-launch his new NPR podcast\, Machine Gods.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:ee65a133-ee32-44d2-9a7f-ed6f697d82fb@gds.incidentiq.com
 SUMMARY:48 Hours for Financial Aid Kick-Off Event
 DTSTART;TZID=America/New_York:20270313T190000
@@ -7555,46 +7583,6 @@ DESCRIPTION:This optional and informal coffee meeting is a great opportu
  counselors and connect with other parents as they begin the college proces
  s. There is no set agenda\; just bring your questions!
 LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:74747f7e-c50d-45bb-a08f-b6f12eed7bda@gds.incidentiq.com
-SUMMARY:Little-Known Secrets of Paying for College
-DTSTART;TZID=America/New_York:20260303T190000
-DTEND;TZID=America/New_York:20260303T203000
-DESCRIPTION:The GDS College Counseling Office has partnered with The Col
- lege Funding Coach\, financial experts in the field of college financing\,
-  to help families understand the complex landscape of higher education fin
- ancing\, learn about financial strategies that will allow them to utilize 
- all of the avenues available to pay for college\, and optimize the potenti
- al to qualify for funding directly from colleges and universities (in the 
- form of merit scholarships and need-based financial aid).
-LOCATION:Virtual #02
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:4cdbee71-7afb-4c18-961f-a2e657a16021@gds.incidentiq.com
-SUMMARY:Lower Middle School Professional / Report Writing Day (no classes)
-DTSTART;TZID=America/New_York:20260302T080000
-DTEND;TZID=America/New_York:20260302T160000
-LOCATION:Virtual #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:42ac4403-dfd6-4f7c-b7e0-22d5686f4729@gds.incidentiq.com
-SUMMARY:Treble Choral Festival\, Grades 5-6
-DTSTART;TZID=America/New_York:20260303T190000
-DTEND;TZID=America/New_York:20260303T203000
-LOCATION:Offsite #01
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:9754f439-bac0-4590-b93b-886334efb6b2@gds.incidentiq.com
-SUMMARY:GDS 360 Season 3 Begins
-DTSTART;TZID=America/New_York:20260303T150000
-DTEND;TZID=America/New_York:20260303T180000
-DESCRIPTION:GDS 360 Extended Day - Season 3 Program Begins
-LOCATION:Virtual #02
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
 END:VCALENDAR
