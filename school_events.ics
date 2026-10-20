@@ -3494,15 +3494,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c3568cce-f69b-4662-9268-5205f7c869db@gds.incidentiq.com
 SUMMARY:Fall Cabaret
-DTSTART;TZID=America/New_York:20261023T190000
-DTEND;TZID=America/New_York:20261023T210000
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
 DESCRIPTION:The Annual World AIDS Day Cabaret will be presented by the G
  DS Cabaret Club on Friday night. Approximately 35 students will participat
  e and there will be 15-20 musical acts over the course of 90 minutes. The 
- Internet Cafe area will be set up with tables of food and treats\, and peo
- ple are encouraged to arrive by 6:30 so that they can get food and sit bac
- k to enjoy the show. Admission is $5 for students and $10 for adults. GDS 
- staff receive one complimentary ticket.
+ Internet Cafe area will be set up with tables of food and treats.
 LOCATION:G001 HS Forum
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
