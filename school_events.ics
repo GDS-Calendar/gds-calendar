@@ -23,6 +23,34 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:583fb4ad-1a29-4b53-b319-792b0913b0aa@gds.incidentiq.com
+SUMMARY:AI at GDS Discussion with Tori Jueds
+DTSTART;TZID=America/New_York:20261109T173000
+DTEND;TZID=America/New_York:20261109T183000
+DESCRIPTION:Bring your questions\, opinions\, ideas\, or concerns about 
+ AI at GDS\, for a discussion with Tori. Please consider attending one of t
+ wo discussion sessions on November 9 and November 11. We’ll focus primaril
+ y on GDS’s approach to AI use by educators\, including the thinking behind
+  our guidelines. We welcome your perspectives on that approach\, as well a
+ s questions about any aspect of our AI work.
+LOCATION:101 LMS Library
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:c8ff63e3-6b51-48b0-8b80-d930dd6d217c@gds.incidentiq.com
+SUMMARY:AI at GDS Discussion with Tori Jueds
+DTSTART;TZID=America/New_York:20261111T083000
+DTEND;TZID=America/New_York:20261111T093000
+DESCRIPTION:Bring your questions\, opinions\, ideas\, or concerns about 
+ AI at GDS\, for a discussion with Tori. Please consider attending one of t
+ wo discussion sessions on November 9 and November 11. We’ll focus primaril
+ y on GDS’s approach to AI use by educators\, including the thinking behind
+  our guidelines. We welcome your perspectives on that approach\, as well a
+ s questions about any aspect of our AI work.
+LOCATION:130 LMS Cafe
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:7da05284-355b-48e0-a655-6f71ad7148f6@gds.incidentiq.com
 SUMMARY:Russell Shaw Civic Engagement Panel
 DTSTART;TZID=America/New_York:20270515T153000
@@ -7466,6 +7494,18 @@ DESCRIPTION:Admitted Lower School parents and guardians are invited to a
   celebration to meet school leadership and parents as you continue to expl
  ore GDS as your child(ren)'s next school.  \n\nFor more information\, plea
  se contact GDS Admissions at admissions@gds.org.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d47ebf-9b5c-4d81-b121-dca75fd0d429@gds.incidentiq.com
+SUMMARY:Middle School Admitted Family Welcome
+DTSTART;TZID=America/New_York:20260305T091500
+DTEND;TZID=America/New_York:20260305T104500
+DESCRIPTION:Admitted Middle School parents/guardians and students are in
+ vited to a celebration to meet school leadership\, faculty\, and peers as 
+ you continue to explore GDS as your child(ren)'s next school.  \n\nFor mor
+ e information\, please contact GDS Admissions at admissions@gds.org.
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
