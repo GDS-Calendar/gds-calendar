@@ -1180,8 +1180,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6fc35e6c-35c5-4fea-afcf-7ae7558d5eba@gds.incidentiq.com
 SUMMARY:8th Grade World Language Trip
-DTSTART;TZID=America/New_York:20270428T080000
-DTEND;TZID=America/New_York:20270428T134500
+DTSTART;TZID=America/New_York:20270602T080000
+DTEND;TZID=America/New_York:20270602T134500
 DESCRIPTION:8th Graders will travel off campus to attend cultural experi
  ences connected to their various world language classes.
 LOCATION:Offsite #01
