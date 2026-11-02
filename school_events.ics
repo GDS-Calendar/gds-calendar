@@ -3337,19 +3337,6 @@ LOCATION:Offsite #01
 ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a60101-82ea-4889-8a01-bfdb9ff1f3a6@gds.incidentiq.com
-SUMMARY:Digital Wellness Parent Education
-DTSTART;TZID=America/New_York:20261105T183000
-DTEND;TZID=America/New_York:20261105T193000
-DESCRIPTION:Building a Foundation for Kindness and Consideration Online 
- (for 4th\, 5th\, & 6th grade parents). Learn more about the Digital Respon
- sibility Programming in Health classes\, talk to teachers and HS students\
- , learn skills for navigating social device use for your child. \n \nConta
- ct Caitlin Hutcheon for more information.
-LOCATION:130 LMS Cafe
-ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
-END:VEVENT
-BEGIN:VEVENT
 UID:9e3d746c-6c02-4996-8b23-344cdd343a42@gds.incidentiq.com
 SUMMARY:2nd Grade Parent Coffee
 DTSTART;TZID=America/New_York:20261104T120000
@@ -7494,6 +7481,18 @@ DESCRIPTION:Admitted Lower School parents and guardians are invited to a
   celebration to meet school leadership and parents as you continue to expl
  ore GDS as your child(ren)'s next school.  \n\nFor more information\, plea
  se contact GDS Admissions at admissions@gds.org.
+LOCATION:B201 LMS Flexible Performance Center
+ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d47ebf-9b5c-4d81-b121-dca75fd0d429@gds.incidentiq.com
+SUMMARY:Middle School Admitted Family Welcome
+DTSTART;TZID=America/New_York:20260305T091500
+DTEND;TZID=America/New_York:20260305T104500
+DESCRIPTION:Admitted Middle School parents/guardians and students are in
+ vited to a celebration to meet school leadership\, faculty\, and peers as 
+ you continue to explore GDS as your child(ren)'s next school.  \n\nFor mor
+ e information\, please contact GDS Admissions at admissions@gds.org.
 LOCATION:B201 LMS Flexible Performance Center
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
