@@ -372,7 +372,7 @@
     "EventTag": "13149",
     "EventId": "d86272cc-f412-4565-aec6-4412cd5ec00b",
     "CreatedDate": "2026-10-19T09:26:10.43",
-    "ModifiedDate": "2026-10-19T09:26:10.43",
+    "ModifiedDate": "2026-11-02T16:10:35.393",
     "IsDeleted": false,
     "IsPrivate": false,
     "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
@@ -426,29 +426,29 @@
     "LocationRooms": [
       {
         "SiteId": "d3b75b85-9241-49ba-88c3-3c9b7f0d3269",
-        "LocationRoomId": "599dd250-acbe-47a7-91a4-694b7e0f9b5f",
-        "Name": "B201 LMS Flexible Performance Center",
-        "NameFormatted": "B201 LMS Flexible Performance Center",
+        "LocationRoomId": "65ad6fc3-a396-4833-9ba6-2c454fdf546c",
+        "Name": "101 LMS Library",
+        "NameFormatted": "101 LMS Library",
         "Icon": "fa fa-door-open",
         "LocationId": "d5823aac-48bb-ef11-88cf-6045bdb6b1c8",
         "LocationName": "Lower Middle School",
         "LocationAbbreviation": "LMS",
-        "LocationRoomTypeId": "a9cf4559-f1f0-2b5f-8ea5-52e89428a6bd",
+        "LocationRoomTypeId": "2d8e9036-e699-ec11-8617-f8e43b468024",
         "LocationRoomStatusTypeId": "3fe8b003-1a65-4a41-8d63-73fb9f6c2970",
-        "Area": 4763,
-        "Description": "Flex Performance Center",
+        "Area": 3484,
+        "SeatingCapacity": 60,
+        "MaximumOccupancy": 100,
+        "Description": "Library",
         "IsAvailable": false,
         "IsExternallyAvailable": true,
-        "NameSort": "B201 LMS Flexible Performance Center",
+        "NameSort": "101 LMS Library",
         "IsDeleted": false,
-        "CreatedDate": "2024-12-23T22:59:16.87",
-        "ModifiedDate": "2025-08-07T19:09:39.337",
-        "LeadTimeThreshold": 2,
-        "LeadTimeThresholdUnit": "Weeks"
+        "CreatedDate": "2024-12-29T16:59:08.393",
+        "ModifiedDate": "2025-08-07T18:45:47.87"
       }
     ],
     "Locations": [],
-    "LocationDisplay": "LMS > B201 LMS Flexible Performance Center",
+    "LocationDisplay": "LMS > 101 LMS Library",
     "DateTimeDisplay": "November 04, 2026\n06:30 PM - 07:30 PM",
     "CustomFieldValues": [
       {
@@ -488,7 +488,7 @@
       }
     ],
     "SkipAvailabilityCheck": true,
-    "OverrideDateTime": "2026-10-19T09:26:00",
+    "OverrideDateTime": "2026-11-02T16:10:00",
     "OverrideUserId": "a3f44401-271c-4a9c-833c-b23c42957001",
     "OverrideUser": {
       "UserId": "a3f44401-271c-4a9c-833c-b23c42957001",
