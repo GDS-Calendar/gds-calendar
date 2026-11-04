@@ -7472,16 +7472,4 @@ DESCRIPTION:Admitted students will spend time visiting classes\, meeting
 LOCATION:220 HS Library (Full)
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:ac8b8403-ec31-403d-b148-dec7204f3d08@gds.incidentiq.com
-SUMMARY:Lower School Admitted Parent/Guardian Reception
-DTSTART;TZID=America/New_York:20260305T180000
-DTEND;TZID=America/New_York:20260305T190000
-DESCRIPTION:Admitted Lower School parents and guardians are invited to a
-  celebration to meet school leadership and parents as you continue to expl
- ore GDS as your child(ren)'s next school.  \n\nFor more information\, plea
- se contact GDS Admissions at admissions@gds.org.
-LOCATION:B201 LMS Flexible Performance Center
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
