@@ -7458,18 +7458,4 @@ DTEND;TZID=America/New_York:20260317T160000
 LOCATION:Virtual #05
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:d6fe2877-a884-4cf5-b0d9-a4562f2f999b@gds.incidentiq.com
-SUMMARY:High School Shadow Day
-DTSTART;TZID=America/New_York:20260309T083000
-DTEND;TZID=America/New_York:20260309T123000
-DESCRIPTION:Admitted students will spend time visiting classes\, meeting
-  faculty and students\, and experiencing the dynamic culture of GDS alongs
- ide a student buddy. Lunch is provided. Shadow visits are not required\; h
- owever\, we do hope you will register as you consider GDS as your next sch
- ool.\n\nFor more information\, please contact GDS Admissions at admissions
- @gds.org.
-LOCATION:220 HS Library (Full)
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
