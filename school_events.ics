@@ -7270,12 +7270,4 @@ DTEND;TZID=America/New_York:20260327T160000
 LOCATION:Virtual #04
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
-BEGIN:VEVENT
-UID:f2897f51-f262-4d57-bc03-52ae4e642470@gds.incidentiq.com
-SUMMARY:Spring Break
-DTSTART;TZID=America/New_York:20260326T080000
-DTEND;TZID=America/New_York:20260326T160000
-LOCATION:Virtual #04
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
 END:VCALENDAR
