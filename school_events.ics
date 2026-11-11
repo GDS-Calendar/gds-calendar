@@ -3058,7 +3058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d1618176-a347-4b45-b117-c4496e74e64c@gds.incidentiq.com
 SUMMARY:GDS Community Gratitude Dinner
-DTSTART;TZID=America/New_York:20261116T163000
+DTSTART;TZID=America/New_York:20261116T164500
 DTEND;TZID=America/New_York:20261116T174500
 DESCRIPTION:The Office of Diversity\, Equity\, and Inclusion\, in partne
  rship with the Student Affinity Leadership Council (SALC)\, invites all Af
