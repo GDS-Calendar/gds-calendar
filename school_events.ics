@@ -23,6 +23,21 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:5efd539d-fb24-4da5-87c1-4887f5b6a1fc@gds.incidentiq.com
+SUMMARY:PSA Ice Skating and Hot Cocoa
+DTSTART;TZID=America/New_York:20261212T103000
+DTEND;TZID=America/New_York:20261212T113000
+DESCRIPTION:Kick off winter vacation with ice skating on the Mall and ho
+ t cocoa with the GDS community! Meet in the pavilion at 10:30 a.m. for hot
+  cocoa/warm conversation. Skating sessions are at 11 a.m. and noon\, with 
+ skate rentals available\; tickets for the 11 a.m. session sell out early\,
+  so please grab tickets asap.  Post-skating (or for those not inclined to 
+ skate)\, there will be a scavenger hunt at the National Gallery East Build
+ ing. Email Tamara at tawexl@gmail.com if interested or with questions.
+LOCATION:Offsite #01
+ORGANIZER;CN=Maria Rodriguez:mailto:mrodriguez@gds.org
+END:VEVENT
+BEGIN:VEVENT
 UID:583fb4ad-1a29-4b53-b319-792b0913b0aa@gds.incidentiq.com
 SUMMARY:AI at GDS Discussion with Tori Jueds
 DTSTART;TZID=America/New_York:20261109T173000
@@ -7251,14 +7266,6 @@ UID:80ac0197-f0a0-49e0-90ce-3bb66b4bf04e@gds.incidentiq.com
 SUMMARY:Spring Break
 DTSTART;TZID=America/New_York:20260329T080000
 DTEND;TZID=America/New_York:20260329T160000
-LOCATION:Virtual #04
-ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
-END:VEVENT
-BEGIN:VEVENT
-UID:9da11aac-45f0-46d1-b638-a9ce1add120d@gds.incidentiq.com
-SUMMARY:Spring Break
-DTSTART;TZID=America/New_York:20260328T080000
-DTEND;TZID=America/New_York:20260328T160000
 LOCATION:Virtual #04
 ORGANIZER;CN=Natalie Markley:mailto:nmarkley@gds.org
 END:VEVENT
